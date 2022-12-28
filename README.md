@@ -209,11 +209,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/165
 #EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/164
 
-
-
-
-
-
 #EXTM3U url-tvg=" http://grade-de-Esportes em português: automobilismo.xml "  
           
  ############## Esportes em português: automobilismo ############## ###     
@@ -408,7 +403,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1985
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes em inglês: lutas",XFC TV | Galxy TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2599
-
 #EXTM3U url-tvg=" http://grade-de-camera.xml "
 
 ############## Camera #################  
@@ -514,7 +508,6 @@ https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1000772454.m3u8
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/246
 #EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="https://imgur.com/pLbz2Vb.png" group-title="TV",HISTORY 2
 http://cdn.connectbr.com.br/h2/index.m3u8
-
 #EXTINF:0,HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTCOCVAKTtvx0VVzIvW0K1j4jhtnWnsx9U4Mk1IzyTS1GP4imXuogkD9TvOX9bDpkG7k&usqp=CAU" -HBO
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/245
 #EXTINF:0,HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTCOCVAKTtvx0VVzIvW0K1j4jhtnWnsx9U4Mk1IzyTS1GP4imXuogkD9TvOX9bDpkG7k&usqp=CAU" -HBO
@@ -719,7 +712,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:0,TV Birigui tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjankBinnJgVznUsIt3pNVkcoPo1gbXs-AYOlDsFY-ypStLyk5N_vqQSThN8v9onUKg&usqp=CAU" -TV Birigui
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-
 #EXTINF:0,TV MAX tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" -TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 #EXTINF:0,Telemax tvg-id="iddocanaldetelevisao" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_pbYw4IaFdUBinQOtEpQa3Vy594Sepa1wUTJoxWg=s900-c-k-c0x00ffffff-no-rj" -Telemax
@@ -991,7 +983,6 @@ https://tv02.zas.media:1936/imprensa/imprensa/chunklist_w881661499.m3u8
 #EXTINF:0,Mamonas Assasinas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://64.media.tumblr.com/33dea8500150207e89c1385b4fd08573/tumblr_n7ohvmZTQy1r8e1a3o4_250.gif" -Mamonas Assasinas
 https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
 
-
 #EXTM3U url-tvg=" http://grade-de-feminismo.xml "
 
  ############## feminismo ############## ###   
@@ -1030,7 +1021,6 @@ https://play.prod.gcp.vix.services/maggie_pt/maggie_pt_1-1/play_v1_hls_1080p.m3u
 https://proxy-14.nyc.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpQ3vt1oV9ckIadM3eorSBninp2MFJPVbDqhaX-WxdSJbin-MXL3PJq87KUxSTDRSscDFxzllhaOzJWxO9SJsKlk)/video/394/116/506611493_mp4_h264_aac_fhd.m3u8#cell=nyc
 #EXTINF:0,Casamento de Verdade  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH2mEavEstwUPp2ps388_BTHzysF7RO5kSbvBPVx1nQ1ZqBIk6H50C_KkH05F0w-PgGEQ&usqp=CAU" -Casamento de Verdade
 https://proxy-21.nyc.dailymotion.com/sec(UoA1sdU9rYQHE4nL1sa5ROlZ74aRGifYke-yO6ZXt7LJrLnoN8ydJEkihus3GWCw5AXEjyWYbd5uapEKdSCxcRbmhlx9_K3ZL4DboZyAwUQ)/video/325/116/506611523_mp4_h264_aac_fhd.m3u8#cell=nyc
-
 #EXTINF:0,Em Busca de Justiça  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL61PR/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" -Em Busca de Justiça
 https://proxy-06.nyc.dailymotion.com/sec(EmIm9qZ57xxVtk2oHDZgSorIdwWyC6p8ZfLFRYUjftV2jFA53et5SNGmTNjWsNrkQ6Sxl3PbYsOEJceM_3MhMseBrM71DXRbH0Pv3xuT3L8)/video/725/116/506611527_mp4_h264_aac_fhd.m3u8#cell=nyc
 #EXTINF:0,Grandes Olhos  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://www.planofeminino.com.br/wp-content/uploads/2016/04/follow-the-colours-big-eyes-olhos-grandes-filme-poster.jpg" -Grandes Olhos
@@ -1141,7 +1131,6 @@ https://play.prod.gcp.vix.services/bravestorm_pt/bravestorm_pt_1-1/hls_2500.m3u8
 https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
 #EXTINF:0,kabluey tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://thumbs.gfycat.com/DelightfulSpanishBuffalo-size_restricted.gif" -kabluey
 https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
-
 
 #EXTM3U url-tvg=" http://grade-de-filmebiblico.xml "
 
@@ -1356,7 +1345,6 @@ https://www130.ff-01.com/token=gc3UvBJCLH6UhMmxgq9ayA/1670658834/45.167.0.0/196/
 https://play.prod.gcp.vix.services/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,BRICHOS tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://vdn.libreflix.org/covers/media/a4f89f90-ca25-11eb-b4bf-99d9958b2c1d7.jpg?resize=480,270&crop=entropy" -BRICHOS
 https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
-
 #EXTINF:0,Jack e a Mecânica do Coração  tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://cineclick-static.flixmedia.cloud/1280/processed/8ab2d0ce-20ad-4d3f-870d-6f0e8561c76d.webp" -Jack e a Mecânica do Coração 
 https://proxy-004.dc3.dailymotion.com/sec(zvUbbWr2oKyjb9WcqKTKNVVk_6Rtnv9NISe3FQirxK4wLEjpq9rRwTbTA8GOvtZwJhdGAVsjVp7NTaCPfHMKt4I1WprRjpGBTd5WzSCUXzo)/video/272/771/503177272_mp4_h264_aac_fhd.m3u8#cell=core
 #EXTINF:0,Um Voo Encantado em Noite de Natal tvg-id="iddocanaldeinfantil" group-title="infantil" tvg-logo="https://filmestipo.com/img_pt/movie/thumb/e4/12428.jpg" -Um Voo Encantado em Noite de Natal
@@ -1618,17 +1606,11 @@ https://archive.org/download/xena-a-princesa-guerreira/ep23.mp4
 #EXTINF:0,Xena: A Princesa Guerreira T01 EP.24 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://media.tenor.com/150_8YSIc3EAAAAC/xena-xena-warrior-princess.gif" -Xena: A Princesa Guerreira T01 EP.24
 https://archive.org/download/xena-a-princesa-guerreira/ep24.mp4
 
-
-
-
-
-
 #EXTM3U url-tvg=" http://grade-de-BRASIL: variedades em português.xml "  
           
  ############## BRASIL: variedades em português ############## ###     
                  
 #EXTINF:-1 tvg-id=" iddocanaldeBRASIL: variedades em português " group-title=" 
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="Brasil: variedades em português",1001 Noites | PR - Brasil
@@ -2714,11 +2696,8 @@ http://cast4.audiostream.com.br:8654/mp3
 #EXTVLCOPT:network-caching=1000
 http://cast4.audiostream.com.br:8656/mp3
 #EXTINF:0, RÁDIO CONTINENTAL FM
-
-
 #EXTINF:30,Som Que Alimenta - Top Louvores 2022 - As Melhores Músicas do Gospel - Rádio Gospel Online 24 Horas Ao Vivo
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667675510/ei/FWFmY_mnLuai4dUPioarqAs/ip/45.167.180.31/id/YVpKpueQ7hk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPmfP7Shk8EsPg7Yxs--YhNcqOAVgsEJ8Z9erKjH61FTAiEAsi3qHiMo-GafBBuof4WYj89ugAL81mk777WakvnV3is%3D/file/index.m3u8
-
 #EXTINF:0,SERTANEJA FM
 https://alanza.iptv2022.com/VIDA_SERTANEJA_FM/tracks-v1a1/mono.m3u8
 #EXTINF:0,BOSSA NOVA
@@ -3065,7 +3044,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:0,Filmes Suspense tvg-id="iddocanaldePlutoTVBrasil" group-title="PlutoTVBrasil" tvg-logo="http://cdn.fstatic.com/public/articles/files/2014/03/5c1e25b4-e87a-49cb-8435-f17ba4b8c2f9.gif" -Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-chno="1" tvg-logo="https://images.pluto.tv/canais/5fa97a8a75cc210007c9041d/colorLogoPNG.png.png " group-title="Brasil", Guia de Canais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device%DRGENT=Ivice%DGENT=Ivice&DRGENT=Ivice =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/canais/5f120e94a5714d00074576a/pongloPcolor. " group-title="Brasil", Pluto TV Cine Sucessos
@@ -3291,7 +3269,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png.png " group-title="México", Pluto TV Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device%TOBRGENT=Ivice&device%DRGENT=Ivice&DRGENT=Ivice =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ########## ### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############ # Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
+#EXTM3U url-tvg=" http://grade-de-Brasil: cinema.xml "  
+          
+ ############## Brasil: cinema ############## ###     
+                 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil: cinema " group-title=" 
+
+
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Plutão TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | link 2
@@ -3381,7 +3365,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema em português",Soul Cine Clube | Brasil
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
-#### Brasil: humor - novelas - séries ######### Brasil: humor - novelas - séries ########### Brasil: humor - novelas - séries ##### ## Brasil: humor - novelas - séries #### Brasil: humor - novelas - séries ########## Brasil: humor - novelas - séries
+#EXTM3U url-tvg=" http://grade-de-Brasil: humor - novelas - séries.xml "  
+          
+ ############## Brasil: humor - novelas - séries ############## ###     
+                 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil: humor - novelas - séries " group-title=" 
+
+
 #EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="Brasil: humor - novelas - séries",A culpa é do cabral | Plutão TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="Brasil: humor - novelas - séries",A Feiticeira | Plutão TV Brasil
@@ -3507,7 +3497,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: humor - novelas - séries",Younger | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ## ############ BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS #### ########## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ##############
+#EXTM3U url-tvg=" http://grade-de-BRASIL NOTÍCIAS.xml "  
+          
+ ############## BRASIL NOTÍCIAS ############## ###     
+                 
+#EXTINF:-1 tvg-id=" iddocanaldeBRASIL NOTÍCIAS " group-title=" 
+
+
 #EXTINF:-1 tvg-id="ARTVCanalParlamento.pt" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Brasil: notícias em português",ARTV | Portugal
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="Brasil: notícias em português",Band Jornalismo - horários | YT Brasil
@@ -3518,8 +3514,7 @@ https://gintna100.tulix.tv/gin_live/band-news-hd/cff3af9893c7c7a73f1b1e388368c45
 https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: notícias em português",BandNews FM | YT São Paulo SP
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
-#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Brasil: notícias em português",Bloomberg - inglês e português | Brasil
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idf41FJ.png" group-title="Brasil: notícias em português",BM&C News | YT Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmbDprb.png" group-title="Brasil: notícias em português",Câmara São Paulo | Brasil
@@ -3814,3 +3809,4 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/664
 
 #EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
 https://video-hw.xvideos-cdn.com/videos/3gp/6/c/8/xvideos.com_6c8a6955392d1eaa19a262639c615fab.mp4?e=1671813714&ri=1024&rs=85&h=b49b856a0657a7b1df083912b2f28e73
+
