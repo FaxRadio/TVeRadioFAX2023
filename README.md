@@ -1,4 +1,5 @@
 
+
 #EXTM3U
 
 #EXTM3U url-tvg=" http://grade-de-radiofax.xml "
@@ -228,7 +229,11 @@ https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.st
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
 
 ############## alexsilva ################# 
-#EXTM3U
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTVLCOPT:network-caching=1000
+https://3.ultimate2019.com/stream/hls/53
+
 #EXTINF:156,Space
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 #EXTVLCOPT:network-caching=1000
