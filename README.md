@@ -198,11 +198,6 @@ http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
 
-
-
-
-
-
 #EXTM3U url-tvg=" http://grade-de-TELEVISÃO.xml "
 
  ############## TELEVISÃO ############## ###   
@@ -474,7 +469,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/352
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/856
 #EXTINF:0,DISNEY CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="hhttps://thumbs.gfycat.com/BouncyYawningDugong-size_restricted.gif" -DISNEY CHANNEL
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/883
-
 #EXTINF:0,STAR CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" -STAR CHANNEL
 http://rec2.tvpn.eu/auth/228.m3u8?token=lhTSd4RS3T2gVrpsPc4BkWoW4clBL75X1t43iTa5FIePGAb7lgQhe7-jHI-ryBHnLfOkhurtcIEh3tmLjYBAHzUPWZFk-gH0N2NyCCK4E0xVRjku5Yc79nbeKhye8Nj1HiSvRTqJRwiaMcugMoA4sVMwZn1Rmqg1PoUJSSgefy9EleZqbHyrKxhgzxsUxvQv2e2PE-f5AcJaJU6405XNiY6ZKSApTtFhJLiecgVov1SvsI0ATXhHYstzyALN9PwdH3J6yZhZb-YYv-pH9q4FkLtv24tD2-GOaPbhvGia5uP8q0iEkOtdXui-9G1klvy88vhaxVURmJmsYgPbYfW8jL_-UXMze3xJq9VpPzSCgynwRdkGT1uZrtebYdagP3GwIQp243RqomdiNVCEQsU-g_WqZ4szUuMo1CVW0xJn05MRKgQmVe2tr8GH7QfWdg9jMXSkvmF-NOaFU57HwqeV_B1Zm26AIooryI01xnCWfgsrizLHk1OUQPx26LDjzYUfg5t2f0iRAxhEJ9L1AFFOIvnn6JxlOhSXFWSs3Xk22B-ner40O3gDHv6rJTCTp2BufZi0gBw5qm9QRvYikf9DfQ
 #EXTINF:0,SESC TV tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://seeklogo.com/images/S/sesc-tv-logo-FE78C1CEA7-seeklogo.com.gif" -SESC TV
@@ -550,6 +544,208 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1006
 #EXTINF:0,HGTV tvg-id="iddocanaldetelevisao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" - HGTV
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/940
 
+#EXTM3U url-tvg=" http://grade-de-tvaberta.xml "
+
+ ############## tvaberta ############## ###   
+
+#EXTINF:-1 tvg-id=" iddocanaldetvaberta " group-title="
+
+
+#EXTINF:0,7 TVS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/11/7-TVS.webp" -7 TVS
+https://stmv1.samcast.com.br/7tvs/7tvs/chunklist_w194514046.m3u8
+#EXTINF:0,BAND Sportes tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Sportes
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w491219069.m3u8
+#EXTINF:0,TV FLORIDA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmSPm9EskeJMWXSxQS6FmOGJ2cYjqxAoLL2NuyY5jwPUTf6-G6TTnut58P--mFfVVvJULPYuKBSUdm7MRKkFMo1auJ8ZTtC0_ThNjVxuWjBdo5kP-3LQQIrj-KqU7m6SShAa-saEZ8OD2lKDc1Q2tDkSoKI0soUcKeIuT7EpKYTyyo-48qgI7nDjZ/s200/TV%20FLORIDA.webp" -TV FLORIDA
+https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w1180260824.m3u8
+#EXTINF:0,TV CIDADE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2XHxfP2vKdMAbsiCxbIThcww8mIicFmF6S90fQc1imVOxX4iXkuQ1C5AUkkJok3pLev3jZxNGaWDIUIpJ6JddcSBoD-rOEk_CsjjmnOFCGLhAj241iZIHmQZH13WPD1I1tj0T80omUNPdqj4JzpAb1PFN8HpEonCax6aYrB0imaA_hisYuOyTAYX1/s200/TV%20CIDADE.webp" -TV CIDADE
+https://video04.logicahost.com.br/tvcidade/tvcidade/chunklist_w912715622.m3u8
+#EXTINF:0,TV PONTA DO SEIXAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://1.bp.blogspot.com/-e0AqZqux5kg/YRP-_61iCUI/AAAAAAAAFFc/gH7NUfSn-Ywr3eEWVfPilvpR3Pu1hNA1wCLcBGAsYHQ/s0/TV%2BPONTA%2BDO%2BSEIXAS.png" -TV PONTA DO SEIXAS
+https://livefocamundo.com:8081/tvpontadoseixascanal9/tracks-v1a1/mono.m3u8
+#EXTINF:0,RUNTIME tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhRVak-9ez9jspuOPveFXudo_1lcK3EICxa0qx4Qirc929d1wiY9U1kipB-wgYNJ1MSoOJ8nZX85JRMmeNqIKP-ujqMWZEiX4sPkg3xJRnJH3oWzHKwvXQlL2FU1Id4abd_dImJX7BggE0_ATmi-3FuktltKAspDg_20wUcEB_Er3Ut2G4HwOSLpmcu=s200" -RUNTIME
+https://stream.ads.ottera.tv/cl/RNWbYwHVLgsVD5iGDxgRI/1280x720_3071200_0_f.m3u8
+#EXTINF:0,REDE SUPERtvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhj8x0AwdJOhJzORShAr4LcSa7uKQoDg6VYBvPf1sy6hkm49O-BzBZnWOxoykzFSEzW-q3G21kLNqp49pndhuvGpfSfMLQS1AeUXtHKrWfAyAr0I3V68mv4P5NFCnWuxcJgFVHC9IliDXqg5mgYNZ8-D7if_N7Q7NVmg9aLEEbIuOEc0XfuCGLQLKvg=s200" -REDE SUPER
+https://playback2.akamaized.net/streams/10205943_10199127_lsi5ahmkpqwehb1c6d8_1/exp=1672442675~acl=%2f*~data=hdntl~hmac=594697acf1aed5f01807c18689f22ceac63497d2a07238a9986a164a90b6a198/media/10205943_10199127_lsi5ahmkpqwehb1c6d8_1@678000p.m3u8?dw=14400&ts=1672354800
+#EXTINF:0,TV CINEC tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://3.bp.blogspot.com/-SfJI4DpX054/XbI_3rHutdI/AAAAAAAACLs/6qjSfcOY87Q-rW0evy-HV4XSRxmAycsfwCLcBGAsYHQ/s320/Screenshot_2019-10-24-21-12-49.png" -TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
+#EXTINF:0,RUNTIME COMEDIA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhRVak-9ez9jspuOPveFXudo_1lcK3EICxa0qx4Qirc929d1wiY9U1kipB-wgYNJ1MSoOJ8nZX85JRMmeNqIKP-ujqMWZEiX4sPkg3xJRnJH3oWzHKwvXQlL2FU1Id4abd_dImJX7BggE0_ATmi-3FuktltKAspDg_20wUcEB_Er3Ut2G4HwOSLpmcu=s200" -RUNTIME COMEDIA
+https://stream.ads.ottera.tv/cl/qQs_IOUwqSENkxVN74AtH/1280x720_3071200_0_f.m3u8
+#EXTINF:0,RUNTIME Açao tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhRVak-9ez9jspuOPveFXudo_1lcK3EICxa0qx4Qirc929d1wiY9U1kipB-wgYNJ1MSoOJ8nZX85JRMmeNqIKP-ujqMWZEiX4sPkg3xJRnJH3oWzHKwvXQlL2FU1Id4abd_dImJX7BggE0_ATmi-3FuktltKAspDg_20wUcEB_Er3Ut2G4HwOSLpmcu=s200" -RUNTIME Açao
+https://stream.ads.ottera.tv/cl/7D3H-qYcisTJ52kmkDE2w/1280x720_3071200_0_f.m3u8
+
+
+
+#EXTINF:0,Bandnews tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://imgur.com/DCeA5Jt.png" -Bandnews
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415610
+#EXTINF:0,BAND Minas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Minas
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108301
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4164cRoV61eFYXRy9xGUCCay2My48Opm8Y9UUaBntoB8)/dm/3/x83vbd6/s/live-4.m3u8#cell=lnyc
+#EXTINF:0,BAND MAIS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.bandfmcampinas.com/files/2019/06/LOGO-BAND-MAIS.png" -BAND MAIS
+https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
+https://googlez03.ml/canais/Band/Band_20221114030907_7250_01864208_9999978.json
+#EXTINF:0,BAND CAMPINAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://c.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" -BAND CAMPINAS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125565
+#EXTINF:0,BAND CAMPINAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://c.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" -BAND CAMPINAS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125564
+#EXTINF:0,TV Cultura tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" -TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w551574057.m3u8
+#EXTINF:0,TVI Reality tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://play-lh.googleusercontent.com/oFh4WmL_VSQb82kt5JIPZettoG4SJ_QrEs9pdiJ7RCuxL__j8AT4PG5f_TA7RtndQUM" -TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
+#EXTINF:0,TV NOVA NORDESTE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.picasion.com/pic92/1a317149a5ced47235401c8a704221cb.gif" -TV NOVA NORDESTE
+https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+#EXTINF:0,TV Jornal Caruaru (SBT PE) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/43a5c48b9848b88ba8ba2b63bd79940f.webp" -TV Jornal Caruaru (SBT PE)
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w547023660.m3u8
+#EXTINF:0,Nickelodeon tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/gqo-NPXflIwAAAAM/nickelodeon-slime.gif" -Nickelodeon
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:0,conect tv tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tv.conectnet.net/logo/main-logo.png" -conect tv
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?rand=0.8449174441721692
+#EXTINF:0,TV Vitória (Record ES) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TV_Vit%C3%B3ria_logo_antiga.png/revision/latest/scale-to-width-down/250?cb=20211025220834" -TV Vitória (Record ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1351588134.m3u8?PlaylistM3UCL
+#EXTINF:0,SBT Caruaru tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i0.wp.com/portalaltadefinicao.com/wp-content/uploads/2019/01/TV-Jornal-afiliada-do-SBT-1.jpg?fit=1200%2C675&ssl=1" -SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/giphy.gif?cid=6c09b9526cowzdkcvkqufkm3mrbiqf9k3a1pewpup6sg7bbr&rid=giphy.gif&ct=s" -SBT Rede Massa
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:0,TV agua boa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/13c521cefbb5fde40d549a9d66891530.webp" -TV agua boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:0,TV JORNAL (PE) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://imgur.com/3Mrx9Ee.png" -TV JORNAL (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0,SBT interior tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.makeagif.com/media/6-22-2016/sHf3O7.gif" -SBT TV
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68109c4b-305e-4b90-899f-415bdf57b476/depiaao-80edd11e-2846-4eeb-84da-0978fa236a31.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MTA5YzRiLTMwNWUtNGI5MC04OTlmLTQxNWJkZjU3YjQ3NlwvZGVwaWFhby04MGVkZDExZS0yODQ2LTRlZWItODRkYS0wOTc4ZmEyMzZhMzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sRd8THVhJKT3pGtR4-Fb1ne4XeD6jUlES2oyhnPN1dU" -SBT TV
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.makeagif.com/media/6-22-2016/bzGtbR.gif" -SBT TV
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
+http://rec2.tvpn.eu/ibl/ibl/435.m3u8
+#EXTINF:0,Globo RJ tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo RJ
+http://suatv.fun:80/canaisp2p/mudar@2021j45/416384
+#EXTINF:0,canal do boi tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/1295744415735197698/lISgKV06_400x400.jpg" -canal do boi
+http://168.205.87.198:8555/live/antony/1234/10.m3u8
+#EXTINF:0,TV BRASIL tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/TV_Brasil_logo_2019.svg" - TV BRASIL
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjnEgV_oD2Kr75ydPRkTG05uRgeVjLeaCN4mqh-gffKD)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
+https://server100.online/globo-nordeste/tracks-v1a1/mono.m3u8?token=1cdce2b7e4682b0ea9c6bb1d2973e57aa9643a00-086e6df6001e3ada2856c28d189f4479-1670278215-1670274615
+#EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/200w.gif?cid=82a1493bcfgrui5wravrvbatlik0i8fdqka0ibv59gxsqm0p&rid=200w.gif&ct=s" -SBT Rede Massa
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/giphy.gif?cid=6c09b952d8cb51e6bd3daef49aadb35d9c2a00b319873d86&rid=giphy.gif&ct=s" -Record 
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:0,record news tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/uDGUQcQoEJ0AAAAM/plantao-extra-jornal-record-breaking-news-1995.gif" -record news
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
+#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61f185ae10150a0007049e0c/2142297/playlist.m3u8?terminate=false&sid=b9e91de7-67a6-11ed-ac14-0242ac110003&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiOWU5MWRlNy02N2E2LTExZWQtYWMxNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODMuMTUxIiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDcuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjcuMS0zOGQ1MjE4ODliNWMyY2QwMDlkMjllZmI4YzAzNTVlMTAwMjhjMzFkIiwiY2xpZW50SUQiOiI0YzViNjE2Zi02NWYwLTRiOGYtYmEzYS1hODk2MjFkNjhlN2UiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjY4ODQ4OTI5LCJqdGkiOiIzM2FlZGJiNS03MTdlLTQ5NzQtYjk0ZS0yZmU0ODlmOTE0NjYiLCJpYXQiOjE2Njg4MjAxMjksImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpOR00xWWpZeE5tWXROalZtTUMwMFlqaG1MV0poTTJFdFlUZzVOakl4WkRZNFpUZGwifQ.i9np5_qEFLBnpeaaPipHYrXSi0YvUgHtoS1Jvwc7BvE
+#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:0,Record Rn tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record Rn
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
+#EXTINF:0,RECORD TV MT tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" -RECORD TV MT
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:0,Rede TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e8ef093080725.5e5c072fa346f.gif" -Rede TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:0,Rede TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e8ef093080725.5e5c072fa346f.gif" -Rede TV
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:0,TV JORNAL RECIFE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://musikcity.mus.br/TV/figuras/tvjornal.png" -TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASGLAU
+#EXTINF:0,TV Pantanal tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/angJ7QkPcmIAAAAC/pantanal-novela.gif" -TV Pantanal
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:0,Rede Brasil tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/redebrasil.webp" -Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w264710009.m3u8
+#EXTINF:0,TV Diário tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/tvdiario.webp" -TV Diário
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUZNVES0l1Sko_A--WxEzEJEYz2d79a-YU_wF2Ra0im9)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+#EXTINF:0,amazonsat tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/08/amazon-sat.webp" -amazonsat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0,TV Gazeta tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/GAZETA.webp" -TV Gazeta
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v_AwdpMqNoiWhcZIWe-5ZS9GaYdfJcI2fnLBmTw5LCxH)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
+#EXTINF:0,Rede Premium tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/rede-premium.webp" -Rede Premium
+https://5c483b9d1019c.streamlock.net/8066/8066/chunklist.m3u8
+#EXTINF:0,TV TI VEJO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/25af72ad702b967819479326866dd21b.webp" -TV TI VEJO
+https://stmv1.srvif.com/ddacostenaro/ddacostenaro/chunklist_w609601573.m3u8
+#EXTINF:0,TV Lagoa Dantas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/tv-lagoa-dantas.webp" -TV Lagoa Dantas
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w203471272.m3u8
+#EXTINF:0,TV Brasil tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/tvbrasil.webp" -TV Brasil
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvRdyF5faXK9Je9g1ckRCyaMMJ1ty6jOCytVa8rkKNuJ)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+#EXTINF:0,TV ABERTA SÃO PAULO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" -TV ABERTA SÃO PAULO
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1489292885.m3u8
+#EXTINF:0,LAVRAS CE TV WEB tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-3jeIpyaiJLC0oitKAMMoJU3BH5YcZgcg26rYq=s900-c-k-c0x00ffffff-no-rj" -LAVRAS CE TV WEB
+https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w1836066320.m3u8
+#EXTINF:0,TV MEU XODÔ tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsicon/2020/08/com-stmvideo-webtv-tvmeuxodo.jpg&size=200" -TV MEU XODÔ
+https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w1531859151.m3u8
+#EXTINF:0,TV CLUBE WEB tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c15e9e9796912ff00a4717b498485b36.webp" -TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
+#EXTINF:0,TV SÉRIES – GUERRA, SOMBRA E ÁGUA FRESCA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.ytimg.com/vi/dyMJhBcYVsg/maxresdefault.jpg" -TV SÉRIES – GUERRA, SOMBRA E ÁGUA FRESCA
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
+#EXTINF:0,QUEENS UNITED TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqAfvlN5aGiwxkXJ_ia18QoIXPO99zUAu1hvWaGBe9KI53lNvibtqIt1YefW0R9q73rQM&usqp=CAU" -QUEENS UNITED TV
+https://cdn.connectbr.com.br/Queens/tracks-v1a1/mono.m3u8
+#EXTINF:0,TVÍDEONEWS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://yt3.ggpht.com/Spi2vMCGobiGU2uRzdaYxqSWYG2BDmZdgTLWxGpnM5EENONwqTxSJzKKv2y0MabKXyc_z19k=s900-c-k-c0x00ffffff-no-rj" -TVÍDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w610552477.m3u8
+#EXTINF:0,TV POTENGI tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.ytimg.com/vi/nA8nRIVjz1U/maxresdefault.jpg" -TV POTENGI
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w1187580737.m3u8
+#EXTINF:0,TELA VIVA TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://240183188b.cbaul-cdnwnd.com/d0469b43bfdcac8221dbff68e43222b8/200000075-249c9249ca/fundo%20para%20you%20tube%20tela%20viva.png?ph=240183188b" -TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w727529507.m3u8
+#EXTINF:0,TV JAPI tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://lh3.googleusercontent.com/-zUnkYCsmslI/X0KQXxpuqCI/AAAAAAAA45s/sEyrHm54DY0bc8luE0LigeOCMKfBVZPUQCK8BGAsYHg/s0/2020-08-23.png" -TV JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1234003253.m3u8
+#EXTINF:0,Terra Viva tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" -Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:0,TV Aparecida tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://s2.glbimg.com/1na0NoIdkfMfgn0zRX0yAKsDxvI=/570x620/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/Q/EdxH1USqCDFh2pTN90zA/missa.gif" -TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0,TV Conquista tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdkWr4SZD9exJmnBd9MGGbaLUnPI6PBuG8ksIyLc1lwYjhW563veBi0RydNLOXIHghwE&usqp=CAU" -TV Conquista
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:0,TV Câmara tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.gifer.com/YDOt.gif" -TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0,TV Tropical tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" -TV Tropical
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+#EXTINF:0,TV evangelizar tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://vemfestival.com.br/wp-content/uploads/2022/08/SITE-MENOR.gif" -TV evangelizar
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:0,Rede Brasil de Comunicação tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/s1600/LOGO+DA+RBC+TV.png" -Rede Brasil de Comunicação
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:0,Rede Gospel tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/675441084/redegospel_tv_400x400.jpg" -Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0,Rede TV! Pampa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media3.giphy.com/media/f7XWtmq9LUqCUCPFxa/giphy.gif" -Rede TV! Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:0,TV GALEGA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" -TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+#EXTINF:0,KURIAKOS KIDS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://lh3.googleusercontent.com/-W_jscxhf96c/X0KPYPMq3XI/AAAAAAAA45Q/G-98h8idnbA08Z_uIiGV9IHWZHDkI6r2gCK8BGAsYHg/s0/2020-08-23.png" -KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1294436332_b413000_sleng.m3u8
+#EXTINF:0,YELLOW TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.gifer.com/J9ZH.gif" -YELLOW TV
+https://serv3.videovox.pw/gilferson4004/gilferson4004/chunklist_w1951483569.m3u8
+#EXTINF:0,TV FAAP tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://play-lh.googleusercontent.com/ttOH9c3Rjl8ZWptdXUkgf00Hvw9-9PRdsoVr2e6Wy2O3dUa5XqgFb6TUgBFi8zNEGXU" -TV FAAP
+https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8
+#EXTINF:0,CLASSIQUE TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/s0/CLASSIQUE%2BTV.png" -CLASSIQUE TV
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:0,WEB TV PROGRESSO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjP3vs3i3ExQ7cGPP7Y_OYdxbB6wuWYYLeyeVuelnHB3ElpAyI4OP_YpOgeE2PxvLXjTId2XJcm-i-AduNmr-9yFzTQVI-UrPydO6OoZ-kLNsSg33cIlHOq_-0clZalIqbWTW04sHaJsEZoMiwjR4HXhMv0ucn4iHG1-rUF1DUduOLNhsjo57gNd-Io=w1200-h630-p-k-no-nu" -WEB TV PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w1038529428.m3u8
+#EXTINF:0,TV ALIANÇA CATARINENSE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvaliancasc.com.br/assets/img/logo-tvalianca-selo-transparente.png" -TV ALIANÇA CATARINENSE
+https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
+#EXTINF:0,TTv Imprensa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.radioimprensa.tv/wp-content/uploads/sites/30/2022/02/cropped-logotipo-1.png" -Tv Imprensa
+https://tv02.zas.media:1936/imprensa/imprensa/chunklist_w881661499.m3u8
+#EXTINF:0,Mamonas Assasinas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://64.media.tumblr.com/33dea8500150207e89c1385b4fd08573/tumblr_n7ohvmZTQy1r8e1a3o4_250.gif" -Mamonas Assasinas
+https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
 
 
 #EXTM3U url-tvg=" http://grade-de-sporte.xml "  
@@ -750,191 +946,6 @@ https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/ch
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
 
 
-#EXTM3U url-tvg=" http://grade-de-tvaberta.xml "
-
- ############## tvaberta ############## ###   
-
-#EXTINF:-1 tvg-id=" iddocanaldetvaberta " group-title="
-
-#EXTINF:0,7 TVS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/11/7-TVS.webp" -7 TVS
-https://stmv1.samcast.com.br/7tvs/7tvs/chunklist_w194514046.m3u8
-#EXTINF:0,BAND Sportes tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Sportes
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w491219069.m3u8
-
-
-#EXTINF:0,Bandnews tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://imgur.com/DCeA5Jt.png" -Bandnews
-http://suatv.fun:80/canaisp2p/mudar@2021j45/415610
-#EXTINF:0,BAND Minas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Minas
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108301
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4164cRoV61eFYXRy9xGUCCay2My48Opm8Y9UUaBntoB8)/dm/3/x83vbd6/s/live-4.m3u8#cell=lnyc
-#EXTINF:0,BAND MAIS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.bandfmcampinas.com/files/2019/06/LOGO-BAND-MAIS.png" -BAND MAIS
-https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0,BAND tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" -BAND
-https://googlez03.ml/canais/Band/Band_20221114030907_7250_01864208_9999978.json
-#EXTINF:0,BAND CAMPINAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://c.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" -BAND CAMPINAS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125565
-#EXTINF:0,BAND CAMPINAS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://c.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" -BAND CAMPINAS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125564
-#EXTINF:0,TV Cultura tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" -TV Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w551574057.m3u8
-#EXTINF:0,TVI Reality tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://play-lh.googleusercontent.com/oFh4WmL_VSQb82kt5JIPZettoG4SJ_QrEs9pdiJ7RCuxL__j8AT4PG5f_TA7RtndQUM" -TVI Reality
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
-#EXTINF:0,TV NOVA NORDESTE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.picasion.com/pic92/1a317149a5ced47235401c8a704221cb.gif" -TV NOVA NORDESTE
-https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-#EXTINF:0,TV Jornal Caruaru (SBT PE) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/43a5c48b9848b88ba8ba2b63bd79940f.webp" -TV Jornal Caruaru (SBT PE)
-https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w547023660.m3u8
-#EXTINF:0,Nickelodeon tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/gqo-NPXflIwAAAAM/nickelodeon-slime.gif" -Nickelodeon
-https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
-#EXTINF:0,conect tv tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tv.conectnet.net/logo/main-logo.png" -conect tv
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?rand=0.8449174441721692
-#EXTINF:0,TV Vitória (Record ES) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TV_Vit%C3%B3ria_logo_antiga.png/revision/latest/scale-to-width-down/250?cb=20211025220834" -TV Vitória (Record ES)
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1351588134.m3u8?PlaylistM3UCL
-#EXTINF:0,SBT Caruaru tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i0.wp.com/portalaltadefinicao.com/wp-content/uploads/2019/01/TV-Jornal-afiliada-do-SBT-1.jpg?fit=1200%2C675&ssl=1" -SBT Caruaru
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/giphy.gif?cid=6c09b9526cowzdkcvkqufkm3mrbiqf9k3a1pewpup6sg7bbr&rid=giphy.gif&ct=s" -SBT Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:0,TV agua boa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/13c521cefbb5fde40d549a9d66891530.webp" -TV agua boa
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-
-#EXTINF:0,TV JORNAL (PE) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://imgur.com/3Mrx9Ee.png" -TV JORNAL (PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0,SBT interior tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.makeagif.com/media/6-22-2016/sHf3O7.gif" -SBT TV
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68109c4b-305e-4b90-899f-415bdf57b476/depiaao-80edd11e-2846-4eeb-84da-0978fa236a31.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MTA5YzRiLTMwNWUtNGI5MC04OTlmLTQxNWJkZjU3YjQ3NlwvZGVwaWFhby04MGVkZDExZS0yODQ2LTRlZWItODRkYS0wOTc4ZmEyMzZhMzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sRd8THVhJKT3pGtR4-Fb1ne4XeD6jUlES2oyhnPN1dU" -SBT TV
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.makeagif.com/media/6-22-2016/bzGtbR.gif" -SBT TV
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-
-#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
-http://rec2.tvpn.eu/ibl/ibl/435.m3u8
-#EXTINF:0,Globo RJ tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo RJ
-http://suatv.fun:80/canaisp2p/mudar@2021j45/416384
-#EXTINF:0,canal do boi tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/1295744415735197698/lISgKV06_400x400.jpg" -canal do boi
-http://168.205.87.198:8555/live/antony/1234/10.m3u8
-#EXTINF:0,TV BRASIL tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/TV_Brasil_logo_2019.svg" - TV BRASIL
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjnEgV_oD2Kr75ydPRkTG05uRgeVjLeaCN4mqh-gffKD)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
-#EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
-https://server100.online/globo-nordeste/tracks-v1a1/mono.m3u8?token=1cdce2b7e4682b0ea9c6bb1d2973e57aa9643a00-086e6df6001e3ada2856c28d189f4479-1670278215-1670274615
-#EXTINF:0,SBT Rede Massa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media0.giphy.com/media/Bq6n0ISofXgM4YxG6A/200w.gif?cid=82a1493bcfgrui5wravrvbatlik0i8fdqka0ibv59gxsqm0p&rid=200w.gif&ct=s" -SBT Rede Massa
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
-https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
-#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/giphy.gif?cid=6c09b952d8cb51e6bd3daef49aadb35d9c2a00b319873d86&rid=giphy.gif&ct=s" -Record 
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:0,record news tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/uDGUQcQoEJ0AAAAM/plantao-extra-jornal-record-breaking-news-1995.gif" -record news
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
-#EXTINF:0,Record tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61f185ae10150a0007049e0c/2142297/playlist.m3u8?terminate=false&sid=b9e91de7-67a6-11ed-ac14-0242ac110003&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiOWU5MWRlNy02N2E2LTExZWQtYWMxNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODMuMTUxIiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDcuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjcuMS0zOGQ1MjE4ODliNWMyY2QwMDlkMjllZmI4YzAzNTVlMTAwMjhjMzFkIiwiY2xpZW50SUQiOiI0YzViNjE2Zi02NWYwLTRiOGYtYmEzYS1hODk2MjFkNjhlN2UiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9TYW9fUGF1bG8iLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjY4ODQ4OTI5LCJqdGkiOiIzM2FlZGJiNS03MTdlLTQ5NzQtYjk0ZS0yZmU0ODlmOTE0NjYiLCJpYXQiOjE2Njg4MjAxMjksImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpOR00xWWpZeE5tWXROalZtTUMwMFlqaG1MV0poTTJFdFlUZzVOakl4WkRZNFpUZGwifQ.i9np5_qEFLBnpeaaPipHYrXSi0YvUgHtoS1Jvwc7BvE
-#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
-https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:0,Record RS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record RS
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:0,Record Rn tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/jOWFbu0qD549cR56l8/200w.gif" -Record Rn
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
-#EXTINF:0,RECORD TV MT tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" -RECORD TV MT
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:0,Rede TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e8ef093080725.5e5c072fa346f.gif" -Rede TV
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-#EXTINF:0,Rede TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e8ef093080725.5e5c072fa346f.gif" -Rede TV
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:0,TV JORNAL RECIFE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://musikcity.mus.br/TV/figuras/tvjornal.png" -TV JORNAL RECIFE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASGLAU
-#EXTINF:0,TV Pantanal tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/angJ7QkPcmIAAAAC/pantanal-novela.gif" -TV Pantanal
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:0,Rede Brasil tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/redebrasil.webp" -Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w264710009.m3u8
-#EXTINF:0,TV Diário tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/tvdiario.webp" -TV Diário
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUZNVES0l1Sko_A--WxEzEJEYz2d79a-YU_wF2Ra0im9)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
-#EXTINF:0,amazonsat tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/08/amazon-sat.webp" -amazonsat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:0,TV Gazeta tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/GAZETA.webp" -TV Gazeta
-https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v_AwdpMqNoiWhcZIWe-5ZS9GaYdfJcI2fnLBmTw5LCxH)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
-#EXTINF:0,Rede Premium tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/rede-premium.webp" -Rede Premium
-https://5c483b9d1019c.streamlock.net/8066/8066/chunklist.m3u8
-#EXTINF:0,TV TI VEJO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/25af72ad702b967819479326866dd21b.webp" -TV TI VEJO
-https://stmv1.srvif.com/ddacostenaro/ddacostenaro/chunklist_w609601573.m3u8
-#EXTINF:0,TV Lagoa Dantas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/tv-lagoa-dantas.webp" -TV Lagoa Dantas
-https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w203471272.m3u8
-#EXTINF:0,TV Brasil tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvfree.xyz/wp-content/uploads/2022/07/tvbrasil.webp" -TV Brasil
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvRdyF5faXK9Je9g1ckRCyaMMJ1ty6jOCytVa8rkKNuJ)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
-#EXTINF:0,TV ABERTA SÃO PAULO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" -TV ABERTA SÃO PAULO
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1489292885.m3u8
-#EXTINF:0,LAVRAS CE TV WEB tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-3jeIpyaiJLC0oitKAMMoJU3BH5YcZgcg26rYq=s900-c-k-c0x00ffffff-no-rj" -LAVRAS CE TV WEB
-https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w1836066320.m3u8
-#EXTINF:0,TV MEU XODÔ tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsicon/2020/08/com-stmvideo-webtv-tvmeuxodo.jpg&size=200" -TV MEU XODÔ
-https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w1531859151.m3u8
-#EXTINF:0,TV CLUBE WEB tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c15e9e9796912ff00a4717b498485b36.webp" -TV CLUBE WEB
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
-#EXTINF:0,TV SÉRIES – GUERRA, SOMBRA E ÁGUA FRESCA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.ytimg.com/vi/dyMJhBcYVsg/maxresdefault.jpg" -TV SÉRIES – GUERRA, SOMBRA E ÁGUA FRESCA
-https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
-#EXTINF:0,QUEENS UNITED TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqAfvlN5aGiwxkXJ_ia18QoIXPO99zUAu1hvWaGBe9KI53lNvibtqIt1YefW0R9q73rQM&usqp=CAU" -QUEENS UNITED TV
-https://cdn.connectbr.com.br/Queens/tracks-v1a1/mono.m3u8
-#EXTINF:0,TVÍDEONEWS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://yt3.ggpht.com/Spi2vMCGobiGU2uRzdaYxqSWYG2BDmZdgTLWxGpnM5EENONwqTxSJzKKv2y0MabKXyc_z19k=s900-c-k-c0x00ffffff-no-rj" -TVÍDEONEWS
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w610552477.m3u8
-#EXTINF:0,TV POTENGI tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.ytimg.com/vi/nA8nRIVjz1U/maxresdefault.jpg" -TV POTENGI
-https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w1187580737.m3u8
-#EXTINF:0,TELA VIVA TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://240183188b.cbaul-cdnwnd.com/d0469b43bfdcac8221dbff68e43222b8/200000075-249c9249ca/fundo%20para%20you%20tube%20tela%20viva.png?ph=240183188b" -TELA VIVA TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w727529507.m3u8
-#EXTINF:0,TV JAPI tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://lh3.googleusercontent.com/-zUnkYCsmslI/X0KQXxpuqCI/AAAAAAAA45s/sEyrHm54DY0bc8luE0LigeOCMKfBVZPUQCK8BGAsYHg/s0/2020-08-23.png" -TV JAPI
-https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1234003253.m3u8
-#EXTINF:0,Terra Viva tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1200px-Terra_Viva_logo.svg.png" -Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:0,TV Aparecida tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://s2.glbimg.com/1na0NoIdkfMfgn0zRX0yAKsDxvI=/570x620/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/Q/EdxH1USqCDFh2pTN90zA/missa.gif" -TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:0,TV Conquista tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdkWr4SZD9exJmnBd9MGGbaLUnPI6PBuG8ksIyLc1lwYjhW563veBi0RydNLOXIHghwE&usqp=CAU" -TV Conquista
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:0,TV Câmara tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.gifer.com/YDOt.gif" -TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:0,TV Tropical tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media1.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" -TV Tropical
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:0,TV evangelizar tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://vemfestival.com.br/wp-content/uploads/2022/08/SITE-MENOR.gif" -TV evangelizar
-https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
-#EXTINF:0,Rede Brasil de Comunicação tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/s1600/LOGO+DA+RBC+TV.png" -Rede Brasil de Comunicação
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:0,Rede Gospel tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/675441084/redegospel_tv_400x400.jpg" -Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:0,Rede TV! Pampa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media3.giphy.com/media/f7XWtmq9LUqCUCPFxa/giphy.gif" -Rede TV! Pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:0,TV GALEGA tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" -TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:0,KURIAKOS KIDS tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://lh3.googleusercontent.com/-W_jscxhf96c/X0KPYPMq3XI/AAAAAAAA45Q/G-98h8idnbA08Z_uIiGV9IHWZHDkI6r2gCK8BGAsYHg/s0/2020-08-23.png" -KURIAKOS KIDS
-https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1294436332_b413000_sleng.m3u8
-#EXTINF:0,YELLOW TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://i.gifer.com/J9ZH.gif" -YELLOW TV
-https://serv3.videovox.pw/gilferson4004/gilferson4004/chunklist_w1951483569.m3u8
-#EXTINF:0,TV FAAP tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://play-lh.googleusercontent.com/ttOH9c3Rjl8ZWptdXUkgf00Hvw9-9PRdsoVr2e6Wy2O3dUa5XqgFb6TUgBFi8zNEGXU" -TV FAAP
-https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8
-#EXTINF:0,CLASSIQUE TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/s0/CLASSIQUE%2BTV.png" -CLASSIQUE TV
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
-#EXTINF:0,WEB TV PROGRESSO tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjP3vs3i3ExQ7cGPP7Y_OYdxbB6wuWYYLeyeVuelnHB3ElpAyI4OP_YpOgeE2PxvLXjTId2XJcm-i-AduNmr-9yFzTQVI-UrPydO6OoZ-kLNsSg33cIlHOq_-0clZalIqbWTW04sHaJsEZoMiwjR4HXhMv0ucn4iHG1-rUF1DUduOLNhsjo57gNd-Io=w1200-h630-p-k-no-nu" -WEB TV PROGRESSO
-https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w1038529428.m3u8
-#EXTINF:0,TV ALIANÇA CATARINENSE tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://tvaliancasc.com.br/assets/img/logo-tvalianca-selo-transparente.png" -TV ALIANÇA CATARINENSE
-https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
-#EXTINF:0,TTv Imprensa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.radioimprensa.tv/wp-content/uploads/sites/30/2022/02/cropped-logotipo-1.png" -Tv Imprensa
-https://tv02.zas.media:1936/imprensa/imprensa/chunklist_w881661499.m3u8
-#EXTINF:0,Mamonas Assasinas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://64.media.tumblr.com/33dea8500150207e89c1385b4fd08573/tumblr_n7ohvmZTQy1r8e1a3o4_250.gif" -Mamonas Assasinas
-https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
-
 #EXTM3U url-tvg=" http://grade-de-NOVELAS.xml "  
           
  ############## NOVELAS ############## ###     
@@ -1093,6 +1104,16 @@ https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m
  ############## gospel ################ #   
 
 #EXTINF:-1 tvg-id=" iddocanaldegospel " group-title="
+#EXTINF:0,TV JESUS CRISTO tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://1.bp.blogspot.com/-baJysP8XY-o/XcSRPD8gcoI/AAAAAAAACOw/MTe8L0WbQZ8tz9bVFaPu1id1dWHzyuGpgCLcBGAsYHQ/s320/Screenshot_2019-11-07-18-45-11.png" -TV JESUS CRISTO
+https://anrwfbifua.zoeweb.tv/apalavra/apalavra/chunklist.m3u8
+#EXTINF:0,TV GOSPEL LOUVORES tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkl4COXPWiYSScgK_qnSRhZnqJWA5LRhmUu4OKLik41uOzBj-aFHcCAkOileDbgVdr4iUfFZ68CjTEW2UdO0DvsBHgtas-P6FOZo6kvKtxrbpwa9C5Y6USjG39qyvQkVI8hbDQvEJtDedyxNlVSlYt5DJIMA468xi4K1GOPtrKz87f2qXW2OQvGcHs/s200/TV%20GOSPEL%20LOUVORES.webp" -TV GOSPEL LOUVORES
+https://stmv1.srvif.com/sidnei3429/sidnei3429/chunklist_w813072880.m3u8
+
+#EXTINF:0,WEB TV FONTE VIVA GOSPEL tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjy8kbpPu6CgVxAr65BBpf87hYn-hg7E57NRg6-tEw8kXD0xZ7ahrw3r07Pv0fhMTv7oUvYK5EQWuJLVAQmRcOkqFRtp1cvFYGRH0klsnS4cNqp4JmCGlH0zGfl38NFOFEI6SJM0ymg0xrW0aoLI32xDmWDI8YgHkZlIB2j4z_-QY3rKd1fW4dK1yzf=s200" -WEB TV FONTE VIVA GOSPEL
+https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/chunklist_w933133615.m3u8
+#EXTINF:0,WEB TV ALIANÇA DA FÉ GOSPEL tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nExlK45xEwaECvaomCG_Ew6pzNvfpYRQ2ssvCX8di1NASUJLdVqX3BA-wL7ACoASmitHo_hU1W7EWH0qSagdUimUZbJNvU1q-PZFvA5svzW7OEl0R3C8Ds6KEMz4SHVAPW4qw7oVEHXAaa2C8U3zyAQqSKl7T-hEKgTUfSzjPh6WUflxL99njW0g/s200/WEB%20TV%20ALIAN%C3%87A%20DA%20F%C3%89%20GOSPEL.webp" -WEB TV ALIANÇA DA FÉ GOSPEL
+https://video01.kshost.com.br:4443/9184/9184/chunklist_w925906946.m3u8
+
 
 #EXTINF:0,O Sinal de Deus tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/tribulation_pt/tribulation_pt_200x300.jpg" -O Sinal de Deus
 https://play.prod.gcp.vix.services/tribulation_pt/tribulation_pt_1-1/play_v1_hls_1080p.m3u8
@@ -3049,13 +3070,22 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/TVJusti
 
 #EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 
+#EXTINF:0,NASHVILLE COUNTRY TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgezAG9yo_-Bi7qhtsF8V2iO3umkNhvvLtqTNJaw56uNNo0wVP5NAB6K055IhFAuikGKhR8ZwPF31RNqE1OrVFuCnPZLuTcWeSy3O_SiXHUb1ZVi49FYw5l_XvOx6f8UQ_QS4xxVDlC32-iEOSf9bQxaauiLBG9UYBiiGZRxi-b6KUP8jUHKCbZ2z-P/s200/NASHVILLE%20COUNTRY%20TV.webp" -NASHVILLE COUNTRY TV
+https://edge2.tikilive.com/unrestricted_tikilive/57785/amlst:dnwgXOywj4D7/chunklist_b5630798.m3u8
 #EXTINF:0,Abba Rtv tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" -Abba Rtv
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
 #EXTINF:0,Tv Imprensa – TVI tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Tv-Imprensa-TVI-300x300.webp" -Tv Imprensa – TVI
 https://streaming03.zas.media:1936/imprensa/imprensa/chunklist_w1128556944.m3u8
-
 #EXTINF:0,Suzuky TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" -Suzuky TV
 https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2077970629.m3u8
+#EXTINF:0,KRONEHIT TVtvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" -KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+
+
+
+
+
 
 #EXTINF:0,KPOP TV PLAY tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" -KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
