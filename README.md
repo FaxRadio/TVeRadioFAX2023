@@ -23,272 +23,6 @@ https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.
 #EXTINF:0,TV FAX tvg-id="iddocanaldeTVFAX" group-title="TVFAX" tvg-logo="https://i.picasion.com/pic92/75ad6cd178738dcd78aab0d74b0cdc04.gif" -TV FAX
 https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-BrasilALEX.xml "  
-          
- ############## BrasilALEX ############## ###     
-                 
-#EXTINF:-1 tvg-id=" iddocanaldeBrasilALEX " group-title=" 
-
-
-#EXTM3U
-#EXTINF:3, Agro Brasil TV
-#EXTINF:0,Agro Brasil TV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://pbs.twimg.com/profile_images/586629351212449793/HAAP-4Ot_400x400.jpg" Agro Brasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:30, Gospel Movies Television
-#EXTINF:0, Gospel Movies Television tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://4.bp.blogspot.com/-23v2Mg3UBME/UugF2XvHDXI/AAAAAAAAP3Q/28tn1kIGHQQ/s1600/Cine+Crist%C3%A3o.png" Gospel Movies Television
-https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
-
-#EXTINF:30, Classique TV
-#EXTINF:0,Classique TV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://assets.iptv2022.com/uploads/channel/14274/thumb_CLASSIQUE_TV_SE%CC%81RIES.png" Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
-#EXTINF:30, TV Rede Gospel
-#EXTINF:0,TV Rede Gospel tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif" TV Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-
-#EXTINF:30, ArarunaTV
-#EXTINF:0,ArarunaTV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gifhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF1XXsMoynSbGi2WMWnA_w_XvIKO_cPrUR-xMk49euS2BFcGJ_Nc5yqANxd1nLZF1lto&usqp=CAU" ArarunaTV 
-https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-
-
-
-
-#EXTINF:24, NTV Patos de Minas
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
-#EXTINF:20, TV J.SID
-#EXTVLCOPT:network-caching=1000
-https://livefocamundo.com:8081/tvjsid/index.m3u8
-#EXTINF:32, ISTV
-#EXTVLCOPT:network-caching=1000
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
-#EXTINF:32, TV Destak
-#EXTVLCOPT:network-caching=1000
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
-#EXTINF:28, TV Infor Bahia
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8
-#EXTINF:27, TV Japi
-#EXTVLCOPT:network-caching=1000
-https://srv2.zcast.com.br/tvjapi/tvjapi/playlist-480p.m3u8
-#EXTINF:30, Rede Premium TV
-#EXTVLCOPT:network-caching=1000
-https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
-#EXTINF:28, Retro Cartoon
-#EXTVLCOPT:network-caching=1000
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:32, TV Digital Birigui
-#EXTVLCOPT:network-caching=1000
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8
-#EXTINF:28, Record News Espirito Santo
-#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:32, Sexy Kpop TV
-#EXTVLCOPT:network-caching=1000
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:0, TV A Plateia
-#EXTVLCOPT:network-caching=1000
-https://video01.kshost.com.br/kamal3366/kamal3366/playlist.m3u8
-#EXTINF:0, TV Água Boa
-#EXTVLCOPT:network-caching=1000
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8
-#EXTINF:0, TV Mais
-#EXTVLCOPT:network-caching=1000
-https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-#EXTINF:0, TV Uniao
-#EXTVLCOPT:network-caching=1000
-https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:8, TV Aracati
-#EXTVLCOPT:network-caching=1000
-https://livefocamundo.com:8081/tvaracati/index.m3u8
-#EXTINF:0, Vintage TV
-#EXTVLCOPT:network-caching=1000
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
-#EXTINF:0, TV Difusora Leste
-#EXTVLCOPT:network-caching=1000
-https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
-#EXTINF:0, Rede Brasil de Televisao
-#EXTVLCOPT:network-caching=1000
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:0, TV Maná Brasil
-#EXTVLCOPT:network-caching=1000
-http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/playlist.m3u8
-#EXTINF:0, Brunette
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/brunette.m3u8
-#EXTINF:0, TV Mar
-#EXTVLCOPT:network-caching=1000
-https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
-#EXTINF:0, TV Mundial
-#EXTVLCOPT:network-caching=1000
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:0, TV Natal
-#EXTVLCOPT:network-caching=1000
-https://StmV1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8
-#EXTINF:62, Blowjob
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/blowjob.m3u8
-#EXTINF:0, TV Plan
-#EXTVLCOPT:network-caching=1000
-http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
-#EXTINF:0, TV Poços
-#EXTVLCOPT:network-caching=1000
-https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
-#EXTINF:0, TV Rio Preto
-#EXTVLCOPT:network-caching=1000
-http://201.48.245.24:1935/live/livestream/playlist.m3u8
-#EXTINF:0, TV Sim Cachoeiro
-#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0, TV Sim Colatina
-#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8
-#EXTINF:0, TV Sim Linhares
-#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0, TV Sim Sao Mateus
-#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
-#EXTINF:0, TV Sim Vitória
-#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0, Pornstar
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/pornstar.m3u8
-#EXTINF:0, TV Sul
-#EXTVLCOPT:network-caching=1000
-http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:0, TV Vicosa
-#EXTVLCOPT:network-caching=1000
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:0, TVE
-#EXTVLCOPT:network-caching=1000
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0, Kuriakos Kids
-#EXTVLCOPT:network-caching=1000
-http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8
-#EXTINF:0, Nuevo Tiempo
-#EXTVLCOPT:network-caching=1000
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:0, Rede Vida
-#EXTVLCOPT:network-caching=1000
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:0, TV Aparecida
-#EXTVLCOPT:network-caching=1000
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:0, TV Evangelizar
-#EXTVLCOPT:network-caching=1000
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:59, TV Universal
-#EXTVLCOPT:network-caching=1000
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:0, TV Universal
-#EXTVLCOPT:network-caching=1000
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:0, TV Evangelizar
-#EXTVLCOPT:network-caching=1000
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:0, TV Aparecida
-#EXTVLCOPT:network-caching=1000
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:0, Nuevo Tiempo
-#EXTVLCOPT:network-caching=1000
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:0, Rede Vida
-#EXTVLCOPT:network-caching=1000
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:0, All Sports
-#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
-#EXTINF:0, TV Universal
-#EXTVLCOPT:network-caching=1000
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:0, TV Evangelizar
-#EXTVLCOPT:network-caching=1000
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:0, TV Aparecida
-#EXTVLCOPT:network-caching=1000
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:0, Rede Vida
-#EXTVLCOPT:network-caching=1000
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:0, Nuevo Tiempo
-#EXTVLCOPT:network-caching=1000
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:0, Kuriakos Kids
-#EXTVLCOPT:network-caching=1000
-http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8
-#EXTINF:0, TV Grande Natal HDTV
-#EXTVLCOPT:network-caching=1000
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:0, Russian
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/russian.m3u8
-#EXTINF:0, MILF
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/milf.m3u8
-#EXTINF:0, Gay
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/gay.m3u8
-#EXTINF:62, Lesbian
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/lesbian.m3u8
-#EXTINF:0, Cuckold
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/cuckold.m3u8
-#EXTINF:0, Latina
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/latina.m3u8
-#EXTINF:0, Live Cams
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/livecams.m3u8
-#EXTINF:0, Gangbang
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/gangbang.m3u8
-#EXTINF:0, Threesome
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/threesome.m3u8
-#EXTINF:0, Rough
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/rough.m3u8
-#EXTINF:0, POV
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/pov.m3u8
-#EXTINF:0, Interracial
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/interracial.m3u8
-#EXTINF:0, Hardcore
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/hardcore.m3u8
-#EXTINF:0, Fetish
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/fetish.m3u8
-#EXTINF:0, Compilation
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/compilation.m3u8
-#EXTINF:0, Big Tits
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/bigtits.m3u8
-#EXTINF:0, Big Dick
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/bigdick.m3u8
-#EXTINF:0, Anal
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/anal.m3u8
-#EXTINF:0, Blonde
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/blonde.m3u8
-#EXTINF:0, Teen
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/teen.m3u8
-#EXTINF:0, Big Ass
-#EXTVLCOPT:network-caching=1000
-https://live.adultiptv.net/bigass.m3u8
-
-
-
-
 #EXTM3U url-tvg=" http://grade-de-sporte.xml "  
           
  ############## sporte ############## ###     
@@ -493,24 +227,183 @@ https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.st
 #EXTINF:0,Miami TV Mexico tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
-#EXTINF:156,Space Sur
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:0,Agro Brasil TV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://pbs.twimg.com/profile_images/586629351212449793/HAAP-4Ot_400x400.jpg" Agro Brasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:0, Gospel Movies Television tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://4.bp.blogspot.com/-23v2Mg3UBME/UugF2XvHDXI/AAAAAAAAP3Q/28tn1kIGHQQ/s1600/Cine+Crist%C3%A3o.png" Gospel Movies Television
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+
+#EXTINF:0,Classique TV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://assets.iptv2022.com/uploads/channel/14274/thumb_CLASSIQUE_TV_SE%CC%81RIES.png" Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:0,TV Rede Gospel tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif" TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:0,ArarunaTV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gifhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF1XXsMoynSbGi2WMWnA_w_XvIKO_cPrUR-xMk49euS2BFcGJ_Nc5yqANxd1nLZF1lto&usqp=CAU" ArarunaTV 
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:0,NTV Patos de Minas tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ntv-news-3749.webp" NTV Patos de Minas
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+
+
+#EXTINF:0,TV J.SID tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://play-lh.googleusercontent.com/9s1O30zOhdaBsKvgyU2oVw0wPSLd0MGwOmyMv0zgO-HQ2DygLVbwFJYkfUOYuihI1Qgr" TV J.SID
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+
+#EXTINF:0,ISTV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://s3.isnportal.com.br/wp-content/uploads/2020/09/25102417/istv-ao-vivo.gif" ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+
+#EXTINF:0,TV Destak tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66NvmIQ_yPu3e1GQyS_Hvc_eFK884kF_w2Bh3TEcMpKUWejNKmwG1nHla9sG7qAyFnkY&usqp=CAU" TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
+
+#EXTINF:0,TV Infor Bahia tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://yt3.ggpht.com/UM_N2tnD97YSov2SUekBKffpI8dhuzEqqHqzlw8tgbkXsVIhqPscx8uThVNnJ2r9rFjIFJtN8A=s900-c-k-c0x00ffffff-no-rj" TV Infor Bahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8
+
+#EXTINF:0,TV Japi tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://pa-str.srvsite.com/arquivos/6096/cabecalho-6096-20200928162906.png" TV Japi
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist-480p.m3u8
+
+#EXTINF:0, Rede Premium TV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://assets.iptv2022.com/uploads/channel/11915/thumb_REDE_PREMIUM_TV.jpeg"  Rede Premium TV
+https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
+
+#EXTINF:0, Retro Cartoon tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/Uqj7R-r6tYIAAAAM/cartoon-aesthetic.gif"  Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:0,TV Digital Birigui tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://i.imgur.com/2St8Ans.jpg"TV Digital Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8
+
+#EXTINF:0,Record News Espirito Santo tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://yt3.ggpht.com/jN5dyoqTZLMHFl-37l6VOWGvfeD3neW5oL1UMB4elFwMN_NNI1wgtmIbqNo4WLjQ6bzLwOvhFA=s900-c-k-c0x00ffffff-no-rj"Record News Espirito Santo
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:0,TV A Plateia tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/11RzLtN2D-UAAAAM/abertura-vinheta.gif" TV A Plateia
+https://video01.kshost.com.br/kamal3366/kamal3366/playlist.m3u8
+
+#EXTINF:0,TV Água Boa tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_TV_%C3%81gua_Boa_%28Barra_do_Bugres%29.png" TV Água Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8
+
+#EXTINF:0, TV Mais tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu-2CbgomtkN6zVOM_Ov7x4bSF9Ke2vllbj1B8jYIg=s900-c-k-c0x00ffffff-no-rj"  TV Mais
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+
+#EXTINF:0, TV Uniao tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png"  TV Uniao
+https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
+
+#EXTINF:0, TV Aracati tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://images.uncyc.org/pt/5/58/Tvsinal.jpg"  TV Aracati
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+
+#EXTINF:0,  Vintage TV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://static.wixstatic.com/media/968b35_830e01a42e1d4030927c18a019a19f31~mv2.jpg/v1/fill/w_2500,h_2174,al_c/968b35_830e01a42e1d4030927c18a019a19f31~mv2.jpg" Vintage TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+
+#EXTINF:0,TV Difusora Leste tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png"TV Difusora Leste
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+
+#EXTINF:0,Rede Brasil de Televisao tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Rede_brasil_2007_melho.png/revision/latest?cb=20210502194019" Rede Brasil de Televisao
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:0, TV Maná Brasil
 #EXTVLCOPT:network-caching=1000
-https://3.ultimate2019.com/stream/hls/751
-#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
-https://server100.online/space/video.m3u8?token=b6d849fa6e32a02ad6e056ee2e8b8613e1490131-791be848d6a1eb6e011903ccb55019a5-1670978656-1670975056&remote=45.167.180.31
-#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
-https://server100.online/space/video.m3u8?token=b6d849fa6e32a02ad6e056ee2e8b8613e1490131-791be848d6a1eb6e011903ccb55019a5-1670978656-1670975056&remote=45.167.180.31
-#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
-https://server100.online/space/video.m3u8?token=b6d849fa6e32a02ad6e056ee2e8b8613e1490131-791be848d6a1eb6e011903ccb55019a5-1670978656-1670975056&remote=45.167.180.31
-#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
-https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675224&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjI6NTMgUE0maGFzaF92YWx1ZT1jL09NNTVYWkNEMHRnUUI3MHcydVF3PT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
-https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675225&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjI6NTMgUE0maGFzaF92YWx1ZT1jL09NNTVYWkNEMHRnUUI3MHcydVF3PT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
-https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=2675225&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjI6NTMgUE0maGFzaF92YWx1ZT1jL09NNTVYWkNEMHRnUUI3MHcydVF3PT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
+http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/playlist.m3u8
+#EXTINF:0, TV Mar
+#EXTVLCOPT:network-caching=1000
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:0, TV Mundial
+#EXTVLCOPT:network-caching=1000
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:0, TV Natal
+#EXTVLCOPT:network-caching=1000
+https://StmV1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8
+#EXTINF:0, TV Plan
+#EXTVLCOPT:network-caching=1000
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
+#EXTINF:0, TV Poços
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:0, TV Rio Preto
+#EXTVLCOPT:network-caching=1000
+http://201.48.245.24:1935/live/livestream/playlist.m3u8
+#EXTINF:0, TV Sim Cachoeiro
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
+#EXTINF:0, TV Sim Colatina
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8
+#EXTINF:0, TV Sim Linhares
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
+#EXTINF:0, TV Sim Sao Mateus
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
+#EXTINF:0, TV Sim Vitória
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
+#EXTINF:0, TV Sul
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:0, TV Vicosa
+#EXTVLCOPT:network-caching=1000
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:0, TVE
+#EXTVLCOPT:network-caching=1000
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0, Kuriakos Kids
+#EXTVLCOPT:network-caching=1000
+http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8
+#EXTINF:0, Nuevo Tiempo
+#EXTVLCOPT:network-caching=1000
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:0, Rede Vida
+#EXTVLCOPT:network-caching=1000
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0, TV Aparecida
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0, TV Evangelizar
+#EXTVLCOPT:network-caching=1000
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:59, TV Universal
+#EXTVLCOPT:network-caching=1000
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:0, TV Universal
+#EXTVLCOPT:network-caching=1000
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:0, TV Evangelizar
+#EXTVLCOPT:network-caching=1000
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:0, TV Aparecida
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0, Nuevo Tiempo
+#EXTVLCOPT:network-caching=1000
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:0, Rede Vida
+#EXTVLCOPT:network-caching=1000
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0, All Sports
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
+#EXTINF:0, TV Universal
+#EXTVLCOPT:network-caching=1000
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:0, TV Evangelizar
+#EXTVLCOPT:network-caching=1000
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:0, TV Aparecida
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0, Rede Vida
+#EXTVLCOPT:network-caching=1000
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0, Nuevo Tiempo
+#EXTVLCOPT:network-caching=1000
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:0, Kuriakos Kids
+#EXTVLCOPT:network-caching=1000
+http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8
+#EXTINF:0, TV Grande Natal HDTV
+#EXTVLCOPT:network-caching=1000
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+
+
+
+
+
 
 #EXTM3U url-tvg=" http://grade-de-TELEVISÃO.xml "
 
@@ -3656,6 +3549,85 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 
  ############## nao ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldenao " group-title="
+
+
+
+#EXTINF:0,Kpop TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:0,Brunette tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Brunette
+https://live.adultiptv.net/brunette.m3u8
+
+#EXTINF:0,Blowjob tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Blowjob
+https://live.adultiptv.net/blowjob.m3u8
+
+#EXTINF:0,star tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -star
+https://live.adultiptv.net/pornstar.m3u8
+
+#EXTINF:0,Russian tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Russian
+https://live.adultiptv.net/russian.m3u8
+
+#EXTINF:0,MILF tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -MILF
+https://live.adultiptv.net/milf.m3u8
+
+#EXTINF:0,Gay tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Gay
+https://live.adultiptv.net/gay.m3u8
+
+#EXTINF:0,Lesbian tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Lesbian
+https://live.adultiptv.net/lesbian.m3u8
+
+#EXTINF:0,Cuckold tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Cuckold
+https://live.adultiptv.net/cuckold.m3u8
+
+
+#EXTINF:0,Latina tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Latina
+https://live.adultiptv.net/latina.m3u8
+
+#EXTINF:0,Live Cams tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Live Cams
+https://live.adultiptv.net/livecams.m3u8
+
+#EXTINF:0,Gangbang tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Gangbang
+https://live.adultiptv.net/gangbang.m3u8
+
+#EXTINF:0,Threesome tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Threesome
+https://live.adultiptv.net/threesome.m3u8
+
+#EXTINF:0,Rough tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Rough
+https://live.adultiptv.net/rough.m3u8
+
+#EXTINF:0,POV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -POV
+https://live.adultiptv.net/pov.m3u8
+
+#EXTINF:0,Interracial tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Interracial
+https://live.adultiptv.net/interracial.m3u8
+
+
+#EXTINF:0, Hardcore tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Hardcore
+https://live.adultiptv.net/hardcore.m3u8
+
+#EXTINF:0, Fetish tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Fetish
+https://live.adultiptv.net/fetish.m3u8
+
+#EXTINF:0, Compilation tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Compilation
+https://live.adultiptv.net/compilation.m3u8
+
+#EXTINF:0,  Big Tits tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Big Tits
+https://live.adultiptv.net/bigtits.m3u8
+
+#EXTINF:0,Big Dick tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Big Dick
+https://live.adultiptv.net/bigdick.m3u8
+
+#EXTINF:0,Ana tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Ana
+https://live.adultiptv.net/anal.m3u8
+
+#EXTINF:0,Blonde tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Blonde
+https://live.adultiptv.net/blonde.m3u8
+
+#EXTINF:0,Teen tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Teen
+https://live.adultiptv.net/teen.m3u8
+
+#EXTINF:0,Big Ass tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Big Ass
+https://live.adultiptv.net/bigass.m3u8
 
 #EXTINF:0,ppp tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -ppp
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/665
