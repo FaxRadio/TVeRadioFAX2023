@@ -13,216 +13,14 @@ http://stream.zeno.fm/hu70hmkcu68uv.m3u
 #EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR, Radio Fax O Amor esta no aR
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
-#EXTINF:0,Abba Rtv tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" -Abba Rtv
-https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-TVFAX.xml "
-
-############## TV FAX #################  
-
-#EXTINF:0,TV FAX tvg-id="iddocanaldeTVFAX" group-title="TVFAX" tvg-logo="https://i.picasion.com/pic92/75ad6cd178738dcd78aab0d74b0cdc04.gif" -TV FAX
-https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-sporte.xml "  
-          
- ############## sporte ############## ###     
-                 
-#EXTINF:-1 tvg-id=" iddocanaldesporte " group-title=" 
-
-#EXTINF:0,MMA tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/ClearOffensiveFinnishspitz-size_restricted.gif" -MMA
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:0, Sports  HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.gifer.com/origin/1e/1e89ce5181a2f5e3e154775514a5132a.gif" -Sports 
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f32d2db0af67400077f29c4/3063648/playlist.m3u8?terminate=false&sid=cb1a6dfd-679e-11ed-ab24-0242ac110003&deviceDNT=0&deviceLat=-23.5229&deviceLon=-47.2817&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjYjFhNmRmZC02NzllLTExZWQtYWIyNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODAuMzEiLCJjaXR5IjoiQWx1bWluaW8iLCJwb3N0YWxDb2RlIjoiMTgxMjUiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjMuNTIyOSwiZGV2aWNlTG9uIjotNDcuMjgxNywicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA3LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi43LjEtMzhkNTIxODg5YjVjMmNkMDA5ZDI5ZWZiOGMwMzU1ZTEwMDI4YzMxZCIsImNsaWVudElEIjoiNGM1YjYxNmYtNjVmMC00YjhmLWJhM2EtYTg5NjIxZDY4ZTdlIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY2ODg0NTUyMiwianRpIjoiNjIzMTYzMmYtZWJiOS00NDNlLTg5MGUtNTNjZWQ2ZGMxZjU1IiwiaWF0IjoxNjY4ODE2NzIyLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6TkdNMVlqWXhObVl0TmpWbU1DMDBZamhtTFdKaE0yRXRZVGc1TmpJeFpEWTRaVGRsIn0.vZiHXfV1joRGl8qs5zszAPugjdIHgAzK1XPyvzWpSnI 
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110291
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/139
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/140
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/139
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/140
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1008
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1008
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110290
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2019/04/fox-sports.gif" -FOX Sports 2 HD
-https://server100.online/fox-sports2/tracks-v1a1/mono.m3u8?token=349cfca230848e252595c35d299dac7d923eaaca-f245d77bfa3b7fa8811e5b10c20fd19f-1669780332-1669776732
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110288
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110287
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108947
-##EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.pinimg.com/originals/62/3a/a3/623aa34eda386f736b32e244030b3bb1.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142338
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108736
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142339
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110287
-#EXTINF:0,FOX Sports tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" -FOX Sports
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396648
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396647
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396646
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204320
-#EXTINF:0,FOX Sports tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" -FOX Sports
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396552
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110291
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110290
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110289
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110288
-#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110287
-#EXTINF:0,FOX Sports 4k tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 4k
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108947
-#EXTINF:0,FOX Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142338
-#EXTINF:0,FOX Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108736
-#EXTINF:0,FOX Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142339
-#EXTINF:0,TNT Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:0,TNT Sports 1 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 1
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:0,TNT Sports 2 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:0,TNT Sports 3 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0,TNT Sports 4 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:0,TNT Sports 5 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:0,TNT Sports 6 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 6
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:0,TNT Sports 7 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 7
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:0,TNT Sports 8 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 8
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:0,TNT Sports 1 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 1
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:0,TNT Sports 2 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:0,TNT Sports 3 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0 COMBATE 4K tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/RaggedParchedFlicker-max-1mb.gif" -COMBATE 4K
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108946
-#EXTINF:0,COMBATE FHD  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://ufc-video.s3.amazonaws.com/image/UFN_Ottawa_2016/ottawa-gif.gif" -COMBATE FHD 
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110263
-#EXTINF:0,COMBATE H265  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.pinimg.com/originals/77/39/f8/7739f8b8637d3996efeb05ecfde24f78.gif" -COMBATE H265 
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110261
-#EXTINF:0,COMBATE   tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/DampAdvancedDoe-max-1mb.gif" -COMBATE 
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110260
-#EXTINF:0,COMBATE   tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/KaleidoscopicCourteousArrowworm-max-1mb.gif" -COMBATE 
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110259
-#EXTINF:0,CONMEBOL tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/ImpressionableQuaintAustralianfreshwatercrocodile-max-1mb.gif" -CONMEBOL
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/123727
-#EXTINF:0,CONMEBOL tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/ImpressionableQuaintAustralianfreshwatercrocodile-max-1mb.gif" -CONMEBOL
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/114411
-#EXTINF:0,BAND SPORTS tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVRzGo3oFu7X_LzIObYIYEO8Nraur9ffAh0fR_7miJrrVbkpuFyiZir9HiLuAJ24PdCM&usqp=CAU" -BAND SPORTS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110295
-#EXTINF:0,BAND SPORTS tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVRzGo3oFu7X_LzIObYIYEO8Nraur9ffAh0fR_7miJrrVbkpuFyiZir9HiLuAJ24PdCM&usqp=CAU" -BAND SPORTS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110294
-#EXTINF:0,BAND SPORTS tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVRzGo3oFu7X_LzIObYIYEO8Nraur9ffAh0fR_7miJrrVbkpuFyiZir9HiLuAJ24PdCM&usqp=CAU" -BAND SPORTS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110293
-#EXTINF:0,BAND SPORTS tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVRzGo3oFu7X_LzIObYIYEO8Nraur9ffAh0fR_7miJrrVbkpuFyiZir9HiLuAJ24PdCM&usqp=CAU" -BAND SPORTS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110292
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108714
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108717
-#EXTINF:0,ESPN 4k HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 4k
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108945
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108720
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110252
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142333
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108716
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142332
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110247
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108712
-#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110245
-#EXTINF:0,EUROSPORT tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d3057675e6a3500012b0987/1574966648301-PH041LUTNQFVB85VC2UQ/ESP_Logo-progression_151103.gif?format=1000w" -EUROSPORT
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125719
-#EXTINF:0,EUROSPORT 1 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d3057675e6a3500012b0987/1574966648301-PH041LUTNQFVB85VC2UQ/ESP_Logo-progression_151103.gif?format=1000w" -EUROSPORT 1
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125687
-#EXTINF:0,Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media.giphy.com/channel_assets/sports/P658KMA9mwy4.gif" -Sports 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:0,PREMIERE 1 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 1
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/148
-#EXTINF:0,PREMIERE 2 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 2
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/147
-#EXTINF:0,PREMIERE 3 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 3
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/149
-#EXTINF:0,PREMIERE 4 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 4
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/150
-#EXTINF:0,PREMIERE 5 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 5
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/153
-#EXTINF:0,PREMIERE 6 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 6
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/152
-#EXTINF:0,PREMIERE 7 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 7
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/155
-#EXTINF:0,PREMIERE 8 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 8
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/154
-#EXTINF:0,PREMIERE 9 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 9
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/157
-#EXTINF:0,PREMIERE 10 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE 10
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/156
-#EXTINF:0,PREMIERE 11 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://t2.tudocdn.net/547835?w=646&h=284" -PREMIERE 11
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/159
-#EXTINF:0,PREMIERE 12 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2015/12/canais-premiere-hd-passam-a-ter-nova-numeracao-na-net.jpg" -PREMIERE 12
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/158
-#EXTINF:0,PREMIERE 13 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://skytvplanos.com.br/img/channels/lg-121-canal-premiere.png" -PREMIERE 13
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/161
-#EXTINF:0,PREMIERE 14 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUO9XzkTWQOXT1QhPRlX0m_mmeZQB7XRsWXzu5JqQRENrpetvULd2TlFxfBH7JU8Xm9PU&usqp=CAU" -PREMIERE 14
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/160
-#EXTINF:0,PREMIERE 15 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuL_Cs8pjpAm5ngmKdvbO-4BnrQDydnqNPdtqiOObhIbXkuQQyfGYdLKWBrT2KJdwv8cc&usqp=CAU" -PREMIERE 15
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/162
-#EXTINF:0,PREMIERE 16 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura%20de%20Tela%202014-01-15%20a%CC%80s%2017.49.51.png" -PREMIERE 16
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/163
-#EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1003
-#EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/165
-#EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/164
-
-#EXTM3U url-tvg=" http://grade-de-camera.xml "
-
-############## Camera #################  
-
-#EXTINF:0,Goiânia - Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68bf6c7c7f91f58a1fe48b3cd12e23bb.webp" -Goiânia - Panorâmica
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
-#EXTINF:0,Brasília Asa Sul tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2020/04/04/842306/20200404012621153669i.JPG" -Brasília Asa Sul
-https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
-
-#EXTINF:0,Cascavel Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f869e31dbca32dca5d9adda8f13fcd09.webp" -Cascavel Panorâmica
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
 
 ############## alexsilva ################# 
+
+#EXTINF:0,Space TV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" Space TV
+http://rec2.tvpn.eu/ibl/ibl/146.m3u8
+
+
 
 #EXTINF:0,Miami TV Mexico tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
@@ -676,6 +474,9 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/352
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/856
 #EXTINF:0,DISNEY CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="hhttps://thumbs.gfycat.com/BouncyYawningDugong-size_restricted.gif" -DISNEY CHANNEL
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/883
+
+#EXTINF:0,STAR CHANNEL tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" -STAR CHANNEL
+http://rec2.tvpn.eu/auth/228.m3u8?token=lhTSd4RS3T2gVrpsPc4BkWoW4clBL75X1t43iTa5FIePGAb7lgQhe7-jHI-ryBHnLfOkhurtcIEh3tmLjYBAHzUPWZFk-gH0N2NyCCK4E0xVRjku5Yc79nbeKhye8Nj1HiSvRTqJRwiaMcugMoA4sVMwZn1Rmqg1PoUJSSgefy9EleZqbHyrKxhgzxsUxvQv2e2PE-f5AcJaJU6405XNiY6ZKSApTtFhJLiecgVov1SvsI0ATXhHYstzyALN9PwdH3J6yZhZb-YYv-pH9q4FkLtv24tD2-GOaPbhvGia5uP8q0iEkOtdXui-9G1klvy88vhaxVURmJmsYgPbYfW8jL_-UXMze3xJq9VpPzSCgynwRdkGT1uZrtebYdagP3GwIQp243RqomdiNVCEQsU-g_WqZ4szUuMo1CVW0xJn05MRKgQmVe2tr8GH7QfWdg9jMXSkvmF-NOaFU57HwqeV_B1Zm26AIooryI01xnCWfgsrizLHk1OUQPx26LDjzYUfg5t2f0iRAxhEJ9L1AFFOIvnn6JxlOhSXFWSs3Xk22B-ner40O3gDHv6rJTCTp2BufZi0gBw5qm9QRvYikf9DfQ
 #EXTINF:0,SESC TV tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://seeklogo.com/images/S/sesc-tv-logo-FE78C1CEA7-seeklogo.com.gif" -SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 #EXTINF:0,TELE CINE ACTION tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://www.netsaopaulo.net/wp-content/uploads/2019/02/telecine-play-fevereiro.gif" -TELE CINE ACTION
@@ -750,27 +551,204 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1006
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/940
 
 
-#EXTM3U url-tvg=" http://grade-de-NOVELAS.xml "  
+
+#EXTM3U url-tvg=" http://grade-de-sporte.xml "  
           
- ############## NOVELAS ############## ###     
+ ############## sporte ############## ###     
                  
-#EXTINF:-1 tvg-id=" iddocanaldeNOVELAS " group-title=" 
+#EXTINF:-1 tvg-id=" iddocanaldesporte " group-title=" 
 
+#EXTINF:0,MMA tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/ClearOffensiveFinnishspitz-size_restricted.gif" -MMA
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:0, Sports  HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.gifer.com/origin/1e/1e89ce5181a2f5e3e154775514a5132a.gif" -Sports 
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f32d2db0af67400077f29c4/3063648/playlist.m3u8?terminate=false&sid=cb1a6dfd-679e-11ed-ab24-0242ac110003&deviceDNT=0&deviceLat=-23.5229&deviceLon=-47.2817&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjYjFhNmRmZC02NzllLTExZWQtYWIyNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODAuMzEiLCJjaXR5IjoiQWx1bWluaW8iLCJwb3N0YWxDb2RlIjoiMTgxMjUiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjMuNTIyOSwiZGV2aWNlTG9uIjotNDcuMjgxNywicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA3LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi43LjEtMzhkNTIxODg5YjVjMmNkMDA5ZDI5ZWZiOGMwMzU1ZTEwMDI4YzMxZCIsImNsaWVudElEIjoiNGM1YjYxNmYtNjVmMC00YjhmLWJhM2EtYTg5NjIxZDY4ZTdlIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY2ODg0NTUyMiwianRpIjoiNjIzMTYzMmYtZWJiOS00NDNlLTg5MGUtNTNjZWQ2ZGMxZjU1IiwiaWF0IjoxNjY4ODE2NzIyLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6TkdNMVlqWXhObVl0TmpWbU1DMDBZamhtTFdKaE0yRXRZVGc1TmpJeFpEWTRaVGRsIn0.vZiHXfV1joRGl8qs5zszAPugjdIHgAzK1XPyvzWpSnI 
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110291
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/139
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/140
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/139
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/140
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1008
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1008
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110290
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2019/04/fox-sports.gif" -FOX Sports 2 HD
+https://server100.online/fox-sports2/tracks-v1a1/mono.m3u8?token=349cfca230848e252595c35d299dac7d923eaaca-f245d77bfa3b7fa8811e5b10c20fd19f-1669780332-1669776732
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110288
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110287
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108947
+##EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.pinimg.com/originals/62/3a/a3/623aa34eda386f736b32e244030b3bb1.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142338
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108736
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142339
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110287
+#EXTINF:0,FOX Sports tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" -FOX Sports
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396648
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396647
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396646
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204320
+#EXTINF:0,FOX Sports tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" -FOX Sports
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396552
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110291
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110290
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110289
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110288
+#EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110287
+#EXTINF:0,FOX Sports 4k tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 4k
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108947
+#EXTINF:0,FOX Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142338
+#EXTINF:0,FOX Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108736
+#EXTINF:0,FOX Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142339
+#EXTINF:0,TNT Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:0,TNT Sports 1 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:0,TNT Sports 2 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:0,TNT Sports 3 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:0,TNT Sports 4 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:0,TNT Sports 5 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0,TNT Sports 6 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 6
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:0,TNT Sports 7 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 7
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0,TNT Sports 8 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:0,TNT Sports 1 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:0,TNT Sports 2 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:0,TNT Sports 3 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" -TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:0 COMBATE 4K tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/RaggedParchedFlicker-max-1mb.gif" -COMBATE 4K
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108946
+#EXTINF:0,COMBATE FHD  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://ufc-video.s3.amazonaws.com/image/UFN_Ottawa_2016/ottawa-gif.gif" -COMBATE FHD 
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110263
+#EXTINF:0,COMBATE H265  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.pinimg.com/originals/77/39/f8/7739f8b8637d3996efeb05ecfde24f78.gif" -COMBATE H265 
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110261
+#EXTINF:0,COMBATE   tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/DampAdvancedDoe-max-1mb.gif" -COMBATE 
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110260
+#EXTINF:0,COMBATE   tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/KaleidoscopicCourteousArrowworm-max-1mb.gif" -COMBATE 
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110259
+#EXTINF:0,CONMEBOL tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/ImpressionableQuaintAustralianfreshwatercrocodile-max-1mb.gif" -CONMEBOL
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/123727
+#EXTINF:0,CONMEBOL tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/ImpressionableQuaintAustralianfreshwatercrocodile-max-1mb.gif" -CONMEBOL
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/114411
+#EXTINF:0,BAND SPORTS tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVRzGo3oFu7X_LzIObYIYEO8Nraur9ffAh0fR_7miJrrVbkpuFyiZir9HiLuAJ24PdCM&usqp=CAU" -BAND SPORTS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110295
+#EXTINF:0,BAND SPORTS tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVRzGo3oFu7X_LzIObYIYEO8Nraur9ffAh0fR_7miJrrVbkpuFyiZir9HiLuAJ24PdCM&usqp=CAU" -BAND SPORTS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110294
+#EXTINF:0,BAND SPORTS tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVRzGo3oFu7X_LzIObYIYEO8Nraur9ffAh0fR_7miJrrVbkpuFyiZir9HiLuAJ24PdCM&usqp=CAU" -BAND SPORTS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110293
+#EXTINF:0,BAND SPORTS tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVRzGo3oFu7X_LzIObYIYEO8Nraur9ffAh0fR_7miJrrVbkpuFyiZir9HiLuAJ24PdCM&usqp=CAU" -BAND SPORTS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110292
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108714
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108717
+#EXTINF:0,ESPN 4k HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 4k
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108945
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108720
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110252
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142333
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108716
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/142332
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110247
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108712
+#EXTINF:0,ESPN 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" -ESPN 2 HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110245
+#EXTINF:0,EUROSPORT tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d3057675e6a3500012b0987/1574966648301-PH041LUTNQFVB85VC2UQ/ESP_Logo-progression_151103.gif?format=1000w" -EUROSPORT
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125719
+#EXTINF:0,EUROSPORT 1 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d3057675e6a3500012b0987/1574966648301-PH041LUTNQFVB85VC2UQ/ESP_Logo-progression_151103.gif?format=1000w" -EUROSPORT 1
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/125687
+#EXTINF:0,Sports  tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://media.giphy.com/channel_assets/sports/P658KMA9mwy4.gif" -Sports 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:0,PREMIERE 1 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/148
+#EXTINF:0,PREMIERE 2 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 2
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/147
+#EXTINF:0,PREMIERE 3 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 3
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/149
+#EXTINF:0,PREMIERE 4 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 4
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/150
+#EXTINF:0,PREMIERE 5 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 5
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/153
+#EXTINF:0,PREMIERE 6 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 6
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/152
+#EXTINF:0,PREMIERE 7 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 7
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/155
+#EXTINF:0,PREMIERE 8 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 8
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/154
+#EXTINF:0,PREMIERE 9 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" -PREMIERE 9
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/157
+#EXTINF:0,PREMIERE 10 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE 10
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/156
+#EXTINF:0,PREMIERE 11 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://t2.tudocdn.net/547835?w=646&h=284" -PREMIERE 11
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/159
+#EXTINF:0,PREMIERE 12 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2015/12/canais-premiere-hd-passam-a-ter-nova-numeracao-na-net.jpg" -PREMIERE 12
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/158
+#EXTINF:0,PREMIERE 13 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://skytvplanos.com.br/img/channels/lg-121-canal-premiere.png" -PREMIERE 13
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/161
+#EXTINF:0,PREMIERE 14 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUO9XzkTWQOXT1QhPRlX0m_mmeZQB7XRsWXzu5JqQRENrpetvULd2TlFxfBH7JU8Xm9PU&usqp=CAU" -PREMIERE 14
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/160
+#EXTINF:0,PREMIERE 15 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuL_Cs8pjpAm5ngmKdvbO-4BnrQDydnqNPdtqiOObhIbXkuQQyfGYdLKWBrT2KJdwv8cc&usqp=CAU" -PREMIERE 15
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/162
+#EXTINF:0,PREMIERE 16 tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura%20de%20Tela%202014-01-15%20a%CC%80s%2017.49.51.png" -PREMIERE 16
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/163
+#EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1003
+#EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/165
+#EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/164
 
-#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS",Novelisima
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTM3U url-tvg=" http://grade-de-camera.xml "
 
-#EXTINF:-1 tvg-logo="https://imgur.com/98VBTkT.png" group-title="NOVELAS",Sony Novelas
-https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+############## Camera #################  
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS",Televisa
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Goiânia - Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68bf6c7c7f91f58a1fe48b3cd12e23bb.webp" -Goiânia - Panorâmica
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
+#EXTINF:0,Brasília Asa Sul tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2020/04/04/842306/20200404012621153669i.JPG" -Brasília Asa Sul
+https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/v5PHoNr.png" group-title="NOVELAS",BBC Drama
-https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Cascavel Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f869e31dbca32dca5d9adda8f13fcd09.webp" -Cascavel Panorâmica
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS",CANELA TELENOVELAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 #EXTM3U url-tvg=" http://grade-de-tvaberta.xml "
 
@@ -843,10 +821,9 @@ https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/85SU4CP1yvUAAAAM/sorriso-feliz.gif" -SBT TV
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
 #EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
-http://tv1.cs10.tv:25461/live/imp55043385/74352/8.m3u8
-
-
+http://rec2.tvpn.eu/ibl/ibl/435.m3u8
 #EXTINF:0,Globo RJ tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo RJ
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416384
 #EXTINF:0,canal do boi tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/1295744415735197698/lISgKV06_400x400.jpg" -canal do boi
@@ -958,23 +935,27 @@ https://tv02.zas.media:1936/imprensa/imprensa/chunklist_w881661499.m3u8
 #EXTINF:0,Mamonas Assasinas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://64.media.tumblr.com/33dea8500150207e89c1385b4fd08573/tumblr_n7ohvmZTQy1r8e1a3o4_250.gif" -Mamonas Assasinas
 https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-feminismo.xml "
+#EXTM3U url-tvg=" http://grade-de-NOVELAS.xml "  
+          
+ ############## NOVELAS ############## ###     
+                 
+#EXTINF:-1 tvg-id=" iddocanaldeNOVELAS " group-title=" 
 
- ############## feminismo ############## ###   
-#EXTINF:-1 tvg-id=" iddocanaldefeminismo " group-title="
 
-#EXTINF:0,Comandante Arian tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/1483abd0-8831-11ea-9e06-3945481c20bdcomandante-arian.jpg?resize=480,270&crop=entropy" -Comandante Arian
-https://vdn.libreflix.org/video/commander-arian/commander-arian.360.mp4
-#EXTINF:0,Laços tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/ff234a70-f0b1-11e7-9b74-15a5432e2110lcaos_thumb.jpg?resize=480,270&crop=entropy" -Laços
-https://vdn.libreflix.org/video/lacos/lacos.480.mp4
-#EXTINF:0,Putta tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/364b73a0-e794-11e7-9b74-15a5432e2110um_putta_thumbnail.jpg?resize=480,270&crop=entropy" -Putta
-https://vdn.libreflix.org/video/putta/putta.360.mp4
-#EXTINF:0,Por que meu cabelo não é liso? tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/5e8f36c0-ee39-11e7-9b74-15a5432e2110pqmeucabelo_thumb.jpg?resize=480,270&crop=entropy" -Por que meu cabelo não é liso?
-https://vdn.libreflix.org/video/porquemeucabelonaoeliso/porquemeucabelonaoeliso.360.mp4
-#EXTINF:0,Nosso Corpo Nos Pertence? tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/082b0630-cd4e-11e7-bfa5-fb9becee4e3fthumb.jpg?resize=480,270&crop=entropy" -Nosso Corpo Nos Pertence?
-https://vdn.libreflix.org/video/nosso-corpo-nos-pertence/nosso-corpo-nos-pertence.720.mp4
-#EXTINF:0,A Manada tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/127ef1c0-7ccd-11e9-8cf3-5584a9ddc5aephoto_2019-05-22_17-06-06.jpg?resize=480,270&crop=entropy" -A Manada
-https://vdn.libreflix.org/video/the-herd/the-herd.480.mp4
+#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS",Novelisima
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/98VBTkT.png" group-title="NOVELAS",Sony Novelas
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS",Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/v5PHoNr.png" group-title="NOVELAS",BBC Drama
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 
 #EXTM3U url-tvg=" http://grade-de-filmes.xml "
@@ -1107,6 +1088,70 @@ https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
 #EXTINF:0,kabluey tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://thumbs.gfycat.com/DelightfulSpanishBuffalo-size_restricted.gif" -kabluey
 https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
 
+#EXTM3U url-tvg=" http://grade-de-gospel.xml "
+
+ ############## gospel ################ #   
+
+#EXTINF:-1 tvg-id=" iddocanaldegospel " group-title="
+
+#EXTINF:0,O Sinal de Deus tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/tribulation_pt/tribulation_pt_200x300.jpg" -O Sinal de Deus
+https://play.prod.gcp.vix.services/tribulation_pt/tribulation_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,carton gospel tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/02/55/1a/02551aba7e65efd5fe26108a8526494d.gif" -carton gospel
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w501123391.m3u8
+#EXTINF:0,A Experiência da Páscoa tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://www.a12.com/source/files/originals/a_experiencia_da_pascoa-619145.jpg" -A Experiência da Páscoa
+https://play.prod.gcp.vix.services/easter-experience_pt/easter-experience_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Salomão tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://media.fstatic.com/LXx8k_1LFbBEwQpFv04Yr15bRd8=/210x312/smart/media/movies/covers/2009/03/730552a082d38428c320495a28bb813b.jpg" -Salomão
+https://play.prod.gcp.vix.services/solomon_pt/solomon_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,O Soldado de Cristo tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/606b678975d85e078ed76daeb66aa4de0731cd69541883cb618fbefddeadbbe2._RI_V_TTW_.jpg" -O Soldado de Cristo
+https://play.prod.gcp.vix.services/christ-slayer_pt/christ-slayer_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,O Livro De Rute: Uma Jornada De Amor tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.ytimg.com/vi/Xl3uryQ5mQs/maxresdefault.jpg" -O Livro De Rute: Uma Jornada De Amor
+https://play.prod.gcp.vix.services/book-ruth_pt/book-ruth_pt_1-1/hls_2500.m3u8
+#EXTINF:0,Judas tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://www.portaldoceu.com.br/img_sistemas/ecommerce/img_produtos/387/foto_0_227827_jUDAS%20FILME%20001-2.jpg" -Judas
+https://play.prod.gcp.vix.services/gli-amici-giuda_pt/gli-amici-giuda_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,a mãe de Jesus 1 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://images.a12.com/source/files/c/264552/Maria_Mae_de_Jesus-518126_600-315-0-0.jpg" -Maria, a mãe de Jesus 1
+https://play.prod.gcp.vix.services/maria-nazaret_pt/maria-nazaret_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,a mãe de Jesus 2 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://images.a12.com/source/files/c/264552/Maria_Mae_de_Jesus-518126_600-315-0-0.jpg" -Maria, a mãe de Jesus 2
+https://play.prod.gcp.vix.services/maria-nazaret_pt/maria-nazaret_pt_1-2/play_v1_hls_1080p.m3u8
+#EXTINF:0,Sansão e Dalila tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://4.bp.blogspot.com/-gyGPuM2xvts/VuuGTIAPPuI/AAAAAAABNfY/4ZgyO0IKtD8_HqrSjg6oK_amMdF7RDaTw/s1600/mundonovelas_Dalila%2Bentra%2Bna%2Bsala%2Bde%2BAbbas%2Be%2Bo%2Bcomandante%2Bpede%2Bque%2Ba%2Bcortes%25C3%25A3%2Bn%25C3%25A3o%2Bse%2Bdeite%2Bcom%2Bo%2Bpr%25C3%25ADncipe.gif" -Sansão e Dalila
+https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,0s Dez mandamentos tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://thumbs.gfycat.com/ThatDangerousChrysalis-max-1mb.gif" -0s Dez mandamentos
+https://play.prod.gcp.vix.services/ten-commandments_pt/ten-commandments_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0O Salvador  tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo=" https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-savior_pt/the-savior_pt_200x300.jpg" -O Salvador 
+https://play.prod.gcp.vix.services/the-savior_pt/the-savior_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Maria Madalena  tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_200x300.jpg" -Maria Madalena 
+https://play.prod.gcp.vix.services/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,José tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/joseph_pt/joseph_pt_200x300.jpg" -José
+https://play.prod.gcp.vix.services/joseph_pt/joseph_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,A Estrela Guia tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/chasing-star_en/chasing-star_en_200x300.jpg" -A Estrela Guia
+https://play.prod.gcp.vix.services/chasing-star_en/chasing-star_en_1-1/play_v1_hls_720p.m3u8
+#EXTINF:0,Gênesis tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.ytimg.com/vi/WNHEKRph6Dw/maxresdefault.jpg" -Gênesis
+https://play.prod.gcp.vix.services/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Daniel Na Cova Dos Leões tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://4.bp.blogspot.com/-E-zWVW5EArE/UcYtX-w_zHI/AAAAAAAAHuM/n_iauWVzYJs/s1600/daniel+6+a+cova+dos+le%C3%B5es.gif" -Daniel Na Cova Dos Leões
+https://play.prod.gcp.vix.services/daniel-lions_pt/daniel-lions_pt_1-1/hls_2500.m3u8
+#EXTINF:0,José e Maria tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://img1.picmix.com/output/pic/normal/1/3/2/7/8857231_d44c8.gif" -José e Maria
+https://play.prod.gcp.vix.services/joseph-mary_pt/joseph-mary_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Últimos Dias no Deserto tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://67.media.tumblr.com/7a5c461f64c65dff33d3a82858ff9a6c/tumblr_o4nn24UyOi1rvphl9o7_400.gif" -Últimos Dias no Deserto
+https://play.prod.gcp.vix.services/last-days-desert_pt/last-days-desert_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Abraão tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://c.tenor.com/xI3WUHa4G3YAAAAd/abr%C3%A3o-abra%C3%A3o.gif" -Abraão
+https://play.prod.gcp.vix.services/abraham_pt/abraham_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,O Apóstolo Pedro e a Última Ceia tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://blog.univervideo.com/wp-content/uploads/2018/09/Reflexa%CC%83o-do.png" -O Apóstolo Pedro e a Última Ceia
+https://play.prod.gcp.vix.services/apostle-peter-supper_pt/apostle-peter-supper_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Quando Tudo Parece Perdido tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/645c8975ede206bca7a2f40e1d6d5b39423fc0023c6e30f5ff9e4c9212aaf3ce._RI_V_TTW_.jpg" -Quando Tudo Parece Perdido
+https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:0,Jesus de Nazaré 1 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.makeagif.com/media/1-03-2018/j8ffen.gif" -Jesus de Nazaré 1
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
+#EXTINF:0,Jesus de Nazaré 2 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.makeagif.com/media/2-18-2018/g7VSgN.gif" -Jesus de Nazaré 2
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_1000_.m3u8
+#EXTINF:0,Jesus de Nazaré 3 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://thumbs.gfycat.com/WholeRapidGypsymoth-size_restricted.gif" -Jesus de Nazaré 3
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-2/hls_2500.m3u8
+#EXTINF:0,Jesus de Nazaré 4 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://78.media.tumblr.com/2d3b18ba3dcfaeef494ebe5ccafee5ce/tumblr_oqzg6jreeK1sc1zooo4_400.gif" -Jesus de Nazaré 4
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-3/hls_2500.m3u8
+#EXTINF:0,Jesus de Nazaré 5 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.makeagif.com/media/10-11-2015/_8DpOV.gif" -Jesus de Nazaré 5
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-4/hls_2500.m3u8
+#EXTINF:0FRONTEIRA KIDS tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://c.tenor.com/xI3WUHa4G3YAAAAd/abr%C3%A3o-abra%C3%A3o.gif" -FRONTEIRA KIDS
+https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
+#EXTINF:0,DESENHOS BIBLICOS tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/5e/9d/59/5e9d5919eb5d4e5277956d5d5fb46b61.gif" -DESENHOS BIBLICOS
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/111160
 #EXTM3U url-tvg=" http://grade-de-filmebiblico.xml "
 
  ############## filmebiblico ############## ###   
@@ -1115,7 +1160,6 @@ https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m
 #EXTINF:0,Maria, Maria Madalena tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_200x300.jpg" -Maria Madalena
 https://play.prod.gcp.vix.services/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,Judas,Judas tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuda_pt/gli-amici-giuda_pt_200x300.jpg" -Judas, Judas
-
 https://play.prod.gcp.vix.services/gli-amici-giuda_pt/gli-amici-giuda_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,José, O Pai de Jesus tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_200x300.jpg" -José, O Pai de Jesus
 https://play.prod.gcp.vix.services/gli-amici-giuseppe_pt/gli-amici-giuseppe_pt_1-1/play_v1_hls_1080p.m3u8
@@ -1182,134 +1226,6 @@ https://play.prod.gcp.vix.services/old-machine_pt/old-machine_pt_1-1/play_v1_hls
 #EXTINF:0,Onde Está Deus? tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/where-is-good_pt/where-is-good_pt_200x300.jpg" -Onde Está Deus?
 https://play.prod.gcp.vix.services/where-is-good_pt/where-is-good_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Brasil: cristianismo em português.xml "
-
- ############## Brasil: cristianismo em português ################ #   
-
-#EXTINF:-1 tvg-id=" iddocanaldeBrasil: cristianismo em português" group-title="
-
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova - YT | Brasil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/tvcancaonova/live
-#EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova | Portugal
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Cuiabá | Brasil
-https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Curitiba | Brasil
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Londrina | Brasil
-https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Manaus | Brasil
-https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Porto Alegre | Brasil
-https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Rio Branco | Brasil
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Rio de Janeiro | Brasil
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Salvador | Brasil
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT São Paulo | Brasil
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="Brasil: cristianismo em português",Evangelizar TV
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="Brasil: cristianismo em português",Fonte TV | Goiânia - Brasil
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="Brasil: cristianismo em português",Filmes Gospel | Brasil
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="Brasil: cristianismo em português",Música Gospel | Brasil
-https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
-#EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" group-title="Brasil: cristianismo em português",Ideal TV | Brasil
-https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="Brasil: cristianismo em português", KKTV | Angola
-http://195.22.22.66:1935/kktv_ang_apps/kktv_ang_pt1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="Brasil : cristianismo em português",Kuriakos Cine | Portugal
-http://c2.manasat.com:1935/kcine/kcine1/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Brasil: cristianismo em português",Kuriakos TV | Portugal
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="Brasil: cristianismo em português",Maná 1 | Portugal
-http://195.22.11.11:1935/tvmana/tvmana2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana2.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHAlM0ElMkYlMkZ0dm1hbmEyLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjA0JTJGTE9HT19UVl9NQU5BMi5wbmcmY2FjaGVNYXJrZXI9MTU4NzIyMjU3NS05OTgxJnRva2VuPWJjY2I4OTg4ZmE3OTAxY2Y.q.png" group-title="Brasil: cristianismo em português",Maná 2 | Portugal
-http://195.22.11.11:1935/tvmana2/tvmana2_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana3.com/wp-content/uploads/2020/04/LOGO_TV_MANA3-1.png" group-title="Brasil: cristianismo em português",Maná 3 | Portugal
-http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png" group-title="Brasil: cristianismo em português",Maná Argentina | português e espanhol
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmanabrasil.com/wp-content/uploads/2020/04/LOGO_TV_MANA_BRASIL_V4-396x108.png" group-title="Brasil: cristianismo em português",Maná Brasil | Portugal
-http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-english.ar/wp-content/uploads/2020/05/LOGO_TV_MANA_ENGLISH_V1.png" group-title="Brasil: cristianismo em português",Maná English | português e inglês
-http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Brasil: cristianismo em português",Maná Hindi | português e hindi
-http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="Brasil: cristianismo em português",Maná Moçambique | Portugal
-http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvmanarusskii.ru/wp-content/uploads/2020/05/265x145.png-russo-novo.png" group-title="Brasil: cristianismo em português", Maná Rússia | português e russo
-http://195.22.11.11:1935/tvmana-ru-ua/tvmana-ru-ua2/playlist.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/exdDHml.png" group-title ="Brasil: cristianismo em português",Novo Tempo | Brasil
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="Brasil: cristianismo em português",Rede Família | Brasil
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Brasil: cristianismo em português",Rede Gospel | Brasil
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="IMPDTV.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title ="Brasil: cristianismo em português",Rede Mundial | Brasil
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="Brasil: cristianismo em português",Rede Século 21 | Brasil
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
-#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="Brasil: cristianismo em português",Rede Super | Brasil
-https://playback2.akamaized.net/streams/10205943_10199127_lsi89c2s4phpm88q438_1/master.m3u8?dw=80&hdnts=exp=1649542381~acl=/streams/10205943_10199127_lsi89c2s4phpm88q438_1/master.m3u8*~hmac=3f0b55b2105f83becc406b7f56d8b192cea723e9ce2f714353e1460214cf3358
-#EXTINF:-1 tvg-id="RedeVida.br" group-title="Brasil: cristianismo em português",Rede Vida | Brasil
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/master.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Brasil: cristianismo em português",TV Aparecida | Brasil
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="Brasil: cristianismo em português",TV Aparecida | TV PUC (GO)
-https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Brasil: cristianismo em português",TV Fátima | Portugal
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title ="Brasil: cristianismo em português",TV Gideões | Brasil
-https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="Brasil: cristianismo em português",TV Mão Amiga | Brasil
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="Brasil: cristianismo em português",TV Pai Eterno - Goiás
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/master.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title ="Brasil: cristianismo em português",TV Terceiro Anjo | Brasil
-https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-
-
-#EXTM3U url-tvg=" http://grade-de-series.xml "
-
- ############## series ################ #   
-
-#EXTINF:-1 tvg-id=" iddocanaldeseries " group-title="
-
-#EXTINF:0,AGENTE 86 tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://j.gifs.com/Q1g3jq.gif" -AGENTE 86
-https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
-#EXTINF:0,CHIPStvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://atomicchronoscaphadamhome.files.wordpress.com/2018/05/tumblr_p8109itmgv1sqf5tdo1_400.gif" -CHIPS
-https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
-#EXTINF:0,CHIPStvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://atomicchronoscaphadamhome.files.wordpress.com/2018/05/tumblr_p8109itmgv1sqf5tdo1_400.gif" -CHIPS
-https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
-#EXTINFF:0,AS PANTERAS tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://25.media.tumblr.com/tumblr_li62vfV3CM1qcrfdto1_500.gif" -AS PANTERAS
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
-#EXTINF:0,O HOMEM DE 6 MILHÕES DE DOLARES tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://i.imgur.com/lyIEQk2.gif" -O HOMEM DE 6 MILHÕES DE DOLARES
-https://stmv1.srvif.com/classeries/classeries/chunklist_w580022377.m3u8
-#EXTINF:0,charlie's angel tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://media.tenor.com/GVJjLvbaY8sAAAAd/charlies-angels-cameron-diaz.gif" -charlie's angel
-https://alanza.iptv2022.com/TV_SERIE/tracks-v1a1/mono.m3u8
-#EXTINF:0,MULHER BIONICA tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://media.tenor.com/d3s51ZP-KDAAAAAM/bionic-woman.gif" -MULHER BIONICA
-https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
-#EXTINF:0,Temporada 1 - Episódio 1: Certo é Certo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 1: Certo é Certo
-https://e-9.dokicloud.one/_v8/1641da3b74a6cf662e3b86495826368103a140be0595ddcb65c930eb535422146bf96fbbcacc6f1f866608eb43169b8f4c650b1477a4b55e620a17a01deecbde9f09e23c0703a3dc3a1497fdcf64dc2339989715c277d8160a566a1bddc5124e1f7745051fa3e7664f1eb452e086ff3bc23d1adac2b68d1587bc9f2af2f51a34/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 2: Eu te Peguei tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 2: Eu te Peguei
-https://e-2.dokicloud.one/_v8/b42613a3e57adf0fbbf55b4fa467d1aa670fcd92d13889743ce28ef2da75c92f6bfb7839e87bffaeaeaaaf983b9ff5bcdd1c6b26337970fa5020ff305610f6d231065326ffef32eb3088b56c9e68dfa4a05891157041496a94ed59edffb5db432d305d8bba061d57139b928dcfb7c61bf671c68d5460588eeeac68c512120090/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 3: Rat Trap tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 3: Rat Trap
-https://e-1.dokicloud.one/_v8/d539ec17d959508b58075704f859255985750ad372318fdd26cd2c6501d9656cefb54b3bcd36a4dad9653af90ae475f66b95a2a865df4a3cf19bb251d322d104b227598a391cbe2ebdcf1dc575919476ce92a33b0c317014dcf1d67f3cc6650a266bc40e001f3b60df942c6f56ef5077b7f1ab4738d7c86c3a789871cd9214ff/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 4: Bilhete de Ida tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 4: Bilhete de Ida
-https://c-4.dokicloud.one/_v8/a05ca5147b78aa0ef6e86bc4e34a1e15d64363ddc11d569979ce1daa910ab4c39f7f4bf35f3e26776a7747e3f390f73a5bf550d000866df53b776d5066646a5805a7b553383e3daa04c32b64ac4ffcf5449c300e98f49c62bfdc86a8eedebba471fdd90fabea7aa8de38b5dd4796574ea6dab6b09d51d224b7437071f22162c5/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 5: Para que servem os irmaos tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 5: Para que servem os irmaos
-https://e-3.dokicloud.one/_v8/a7757c1b8a70ca520b24a3847245096c2dca28213b0adc8989bd86172f1fe5f765fbf80609edd547e27ae4fa52223939718f3cea30eab5493163f0a556dff6ef71530eb6ea0aa65c042d09c6d127d7371f4fa01867e6ceaf086b6c9437b0cbad50a0010df18e072142c70bd5f115961b9698a1e520fe9eb3a05644bccffdc88d/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 6: Decisao tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 6: Decisao
-https://e-3.dokicloud.one/_v8/ddd9f115d8348e29f22b1adb593b244964ac970e1f035be859f2abc7292779992fd828136d79ea8440e03724b3e47c291bfd0d024821534e2850020ca628ec8b62276ef26b388f982321d545f746becba27933619e54cddf76e2d4a5a95e789b44e21a4aa94c320b4c8ddf242cbd5cc410bcfa95872ff51b6d07979780dd1f2e/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 7: Sangue em suas maos tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 7: Sangue em suas maos
-https://e-3.dokicloud.one/_v8/fdbdde7f2a95777b0f62a8c1253275c0a9b48128236e6cc89fdf98458aadc9c2c85c1ce29c280bb243634b9752e5b9ca99fdde495797ffd3cb7f4dbdda44f375d2b9dd73f6ead7562c3f1df554c9645d29b036f646e5dce9c4168acb6789382fe926d0d17f909b314f84ea2f6192222fa072720aeffb908877123ebd89a79df6/1080/index.m3u8
-#EXTINF:0,Temporada 1 - Episódio 8: Minha Palavra é meu vinculo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 8: Minha Palavra é meu vinculo
-https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610e9484f8602504f902966eee4accf38b0592e170966e1940fd100e919671a8251e28c008e053ef80e0aaa9474c6a4e926c076dd62dd1b7cab2e8de40aee61bde017ebddc2ef5a50a8019708a004ee7605edffea11db4df56107ea7842ff92092a449bc4725bf1d4/1080/index.m3u8
 #EXTM3U url-tvg=" http://grade-de-infanti.xml "
 
  ############## infantil ################ # 
@@ -1524,7 +1440,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="Brasil: infanto-juvenis",Os Jetsons | Brasil
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Brasil: infanto-juvenis" ,Caricatura Retrô | Brasil
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis",Toon Googles | Brasil
@@ -1542,53 +1457,180 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSJv0sy.png" group-title="Brasil: infanto-juvenis",Xilam
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-XenaAPrincesaGuerreira.xml "
+#EXTM3U url-tvg=" http://grade-de-TerrorSuspensel.xml "
 
- ############## XenaAPrincesaGuerreira ################ #  
- 
-#EXTINF:-1 tvg-id=" iddocanaldeXenaAPrincesaGuerreira " group-title="
+ ############## TerrorSuspense ################ #   
 
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.08 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://1.bp.blogspot.com/-KyNPdgR5jx0/WOJuc9xqQTI/AAAAAAAAbC8/UoBiVtkaWNQEnD9_246CS_y0C1s6RzmlgCLcB/s1600/Gifs%2Banimados%2BXena%2BA%2BPrincesa%2BGuerreira%2B11.gif" -Xena: A Princesa Guerreira T01 EP.08
-https://archive.org/download/xena-a-princesa-guerreira/ep8.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.09 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images6.fanpop.com/image/photos/40600000/Xena-and-Gabrielle-nudging-each-other-xena-warrior-princess-40682875-500-249.gif" -Xena: A Princesa Guerreira T01 EP.09
-https://archive.org/download/xena-a-princesa-guerreira/ep9.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.10 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo=https://64.media.tumblr.com/036ee46ea3382ed583811b8b70e6b92c/b7162216ade5546f-82/s540x810/1c4cc225c00dbc41b68c22ab8cf51d61e49307b5.gif" -Xena: A Princesa Guerreira T01 EP.10
-https://archive.org/download/xena-a-princesa-guerreira/ep10.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.11 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.gifer.com/8o50.gif" -Xena: A Princesa Guerreira T01 EP.11
-https://archive.org/download/xena-a-princesa-guerreira/ep11.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.12 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://2.bp.blogspot.com/-j4xAE2RMbQY/VucdezH7t_I/AAAAAAAARcM/qSvW239_Az8jNIbxMVRGNiyRKOjX8lZoA/s1600/giphy%2B%25284%2529.gif" -Xena: A Princesa Guerreira T01 EP.12
-https://archive.org/download/xena-a-princesa-guerreira/ep12.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.13 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://64.media.tumblr.com/2473b465375cf166c319f7fb18cfae85/tumblr_osqsnlB1651vj8mjzo5_250.gif" -Xena: A Princesa Guerreira T01 EP.13
-https://archive.org/download/xena-a-princesa-guerreira/ep13.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.14 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images5.fanpop.com/image/photos/24700000/Xena-Warrior-Princess-xena-warrior-princess-24708918-250-188.gif" -Xena: A Princesa Guerreira T01 EP.14
-https://archive.org/download/xena-a-princesa-guerreira/ep14.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.15 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.pinimg.com/originals/68/49/b3/6849b3412f8150025c25092acc03d1fe.gif" -Xena: A Princesa Guerreira T01 EP.15
-https://archive.org/download/xena-a-princesa-guerreira/ep15.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.16 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.pinimg.com/originals/b7/5b/ef/b75bef01f64a5d23775a979ef71eb302.gif" -Xena: A Princesa Guerreira T01 EP.16
-https://archive.org/download/xena-a-princesa-guerreira/ep16.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.17 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.gifer.com/5uKJ.gif" -Xena: A Princesa Guerreira T01 EP.17
-https://archive.org/download/xena-a-princesa-guerreira/ep17.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.18 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.gifer.com/5uKJ.gif" -Xena: A Princesa Guerreira T01 EP.18
-https://archive.org/download/xena-a-princesa-guerreira/ep18.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.19 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.imgur.com/GBaVjDj.gif" -Xena: A Princesa Guerreira T01 EP.19
-https://archive.org/download/xena-a-princesa-guerreira/ep19.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.20 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db9831b1-f157-4f95-9f0e-3dfb38d90744/d4ijgqf-55954b43-bef3-4df1-b27f-4d83b4bd1b4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiOTgzMWIxLWYxNTctNGY5NS05ZjBlLTNkZmIzOGQ5MDc0NFwvZDRpamdxZi01NTk1NGI0My1iZWYzLTRkZjEtYjI3Zi00ZDgzYjRiZDFiNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VbMtJ0bkwQ4Q6dgyDunoFpHvtSNNRPTKPi0lDorrh-w" -Xena: A Princesa Guerreira T01 EP.20
-https://archive.org/download/xena-a-princesa-guerreira/ep20.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.21 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db9831b1-f157-4f95-9f0e-3dfb38d90744/d4ijgqf-55954b43-bef3-4df1-b27f-4d83b4bd1b4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiOTgzMWIxLWYxNTctNGY5NS05ZjBlLTNkZmIzOGQ5MDc0NFwvZDRpamdxZi01NTk1NGI0My1iZWYzLTRkZjEtYjI3Zi00ZDgzYjRiZDFiNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VbMtJ0bkwQ4Q6dgyDunoFpHvtSNNRPTKPi0lDorrh-w" -Xena: A Princesa Guerreira T01 EP.21
-https://archive.org/download/xena-a-princesa-guerreira/ep21.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.22 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://media.tenor.com/MDRCenB2F2cAAAAM/xena-xena-warrior-princess.gif" -Xena: A Princesa Guerreira T01 EP.22
-https://archive.org/download/xena-a-princesa-guerreira/ep22.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.23 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.pinimg.com/originals/eb/0a/6c/eb0a6cd22e7b4409bc60860c9220975d.gif" -Xena: A Princesa Guerreira T01 EP.23
-https://archive.org/download/xena-a-princesa-guerreira/ep23.mp4
-#EXTINF:0,Xena: A Princesa Guerreira T01 EP.24 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://media.tenor.com/150_8YSIc3EAAAAC/xena-xena-warrior-princess.gif" -Xena: A Princesa Guerreira T01 EP.24
-https://archive.org/download/xena-a-princesa-guerreira/ep24.mp4
+#EXTINF:-1 tvg-id=" iddocanaldeTerrorSuspense " group-title="
+
+#EXTINF:0,Os Crimes de Limehouse tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/limehouse-golem_pt/limehouse-golem_pt_200x300.jpg" -Os Crimes de Limehouse
+https://play.prod.gcp.vix.services/limehouse-golem_pt/limehouse-golem_pt_1-1/thumbs_640x360.m3u8
+#EXTINF:0,Submersos tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submerged_pt/submerged_pt_200x300.jpg" -Submersos
+https://play.prod.gcp.vix.services/submerged_pt/submerged_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Lua Negra tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dark-moon-rising_pt/dark-moon-rising_pt_200x300.jpg" -Lua Negra
+https://play.prod.gcp.vix.services/dark-moon-rising_pt/dark-moon-rising_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Acampando no Inferno tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/camp-hell_pt/camp-hell_pt_200x300.jpg" -Acampando no Inferno
+https://play.prod.gcp.vix.services/camp-hell_pt/camp-hell_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:0,Os Desaparecidos tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/welcome-willits_pt/welcome-willits_pt_200x300.jpg" -Os Desaparecidos
+https://play.prod.gcp.vix.services/welcome-willits_pt/welcome-willits_pt_1-1/thumbs_640x360.m3u8
+#EXTINF:0,Forças Malignas tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/hex-2018_pt/hex-2018_pt_200x300.jpg" -Forças Malignas
+https://play.prod.gcp.vix.services/hex-2018_pt/hex-2018_pt_1-1/thumbs_640x360.m3u8 
+
+
+
+#EXTM3U url-tvg=" http://grade-de-feminismo.xml "
+
+ ############## feminismo ############## ###   
+#EXTINF:-1 tvg-id=" iddocanaldefeminismo " group-title="
+
+#EXTINF:0,Comandante Arian tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/1483abd0-8831-11ea-9e06-3945481c20bdcomandante-arian.jpg?resize=480,270&crop=entropy" -Comandante Arian
+https://vdn.libreflix.org/video/commander-arian/commander-arian.360.mp4
+#EXTINF:0,Laços tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/ff234a70-f0b1-11e7-9b74-15a5432e2110lcaos_thumb.jpg?resize=480,270&crop=entropy" -Laços
+https://vdn.libreflix.org/video/lacos/lacos.480.mp4
+#EXTINF:0,Putta tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/364b73a0-e794-11e7-9b74-15a5432e2110um_putta_thumbnail.jpg?resize=480,270&crop=entropy" -Putta
+https://vdn.libreflix.org/video/putta/putta.360.mp4
+#EXTINF:0,Por que meu cabelo não é liso? tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/5e8f36c0-ee39-11e7-9b74-15a5432e2110pqmeucabelo_thumb.jpg?resize=480,270&crop=entropy" -Por que meu cabelo não é liso?
+https://vdn.libreflix.org/video/porquemeucabelonaoeliso/porquemeucabelonaoeliso.360.mp4
+#EXTINF:0,Nosso Corpo Nos Pertence? tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/082b0630-cd4e-11e7-bfa5-fb9becee4e3fthumb.jpg?resize=480,270&crop=entropy" -Nosso Corpo Nos Pertence?
+https://vdn.libreflix.org/video/nosso-corpo-nos-pertence/nosso-corpo-nos-pertence.720.mp4
+#EXTINF:0,A Manada tvg-id="iddocanaldefeminismo" group-title="feminismo" tvg-logo="https://vdn.libreflix.org/covers/media/127ef1c0-7ccd-11e9-8cf3-5584a9ddc5aephoto_2019-05-22_17-06-06.jpg?resize=480,270&crop=entropy" -A Manada
+https://vdn.libreflix.org/video/the-herd/the-herd.480.mp4
+
+#EXTM3U url-tvg=" http://grade-de-Brasil: cristianismo em português.xml "
+
+ ############## Brasil: cristianismo em português ################ #   
+
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil: cristianismo em português" group-title="
+
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova - YT | Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/tvcancaonova/live
+#EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova | Portugal
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Cuiabá | Brasil
+https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Curitiba | Brasil
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Londrina | Brasil
+https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Manaus | Brasil
+https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Porto Alegre | Brasil
+https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Rio Branco | Brasil
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Rio de Janeiro | Brasil
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Salvador | Brasil
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT São Paulo | Brasil
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="Brasil: cristianismo em português",Evangelizar TV
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="Brasil: cristianismo em português",Fonte TV | Goiânia - Brasil
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="Brasil: cristianismo em português",Filmes Gospel | Brasil
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="Brasil: cristianismo em português",Música Gospel | Brasil
+https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
+#EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" group-title="Brasil: cristianismo em português",Ideal TV | Brasil
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="Brasil: cristianismo em português", KKTV | Angola
+http://195.22.22.66:1935/kktv_ang_apps/kktv_ang_pt1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="Brasil : cristianismo em português",Kuriakos Cine | Portugal
+http://c2.manasat.com:1935/kcine/kcine1/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Brasil: cristianismo em português",Kuriakos TV | Portugal
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="Brasil: cristianismo em português",Maná 1 | Portugal
+http://195.22.11.11:1935/tvmana/tvmana2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana2.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHAlM0ElMkYlMkZ0dm1hbmEyLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjA0JTJGTE9HT19UVl9NQU5BMi5wbmcmY2FjaGVNYXJrZXI9MTU4NzIyMjU3NS05OTgxJnRva2VuPWJjY2I4OTg4ZmE3OTAxY2Y.q.png" group-title="Brasil: cristianismo em português",Maná 2 | Portugal
+http://195.22.11.11:1935/tvmana2/tvmana2_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana3.com/wp-content/uploads/2020/04/LOGO_TV_MANA3-1.png" group-title="Brasil: cristianismo em português",Maná 3 | Portugal
+http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png" group-title="Brasil: cristianismo em português",Maná Argentina | português e espanhol
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmanabrasil.com/wp-content/uploads/2020/04/LOGO_TV_MANA_BRASIL_V4-396x108.png" group-title="Brasil: cristianismo em português",Maná Brasil | Portugal
+http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-english.ar/wp-content/uploads/2020/05/LOGO_TV_MANA_ENGLISH_V1.png" group-title="Brasil: cristianismo em português",Maná English | português e inglês
+http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Brasil: cristianismo em português",Maná Hindi | português e hindi
+http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="Brasil: cristianismo em português",Maná Moçambique | Portugal
+http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmanarusskii.ru/wp-content/uploads/2020/05/265x145.png-russo-novo.png" group-title="Brasil: cristianismo em português", Maná Rússia | português e russo
+http://195.22.11.11:1935/tvmana-ru-ua/tvmana-ru-ua2/playlist.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/exdDHml.png" group-title ="Brasil: cristianismo em português",Novo Tempo | Brasil
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="Brasil: cristianismo em português",Rede Família | Brasil
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Brasil: cristianismo em português",Rede Gospel | Brasil
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="IMPDTV.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title ="Brasil: cristianismo em português",Rede Mundial | Brasil
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="Brasil: cristianismo em português",Rede Século 21 | Brasil
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/master.m3u8
+#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="Brasil: cristianismo em português",Rede Super | Brasil
+https://playback2.akamaized.net/streams/10205943_10199127_lsi89c2s4phpm88q438_1/master.m3u8?dw=80&hdnts=exp=1649542381~acl=/streams/10205943_10199127_lsi89c2s4phpm88q438_1/master.m3u8*~hmac=3f0b55b2105f83becc406b7f56d8b192cea723e9ce2f714353e1460214cf3358
+#EXTINF:-1 tvg-id="RedeVida.br" group-title="Brasil: cristianismo em português",Rede Vida | Brasil
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/master.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Brasil: cristianismo em português",TV Aparecida | Brasil
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="Brasil: cristianismo em português",TV Aparecida | TV PUC (GO)
+https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Brasil: cristianismo em português",TV Fátima | Portugal
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title ="Brasil: cristianismo em português",TV Gideões | Brasil
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="Brasil: cristianismo em português",TV Mão Amiga | Brasil
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="Brasil: cristianismo em português",TV Pai Eterno - Goiás
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/master.m3u8
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/eHibp1L.png" group-title ="Brasil: cristianismo em português",TV Terceiro Anjo | Brasil
+https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-series.xml "
+
+ ############## series ################ #   
+
+#EXTINF:-1 tvg-id=" iddocanaldeseries " group-title="
+
+#EXTINF:0,AGENTE 86 tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://j.gifs.com/Q1g3jq.gif" -AGENTE 86
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
+#EXTINF:0,CHIPStvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://atomicchronoscaphadamhome.files.wordpress.com/2018/05/tumblr_p8109itmgv1sqf5tdo1_400.gif" -CHIPS
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
+#EXTINF:0,CHIPStvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://atomicchronoscaphadamhome.files.wordpress.com/2018/05/tumblr_p8109itmgv1sqf5tdo1_400.gif" -CHIPS
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
+#EXTINFF:0,AS PANTERAS tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://25.media.tumblr.com/tumblr_li62vfV3CM1qcrfdto1_500.gif" -AS PANTERAS
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
+#EXTINF:0,O HOMEM DE 6 MILHÕES DE DOLARES tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://i.imgur.com/lyIEQk2.gif" -O HOMEM DE 6 MILHÕES DE DOLARES
+https://stmv1.srvif.com/classeries/classeries/chunklist_w580022377.m3u8
+#EXTINF:0,charlie's angel tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://media.tenor.com/GVJjLvbaY8sAAAAd/charlies-angels-cameron-diaz.gif" -charlie's angel
+https://alanza.iptv2022.com/TV_SERIE/tracks-v1a1/mono.m3u8
+#EXTINF:0,MULHER BIONICA tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://media.tenor.com/d3s51ZP-KDAAAAAM/bionic-woman.gif" -MULHER BIONICA
+https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
+#EXTINF:0,Temporada 1 - Episódio 1: Certo é Certo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 1: Certo é Certo
+https://e-9.dokicloud.one/_v8/1641da3b74a6cf662e3b86495826368103a140be0595ddcb65c930eb535422146bf96fbbcacc6f1f866608eb43169b8f4c650b1477a4b55e620a17a01deecbde9f09e23c0703a3dc3a1497fdcf64dc2339989715c277d8160a566a1bddc5124e1f7745051fa3e7664f1eb452e086ff3bc23d1adac2b68d1587bc9f2af2f51a34/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 2: Eu te Peguei tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 2: Eu te Peguei
+https://e-2.dokicloud.one/_v8/b42613a3e57adf0fbbf55b4fa467d1aa670fcd92d13889743ce28ef2da75c92f6bfb7839e87bffaeaeaaaf983b9ff5bcdd1c6b26337970fa5020ff305610f6d231065326ffef32eb3088b56c9e68dfa4a05891157041496a94ed59edffb5db432d305d8bba061d57139b928dcfb7c61bf671c68d5460588eeeac68c512120090/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 3: Rat Trap tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 3: Rat Trap
+https://e-1.dokicloud.one/_v8/d539ec17d959508b58075704f859255985750ad372318fdd26cd2c6501d9656cefb54b3bcd36a4dad9653af90ae475f66b95a2a865df4a3cf19bb251d322d104b227598a391cbe2ebdcf1dc575919476ce92a33b0c317014dcf1d67f3cc6650a266bc40e001f3b60df942c6f56ef5077b7f1ab4738d7c86c3a789871cd9214ff/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 4: Bilhete de Ida tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 4: Bilhete de Ida
+https://c-4.dokicloud.one/_v8/a05ca5147b78aa0ef6e86bc4e34a1e15d64363ddc11d569979ce1daa910ab4c39f7f4bf35f3e26776a7747e3f390f73a5bf550d000866df53b776d5066646a5805a7b553383e3daa04c32b64ac4ffcf5449c300e98f49c62bfdc86a8eedebba471fdd90fabea7aa8de38b5dd4796574ea6dab6b09d51d224b7437071f22162c5/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 5: Para que servem os irmaos tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 5: Para que servem os irmaos
+https://e-3.dokicloud.one/_v8/a7757c1b8a70ca520b24a3847245096c2dca28213b0adc8989bd86172f1fe5f765fbf80609edd547e27ae4fa52223939718f3cea30eab5493163f0a556dff6ef71530eb6ea0aa65c042d09c6d127d7371f4fa01867e6ceaf086b6c9437b0cbad50a0010df18e072142c70bd5f115961b9698a1e520fe9eb3a05644bccffdc88d/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 6: Decisao tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 6: Decisao
+https://e-3.dokicloud.one/_v8/ddd9f115d8348e29f22b1adb593b244964ac970e1f035be859f2abc7292779992fd828136d79ea8440e03724b3e47c291bfd0d024821534e2850020ca628ec8b62276ef26b388f982321d545f746becba27933619e54cddf76e2d4a5a95e789b44e21a4aa94c320b4c8ddf242cbd5cc410bcfa95872ff51b6d07979780dd1f2e/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 7: Sangue em suas maos tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 7: Sangue em suas maos
+https://e-3.dokicloud.one/_v8/fdbdde7f2a95777b0f62a8c1253275c0a9b48128236e6cc89fdf98458aadc9c2c85c1ce29c280bb243634b9752e5b9ca99fdde495797ffd3cb7f4dbdda44f375d2b9dd73f6ead7562c3f1df554c9645d29b036f646e5dce9c4168acb6789382fe926d0d17f909b314f84ea2f6192222fa072720aeffb908877123ebd89a79df6/1080/index.m3u8
+#EXTINF:0,Temporada 1 - Episódio 8: Minha Palavra é meu vinculo tvg-id="iddocanaldeseries" group-title="series" tvg-logo="https://img.ev01.to/xxrz/250x400/183/d5/97/d59713ed6dcdceac463adf5ab0629641/d59713ed6dcdceac463adf5ab0629641.jpg" -Temporada 1 - Episódio 8: Minha Palavra é meu vinculo
+https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610e9484f8602504f902966eee4accf38b0592e170966e1940fd100e919671a8251e28c008e053ef80e0aaa9474c6a4e926c076dd62dd1b7cab2e8de40aee61bde017ebddc2ef5a50a8019708a004ee7605edffea11db4df56107ea7842ff92092a449bc4725bf1d4/1080/index.m3u8
+
+
 
 #EXTM3U url-tvg=" http://grade-de-BRASIL: variedades em português.xml "  
           
  ############## BRASIL: variedades em português ############## ###     
                  
 #EXTINF:-1 tvg-id=" iddocanaldeBRASIL: variedades em português " group-title=" 
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="Brasil: variedades em português",1001 Noites | PR - Brasil
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
@@ -1655,13 +1697,52 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798d
 #EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Brasil: variedades em português",Paramount+ Apresenta | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTM3U url-tvg=" http://grade-de-XenaAPrincesaGuerreira.xml "
+
+ ############## XenaAPrincesaGuerreira ################ #  
+ 
+#EXTINF:-1 tvg-id=" iddocanaldeXenaAPrincesaGuerreira " group-title="
+
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.08 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://1.bp.blogspot.com/-KyNPdgR5jx0/WOJuc9xqQTI/AAAAAAAAbC8/UoBiVtkaWNQEnD9_246CS_y0C1s6RzmlgCLcB/s1600/Gifs%2Banimados%2BXena%2BA%2BPrincesa%2BGuerreira%2B11.gif" -Xena: A Princesa Guerreira T01 EP.08
+https://archive.org/download/xena-a-princesa-guerreira/ep8.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.09 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images6.fanpop.com/image/photos/40600000/Xena-and-Gabrielle-nudging-each-other-xena-warrior-princess-40682875-500-249.gif" -Xena: A Princesa Guerreira T01 EP.09
+https://archive.org/download/xena-a-princesa-guerreira/ep9.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.10 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo=https://64.media.tumblr.com/036ee46ea3382ed583811b8b70e6b92c/b7162216ade5546f-82/s540x810/1c4cc225c00dbc41b68c22ab8cf51d61e49307b5.gif" -Xena: A Princesa Guerreira T01 EP.10
+https://archive.org/download/xena-a-princesa-guerreira/ep10.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.11 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.gifer.com/8o50.gif" -Xena: A Princesa Guerreira T01 EP.11
+https://archive.org/download/xena-a-princesa-guerreira/ep11.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.12 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://2.bp.blogspot.com/-j4xAE2RMbQY/VucdezH7t_I/AAAAAAAARcM/qSvW239_Az8jNIbxMVRGNiyRKOjX8lZoA/s1600/giphy%2B%25284%2529.gif" -Xena: A Princesa Guerreira T01 EP.12
+https://archive.org/download/xena-a-princesa-guerreira/ep12.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.13 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://64.media.tumblr.com/2473b465375cf166c319f7fb18cfae85/tumblr_osqsnlB1651vj8mjzo5_250.gif" -Xena: A Princesa Guerreira T01 EP.13
+https://archive.org/download/xena-a-princesa-guerreira/ep13.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.14 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images5.fanpop.com/image/photos/24700000/Xena-Warrior-Princess-xena-warrior-princess-24708918-250-188.gif" -Xena: A Princesa Guerreira T01 EP.14
+https://archive.org/download/xena-a-princesa-guerreira/ep14.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.15 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.pinimg.com/originals/68/49/b3/6849b3412f8150025c25092acc03d1fe.gif" -Xena: A Princesa Guerreira T01 EP.15
+https://archive.org/download/xena-a-princesa-guerreira/ep15.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.16 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.pinimg.com/originals/b7/5b/ef/b75bef01f64a5d23775a979ef71eb302.gif" -Xena: A Princesa Guerreira T01 EP.16
+https://archive.org/download/xena-a-princesa-guerreira/ep16.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.17 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.gifer.com/5uKJ.gif" -Xena: A Princesa Guerreira T01 EP.17
+https://archive.org/download/xena-a-princesa-guerreira/ep17.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.18 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.gifer.com/5uKJ.gif" -Xena: A Princesa Guerreira T01 EP.18
+https://archive.org/download/xena-a-princesa-guerreira/ep18.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.19 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.imgur.com/GBaVjDj.gif" -Xena: A Princesa Guerreira T01 EP.19
+https://archive.org/download/xena-a-princesa-guerreira/ep19.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.20 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db9831b1-f157-4f95-9f0e-3dfb38d90744/d4ijgqf-55954b43-bef3-4df1-b27f-4d83b4bd1b4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiOTgzMWIxLWYxNTctNGY5NS05ZjBlLTNkZmIzOGQ5MDc0NFwvZDRpamdxZi01NTk1NGI0My1iZWYzLTRkZjEtYjI3Zi00ZDgzYjRiZDFiNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VbMtJ0bkwQ4Q6dgyDunoFpHvtSNNRPTKPi0lDorrh-w" -Xena: A Princesa Guerreira T01 EP.20
+https://archive.org/download/xena-a-princesa-guerreira/ep20.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.21 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db9831b1-f157-4f95-9f0e-3dfb38d90744/d4ijgqf-55954b43-bef3-4df1-b27f-4d83b4bd1b4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiOTgzMWIxLWYxNTctNGY5NS05ZjBlLTNkZmIzOGQ5MDc0NFwvZDRpamdxZi01NTk1NGI0My1iZWYzLTRkZjEtYjI3Zi00ZDgzYjRiZDFiNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VbMtJ0bkwQ4Q6dgyDunoFpHvtSNNRPTKPi0lDorrh-w" -Xena: A Princesa Guerreira T01 EP.21
+https://archive.org/download/xena-a-princesa-guerreira/ep21.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.22 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://media.tenor.com/MDRCenB2F2cAAAAM/xena-xena-warrior-princess.gif" -Xena: A Princesa Guerreira T01 EP.22
+https://archive.org/download/xena-a-princesa-guerreira/ep22.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.23 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://i.pinimg.com/originals/eb/0a/6c/eb0a6cd22e7b4409bc60860c9220975d.gif" -Xena: A Princesa Guerreira T01 EP.23
+https://archive.org/download/xena-a-princesa-guerreira/ep23.mp4
+#EXTINF:0,Xena: A Princesa Guerreira T01 EP.24 tvg-id="iddocanaldeXenaAPrincesaGuerreira" group-title="XenaAPrincesaGuerreira" tvg-logo="https://media.tenor.com/150_8YSIc3EAAAAC/xena-xena-warrior-princess.gif" -Xena: A Princesa Guerreira T01 EP.24
+https://archive.org/download/xena-a-princesa-guerreira/ep24.mp4
 
 #EXTM3U url-tvg=" http://grade-de-MÚSICA.xml "  
           
  ############## MÚSICA ############## ###     
                  
 #EXTINF:-1 tvg-id=" iddocanaldeMÚSICA" group-title=" 
-
 
 #EXTINF:-1 tvg-id="1HD.ru" tvg-logo="https://lh3.googleusercontent.com/iHSgMsaVX7oFDLU73HzrQGBw6sOPlUxvdOOvjAZpMuYM63AqnK_0ZUP9E8t_l1pD1A=w220-rw" group-title="Música",1HD Music | Estônia
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
@@ -2218,91 +2299,6 @@ https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/index-f1-v1-a1.m3u8?pprotocol=hls
 #EXTINF:-1 tvg-id="8635ae40f8d1a32eccd63d1f58b55662c9c98f9f" group-title="Música: HQM - só PC" tvg-logo="https://statics.yowi.tv/files/f8584df7f64546f70a346ef301ec2e49c6e91d92",HQM Spanish - só PC
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-
-
-#EXTM3U url-tvg=" http://grade-de-TerrorSuspensel.xml "
-
- ############## TerrorSuspense ################ #   
-
-#EXTINF:-1 tvg-id=" iddocanaldeTerrorSuspense " group-title="
-
-#EXTINF:0,Os Crimes de Limehouse tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/limehouse-golem_pt/limehouse-golem_pt_200x300.jpg" -Os Crimes de Limehouse
-https://play.prod.gcp.vix.services/limehouse-golem_pt/limehouse-golem_pt_1-1/thumbs_640x360.m3u8
-#EXTINF:0,Submersos tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submerged_pt/submerged_pt_200x300.jpg" -Submersos
-https://play.prod.gcp.vix.services/submerged_pt/submerged_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Lua Negra tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dark-moon-rising_pt/dark-moon-rising_pt_200x300.jpg" -Lua Negra
-https://play.prod.gcp.vix.services/dark-moon-rising_pt/dark-moon-rising_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Acampando no Inferno tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/camp-hell_pt/camp-hell_pt_200x300.jpg" -Acampando no Inferno
-https://play.prod.gcp.vix.services/camp-hell_pt/camp-hell_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Os Desaparecidos tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/welcome-willits_pt/welcome-willits_pt_200x300.jpg" -Os Desaparecidos
-https://play.prod.gcp.vix.services/welcome-willits_pt/welcome-willits_pt_1-1/thumbs_640x360.m3u8
-#EXTINF:0,Forças Malignas tvg-id="iddocanaldeTerrorSuspense" group-title="TerrorSuspense" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/hex-2018_pt/hex-2018_pt_200x300.jpg" -Forças Malignas
-https://play.prod.gcp.vix.services/hex-2018_pt/hex-2018_pt_1-1/thumbs_640x360.m3u8 
-
-#EXTM3U url-tvg=" http://grade-de-gospel.xml "
-
- ############## gospel ################ #   
-
-#EXTINF:-1 tvg-id=" iddocanaldegospel " group-title="
-
-#EXTINF:0,O Sinal de Deus tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/tribulation_pt/tribulation_pt_200x300.jpg" -O Sinal de Deus
-https://play.prod.gcp.vix.services/tribulation_pt/tribulation_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,carton gospel tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/02/55/1a/02551aba7e65efd5fe26108a8526494d.gif" -carton gospel
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w501123391.m3u8
-#EXTINF:0,A Experiência da Páscoa tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://www.a12.com/source/files/originals/a_experiencia_da_pascoa-619145.jpg" -A Experiência da Páscoa
-https://play.prod.gcp.vix.services/easter-experience_pt/easter-experience_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Salomão tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://media.fstatic.com/LXx8k_1LFbBEwQpFv04Yr15bRd8=/210x312/smart/media/movies/covers/2009/03/730552a082d38428c320495a28bb813b.jpg" -Salomão
-https://play.prod.gcp.vix.services/solomon_pt/solomon_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,O Soldado de Cristo tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/606b678975d85e078ed76daeb66aa4de0731cd69541883cb618fbefddeadbbe2._RI_V_TTW_.jpg" -O Soldado de Cristo
-https://play.prod.gcp.vix.services/christ-slayer_pt/christ-slayer_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,O Livro De Rute: Uma Jornada De Amor tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.ytimg.com/vi/Xl3uryQ5mQs/maxresdefault.jpg" -O Livro De Rute: Uma Jornada De Amor
-https://play.prod.gcp.vix.services/book-ruth_pt/book-ruth_pt_1-1/hls_2500.m3u8
-#EXTINF:0,Judas tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://www.portaldoceu.com.br/img_sistemas/ecommerce/img_produtos/387/foto_0_227827_jUDAS%20FILME%20001-2.jpg" -Judas
-https://play.prod.gcp.vix.services/gli-amici-giuda_pt/gli-amici-giuda_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,a mãe de Jesus 1 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://images.a12.com/source/files/c/264552/Maria_Mae_de_Jesus-518126_600-315-0-0.jpg" -Maria, a mãe de Jesus 1
-https://play.prod.gcp.vix.services/maria-nazaret_pt/maria-nazaret_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,a mãe de Jesus 2 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://images.a12.com/source/files/c/264552/Maria_Mae_de_Jesus-518126_600-315-0-0.jpg" -Maria, a mãe de Jesus 2
-https://play.prod.gcp.vix.services/maria-nazaret_pt/maria-nazaret_pt_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:0,Sansão e Dalila tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://4.bp.blogspot.com/-gyGPuM2xvts/VuuGTIAPPuI/AAAAAAABNfY/4ZgyO0IKtD8_HqrSjg6oK_amMdF7RDaTw/s1600/mundonovelas_Dalila%2Bentra%2Bna%2Bsala%2Bde%2BAbbas%2Be%2Bo%2Bcomandante%2Bpede%2Bque%2Ba%2Bcortes%25C3%25A3%2Bn%25C3%25A3o%2Bse%2Bdeite%2Bcom%2Bo%2Bpr%25C3%25ADncipe.gif" -Sansão e Dalila
-https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,0s Dez mandamentos tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://thumbs.gfycat.com/ThatDangerousChrysalis-max-1mb.gif" -0s Dez mandamentos
-https://play.prod.gcp.vix.services/ten-commandments_pt/ten-commandments_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0O Salvador  tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo=" https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-savior_pt/the-savior_pt_200x300.jpg" -O Salvador 
-https://play.prod.gcp.vix.services/the-savior_pt/the-savior_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Maria Madalena  tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_200x300.jpg" -Maria Madalena 
-https://play.prod.gcp.vix.services/gli-amici-maria-maddalena_pt/gli-amici-maria-maddalena_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,José tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/joseph_pt/joseph_pt_200x300.jpg" -José
-https://play.prod.gcp.vix.services/joseph_pt/joseph_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,A Estrela Guia tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/chasing-star_en/chasing-star_en_200x300.jpg" -A Estrela Guia
-https://play.prod.gcp.vix.services/chasing-star_en/chasing-star_en_1-1/play_v1_hls_720p.m3u8
-#EXTINF:0,Gênesis tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.ytimg.com/vi/WNHEKRph6Dw/maxresdefault.jpg" -Gênesis
-https://play.prod.gcp.vix.services/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Daniel Na Cova Dos Leões tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://4.bp.blogspot.com/-E-zWVW5EArE/UcYtX-w_zHI/AAAAAAAAHuM/n_iauWVzYJs/s1600/daniel+6+a+cova+dos+le%C3%B5es.gif" -Daniel Na Cova Dos Leões
-https://play.prod.gcp.vix.services/daniel-lions_pt/daniel-lions_pt_1-1/hls_2500.m3u8
-#EXTINF:0,José e Maria tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://img1.picmix.com/output/pic/normal/1/3/2/7/8857231_d44c8.gif" -José e Maria
-https://play.prod.gcp.vix.services/joseph-mary_pt/joseph-mary_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Últimos Dias no Deserto tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://67.media.tumblr.com/7a5c461f64c65dff33d3a82858ff9a6c/tumblr_o4nn24UyOi1rvphl9o7_400.gif" -Últimos Dias no Deserto
-https://play.prod.gcp.vix.services/last-days-desert_pt/last-days-desert_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Abraão tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://c.tenor.com/xI3WUHa4G3YAAAAd/abr%C3%A3o-abra%C3%A3o.gif" -Abraão
-https://play.prod.gcp.vix.services/abraham_pt/abraham_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,O Apóstolo Pedro e a Última Ceia tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://blog.univervideo.com/wp-content/uploads/2018/09/Reflexa%CC%83o-do.png" -O Apóstolo Pedro e a Última Ceia
-https://play.prod.gcp.vix.services/apostle-peter-supper_pt/apostle-peter-supper_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:0,Quando Tudo Parece Perdido tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/645c8975ede206bca7a2f40e1d6d5b39423fc0023c6e30f5ff9e4c9212aaf3ce._RI_V_TTW_.jpg" -Quando Tudo Parece Perdido
-https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:0,Jesus de Nazaré 1 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.makeagif.com/media/1-03-2018/j8ffen.gif" -Jesus de Nazaré 1
-https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
-#EXTINF:0,Jesus de Nazaré 2 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.makeagif.com/media/2-18-2018/g7VSgN.gif" -Jesus de Nazaré 2
-https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_1000_.m3u8
-#EXTINF:0,Jesus de Nazaré 3 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://thumbs.gfycat.com/WholeRapidGypsymoth-size_restricted.gif" -Jesus de Nazaré 3
-https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-2/hls_2500.m3u8
-#EXTINF:0,Jesus de Nazaré 4 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://78.media.tumblr.com/2d3b18ba3dcfaeef494ebe5ccafee5ce/tumblr_oqzg6jreeK1sc1zooo4_400.gif" -Jesus de Nazaré 4
-https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-3/hls_2500.m3u8
-#EXTINF:0,Jesus de Nazaré 5 tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.makeagif.com/media/10-11-2015/_8DpOV.gif" -Jesus de Nazaré 5
-https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-4/hls_2500.m3u8
-#EXTINF:0FRONTEIRA KIDS tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://c.tenor.com/xI3WUHa4G3YAAAAd/abr%C3%A3o-abra%C3%A3o.gif" -FRONTEIRA KIDS
-https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
-#EXTINF:0,DESENHOS BIBLICOS tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/5e/9d/59/5e9d5919eb5d4e5277956d5d5fb46b61.gif" -DESENHOS BIBLICOS
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/111160
 
 #EXTM3U url-tvg=" http://grade-de-Brasil: lifestyle.xml "  
           
@@ -3088,44 +3084,6 @@ https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
 #EXTINF:0,TV DESTAK tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862" -TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
 
-
-
-#EXTM3U url-tvg=" http://grade-de-STINGRAY.xml "  
-          
- ############## STINGRAY ############## ###     
-                 
-#EXTINF:-1 tvg-id=" iddocanaldeSTINGRAY" group-title=" 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Greatest Hits
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hit List
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Pop Adulto
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Urban Beat
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hot Country
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-
 #EXTM3U url-tvg=" http://grade-de-ogordoeomagro.xml "
 
  ############## ogordoeomagro ############## ###   
@@ -3235,12 +3193,50 @@ https://youtu.be/wcLn_TSnEi8
 #EXTINF:0,O Gordo e o Magro -Patrulheiros em alerta (1933) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/9a/47/b8/9a47b8a081784525b12981e5b83cc9e2.gif" -O Gordo e o Magro Patrulheiros em alerta (1933)
 https://youtu.be/yUZJFgDexRg
 
+
+
+#EXTM3U url-tvg=" http://grade-de-STINGRAY.xml "  
+          
+ ############## STINGRAY ############## ###     
+                 
+#EXTINF:-1 tvg-id=" iddocanaldeSTINGRAY" group-title=" 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Pop Adulto
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hot Country
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+
+
 #EXTM3U url-tvg=" http://grade-de-radio.xml "
 
  ############## radio ################ #   
 
 #EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
-
 
 #EXTINF:0,radio mix tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" -radio mix
 https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
@@ -3447,7 +3443,6 @@ https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
 #EXTINF:0,Rádio UFRGS
 http://radioaovivo.ufrgs.br:8000/stream.mp3
 
-
 #EXTM3U url-tvg=" http://grade-de-Brasil: rádios em português.xml "  
           
  ############## Brasil: rádios em português ############## ###     
@@ -3543,14 +3538,10 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 #EXTINF:0,We Are The World tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -We Are The World
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 
-
-
 #EXTM3U url-tvg=" http://grade-de-nao.xml "
 
  ############## nao ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldenao " group-title="
-
-
 
 #EXTINF:0,Kpop TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -3598,7 +3589,7 @@ https://live.adultiptv.net/rough.m3u8
 #EXTINF:0,POV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -POV
 https://live.adultiptv.net/pov.m3u8
 
-#EXTINF:0,Interracial tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Interracial
+#EXTINF:0,Interracial tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Interracial  
 https://live.adultiptv.net/interracial.m3u8
 
 
