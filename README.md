@@ -32,26 +32,28 @@ https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
 
 #EXTM3U
 #EXTINF:3, Agro Brasil TV
-#EXTINF:0,Agro Brasil TV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://pbs.twimg.com/profile_images/586629351212449793/HAAP-4Ot_400x400.jpg" -Agro Brasil TV
+#EXTINF:0,Agro Brasil TV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://pbs.twimg.com/profile_images/586629351212449793/HAAP-4Ot_400x400.jpg
 #EXTVLCOPT:network-caching=1000
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:30, Gospel Movies Television
-#EXTINF:0, Gospel Movies Television tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://4.bp.blogspot.com/-23v2Mg3UBME/UugF2XvHDXI/AAAAAAAAP3Q/28tn1kIGHQQ/s1600/Cine+Crist%C3%A3o.png" - Gospel Movies Television
+#EXTINF:0, Gospel Movies Television tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://4.bp.blogspot.com/-23v2Mg3UBME/UugF2XvHDXI/AAAAAAAAP3Q/28tn1kIGHQQ/s1600/Cine+Crist%C3%A3o.png
 #EXTVLCOPT:network-caching=1000
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 #EXTINF:30, Classique TV
-#EXTINF:0,Classique TV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://assets.iptv2022.com/uploads/channel/14274/thumb_CLASSIQUE_TV_SE%CC%81RIES.png" -Classique TV
+#EXTINF:0,Classique TV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://assets.iptv2022.com/uploads/channel/14274/thumb_CLASSIQUE_TV_SE%CC%81RIES.png
 #EXTVLCOPT:network-caching=1000
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:30, TV Rede Gospel
-#EXTINF:0,TV Rede Gospel tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif" -TV Rede Gospel
+#EXTINF:0,TV Rede Gospel tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
 #EXTINF:30, ArarunaTV
 #EXTINF:0,ArarunaTV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gifhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF1XXsMoynSbGi2WMWnA_w_XvIKO_cPrUR-xMk49euS2BFcGJ_Nc5yqANxd1nLZF1lto&usqp=CAU
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
 #EXTINF:30, Miami TV Mexico
-#EXTINF:0,Miami TV Mexico tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" -Miami TV Mexico
+#EXTINF:0,Miami TV Mexico tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png
 #EXTVLCOPT:network-caching=1000
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
