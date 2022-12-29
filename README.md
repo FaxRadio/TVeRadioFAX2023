@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTM3U url-tvg=" http://grade-de-radiofax.xml "
@@ -28,10 +29,13 @@ https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
  ############## sporte ############## ###     
                  
 #EXTINF:-1 tvg-id=" iddocanaldesporte " group-title=" 
-
+#EXTM3U
+#EXTINF:59,Fox Sports 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTVLCOPT:network-caching=1000
+https://3.ultimate2019.com/stream/hls/53
 #EXTINF:0,MMA tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/ClearOffensiveFinnishspitz-size_restricted.gif" -MMA
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-
 #EXTINF:0, Sports  HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://i.gifer.com/origin/1e/1e89ce5181a2f5e3e154775514a5132a.gif" -Sports 
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f32d2db0af67400077f29c4/3063648/playlist.m3u8?terminate=false&sid=cb1a6dfd-679e-11ed-ab24-0242ac110003&deviceDNT=0&deviceLat=-23.5229&deviceLon=-47.2817&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjYjFhNmRmZC02NzllLTExZWQtYWIyNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODAuMzEiLCJjaXR5IjoiQWx1bWluaW8iLCJwb3N0YWxDb2RlIjoiMTgxMjUiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjMuNTIyOSwiZGV2aWNlTG9uIjotNDcuMjgxNywicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA3LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi43LjEtMzhkNTIxODg5YjVjMmNkMDA5ZDI5ZWZiOGMwMzU1ZTEwMDI4YzMxZCIsImNsaWVudElEIjoiNGM1YjYxNmYtNjVmMC00YjhmLWJhM2EtYTg5NjIxZDY4ZTdlIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY2ODg0NTUyMiwianRpIjoiNjIzMTYzMmYtZWJiOS00NDNlLTg5MGUtNTNjZWQ2ZGMxZjU1IiwiaWF0IjoxNjY4ODE2NzIyLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6TkdNMVlqWXhObVl0TmpWbU1DMDBZamhtTFdKaE0yRXRZVGc1TmpJeFpEWTRaVGRsIn0.vZiHXfV1joRGl8qs5zszAPugjdIHgAzK1XPyvzWpSnI 
 #EXTINF:0,FOX Sports 2 HD tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" -FOX Sports 2 HD
@@ -209,208 +213,10 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/165
 #EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/164
 
-#EXTM3U url-tvg=" http://grade-de-Esportes em português: automobilismo.xml "  
-          
- ############## Esportes em português: automobilismo ############## ###     
-                 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes em português: automobilismo" group-title=" 
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo:
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=443
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=444
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=460
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1314
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 5
-https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=445
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=633
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 9
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=692
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 10
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=846
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 11
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=925
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 12
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=927
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 13
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1322
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 14
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1755
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em português: automobilismo: 15
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020
-
-#EXTM3U url-tvg=" http://grade-de-Esportes em inglês lutas.xml "  
-          
- ############## Esportes em inglês lutas############## ###     
-                 
-#EXTINF:-1 tvg-id=" iddocanaldeEsportes em inglês lutas " group-title=" 
-
-
-#EXTINF:-1 tvg-id="5d815e489b315b154db2e053" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="Esportes em inglês: lutas",American Gladiators | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815e489b315b154db2e053/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:-1 tvg-id="62792f34f3aa05000728841e" tvg-logo="http://images.pluto.tv/channels/62792f34f3aa05000728841e/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Bellator MMA | Plutão TV Alemanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Bellator MMA | Plutão TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",faixa preta
-https://ov.ottera.tv/live/master.m3u8?channel=jun_bb
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Faixa Preta 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=903
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Faixa Preta 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=806
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Faixa Preta 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1670
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Faixa Preta 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1760
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Faixa Preta 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1782
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Faixa Preta 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
-#EXTINF:-1 tvg-id="5fac425f949b4600079938f3" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Boxe | Plutão TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 2
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=113
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 3
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=114
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 4
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=168
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 5
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1786
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 6
-https://ov.ottera.tv/live/master.m3u8?channel=chan_cf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=717
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=721
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=724
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1761
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 6
-https://ov.ottera.tv/live/master.m3u8?channel=jun_cg
-#EXTINF:-1 tvg-id="5bb1ac3e268cae539bcedb07" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Combate World | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Fight | Plutão TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EHWFgjc.png" group-title="Esportes em inglês: lutas",Extreme World Wrestling - fuso 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1371
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EHWFgjc.png" group-title="Esportes em inglês: lutas",Extreme World Wrestling - fuso 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1372
-#EXTINF:-1 tvg-id="5ad8d659fd87eb3a2717afc9" tvg-logo="https://images.pluto.tv/channels/5ad8d659fd87eb3a2717afc9/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Fight | Plutão TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d659fd87eb3a2717afc9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=965
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=857
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=921
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 9
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=966
-#EXTINF:-1 tvg-logo="https://i.imgur.com/12rAqeP.png" group-title="Esportes em inglês: lutas",FITE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2522
-#EXTINF:-1 tvg-logo="https://i.imgur.com/12rAqeP.png" group-title="Esportes em inglês: lutas",FITE 2
-https://cdn-akamai.fite.tv/4038629_fite-247_abr/live/4038629_fite-247/live_722/chunks_dvr.m3u8?embed_site=fite
-#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Glory Kickboxing | Canadá
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ad8d6f5e738977e2c310949" tvg-logo="https://images.pluto.tv/channels/5ad8d6f5e738977e2c310949/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Glory Kickboxing | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="Esportes em inglês: lutas",Grappling Network
-https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="Esportes em inglês: lutas",Grappling Network | Local Agora
-https://thegrapplingnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62587d025d06634715394672_thegrapplingnetwork-live-1/236.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-logo="https://i.imgur.com/xxRq9Z3.png" group-title="Esportes em inglês: lutas",Hard Knocks
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1352
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Esportes em inglês: lutas",Impact Plus | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=776
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Esportes em inglês: lutas",Impact Plus | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=829
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Esportes em inglês: lutas",Impact Plus | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=964
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Esportes em inglês: lutas",Impact Plus | EUA 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y4kDz7H.png" group-title="Esportes em inglês: lutas",Impact Rebellion | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1770
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | Plutão TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="Esportes em inglês: lutas",MMA Junkie
-https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
-#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="Esportes em inglês: lutas",MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=802
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | Rakuten
-https://alchimie-mmatv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mmatv-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=803
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=804
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1308
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 5
-https://ov.ottera.tv/live/master.m3u8?channel=mma_mm
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=819
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1330
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1684
-#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Pro Wrestling | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Esportes em inglês: lutas",PWTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2529
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Esportes em inglês: lutas",PWTV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2540
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Esportes em inglês: lutas",PWTV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Esportes em inglês: lutas",PWTV 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2528
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Esportes em inglês: lutas",PWTV 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=997
-#EXTINF:-1 tvg-id="603fde9026ecbf0007752c2c" tvg-logo="http://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Vs. | Plutão TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/603fde9026ecbf0007752c2c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes em inglês: lutas",XFC TV | Distro TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes em inglês: lutas",XFC TV | Galxy TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1985
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes em inglês: lutas",XFC TV | Galxy TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2588
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes em inglês: lutas",XFC TV | Galxy TV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2599
 #EXTM3U url-tvg=" http://grade-de-camera.xml "
 
 ############## Camera #################  
 
-#EXTINF:0,Câmeras da Dutra Entrada tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://camerasdomundo.com/wp-content/uploads/2022/07/via-dultra-ao-vivo.jpg" -Câmeras da Dutra Entrada
-https://mia.rtsp.me/Yu22rBYM-ABg0LAoFS8s1w/1671811219/hls/dN42a6Sy.m3u8?ip=45.167.183.151
-#EXTINF:0,Câmeras da Dutra Saida tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://camerasdomundo.com/wp-content/uploads/2022/07/via-dultra-ao-vivo.jpg" -Câmeras da Dutra Saida 
-https://mia.rtsp.me/XVAGQL2Pi_DySK5CfY4s1A/1671811425/hls/BkkN7hk7.m3u8?ip=45.167.183.151
 #EXTINF:0,Goiânia - Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68bf6c7c7f91f58a1fe48b3cd12e23bb.webp" -Goiânia - Panorâmica
 https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
 #EXTINF:0,Brasília Asa Sul tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2020/04/04/842306/20200404012621153669i.JPG" -Brasília Asa Sul
@@ -422,6 +228,15 @@ https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.st
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
 
 ############## alexsilva ################# 
+#EXTM3U
+#EXTINF:156,Space
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTVLCOPT:network-caching=1000
+https://3.ultimate2019.com/stream/hls/83
+#EXTINF:156,Space Sur
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTVLCOPT:network-caching=1000
+https://3.ultimate2019.com/stream/hls/751
 #EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
 https://server100.online/space/video.m3u8?token=b6d849fa6e32a02ad6e056ee2e8b8613e1490131-791be848d6a1eb6e011903ccb55019a5-1670978656-1670975056&remote=45.167.180.31
 #EXTINF:0,SPACE HD² tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
@@ -506,7 +321,9 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/240
 https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1000772454.m3u8
 #EXTINF:0,HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTCOCVAKTtvx0VVzIvW0K1j4jhtnWnsx9U4Mk1IzyTS1GP4imXuogkD9TvOX9bDpkG7k&usqp=CAU" -HBO
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/246
-#EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="https://imgur.com/pLbz2Vb.png" group-title="TV",HISTORY 2
+
+
+#EXTINF:0,HISTORY 2tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://imgur.com/pLbz2Vb.png" -HISTORY 2
 http://cdn.connectbr.com.br/h2/index.m3u8
 #EXTINF:0,HBO  tvg-id="iddocanaldetelevisao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCTCOCVAKTtvx0VVzIvW0K1j4jhtnWnsx9U4Mk1IzyTS1GP4imXuogkD9TvOX9bDpkG7k&usqp=CAU" -HBO
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/245
@@ -812,7 +629,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 https://stmv1.samcast.com.br/7tvs/7tvs/chunklist_w194514046.m3u8
 #EXTINF:0,BAND Sportes tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Sportes
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w491219069.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://imgur.com/DCeA5Jt.png" group-title="TV",BAND NEWS
+
+
+#EXTINF:0,Bandnews tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://imgur.com/DCeA5Jt.png" -Bandnews
 http://suatv.fun:80/canaisp2p/mudar@2021j45/415610
 #EXTINF:0,BAND Minas tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCCdYyV1PGPBg-cCc4DWY9afb1KTOyi7oazjqzryAwDSC3UJELMyAKooAiiyfW3I0gis&usqp=CAU" -BAND Minas
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
@@ -854,7 +673,8 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:0,TV agua boa tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/13c521cefbb5fde40d549a9d66891530.webp" -TV agua boa
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT - TV JORNAL (PE)
+
+#EXTINF:0,TV JORNAL (PE) tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://imgur.com/3Mrx9Ee.png" -TV JORNAL (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
 #EXTINF:0,SBT TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" -SBT TV
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -872,7 +692,9 @@ https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:0,Globo SP TV tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo SP TV
 http://tv1.cs10.tv:25461/live/imp55043385/74352/8.m3u8
-#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://imgur.com/CaMJvCz.png" group-title="TV",Globo RJ
+
+
+#EXTINF:0,Globo RJ tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" -Globo RJ
 http://suatv.fun:80/canaisp2p/mudar@2021j45/416384
 #EXTINF:0,canal do boi tvg-id="iddocanaldetvaberta" group-title="tvaberta" tvg-logo="https://pbs.twimg.com/profile_images/1295744415735197698/lISgKV06_400x400.jpg" -canal do boi
 http://168.205.87.198:8555/live/antony/1234/10.m3u8
@@ -1206,7 +1028,13 @@ https://play.prod.gcp.vix.services/the-imposter_pt/the-imposter_pt_1-1/play_v1_h
 https://play.prod.gcp.vix.services/old-machine_pt/old-machine_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,Onde Está Deus? tvg-id="iddocanaldefilmebiblico" group-title="filmebiblico" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/where-is-good_pt/where-is-good_pt_200x300.jpg" -Onde Está Deus?
 https://play.prod.gcp.vix.services/where-is-good_pt/where-is-good_pt_1-1/play_v1_hls_1080p.m3u8
-#### Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ## ###### Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ####
+
+#EXTM3U url-tvg=" http://grade-de-Brasil: cristianismo em português.xml "
+
+ ############## Brasil: cristianismo em português ################ #   
+
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil: cristianismo em português" group-title="
+
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova - YT | Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/tvcancaonova/live
 #EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova | Portugal
@@ -1239,14 +1067,10 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
 #EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" group-title="Brasil: cristianismo em português",Ideal TV | Brasil
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="Brasil: cristianismo em português",Igreja Online | Portugal
-http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="Brasil: cristianismo em português", KKTV | Angola
 http://195.22.22.66:1935/kktv_ang_apps/kktv_ang_pt1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="Brasil : cristianismo em português",Kuriakos Cine | Portugal
 http://c2.manasat.com:1935/kcine/kcine1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Brasil: cristianismo em português",Kuriakos Música | Portugal
-http://c2.manasat.com:1935/kmusic/kmusic1/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Brasil: cristianismo em português",Kuriakos TV | Portugal
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="Brasil: cristianismo em português",Maná 1 | Portugal
@@ -2204,7 +2028,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1940
  ############## Música: HQM ############## ###     
                  
 #EXTINF:-1 tvg-id=" iddocanaldeMúsica: HQM" group-title=" 
-#### Música: HQM - só PC ###### Música: HQM - só PC ###### Música: HQM - só PC ###### Música: HQM - só PC ###### Música: HQM - só PC ###### Música: HQM - só PC ###### Música: HQM - só PC ###### Música: HQM - só PC ###### Música: HQM - só PC ###### Música: HQM - só PC #########
+
 #EXTINF:-1 tvg-id="39596c72840d27b213caf4e58c39599a6f2ed203" group-title="Música: HQM - só PC" tvg-logo="https://statics.yowi.tv/files/9ca47a796a3a78ccab8c0ee65df88f87b1a6be18",HQM Arabic - só PC
 https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
 #EXTINF:-1 tvg-id="5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc" group-title="Música: HQM - só PC" tvg-logo="https://statics.yowi.tv/files/1abd8b81fc6ff13a8093f8af52af36e351429895",HQM Baladas - só PC
@@ -2326,504 +2150,6 @@ https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-4/hls_2
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:0,DESENHOS BIBLICOS tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/5e/9d/59/5e9d5919eb5d4e5277956d5d5fb46b61.gif" -DESENHOS BIBLICOS
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/111160
-
-
-
-#EXTM3U url-tvg=" http://grade-de-tvclips.xml "
-
- ############## tvclips ############## ###   
-
-#EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
-
-#EXTINF:0,Abba Rtv tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" -Abba Rtv
-https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
-#EXTINF:0,Tv Imprensa – TVI tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Tv-Imprensa-TVI-300x300.webp" -Tv Imprensa – TVI
-https://streaming03.zas.media:1936/imprensa/imprensa/chunklist_w1128556944.m3u8
-
-#EXTINF:0,Suzuky TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" -Suzuky TV
-https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2077970629.m3u8
-
-#EXTINF:0,KPOP TV PLAY tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" -KPOP TV PLAY
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
-#EXTINF:0,TV AVANT tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjo_b6Jsj47UeowsAfWfNizeh45Vr1GxelpzAMhrOMzpRzRgIVNB7nbtkzcKc2hww2pM&usqp=CAU" -TV AVANT
-https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
-#EXTINF:0,MUSIC TOP tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" -MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b2028000_sleng.m3u8
-#EXTINF:0,As Patroas tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMXs1PucIe9J-1SeMEwWUe0LwlIpMF0rD9CkHiDfRv9mRLgHwaCXoSOqj2YbdcfwRefI&usqp=CAU" -As Patroas
-https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
-#EXTINF:0,HITS  tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" -HITS
-https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
-#EXTINF:0,TV sertaneja 2 tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://yt3.ggpht.com/VrAsGmOdacwOci2GbGdyqoUgStMD07TEZiK3btJiGRCSja-Ki3RSpDCzC0SnoBy4-KYkCQLs=s176-c-k-c0x00ffffff-no-rj-mo" -TV sertaneja 2
-https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
-#EXTINF:0,Alvorada Sertaneja tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/logotipo.png" -Alvorada Sertaneja
-http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://i.gifer.com/FPAL.gif" -CLIPS
-https://5c483b9d1019c.streamlock.net/8006/8006/chunklist_w1984678252.m3u8
-#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" -CLIPS
-https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
-#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif" -CLIPS
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-#EXTINF:0,MASTER SHOW TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png" -MASTER SHOW TV
-https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
-#EXTINF:0,Tv Jovem Hits tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png" -Tv Jovem Hits
-https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
-#EXTINF:0,TV DESTAK tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862" -TV DESTAK
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
-
-
-
-#EXTM3U url-tvg=" http://grade-de-STINGRAY.xml "  
-          
- ############## STINGRAY ############## ###     
-                 
-#EXTINF:-1 tvg-id=" iddocanaldeSTINGRAY" group-title=" 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Greatest Hits
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hit List
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Pop Adulto
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Urban Beat
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hot Country
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-ogordoeomagro.xml "
-
- ############## ogordoeomagro ############## ###   
-
-#EXTINF:-1 tvg-id=" iddocanaldeogordoeomagro " group-title="
-
-#EXTINF:0,A História do Gordo e o Magro tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://78.media.tumblr.com/e9166df006c62ab8e700933380ed02bd/tumblr_nadpunQhT11ry46hlo1_400.gif" -A História do Gordo e o Magro
-https://youtu.be/nDsjrO0fXrU
-#EXTINF:0,VIDA E MORTE DO ATOR OLIVER HARDY (O GORDO E O MAGRO) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="http://24.media.tumblr.com/tumblr_lzyhy4TsMb1qg39ewo1_500.gif" -VIDA E MORTE DO ATOR OLIVER HARDY (O GORDO E O MAGRO)
-https://youtu.be/fVyOHaXbleY
-#EXTINF:0,OGordoEoMagro tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/9a/47/b8/9a47b8a081784525b12981e5b83cc9e2.gif" -OGordoEoMagro
-https://youtu.be/_5GuDiF0uD4
-#EXTINF:0,Água Que Passarinho Não Bebe tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="http://26.media.tumblr.com/tumblr_ly8lfarRnr1qmfv8io4_r1_250.gif" -Água Que Passarinho Não Bebe
-https://youtu.be/_5GuDiF0uD4
-#EXTINF:0,O Destruidor de Lares tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/57/52/ac/5752acb57892a25d704751c9843fb9b8.gif" -O Destruidor de Lares
-https://youtu.be/C6B0dTVPeIo
-#EXTINF:0,Alegria Em Dobro tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/57/52/ac/5752acb57892a25d704751c9843fb9b8.gif" -Alegria Em Dobro
-https://youtu.be/FmIoUbHyOa0
-#EXTINF:0,CHEGA DE CORNETAS tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://fotos.web.sapo.io/i/oa6063737/18423908_ubDPs.gif" -CHEGA DE CORNETAS
-https://youtu.be/7gBNr2H6tiE
-#EXTINF:0,A Chave Do Problema tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.gifer.com/origin/94/94f7de32b8be7aa67ad016e30cf73e39.gif" -A Chave Do Problema
-https://youtu.be/8aEGRVZVcJw
-#EXTINF:0,DOIS BOÊMIOS DO BARULHO" DUBLADO/COLORIDO 1930 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -DOIS BOÊMIOS DO BARULHO" DUBLADO/COLORIDO 1930
-https://youtu.be/kASx6FnWnUs
-#EXTINF:0,A Vida Militar é Boa (1927)  tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.giphy.com/media/YWMRBCN7rHlNm/giphy.gif" -A Vida Militar é Boa (1927) 
-https://youtu.be/m420daeC9v0
-#EXTINF:0,ENTREGA A DOMICILIO 1927 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/c1/44/c2/c144c28b806e8aa45b989897cdda2b6f.gif" -O Herói do Navio (1927)
-https://youtu.be/lDkKtRmb-G8
-#EXTINF:0,Dois detetives da pesada 1927 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/c1/44/c2/c144c28b806e8aa45b989897cdda2b6f.gif" -Dois detetives da pesada (1927)
-https://youtu.be/P7VySwNApLE
-#EXTINF:0, Dois Galãs Em Apuros 1928 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/c1/44/c2/c144c28b806e8aa45b989897cdda2b6f.gif" - Dois Galãs Em Apuros (1928)
-https://youtu.be/kYgKrxIT6PE
-#EXTINF:0, O Gordo Herdeiro 1928 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/c1/44/c2/c144c28b806e8aa45b989897cdda2b6f.gif" - O Gordo Herdeiro (1928)
-https://youtu.be/NzqWGza1SAE
-#EXTINF:0,Um Dia Perfeito (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/31/4b/c6/314bc673fd13a36487ca5742bb27f39c.gif" -Um Dia Perfeito (1929)
-https://youtu.be/jZ4Gooe-NII
-#EXTINF:0,Trem do Barulho  (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/31/4b/c6/314bc673fd13a36487ca5742bb27f39c.gif" -Trem do Barulho  (1929)
-https://youtu.be/nzVDR552bzs
-#EXTINF:0,A Liberdade e Seus Perigos (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -A Liberdade e Seus Perigos (1929)
-https://youtu.be/ZPQQ0wV27hA
-#EXTINF:0,DOIS CANÁRIOS NA GAIOLA (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.imgur.com/70ylNB3.gif" -DOIS CANÁRIOS NA GAIOLA (1929)
-https://youtu.be/izhQ63HhG-w
-#EXTINF:0,Descanso Atribulado (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.imgur.com/70ylNB3.gif" -Descanso Atribulado (1929)
-https://youtu.be/HtlYfDkoWy8
-#EXTINF:0,Marinheiros de água doce (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.imgur.com/70ylNB3.gif" -Marinheiros de água doce (1929)
-https://youtu.be/F41bbWd-5qQ
-#EXTINF:0,A HERANÇA ASSOMBRADA (1930) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -A HERANÇA ASSOMBRADA (1930)
-https://youtu.be/8puBwi-G-Eo
-#EXTINF:0,Rififi às avessas (1930) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Rififi às avessas (1930)
-https://youtu.be/6xfk2J666BY
-#EXTINF:0,Noite de Paz, A Herança Mal Assombrada (1930) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Noite de Paz, A Herança Mal Assombrada (1930)
-https://youtu.be/UgebJX5X9ak
-#EXTINF:0,Filho de peixe, peixinho é. (1930) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="http://1.bp.blogspot.com/_8L3yI_IGxRU/TF30pqAH8-I/AAAAAAAAAJY/xdpyCQjpUC0/s320/wh_77282108.jpg" -Filho de peixe, peixinho é. (1930)
-https://youtu.be/wG6SL3J39_I
-#EXTINF:0,UM PREFEITO PERFEITO 1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -UM PREFEITO PERFEITO 1931
-https://youtu.be/sQC6qW5iDLs
-#EXTINF:0,Perdão para dois 1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Perdão para dois 1931
-https://youtu.be/9zR_cYoSKFw
-#EXTINF:0,Dois inquilinos do barulho Colorido1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -Dois inquilinos do barulho Colorido1931
-https://youtu.be/6MGKoDyTzp0
-#EXTINF:0,Uma boa ação nem sempre dá bom resultado 1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Uma boa ação nem sempre dá bom resultado 1931
-https://youtu.be/UMOYzCalGwE
-#EXTINF:0,Dois Birutas Na Legião Estrangeira  1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Dois Birutas Na Legião Estrangeira  1931
-https://youtu.be/wcLn_TSnEi8
-#EXTINF:0,O Herói do Navio (1927) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -UM PREFEITO PERFEITO 1931
-https://youtu.be/bzSEcGPwtfU
-#EXTINF:0,Uma Luta Sem Igual (1932) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Uma Luta Sem Igual (1932)
-https://youtu.be/vZe5PGhmPLI
-#EXTINF:0,Recrutas do barulho(1932) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Recrutas do barulhol (1932)
-https://youtu.be/787MKc5AdgE
-#EXTINF:0,Duas Babás para um Bebê(1932) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Duas Babás para um Bebê (1932)
-https://youtu.be/B9yTxwCuzys
-#EXTINF:0,Papai e Mamãe Por Acaso  (1932) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Papai e Mamãe Por Acaso  (1932)
-https://youtu.be/0YyrRqiAt3k
-#EXTINF:0,Limpa chaminés (1933) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Limpa chaminés (1933)
-https://youtu.be/939ZUEZPK1E
-#EXTINF:0,Um Quebra-Cabeças Para Cabeças Duras (1933) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Um Quebra-Cabeças Para Cabeças Duras (1933)
-https://youtu.be/jl-94mRIi3o
-#EXTINF:0,Um Fantasma Muito Vivo (1934) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Um Fantasma Muito Vivo (1934)
-https://youtu.be/TQR9sBjF5pA
-#EXTINF:0,Procura-se um marido (1934) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Procura-se um marido (1934)
-https://youtu.be/iZBusMHLSWs
-#EXTINF:0,UM DUELO DE AMOR 1935 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -UM DUELO DE AMOR 1935
-https://youtu.be/CGcTcgFDVKg
-#EXTINF:0,Chega de cornetas (1940) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Chega de cornetas (1940)
-https://youtu.be/3Td3xbMqpts
-#EXTINF:0,Festival Gordo e o Magro 01 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/84/ab/f7/84abf795fc1760e1d7a9a60d99005050.gif" -Festival Gordo e o Magro 01
-https://youtu.be/2VVY0NOEE4c
-#EXTINF:0,Apenas um ligeiro engano tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -Apenas um ligeiro engano
-https://youtu.be/2ec4oTtjyX8
-#EXTINF:0,Sossega, leão! tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -Sossega, leão!
-https://youtu.be/eP4dVt056TA
-#EXTINF:0,na Sorveteria tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -na Sorveteria
-https://youtu.be/rXVU1PwYln8
-#EXTINF:0,O Grande Negócio tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -O Grande Negócio
-https://youtu.be/B24alDaAekU
-#EXTINF:0,A última imagem do Gordo e o Magro em 1956. tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://pbs.twimg.com/media/Dp1RuitWkAAl8aT.jpg" -A última imagem do Gordo e o Magro em 1956.
-https://youtu.be/2IxDyxKELvI
-#EXTINF:0,O Gordo e o Magro A Liberdade e Seus Perigos (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://1.bp.blogspot.com/-xlXj5nNyBIo/XujaNRC9NoI/AAAAAAAAS9w/cBVLcXqj_88PTkwbYeOy1kzGkHpfhFaZgCLcBGAsYHQ/s1600/5752acb57892a25d704751c9843fb9b8.gif" -O Gordo e o Magro A Liberdade e Seus Perigos (1929)
-https://youtu.be/ZPQQ0wV27hA
-#EXTINF:0,O Gordo e o Magro -Água Que Passarinho Não Bebe tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="http://27.media.tumblr.com/tumblr_luvkuhkTFu1qhgzjro2_250.gifhttps://i.pinimg.com/originals/8b/db/62/8bdb62e878efac5387038530cff8b120.gif
-https://youtu.be/_5GuDiF0uD4
-#EXTINF:0,O Gordo e o Magro -Silêncio, Hospital! (1932)  tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/55/5f/8b/555f8bf8cb9ea44a4068d5bf408282cf.gif" -O Gordo e o Magro Silêncio, Hospital! (1932)
-https://youtu.be/gQNoGd8kets
-#EXTINF:0,O Gordo e o Magro -Dois Birutas Na Legião Estrangeira (1931) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/d2/b8/5e/d2b85efb8b954a731e1dea43ffc8d470.gif" -O Gordo e o Magro Dois Birutas Na Legião Estrangeira (1931)
-https://youtu.be/wcLn_TSnEi8
-#EXTINF:0,O Gordo e o Magro -Patrulheiros em alerta (1933) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/9a/47/b8/9a47b8a081784525b12981e5b83cc9e2.gif" -O Gordo e o Magro Patrulheiros em alerta (1933)
-https://youtu.be/yUZJFgDexRg
-
-#EXTM3U url-tvg=" http://grade-de-radio.xml "
-
- ############## radio ################ #   
-
-#EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
-
-
-#EXTINF:0,radio mix tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" -radio mix
-https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
-#EXTINF:0,Super Rádio Tupi tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg" -Super Rádio Tupi
-https://8903.brasilstream.com.br/stream?1649568567935/live
-#EXTINF:0,Rádio Bandeirantes tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg" -Rádio Bandeirantes
-https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC.aac
-#EXTINF:0,Jovem Pan FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jovem_Pan_FM_Marca_2022.jpg/800px-Jovem_Pan_FM_Marca_2022.jpg" -Jovem Pan FM
-https://26143.live.streamtheworld.com/JP_SP_FMAAC.aac?1655836765030
-#EXTINF:0,radio mix tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" -radio mix
-https://8923.brasilstream.com.br/stream?1649567398017
-#EXTINF:0,Radio Total Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rcE8RAPGud.jpg" -Radio Total Hits
-https://stream-57.zeno.fm/bykfgnbuk2zuv?zs=JxT2WT1CR7Wf9YTu7xFnsw
-#EXTINF:0,Rádio Energia tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.wixstatic.com/media/032e42_49688ce1f5194145bef65c5848752291.gif" -Rádio Energia
-http://audio.97fm.com.br/energia
-#EXTINF:0,RÁDIO DISNEY tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerhero_2_v2_d8636a83.gif" -RÁDIO DISNEY
-https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/playlist.m3u8?dist=web-radiodisney
-#EXTINF:0,RÁDIO DISNEY sp  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/s_video_channelsquares_radiodisney_cfbe1301.gif" -RÁDIO DISNEY sp
-https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/506f65ef-093f-466e-b883-c89ea7bdb21b/0/playlist.m3u8
-#EXTINF:0,Stingray Greatest Hits  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMSUbw7i5ZeQhh9Q4OonrhW-QtF9PFzuPHf-FmURsbfaU-bQ_zHmpjpAxKZIolqup95g&usqp=CAU" -Stingray Greatest Hits
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:0,Stingray Hit List  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png" -Stingray Hit List
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:0,Stingray Classic Rock  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://smotret.tv/images/stingray-classic-rock.webp" -Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:0,Stingray Rock Alternative  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png" -Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:0,Stingray Pop Adult tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png" -Stingray Pop Adult
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:0,Stingray Urban Beat tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png" -Stingray Urban Beat
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:0,Stingray Flashback 70s tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNDEftGBTD1o5SqgRZ7tyOPKcqjLEAsR7O-lTcdRQ9ObiYMhuWhbsogHT9LA-LiA7HA&usqp=CAU" -Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:0,Stingray Everything 80s tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png" -Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:0,Stingray Today's Latin Pop tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/todays-latin-pop_thumbh_20200718_001031.jpg" -Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#EXTINF:0, RÁDIO ELDORADO FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://eldorado87.com.br/wp-content/uploads/2022/03/logoeldoradofm-288x300.png" - RÁDIO ELDORADO FM
-http://cast4.audiostream.com.br:8652/mp3
-#EXTINF:0,RÁDIO FM PREMIUM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://pbs.twimg.com/profile_images/722893999531536384/ZiynlZVB_400x400.jpg" -RÁDIO FM PREMIUM
-http://cast4.audiostream.com.br:8663/mp3
-#EXTINF:0,RÁDIO GRENAL FMtvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://cdn-profiles.tunein.com/s176373/images/logod.jpg?t=636984330970000000" -RÁDIO GRENAL FM
-http://cast4.audiostream.com.br:8649/mp3
-#EXTINF:0,RÁDIO IMBÉ FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://play-lh.googleusercontent.com/lePN9a_MzDOxZzYLQ-nf9HjfeOs8Iy96loQ9j7wzsKih_AMJUNUrC8-SqMEoMuaC4S8" -RÁDIO IMBÉ FM
-http://cast4.audiostream.com.br:8660/mp3
-#EXTINF:0,RÁDIO LIBERDADE FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.radioliberdadefm.net/admin/assets/img/logo.png" -RÁDIO LIBERDADE FM
-http://cast4.audiostream.com.br:8655/mp3
-#EXTINF:0,RÁDIO PAMPA FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/radiopamap.png" -RÁDIO PAMPA FM
-http://cast4.audiostream.com.br:8653/mp3
-#EXTINF:0,RÁDIO FM XANGRI-LÁ tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoMJ9K8pZJyLAn06h8rS_lQtv8OMZ5zdN2VdKnVubVs1k55Jj4FBA_5P23vQrgEL91NI&usqp=CAU" -RÁDIO FM XANGRI-LÁ
-http://cast4.audiostream.com.br:8659/mp3
-#EXTINF:0,RÁDIO FM TRAMANDAÍ tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/17558.v4.png" -RÁDIO FM TRAMANDAÍ
-http://cast4.audiostream.com.br:8658/mp3
-#EXTINF:0,RÁDIO FM EXPRESS tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio63305_1530732391.jpg" -RÁDIO FM EXPRESS
-http://cast4.audiostream.com.br:8648/mp3
-#EXTINF:0,RÁDIO FM TORRES tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f646e0a61338f95e080b07fee382aebf.jpg" -RÁDIO FM TORRES
-http://cast4.audiostream.com.br:8661/mp3
-#EXTINF:0,RÁDIO FM CIDREIRA tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio28375_1634155269.jpg" -RÁDIO FM CIDREIRA
-http://cast4.audiostream.com.br:8657/mp3
-#EXTINF:0,Bossa Nova tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://br.radio.net/images/broadcasts/e1/c1/11166/1/c300.png" -Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:0,Pagode tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPbwBOGbH1yKzaZvWKZOS0-P-zazGIB1fm74KZq0kh2uTlUxCQY-8vxkT4zUFmIkaad0&usqp=CAU" -Pagode
-http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:0,Anos 2000 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://spaceks.net/sites/radiotransmundial.com.br/images/pubs/user_1428162818.jpg" -Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:0,Lounge tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.wixstatic.com/media/13d90d_25c688f3676c427ea471aeafadb547ef~mv2.gif" -Lounge
-http://6d9a.webradio.upx.net.br:9064/stream
-#EXTINF:0,Pop Rock tvg-id="iddocanalderadio" group-title="radio" tvg-logo="http://4.bp.blogspot.com/-k22tp5gL0xI/VPXyEp7lK9I/AAAAAAAAMqA/8EQ66dQ3-Es/s1600/Rock%2B4.gif" -Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream
-#EXTINF:0,Festa tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://4.bp.blogspot.com/-jyklfMBqaJg/XRzPNEov2FI/AAAAAAAAAQw/Zc0jGQvjzIYXPTHs2dLc25eI18B0f3QTwCLcBGAs/s1600/0783cb_354d4952e97f4a3893289b47880e6d90_mv2.gif" -Festa
-http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:0,Música Clássica tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://3.bp.blogspot.com/-YGKJeePCwNs/VtM75OvajtI/AAAAAAAAO6g/LJzBf4Yoj9k/s1600/gifs-gifs-animados-de-musica-45.gif" -Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream
-#EXTINF:0,New Rock tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://thumbs.gfycat.com/MixedNauticalBaiji-max-1mb.gif" -New Rock
-http://6d9a.webradio.upx.net.br:8028/stream
-#EXTINF:0,Pop Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://media.tenor.com/-W-RL6pe8bMAAAAC/pop-music.gif" -Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:0,Metal tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.gifer.com/origin/88/88b25338ceb18ee87f5285444fa32a8c_w200.gif" -Metal
-http://6d9a.webradio.upx.net.br:9898/stream
-#EXTINF:0,Trilhas Sonoras tvg-id="iddocanalderadio" group-title="radio" tvg-logo="http://4.bp.blogspot.com/-jRV9TmUKLC8/TpuHXEXIk2I/AAAAAAAAAOs/uu4yw5CkbYo/s1600/tumblr_lt55vlR5Le1qj5dhoo1_500.gif" -Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream
-#EXTINF:0,Radio Tropical Recife tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k67T6EMRSn.png" -Radio Tropical Recife 
-http://198.24.165.180:9762/;
-#EXTINF:0,Radio Laser 93.3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EAPBpnsJms.png" -Radio Laser 93.3
-https://8577.brasilstream.com.br/stream
-#EXTINF:0,Radio Massa 92.9 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png" -Radio Massa 92.9
-https://stm01.virtualcast.com.br:8000/live
-#EXTINF:0,Radio nativa 95,3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Kqh77h3b9Q.jpeg" -Radio nativa 95,3
-https://22203.live.streamtheworld.com/NATIVA_SP_SC
-#EXTINF:0,Radio nativa 89,3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsB9TVKAXE.png" -Radio nativa 89,3
-https://cast4.hoost.com.br:20143/stream
-#EXTINF:0,Radio Band 96.1 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xBFjTdAKBH.jpg" -Radio Band 96.1
-https://24403.live.streamtheworld.com/BANDFM_SPAAC/HLS/09a5e691-3cb8-446e-8a4b-3ac7d3469591/0/7.aac
-#EXTINF:0,Radio comeia fm tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DyS4RwKRdU.png" -Radio comeia fm
-https://stm01.virtualcast.com.br:8138/live
-#EXTINF:0,Radio coluna tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uqkpsltjbkap.png" -Radio coluna
-http://198.24.165.180:9626/;
-#EXTINF:0,Radio MIX 101,1 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n4QyzNyx9K.png" -Radio MIX 101,1
-https://26483.live.streamtheworld.com/MIXFM_CAMPINASAAC_SC?dist=mix-web-player-radio-ao-vivo
-#EXTINF:0,Radio Sertanejo  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" -Radio Sertanejo
-https://live.hunter.fm/sertanejo_normal
-#EXTINF:0,Radio TOP FM  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" -Radio TOP FM 
-http://cloud1.cdnseguro.com:16806/stream/;
-#EXTINF:0,Radio Dance tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hVejQa99KB.jpg" -Radio Dance
-https://stream-26.zeno.fm/7z9dmhaens8uv?zs=tN2R5aGRRuCqstj-peVLLA
-#EXTINF:0,Radio Sertanejo Raiz tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" -Radio Sertanejo Raiz
-http://station.radionanet.com:8330/1;
-#EXTINF:0,Radio  Raiz forte tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" -Radio  Raiz forte
-https://stream-57.zeno.fm/4dzm2padd8zuv?zs=QQ3DU5TfT1q2EydL4_Bisw
-#EXTINF:0,Radio Recife tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" -Radio Recife 
-http://zoeweb.net:8046/;stream.mp3
-#EXTINF:0,Rádio Sorriso 99.1 FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png" -Rádio Sorriso 99.1 FM
-https://paineldj5.com.br:2213/stream
-#EXTINF:0,Rádio Convenção AM Itu tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.convencaomais.com.br/uploads/images/2022/05/radio-convencao-a.png" -Rádio Convenção AM Itu
-https://8745.brasilstream.com.br/stream
-#EXTINF:0,Rádio Olinda ao vivo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png" -Rádio Olinda ao vivo
-http://cast2.hoost.com.br:9158/stream
-#EXTINF:0,Radio Pagode 90 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png" -Radio Pagode 90
-https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
-#EXTINF:0,Radio Sertanejo FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" -Radio Sertanejo FM
-https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
-#EXTINF:0,América Country tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png" -América Country
-https://ais-sa2.cdnstream1.com/1976_128.mp3
-#EXTINF:0,América Country tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png" -América Country
-https://streaming.radiostreamlive.com/radiocountrylive_devices
-#EXTINF:0,Nativa 97,5 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg" -Nativa 97,5
-https://centova5.transmissaodigital.com:20060/;
-#EXTINF:0,Radio Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" -Radio Sertanejo
-https://stm1.mestrestream.xyz:7020/stream
-#EXTINF:0,Radio Sertanejo FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jnvnz4kaw7eh.png" -Radio Sertanejo FM
-https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
-#EXTINF:0,Radio Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png" -Radio Sertanejo
-https://servidor.geracaoradios.com/listen/sertaneja/stream
-#EXTINF:0, Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" -Sertanejo
-https://live.hunter.fm/sertanejo_normal
-#EXTINF:0, Radio Globo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" -Radio Globo
-https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
-#EXTINF:0, Radio Capital tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg" -Radio Capital
-https://f53.fabricahost.com.br/capitalfmsp?f=1667683638N01GH4V1PW7WGVGDYY4Q2CXBTZ7&tid=01GH4V1PW7Q8J8CPQFX05ZY3RP
-#EXTINF:0, radio Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" -radio Hits
-https://ice1.streeemer.com:8020/radio.mp3
-#EXTINF:29,Marilia Mendonça Antigas 
-#EXTINF:0, Antena 1
-#EXTVLCOPT:network-caching=1000
-http://antena1.newradio.it/stream2?ext=.mp3
-#EXTINF:0, Itapoan FM
-#EXTVLCOPT:network-caching=1000
-http://streaming.livecenter.com.br:9300/stream/1/
-#EXTINF:59, Atlantida FM
-#EXTVLCOPT:network-caching=1000
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
-#EXTINF:0, Guaiba FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8007/app
-#EXTINF:0, S30 MaxCast Web Rádio
-#EXTVLCOPT:network-caching=1000
-http://s30.maxcast.com.br:8190/live
-#EXTINF:0, METROPOLITANA FM AO VIVO
-#EXTVLCOPT:network-caching=1000
-http://ice.paineldj3.com.br:8004/stream
-#EXTINF:0, RÁDIO 104 FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8651/mp3
-#EXTINF:59, RÁDIO ATLÂNTIDA FM
-#EXTVLCOPT:network-caching=1000
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0, RÁDIO CAIÇARA FM/AM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8654/mp3
-#EXTINF:0, RÁDIO CAPÃO FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8656/mp3
-#EXTINF:0, RÁDIO CONTINENTAL FM
-#EXTINF:30,Som Que Alimenta - Top Louvores 2022 - As Melhores Músicas do Gospel - Rádio Gospel Online 24 Horas Ao Vivo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667675510/ei/FWFmY_mnLuai4dUPioarqAs/ip/45.167.180.31/id/YVpKpueQ7hk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPmfP7Shk8EsPg7Yxs--YhNcqOAVgsEJ8Z9erKjH61FTAiEAsi3qHiMo-GafBBuof4WYj89ugAL81mk777WakvnV3is%3D/file/index.m3u8
-#EXTINF:0,SERTANEJA FM
-https://alanza.iptv2022.com/VIDA_SERTANEJA_FM/tracks-v1a1/mono.m3u8
-#EXTINF:0,BOSSA NOVA
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:0,RÁDIO ATLÂNTIDA FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0,RÁDIO ELDORADO FM
-http://noasrv.caster.fm:10136/stream
-#EXTINF:0,Anos 90
-http://6d9a.webradio.upx.net.br:9940/stream?Arlen
-#EXTINF:0,Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream?Arlen
-#EXTINF:0,Pagode
-http://6d9a.webradio.upx.net.br:9061/stream?Arlen
-#EXTINF:0,Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream?Arlen
-#EXTINF:0,Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream?Arlen
-#EXTINF:0,Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream?Arlen
-#EXTINF:0,chitãozinho e xororó
-https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
-#EXTINF:0,Energia 97 FM
-https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
-#EXTINF:0,Rádio Clube TV 
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:0,Rádio Sociedade
-https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
-#EXTINF:0,Rádio UFRGS
-http://radioaovivo.ufrgs.br:8000/stream.mp3
-
-
-#EXTM3U url-tvg=" http://grade-de-Brasil: rádios em português.xml "  
-          
- ############## Brasil: rádios em português ############## ###     
-                 
-#EXTINF:-1 tvg-id=" iddocanaldeBrasil: rádios em português" group-title=" 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="Brasil: rádios em português",98 FM | BH MG
-https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="Brasil: rádios em português" - Alpha FM | Osasco SP
-https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="Brasil: rádios em português",Band FM | Campinas SP
-https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: rádios em português",BandNews FM | YT São Paulo SP
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: rádios em português",BandNews FM | Goiânia GO
-https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: rádios em português",CBN RJ | Brasil
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: rádios em português",CBN SP | Brasil
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Brasil: rádios em português",Cultura do Pará - Brasil
-https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="Brasil: rádios em português" - Dumont FM | Jundiaí SP
-https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="Brasil: rádios em português" - Educadora FM | Campinas SP
-https://evpp.mm.uol.com.br/band/educadora/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="Brasil: rádios em português",Energia 97 FM | Santo Andre SP
-https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
-#EXTINF:-1 tvg-language="Português" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="Brasil: rádios em português",Rádio Clube TV | Portugal
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="Brasil: rádios em português",Rádio Sociedade | Salvador BA
-https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="Brasil: rádios em português",Rádio UFRGS | RS Brasil
-http://radioaovivo.ufrgs.br:8000/stream.mp3
-
-#EXTM3U url-tvg=" http://grade-de-dinho santos.xml "
-
- ############## dinho santos ################ #   
-
-#EXTINF:-1 tvg-id=" iddocanaldedinho santos " group-title="
-
-#EXTINF:0,A Sozinho na Rua tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -Sozinho na Rua
-https://video.wixstatic.com/video/c634a0_066356af468640b493c842fc204d42b5/360p/mp4/file.mp4
-#EXTINF:0,A Culpa é sua tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -A Culpa é sua
-https://video.wixstatic.com/video/c634a0_499f021c57424cbda4f193174decd33d/720p/mp4/file.mp4
-#EXTINF:0,7 dias da semana tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -7 dias da semana
-https://video.wixstatic.com/video/c634a0_bb3cac51cacc4d8581027be2dc1ca135/720p/mp4/file.mp4
-#EXTINF:0,O Cara Errado tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -O Cara Errado
-https://video.wixstatic.com/video/c634a0_43b2a803bcd34217b79e33c8f839e453/720p/mp4/file.mp4
-#EXTINF:0,Pagina Virada tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -Pagina Virada
-https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
-#EXTINF:0,ao vivo tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -ao vivo
-https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
-
-#EXTM3U url-tvg=" http://grade-de-traduçao.xml "
-
- ############## traduçao ################ # 
-  
-#EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
-
-#EXTINF:0,BERLIN TRADUÇAO ALEX SILVA tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -BERLIN TRADUÇAO ALEX SILVA
-https://music.wixstatic.com/preview/c634a0_64ba8f681d844fd9934fbec63ebc9bf9-128.mp3
-#EXTINF:0,I should have known better tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -I should have known better
-https://music.wixstatic.com/preview/c634a0_bd81dd16096945288529769194799293-128.mp3
-#EXTINF:0,Please Forgive Me PERDOE tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Please Forgive Me PERDOE
-https://music.wixstatic.com/preview/c634a0_10b4b08cda154e84b72c1aa938907e2c-128.mp3
-#EXTINF:0,Chicago - Hard To Say I'm Sorry  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Chicago - Hard To Say I'm Sorry 
-https://music.wixstatic.com/preview/c634a0_5f9c1128b36348019325d96d741723b7-128.mp3
-#EXTINF:0,Nothing Love Out Of Nothing At All Air Suplytvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Nothing Love Out Of Nothing At All Air Suply
-https://music.wixstatic.com/preview/c634a0_6b5d9f2a9cd54f5d90af41ccf584407f-128.mp3
-#EXTINF:0,Peter Cetera - The Glory Of Love (Gloria do Amor) tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Peter Cetera - The Glory Of Love (Gloria do Amor)
-https://music.wixstatic.com/preview/c634a0_897c99843dde4f8faa8a0d80fbc96b8d-128.mp3
-#EXTINF:0,Please Don´t Go - KC & The Sunshine Band tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Please Don´t Go - KC & The Sunshine Band
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Roxette Spending My Time PERDENDO MEU TEMPO tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Roxette Spending My Time PERDENDO MEU TEMPO
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Richard Marx - Right Here Waiting  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Richard Marx - Right Here Waiting 
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,We Are The World  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -We Are The World 
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,BRAY ADAMS HEVEM  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -BRAY ADAMS HEVEM 
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Dire Straits So FAR Away- tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Dire Straits So FAR Away-
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Aprecie a vida tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Aprecie a vida
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Eu Ainda Credito em seus olhos tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Eu Ainda Credito em seus olhos
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Rem - Everybody Hurtstvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Rem - Everybody Hurts
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,London London tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -London London
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,We Are The World tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -We Are The World
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 
 #EXTM3U url-tvg=" http://grade-de-Brasil: lifestyle.xml "  
           
@@ -3567,6 +2893,504 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/JroCDcO.png" group-title="Brasil: notícias em português",TV Justiça | YT Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/TVJusticaOficial/live
+
+#EXTM3U url-tvg=" http://grade-de-tvclips.xml "
+
+ ############## tvclips ############## ###   
+
+#EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
+
+#EXTINF:0,Abba Rtv tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" -Abba Rtv
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
+#EXTINF:0,Tv Imprensa – TVI tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Tv-Imprensa-TVI-300x300.webp" -Tv Imprensa – TVI
+https://streaming03.zas.media:1936/imprensa/imprensa/chunklist_w1128556944.m3u8
+
+#EXTINF:0,Suzuky TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" -Suzuky TV
+https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2077970629.m3u8
+
+#EXTINF:0,KPOP TV PLAY tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" -KPOP TV PLAY
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
+#EXTINF:0,TV AVANT tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjo_b6Jsj47UeowsAfWfNizeh45Vr1GxelpzAMhrOMzpRzRgIVNB7nbtkzcKc2hww2pM&usqp=CAU" -TV AVANT
+https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
+#EXTINF:0,MUSIC TOP tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" -MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b2028000_sleng.m3u8
+#EXTINF:0,As Patroas tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMXs1PucIe9J-1SeMEwWUe0LwlIpMF0rD9CkHiDfRv9mRLgHwaCXoSOqj2YbdcfwRefI&usqp=CAU" -As Patroas
+https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
+#EXTINF:0,HITS  tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" -HITS
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
+#EXTINF:0,TV sertaneja 2 tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://yt3.ggpht.com/VrAsGmOdacwOci2GbGdyqoUgStMD07TEZiK3btJiGRCSja-Ki3RSpDCzC0SnoBy4-KYkCQLs=s176-c-k-c0x00ffffff-no-rj-mo" -TV sertaneja 2
+https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
+#EXTINF:0,Alvorada Sertaneja tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/logotipo.png" -Alvorada Sertaneja
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://i.gifer.com/FPAL.gif" -CLIPS
+https://5c483b9d1019c.streamlock.net/8006/8006/chunklist_w1984678252.m3u8
+#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" -CLIPS
+https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
+#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif" -CLIPS
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
+#EXTINF:0,MASTER SHOW TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png" -MASTER SHOW TV
+https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
+#EXTINF:0,Tv Jovem Hits tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png" -Tv Jovem Hits
+https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
+#EXTINF:0,TV DESTAK tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862" -TV DESTAK
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
+
+
+
+#EXTM3U url-tvg=" http://grade-de-STINGRAY.xml "  
+          
+ ############## STINGRAY ############## ###     
+                 
+#EXTINF:-1 tvg-id=" iddocanaldeSTINGRAY" group-title=" 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Pop Adulto
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hot Country
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-ogordoeomagro.xml "
+
+ ############## ogordoeomagro ############## ###   
+
+#EXTINF:-1 tvg-id=" iddocanaldeogordoeomagro " group-title="
+
+#EXTINF:0,A História do Gordo e o Magro tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://78.media.tumblr.com/e9166df006c62ab8e700933380ed02bd/tumblr_nadpunQhT11ry46hlo1_400.gif" -A História do Gordo e o Magro
+https://youtu.be/nDsjrO0fXrU
+#EXTINF:0,VIDA E MORTE DO ATOR OLIVER HARDY (O GORDO E O MAGRO) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="http://24.media.tumblr.com/tumblr_lzyhy4TsMb1qg39ewo1_500.gif" -VIDA E MORTE DO ATOR OLIVER HARDY (O GORDO E O MAGRO)
+https://youtu.be/fVyOHaXbleY
+#EXTINF:0,OGordoEoMagro tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/9a/47/b8/9a47b8a081784525b12981e5b83cc9e2.gif" -OGordoEoMagro
+https://youtu.be/_5GuDiF0uD4
+#EXTINF:0,Água Que Passarinho Não Bebe tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="http://26.media.tumblr.com/tumblr_ly8lfarRnr1qmfv8io4_r1_250.gif" -Água Que Passarinho Não Bebe
+https://youtu.be/_5GuDiF0uD4
+#EXTINF:0,O Destruidor de Lares tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/57/52/ac/5752acb57892a25d704751c9843fb9b8.gif" -O Destruidor de Lares
+https://youtu.be/C6B0dTVPeIo
+#EXTINF:0,Alegria Em Dobro tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/57/52/ac/5752acb57892a25d704751c9843fb9b8.gif" -Alegria Em Dobro
+https://youtu.be/FmIoUbHyOa0
+#EXTINF:0,CHEGA DE CORNETAS tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://fotos.web.sapo.io/i/oa6063737/18423908_ubDPs.gif" -CHEGA DE CORNETAS
+https://youtu.be/7gBNr2H6tiE
+#EXTINF:0,A Chave Do Problema tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.gifer.com/origin/94/94f7de32b8be7aa67ad016e30cf73e39.gif" -A Chave Do Problema
+https://youtu.be/8aEGRVZVcJw
+#EXTINF:0,DOIS BOÊMIOS DO BARULHO" DUBLADO/COLORIDO 1930 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -DOIS BOÊMIOS DO BARULHO" DUBLADO/COLORIDO 1930
+https://youtu.be/kASx6FnWnUs
+#EXTINF:0,A Vida Militar é Boa (1927)  tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.giphy.com/media/YWMRBCN7rHlNm/giphy.gif" -A Vida Militar é Boa (1927) 
+https://youtu.be/m420daeC9v0
+#EXTINF:0,ENTREGA A DOMICILIO 1927 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/c1/44/c2/c144c28b806e8aa45b989897cdda2b6f.gif" -O Herói do Navio (1927)
+https://youtu.be/lDkKtRmb-G8
+#EXTINF:0,Dois detetives da pesada 1927 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/c1/44/c2/c144c28b806e8aa45b989897cdda2b6f.gif" -Dois detetives da pesada (1927)
+https://youtu.be/P7VySwNApLE
+#EXTINF:0, Dois Galãs Em Apuros 1928 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/c1/44/c2/c144c28b806e8aa45b989897cdda2b6f.gif" - Dois Galãs Em Apuros (1928)
+https://youtu.be/kYgKrxIT6PE
+#EXTINF:0, O Gordo Herdeiro 1928 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/c1/44/c2/c144c28b806e8aa45b989897cdda2b6f.gif" - O Gordo Herdeiro (1928)
+https://youtu.be/NzqWGza1SAE
+#EXTINF:0,Um Dia Perfeito (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/31/4b/c6/314bc673fd13a36487ca5742bb27f39c.gif" -Um Dia Perfeito (1929)
+https://youtu.be/jZ4Gooe-NII
+#EXTINF:0,Trem do Barulho  (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/31/4b/c6/314bc673fd13a36487ca5742bb27f39c.gif" -Trem do Barulho  (1929)
+https://youtu.be/nzVDR552bzs
+#EXTINF:0,A Liberdade e Seus Perigos (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -A Liberdade e Seus Perigos (1929)
+https://youtu.be/ZPQQ0wV27hA
+#EXTINF:0,DOIS CANÁRIOS NA GAIOLA (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.imgur.com/70ylNB3.gif" -DOIS CANÁRIOS NA GAIOLA (1929)
+https://youtu.be/izhQ63HhG-w
+#EXTINF:0,Descanso Atribulado (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.imgur.com/70ylNB3.gif" -Descanso Atribulado (1929)
+https://youtu.be/HtlYfDkoWy8
+#EXTINF:0,Marinheiros de água doce (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.imgur.com/70ylNB3.gif" -Marinheiros de água doce (1929)
+https://youtu.be/F41bbWd-5qQ
+#EXTINF:0,A HERANÇA ASSOMBRADA (1930) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -A HERANÇA ASSOMBRADA (1930)
+https://youtu.be/8puBwi-G-Eo
+#EXTINF:0,Rififi às avessas (1930) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Rififi às avessas (1930)
+https://youtu.be/6xfk2J666BY
+#EXTINF:0,Noite de Paz, A Herança Mal Assombrada (1930) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Noite de Paz, A Herança Mal Assombrada (1930)
+https://youtu.be/UgebJX5X9ak
+#EXTINF:0,Filho de peixe, peixinho é. (1930) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="http://1.bp.blogspot.com/_8L3yI_IGxRU/TF30pqAH8-I/AAAAAAAAAJY/xdpyCQjpUC0/s320/wh_77282108.jpg" -Filho de peixe, peixinho é. (1930)
+https://youtu.be/wG6SL3J39_I
+#EXTINF:0,UM PREFEITO PERFEITO 1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -UM PREFEITO PERFEITO 1931
+https://youtu.be/sQC6qW5iDLs
+#EXTINF:0,Perdão para dois 1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Perdão para dois 1931
+https://youtu.be/9zR_cYoSKFw
+#EXTINF:0,Dois inquilinos do barulho Colorido1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -Dois inquilinos do barulho Colorido1931
+https://youtu.be/6MGKoDyTzp0
+#EXTINF:0,Uma boa ação nem sempre dá bom resultado 1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Uma boa ação nem sempre dá bom resultado 1931
+https://youtu.be/UMOYzCalGwE
+#EXTINF:0,Dois Birutas Na Legião Estrangeira  1931 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Dois Birutas Na Legião Estrangeira  1931
+https://youtu.be/wcLn_TSnEi8
+#EXTINF:0,O Herói do Navio (1927) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -UM PREFEITO PERFEITO 1931
+https://youtu.be/bzSEcGPwtfU
+#EXTINF:0,Uma Luta Sem Igual (1932) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Uma Luta Sem Igual (1932)
+https://youtu.be/vZe5PGhmPLI
+#EXTINF:0,Recrutas do barulho(1932) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Recrutas do barulhol (1932)
+https://youtu.be/787MKc5AdgE
+#EXTINF:0,Duas Babás para um Bebê(1932) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Duas Babás para um Bebê (1932)
+https://youtu.be/B9yTxwCuzys
+#EXTINF:0,Papai e Mamãe Por Acaso  (1932) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/tumblr_lzyhwrDcY11qg39ewo1_500.gif" -Papai e Mamãe Por Acaso  (1932)
+https://youtu.be/0YyrRqiAt3k
+#EXTINF:0,Limpa chaminés (1933) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Limpa chaminés (1933)
+https://youtu.be/939ZUEZPK1E
+#EXTINF:0,Um Quebra-Cabeças Para Cabeças Duras (1933) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Um Quebra-Cabeças Para Cabeças Duras (1933)
+https://youtu.be/jl-94mRIi3o
+#EXTINF:0,Um Fantasma Muito Vivo (1934) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Um Fantasma Muito Vivo (1934)
+https://youtu.be/TQR9sBjF5pA
+#EXTINF:0,Procura-se um marido (1934) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Procura-se um marido (1934)
+https://youtu.be/iZBusMHLSWs
+#EXTINF:0,UM DUELO DE AMOR 1935 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -UM DUELO DE AMOR 1935
+https://youtu.be/CGcTcgFDVKg
+#EXTINF:0,Chega de cornetas (1940) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://24.media.tumblr.com/e4506af9eff4b7b8d3bb2b0601e95495/tumblr_mgai4gvmw31ry46hlo1_250.gif" -Chega de cornetas (1940)
+https://youtu.be/3Td3xbMqpts
+#EXTINF:0,Festival Gordo e o Magro 01 tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/84/ab/f7/84abf795fc1760e1d7a9a60d99005050.gif" -Festival Gordo e o Magro 01
+https://youtu.be/2VVY0NOEE4c
+#EXTINF:0,Apenas um ligeiro engano tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -Apenas um ligeiro engano
+https://youtu.be/2ec4oTtjyX8
+#EXTINF:0,Sossega, leão! tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -Sossega, leão!
+https://youtu.be/eP4dVt056TA
+#EXTINF:0,na Sorveteria tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -na Sorveteria
+https://youtu.be/rXVU1PwYln8
+#EXTINF:0,O Grande Negócio tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://gifimage.net/wp-content/uploads/2018/04/laurel-et-hardy-gif-6.gif" -O Grande Negócio
+https://youtu.be/B24alDaAekU
+#EXTINF:0,A última imagem do Gordo e o Magro em 1956. tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://pbs.twimg.com/media/Dp1RuitWkAAl8aT.jpg" -A última imagem do Gordo e o Magro em 1956.
+https://youtu.be/2IxDyxKELvI
+#EXTINF:0,O Gordo e o Magro A Liberdade e Seus Perigos (1929) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://1.bp.blogspot.com/-xlXj5nNyBIo/XujaNRC9NoI/AAAAAAAAS9w/cBVLcXqj_88PTkwbYeOy1kzGkHpfhFaZgCLcBGAsYHQ/s1600/5752acb57892a25d704751c9843fb9b8.gif" -O Gordo e o Magro A Liberdade e Seus Perigos (1929)
+https://youtu.be/ZPQQ0wV27hA
+#EXTINF:0,O Gordo e o Magro -Água Que Passarinho Não Bebe tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="http://27.media.tumblr.com/tumblr_luvkuhkTFu1qhgzjro2_250.gifhttps://i.pinimg.com/originals/8b/db/62/8bdb62e878efac5387038530cff8b120.gif
+https://youtu.be/_5GuDiF0uD4
+#EXTINF:0,O Gordo e o Magro -Silêncio, Hospital! (1932)  tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/55/5f/8b/555f8bf8cb9ea44a4068d5bf408282cf.gif" -O Gordo e o Magro Silêncio, Hospital! (1932)
+https://youtu.be/gQNoGd8kets
+#EXTINF:0,O Gordo e o Magro -Dois Birutas Na Legião Estrangeira (1931) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/d2/b8/5e/d2b85efb8b954a731e1dea43ffc8d470.gif" -O Gordo e o Magro Dois Birutas Na Legião Estrangeira (1931)
+https://youtu.be/wcLn_TSnEi8
+#EXTINF:0,O Gordo e o Magro -Patrulheiros em alerta (1933) tvg-id="iddocanaldeogordoeomagro" group-title="ogordoeomagro" tvg-logo="https://i.pinimg.com/originals/9a/47/b8/9a47b8a081784525b12981e5b83cc9e2.gif" -O Gordo e o Magro Patrulheiros em alerta (1933)
+https://youtu.be/yUZJFgDexRg
+
+#EXTM3U url-tvg=" http://grade-de-radio.xml "
+
+ ############## radio ################ #   
+
+#EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
+
+
+#EXTINF:0,radio mix tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" -radio mix
+https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
+#EXTINF:0,Super Rádio Tupi tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg" -Super Rádio Tupi
+https://8903.brasilstream.com.br/stream?1649568567935/live
+#EXTINF:0,Rádio Bandeirantes tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg" -Rádio Bandeirantes
+https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC.aac
+#EXTINF:0,Jovem Pan FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jovem_Pan_FM_Marca_2022.jpg/800px-Jovem_Pan_FM_Marca_2022.jpg" -Jovem Pan FM
+https://26143.live.streamtheworld.com/JP_SP_FMAAC.aac?1655836765030
+#EXTINF:0,radio mix tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" -radio mix
+https://8923.brasilstream.com.br/stream?1649567398017
+#EXTINF:0,Radio Total Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rcE8RAPGud.jpg" -Radio Total Hits
+https://stream-57.zeno.fm/bykfgnbuk2zuv?zs=JxT2WT1CR7Wf9YTu7xFnsw
+#EXTINF:0,Rádio Energia tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.wixstatic.com/media/032e42_49688ce1f5194145bef65c5848752291.gif" -Rádio Energia
+http://audio.97fm.com.br/energia
+#EXTINF:0,RÁDIO DISNEY tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerhero_2_v2_d8636a83.gif" -RÁDIO DISNEY
+https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/playlist.m3u8?dist=web-radiodisney
+#EXTINF:0,RÁDIO DISNEY sp  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/s_video_channelsquares_radiodisney_cfbe1301.gif" -RÁDIO DISNEY sp
+https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/506f65ef-093f-466e-b883-c89ea7bdb21b/0/playlist.m3u8
+#EXTINF:0,Stingray Greatest Hits  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMSUbw7i5ZeQhh9Q4OonrhW-QtF9PFzuPHf-FmURsbfaU-bQ_zHmpjpAxKZIolqup95g&usqp=CAU" -Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:0,Stingray Hit List  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png" -Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:0,Stingray Classic Rock  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://smotret.tv/images/stingray-classic-rock.webp" -Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:0,Stingray Rock Alternative  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png" -Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:0,Stingray Pop Adult tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png" -Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:0,Stingray Urban Beat tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png" -Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:0,Stingray Flashback 70s tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNDEftGBTD1o5SqgRZ7tyOPKcqjLEAsR7O-lTcdRQ9ObiYMhuWhbsogHT9LA-LiA7HA&usqp=CAU" -Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:0,Stingray Everything 80s tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png" -Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:0,Stingray Today's Latin Pop tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/todays-latin-pop_thumbh_20200718_001031.jpg" -Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:0, RÁDIO ELDORADO FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://eldorado87.com.br/wp-content/uploads/2022/03/logoeldoradofm-288x300.png" - RÁDIO ELDORADO FM
+http://cast4.audiostream.com.br:8652/mp3
+#EXTINF:0,RÁDIO FM PREMIUM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://pbs.twimg.com/profile_images/722893999531536384/ZiynlZVB_400x400.jpg" -RÁDIO FM PREMIUM
+http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:0,RÁDIO GRENAL FMtvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://cdn-profiles.tunein.com/s176373/images/logod.jpg?t=636984330970000000" -RÁDIO GRENAL FM
+http://cast4.audiostream.com.br:8649/mp3
+#EXTINF:0,RÁDIO IMBÉ FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://play-lh.googleusercontent.com/lePN9a_MzDOxZzYLQ-nf9HjfeOs8Iy96loQ9j7wzsKih_AMJUNUrC8-SqMEoMuaC4S8" -RÁDIO IMBÉ FM
+http://cast4.audiostream.com.br:8660/mp3
+#EXTINF:0,RÁDIO LIBERDADE FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.radioliberdadefm.net/admin/assets/img/logo.png" -RÁDIO LIBERDADE FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:0,RÁDIO PAMPA FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/radiopamap.png" -RÁDIO PAMPA FM
+http://cast4.audiostream.com.br:8653/mp3
+#EXTINF:0,RÁDIO FM XANGRI-LÁ tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoMJ9K8pZJyLAn06h8rS_lQtv8OMZ5zdN2VdKnVubVs1k55Jj4FBA_5P23vQrgEL91NI&usqp=CAU" -RÁDIO FM XANGRI-LÁ
+http://cast4.audiostream.com.br:8659/mp3
+#EXTINF:0,RÁDIO FM TRAMANDAÍ tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/17558.v4.png" -RÁDIO FM TRAMANDAÍ
+http://cast4.audiostream.com.br:8658/mp3
+#EXTINF:0,RÁDIO FM EXPRESS tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio63305_1530732391.jpg" -RÁDIO FM EXPRESS
+http://cast4.audiostream.com.br:8648/mp3
+#EXTINF:0,RÁDIO FM TORRES tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f646e0a61338f95e080b07fee382aebf.jpg" -RÁDIO FM TORRES
+http://cast4.audiostream.com.br:8661/mp3
+#EXTINF:0,RÁDIO FM CIDREIRA tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio28375_1634155269.jpg" -RÁDIO FM CIDREIRA
+http://cast4.audiostream.com.br:8657/mp3
+#EXTINF:0,Bossa Nova tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://br.radio.net/images/broadcasts/e1/c1/11166/1/c300.png" -Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:0,Pagode tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPbwBOGbH1yKzaZvWKZOS0-P-zazGIB1fm74KZq0kh2uTlUxCQY-8vxkT4zUFmIkaad0&usqp=CAU" -Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:0,Anos 2000 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://spaceks.net/sites/radiotransmundial.com.br/images/pubs/user_1428162818.jpg" -Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:0,Lounge tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.wixstatic.com/media/13d90d_25c688f3676c427ea471aeafadb547ef~mv2.gif" -Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:0,Pop Rock tvg-id="iddocanalderadio" group-title="radio" tvg-logo="http://4.bp.blogspot.com/-k22tp5gL0xI/VPXyEp7lK9I/AAAAAAAAMqA/8EQ66dQ3-Es/s1600/Rock%2B4.gif" -Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:0,Festa tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://4.bp.blogspot.com/-jyklfMBqaJg/XRzPNEov2FI/AAAAAAAAAQw/Zc0jGQvjzIYXPTHs2dLc25eI18B0f3QTwCLcBGAs/s1600/0783cb_354d4952e97f4a3893289b47880e6d90_mv2.gif" -Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:0,Música Clássica tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://3.bp.blogspot.com/-YGKJeePCwNs/VtM75OvajtI/AAAAAAAAO6g/LJzBf4Yoj9k/s1600/gifs-gifs-animados-de-musica-45.gif" -Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:0,New Rock tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://thumbs.gfycat.com/MixedNauticalBaiji-max-1mb.gif" -New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:0,Pop Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://media.tenor.com/-W-RL6pe8bMAAAAC/pop-music.gif" -Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:0,Metal tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.gifer.com/origin/88/88b25338ceb18ee87f5285444fa32a8c_w200.gif" -Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:0,Trilhas Sonoras tvg-id="iddocanalderadio" group-title="radio" tvg-logo="http://4.bp.blogspot.com/-jRV9TmUKLC8/TpuHXEXIk2I/AAAAAAAAAOs/uu4yw5CkbYo/s1600/tumblr_lt55vlR5Le1qj5dhoo1_500.gif" -Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:0,Radio Tropical Recife tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k67T6EMRSn.png" -Radio Tropical Recife 
+http://198.24.165.180:9762/;
+#EXTINF:0,Radio Laser 93.3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EAPBpnsJms.png" -Radio Laser 93.3
+https://8577.brasilstream.com.br/stream
+#EXTINF:0,Radio Massa 92.9 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png" -Radio Massa 92.9
+https://stm01.virtualcast.com.br:8000/live
+#EXTINF:0,Radio nativa 95,3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Kqh77h3b9Q.jpeg" -Radio nativa 95,3
+https://22203.live.streamtheworld.com/NATIVA_SP_SC
+#EXTINF:0,Radio nativa 89,3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsB9TVKAXE.png" -Radio nativa 89,3
+https://cast4.hoost.com.br:20143/stream
+#EXTINF:0,Radio Band 96.1 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xBFjTdAKBH.jpg" -Radio Band 96.1
+https://24403.live.streamtheworld.com/BANDFM_SPAAC/HLS/09a5e691-3cb8-446e-8a4b-3ac7d3469591/0/7.aac
+#EXTINF:0,Radio comeia fm tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DyS4RwKRdU.png" -Radio comeia fm
+https://stm01.virtualcast.com.br:8138/live
+#EXTINF:0,Radio coluna tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uqkpsltjbkap.png" -Radio coluna
+http://198.24.165.180:9626/;
+#EXTINF:0,Radio MIX 101,1 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n4QyzNyx9K.png" -Radio MIX 101,1
+https://26483.live.streamtheworld.com/MIXFM_CAMPINASAAC_SC?dist=mix-web-player-radio-ao-vivo
+#EXTINF:0,Radio Sertanejo  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" -Radio Sertanejo
+https://live.hunter.fm/sertanejo_normal
+#EXTINF:0,Radio TOP FM  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" -Radio TOP FM 
+http://cloud1.cdnseguro.com:16806/stream/;
+#EXTINF:0,Radio Dance tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hVejQa99KB.jpg" -Radio Dance
+https://stream-26.zeno.fm/7z9dmhaens8uv?zs=tN2R5aGRRuCqstj-peVLLA
+#EXTINF:0,Radio Sertanejo Raiz tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" -Radio Sertanejo Raiz
+http://station.radionanet.com:8330/1;
+#EXTINF:0,Radio  Raiz forte tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" -Radio  Raiz forte
+https://stream-57.zeno.fm/4dzm2padd8zuv?zs=QQ3DU5TfT1q2EydL4_Bisw
+#EXTINF:0,Radio Recife tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" -Radio Recife 
+http://zoeweb.net:8046/;stream.mp3
+#EXTINF:0,Rádio Sorriso 99.1 FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png" -Rádio Sorriso 99.1 FM
+https://paineldj5.com.br:2213/stream
+#EXTINF:0,Rádio Convenção AM Itu tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.convencaomais.com.br/uploads/images/2022/05/radio-convencao-a.png" -Rádio Convenção AM Itu
+https://8745.brasilstream.com.br/stream
+#EXTINF:0,Rádio Olinda ao vivo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png" -Rádio Olinda ao vivo
+http://cast2.hoost.com.br:9158/stream
+#EXTINF:0,Radio Pagode 90 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png" -Radio Pagode 90
+https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
+#EXTINF:0,Radio Sertanejo FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" -Radio Sertanejo FM
+https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
+#EXTINF:0,América Country tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png" -América Country
+https://ais-sa2.cdnstream1.com/1976_128.mp3
+#EXTINF:0,América Country tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png" -América Country
+https://streaming.radiostreamlive.com/radiocountrylive_devices
+#EXTINF:0,Nativa 97,5 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg" -Nativa 97,5
+https://centova5.transmissaodigital.com:20060/;
+#EXTINF:0,Radio Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" -Radio Sertanejo
+https://stm1.mestrestream.xyz:7020/stream
+#EXTINF:0,Radio Sertanejo FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jnvnz4kaw7eh.png" -Radio Sertanejo FM
+https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
+#EXTINF:0,Radio Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png" -Radio Sertanejo
+https://servidor.geracaoradios.com/listen/sertaneja/stream
+#EXTINF:0, Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" -Sertanejo
+https://live.hunter.fm/sertanejo_normal
+#EXTINF:0, Radio Globo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" -Radio Globo
+https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
+#EXTINF:0, Radio Capital tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg" -Radio Capital
+https://f53.fabricahost.com.br/capitalfmsp?f=1667683638N01GH4V1PW7WGVGDYY4Q2CXBTZ7&tid=01GH4V1PW7Q8J8CPQFX05ZY3RP
+#EXTINF:0, radio Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" -radio Hits
+https://ice1.streeemer.com:8020/radio.mp3
+#EXTINF:29,Marilia Mendonça Antigas 
+#EXTINF:0, Antena 1
+#EXTVLCOPT:network-caching=1000
+http://antena1.newradio.it/stream2?ext=.mp3
+#EXTINF:0, Itapoan FM
+#EXTVLCOPT:network-caching=1000
+http://streaming.livecenter.com.br:9300/stream/1/
+#EXTINF:59, Atlantida FM
+#EXTVLCOPT:network-caching=1000
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
+#EXTINF:0, Guaiba FM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8007/app
+#EXTINF:0, S30 MaxCast Web Rádio
+#EXTVLCOPT:network-caching=1000
+http://s30.maxcast.com.br:8190/live
+#EXTINF:0, METROPOLITANA FM AO VIVO
+#EXTVLCOPT:network-caching=1000
+http://ice.paineldj3.com.br:8004/stream
+#EXTINF:0, RÁDIO 104 FM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:59, RÁDIO ATLÂNTIDA FM
+#EXTVLCOPT:network-caching=1000
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:0, RÁDIO CAIÇARA FM/AM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8654/mp3
+#EXTINF:0, RÁDIO CAPÃO FM
+#EXTVLCOPT:network-caching=1000
+http://cast4.audiostream.com.br:8656/mp3
+#EXTINF:0, RÁDIO CONTINENTAL FM
+#EXTINF:30,Som Que Alimenta - Top Louvores 2022 - As Melhores Músicas do Gospel - Rádio Gospel Online 24 Horas Ao Vivo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667675510/ei/FWFmY_mnLuai4dUPioarqAs/ip/45.167.180.31/id/YVpKpueQ7hk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPmfP7Shk8EsPg7Yxs--YhNcqOAVgsEJ8Z9erKjH61FTAiEAsi3qHiMo-GafBBuof4WYj89ugAL81mk777WakvnV3is%3D/file/index.m3u8
+#EXTINF:0,SERTANEJA FM
+https://alanza.iptv2022.com/VIDA_SERTANEJA_FM/tracks-v1a1/mono.m3u8
+#EXTINF:0,BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:0,RÁDIO ATLÂNTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:0,RÁDIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:0,Anos 90
+http://6d9a.webradio.upx.net.br:9940/stream?Arlen
+#EXTINF:0,Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream?Arlen
+#EXTINF:0,Pagode
+http://6d9a.webradio.upx.net.br:9061/stream?Arlen
+#EXTINF:0,Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream?Arlen
+#EXTINF:0,Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream?Arlen
+#EXTINF:0,Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream?Arlen
+#EXTINF:0,chitãozinho e xororó
+https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
+#EXTINF:0,Energia 97 FM
+https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
+#EXTINF:0,Rádio Clube TV 
+https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
+#EXTINF:0,Rádio Sociedade
+https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
+#EXTINF:0,Rádio UFRGS
+http://radioaovivo.ufrgs.br:8000/stream.mp3
+
+
+#EXTM3U url-tvg=" http://grade-de-Brasil: rádios em português.xml "  
+          
+ ############## Brasil: rádios em português ############## ###     
+                 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil: rádios em português" group-title=" 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="Brasil: rádios em português",98 FM | BH MG
+https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="Brasil: rádios em português" - Alpha FM | Osasco SP
+https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="Brasil: rádios em português",Band FM | Campinas SP
+https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: rádios em português",BandNews FM | YT São Paulo SP
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: rádios em português",BandNews FM | Goiânia GO
+https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: rádios em português",CBN RJ | Brasil
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: rádios em português",CBN SP | Brasil
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Brasil: rádios em português",Cultura do Pará - Brasil
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="Brasil: rádios em português" - Dumont FM | Jundiaí SP
+https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="Brasil: rádios em português" - Educadora FM | Campinas SP
+https://evpp.mm.uol.com.br/band/educadora/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="Brasil: rádios em português",Energia 97 FM | Santo Andre SP
+https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
+#EXTINF:-1 tvg-language="Português" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="Brasil: rádios em português",Rádio Clube TV | Portugal
+https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="Brasil: rádios em português",Rádio Sociedade | Salvador BA
+https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="Brasil: rádios em português",Rádio UFRGS | RS Brasil
+http://radioaovivo.ufrgs.br:8000/stream.mp3
+
+#EXTM3U url-tvg=" http://grade-de-dinho santos.xml "
+
+ ############## dinho santos ################ #   
+
+#EXTINF:-1 tvg-id=" iddocanaldedinho santos " group-title="
+
+#EXTINF:0,A Sozinho na Rua tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -Sozinho na Rua
+https://video.wixstatic.com/video/c634a0_066356af468640b493c842fc204d42b5/360p/mp4/file.mp4
+#EXTINF:0,A Culpa é sua tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -A Culpa é sua
+https://video.wixstatic.com/video/c634a0_499f021c57424cbda4f193174decd33d/720p/mp4/file.mp4
+#EXTINF:0,7 dias da semana tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -7 dias da semana
+https://video.wixstatic.com/video/c634a0_bb3cac51cacc4d8581027be2dc1ca135/720p/mp4/file.mp4
+#EXTINF:0,O Cara Errado tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -O Cara Errado
+https://video.wixstatic.com/video/c634a0_43b2a803bcd34217b79e33c8f839e453/720p/mp4/file.mp4
+#EXTINF:0,Pagina Virada tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -Pagina Virada
+https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
+#EXTINF:0,ao vivo tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -ao vivo
+https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
+
+#EXTM3U url-tvg=" http://grade-de-traduçao.xml "
+
+ ############## traduçao ################ # 
+  
+#EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
+
+#EXTINF:0,BERLIN TRADUÇAO ALEX SILVA tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -BERLIN TRADUÇAO ALEX SILVA
+https://music.wixstatic.com/preview/c634a0_64ba8f681d844fd9934fbec63ebc9bf9-128.mp3
+#EXTINF:0,I should have known better tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -I should have known better
+https://music.wixstatic.com/preview/c634a0_bd81dd16096945288529769194799293-128.mp3
+#EXTINF:0,Please Forgive Me PERDOE tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Please Forgive Me PERDOE
+https://music.wixstatic.com/preview/c634a0_10b4b08cda154e84b72c1aa938907e2c-128.mp3
+#EXTINF:0,Chicago - Hard To Say I'm Sorry  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Chicago - Hard To Say I'm Sorry 
+https://music.wixstatic.com/preview/c634a0_5f9c1128b36348019325d96d741723b7-128.mp3
+#EXTINF:0,Nothing Love Out Of Nothing At All Air Suplytvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Nothing Love Out Of Nothing At All Air Suply
+https://music.wixstatic.com/preview/c634a0_6b5d9f2a9cd54f5d90af41ccf584407f-128.mp3
+#EXTINF:0,Peter Cetera - The Glory Of Love (Gloria do Amor) tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Peter Cetera - The Glory Of Love (Gloria do Amor)
+https://music.wixstatic.com/preview/c634a0_897c99843dde4f8faa8a0d80fbc96b8d-128.mp3
+#EXTINF:0,Please Don´t Go - KC & The Sunshine Band tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Please Don´t Go - KC & The Sunshine Band
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,Roxette Spending My Time PERDENDO MEU TEMPO tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Roxette Spending My Time PERDENDO MEU TEMPO
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,Richard Marx - Right Here Waiting  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Richard Marx - Right Here Waiting 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,We Are The World  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -We Are The World 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,BRAY ADAMS HEVEM  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -BRAY ADAMS HEVEM 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,Dire Straits So FAR Away- tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Dire Straits So FAR Away-
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,Aprecie a vida tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Aprecie a vida
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,Eu Ainda Credito em seus olhos tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Eu Ainda Credito em seus olhos
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,Rem - Everybody Hurtstvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Rem - Everybody Hurts
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,London London tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -London London
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:0,We Are The World tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -We Are The World
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+
+
 
 #EXTM3U url-tvg=" http://grade-de-nao.xml "
 
