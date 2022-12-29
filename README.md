@@ -51,9 +51,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:0,ArarunaTV tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gifhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF1XXsMoynSbGi2WMWnA_w_XvIKO_cPrUR-xMk49euS2BFcGJ_Nc5yqANxd1nLZF1lto&usqp=CAU" ArarunaTV 
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 
-#EXTINF:30, Miami TV Mexico
-#EXTINF:0,Miami TV Mexico tvg-id="iddocanaldeBrasilALEX" group-title="BrasilALEX" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" Miami TV Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
 
 
 #EXTINF:24, NTV Patos de Minas
@@ -491,6 +489,9 @@ https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.st
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
 
 ############## alexsilva ################# 
+
+#EXTINF:0,Miami TV Mexico tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
 #EXTINF:156,Space Sur
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
