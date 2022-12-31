@@ -17,6 +17,9 @@ http://stream.zeno.fm/hu70hmkcu68uv.pls
 
 ############## alexsilva ################# 
 
+#EXTINF:0,space tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Space_TV_1997.png/revision/latest/scale-to-width-down/250?cb=20161023185009"space
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3025872&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAyOjE5OjMwIEFNJmhhc2hfdmFsdWU9UW1jOFJhKzhUeDRhbENuUVlOcHJKZz09JnZhbGlkbWludXRlcz05MA==
+
 #EXTINF:0,Space TV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" Space TV
 http://rec2.tvpn.eu/ibl/ibl/146.m3u8
 
@@ -1171,6 +1174,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
 
  ############## filmes ############## ###   
 #EXTINF:-1 tvg-id=" iddocanaldefilmes " group-title="
+
+#EXTINF:0,Encalhados tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://i.ytimg.com/vi/NNIRN5E4AYo/maxresdefault.jpg" -Encalhados
+https://proxy-033.ix7.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-fJwoeAF75mDyjKrAsjpOg0FjlZdZAHXmLscRDTvq3huGDgx-_rfTcyy6xOk8JFX_TW6zNMMimwb0z-0Jte84Og)/video/140/820/506028041_mp4_h264_aac_fhd.m3u8#cell=core
+
+
 
 #EXTINF:0,John Wick: Parabellum tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://media.tenor.com/TBcr6jWGzE4AAAAM/kopfkino-kopf.gif" -John Wick: Parabellum
 https://cdn77-vid.xvideos-cdn.com/2EezjCFVt3f72Fwqsc0zqQ==,1672456743/videos/hls/07/f3/37/07f33796a1842a23356170c2578f945e/hls-360p-3a6f0.m3u8
@@ -3476,6 +3484,16 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 
 #EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
 
+
+#EXTINF:0,Saudade FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" -Saudade FM
+https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
+
+#EXTINF:0,Nativa FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg" -Nativa FM
+https://24073.live.streamtheworld.com/NATIVA_SPAAC/HLS/a648b04f-8a77-4fff-bab0-aa929fe71b41/0/3.aac
+#EXTINF:0,Hunter FM Pop tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/hunterfm.jpg" -Hunter FM Pop
+https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
+#EXTINF:0,Alpha FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/alpha-fm-ao-vivo.jpeg" -Alpha FM
+https://26653.live.streamtheworld.com/RADIO_ALPHAFMAAC.aac?dist=alphasp
 #EXTINF:0,radio mix tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" -radio mix
 https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
 #EXTINF:0,Super Rádio Tupi tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg" -Super Rádio Tupi
@@ -3780,6 +3798,41 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 
  ############## nao ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldenao " group-title="
+
+https://filmesporno.xxx/page/3/
+
+#EXTINF:0,loiras tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/muito-sexo-quente-no-xvideos-porno-com-loiras.jpg" -loiras
+https://hls-hw.xvideos-cdn.com/videos/hls/a5/52/10/a55210ae8d72becfabac500cd744c016-2/hls-1080p-523bc.m3u8?e=1672465564&l=0&h=6bc5d2516292fdf31c8a777bd6a9c6a4
+#EXTINF:0,calcinha branca  tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/mulheres-gatas-de-calcinha-branca-sensualizando-demais.jpg" -calcinha branca 
+https://hls3-cf.xvideos-cdn.com/55101ee0d923050c905d93c620683fbfd73490cc-1672465786/videos/hls/85/d9/da/85d9da224cc70630487d0837da3ce415/hls-1080p-036cb.m3u8
+#EXTINF:0, gordinhas tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/11/mulheres-gordinhas-plus-size-fodem-sempre-bem-gostoso.jpg" - gordinhas
+https://cdn77-vid.xvideos-cdn.com/KyIkV2S0TOoYnhoHWO_ttQ==,1672466021/videos/hls/b8/bf/94/b8bf940fb87ec6caffc3d9e0ccbf1f37/hls-720p.m3u8
+#EXTINF:0,riley reynolds tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/loirinha-riley-reynolds-porn-com-negao-no-sexo.jpg" -riley reynolds
+https://hls8-cf.xvideos-cdn.com/a7abe7102ecd48db6c65a6bb4689ce093ac668b7-1672465614/videos/hls/9d/c9/40/9dc9409ba2c830f8dc49d2ccfdab0c93/hls-1080p-2800e.m3u8
+#EXTINF:0,picante tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/loirinha-devassa-fazendo-sexo-em-paris-em-video-picante.jpg" -picante
+https://hls2-cf.xvideos-cdn.com/c248c7c0f31e387049dea30afb72ffd6a2b43b1a-1672465947/videos/hls/4e/47/9e/4e479efad174f02e8f95219a7e9b2378/hls-1080p.m3u8
+#EXTINF:0,Gatas nuas fazendo sexo anal com dotados tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2021/04/Gatas-do-Flamengo-e-Inter.jpeg" -Gatas nuas fazendo sexo anal com dotados
+https://cdn77-vid.xvideos-cdn.com/DsRq7M2IEokse2Ic9iRVlw==,1672464323/videos/hls/10/30/a7/1030a7e9b97d89b2797f085f8235f643-1/hls-720p.m3u8
+#EXTINF:0,Ruiva casada dando pra negao dotado tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.pinimg.com/736x/a3/ae/25/a3ae25694d7aff1461b807d1db0c7549.jpg" -Ruiva casada dando pra negao dotado
+https://cdn77-vid.xvideos-cdn.com/ZTDhYTv-NUzkPRfxp9IaJA==,1672465058/videos/hls/d6/58/00/d65800f5c7dc4a8ea4bdd32280d3c566/hls-1080p-22dd8.m3u8
+#EXTINF:0,Comendo o cu da mulher do corno fazendo ele gozar muito tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://pbs.twimg.com/profile_images/1149526835782275073/cXF_sKcP_400x400.jpg" -Comendo o cu da mulher do corno fazendo ele gozar muito
+https://cdn77-vid.xvideos-cdn.com/n9M67f6ob1ITf-m02Lh8CA==,1672465223/videos/hls/5d/be/c8/5dbec847067a38590f06e85d0488d5e3/hls-1080p.m3u8
+#EXTINF:0,Ruivinha gostosa rebolando gostoso no pau tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://pbs.twimg.com/media/EWVQMiEXYAAUk6F.jpg" -Ruivinha gostosa rebolando gostoso no pau
+https://cdn77-vid.xvideos-cdn.com/ubVJOEhgyS3-_wkhBFET3Q==,1672465262/videos/hls/72/15/74/721574d58bd4f62e00c22c4e3cd236b1/hls-1080p-95b89.m3u8
+#EXTINF:0,Mulher coroa rabuda e puta dando o seu cu gostoso tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/11/mulher-coroa-rabuda-e-puta-dando-o-seu-cu-gostoso.jpg" -Mulher coroa rabuda e puta dando o seu cu gostoso
+https://hls-hw.xvideos-cdn.com/videos/hls/43/fe/66/43fe66818501af5c36787052bcacb825/hls-720p-c669a.m3u8?e=1672465420&l=0&h=f12e2713d88978a6c0a13ac48c35de18
+#EXTINF:0,Uma das mais putas coroas tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/uma-das-mais-putas-coroas-maduras-brasileiras-sensualizando-demais.jpg" -Uma das mais putas coroas
+https://hls8-cf.xvideos-cdn.com/6240593577071dff104b9f0638d363be3e2ebcf7-1672465509/videos/hls/49/c0/be/49c0bed1048e690065976ba713cf5f62/hls-1080p-4e9d6.m3u8
+#EXTINF:0,Loirinha da buceta folgada dando pra negão tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/loirinha-da-buceta-folgada-dando-pra-negao.jpg" -Loirinha da buceta folgada dando pra negão
+https://hls4-cf.xvideos-cdn.com/475163f81493035ddce7695ffcd76810b074dc21-1672465343/videos/hls/7d/a8/cb/7da8cb549da95543d7af1446267cdc56/hls-1080p.m3u8
+#EXTINF:0,gatinhas em bukkake tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/as-mais-gatinhas-em-bukkake-videos-quentes.jpg" -gatinhas em bukkake 
+https://hls8-cf.xvideos-cdn.com/196ded6add01fd737f9e148292b751b4774628e6-1672465771/videos/hls/9c/e7/15/9ce7156b38d3d092a9fe7c4b7bb4c5d1/hls-1080p-b50d3.m3u8
+#EXTINF:0,Sexo gostoso caseiro em indian tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/sexo-gostoso-caseiro-em-indian-porn.jpg" -Sexo gostoso caseiro em indian
+https://cdn77-vid.xvideos-cdn.com/M6QtwJA0IWNwKWuuKtvSBw==,1672465661/videos/hls/9e/af/56/9eaf56ce066ab59f3b2f5b1bd58ed6b7-1/hls-1080p-715e2.m3u8
+
+
+#EXTINF:0,Mulher pelada com bunda grande sem calcinha tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/08/mulher-pelada-com-bunda-grande-sem-calcinha-51c.jpg" -Mulher pelada com bunda grande sem calcinha
+https://cdn77-vid.xvideos-cdn.com/bJoiAzU2pbp_r0TxNSjJmw==,1672465608/videos/hls/3c/61/65/3c616541edfad327ad8739090c50ecd1-2/hls-1080p-cd24e.m3u8
 
 #EXTINF:0,Kpop TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
