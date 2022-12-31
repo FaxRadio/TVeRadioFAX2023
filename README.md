@@ -20,10 +20,11 @@ http://stream.zeno.fm/hu70hmkcu68uv.pls
 #EXTINF:0,space tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Space_TV_1997.png/revision/latest/scale-to-width-down/250?cb=20161023185009"space
 https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3025872&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAyOjE5OjMwIEFNJmhhc2hfdmFsdWU9UW1jOFJhKzhUeDRhbENuUVlOcHJKZz09JnZhbGlkbWludXRlcz05MA==
 
+
 #EXTINF:0,Space TV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" Space TV
 http://rec2.tvpn.eu/ibl/ibl/146.m3u8
-
-
+#EXTINF:0,Space TV tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" Space TV
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3042560&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxMToxMjoyNyBQTSZoYXNoX3ZhbHVlPXlFQzJsREY2UnM4Z0ZJMnBrY2xlOXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 
 #EXTINF:0,Miami TV Mexico tvg-id="iddocanaldealexsilva" group-title="alexsilva" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
@@ -1067,11 +1068,16 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
  ############## filmes ############## ###   
 #EXTINF:-1 tvg-id=" iddocanaldefilmes " group-title="
 
-#EXTINF:0,Encalhados tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://i.ytimg.com/vi/NNIRN5E4AYo/maxresdefault.jpg" -Encalhados
-https://proxy-033.ix7.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-fJwoeAF75mDyjKrAsjpOg0FjlZdZAHXmLscRDTvq3huGDgx-_rfTcyy6xOk8JFX_TW6zNMMimwb0z-0Jte84Og)/video/140/820/506028041_mp4_h264_aac_fhd.m3u8#cell=core
+#EXTINF:0,Ruas Sangrentas - O Acerto Final tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="hhttps://image.tmdb.org/t/p/w185/xBshLPA17Sbq1AJEACpkDLnRvPd.jpg" -Ruas Sangrentas - O Acerto Final
+https://moon-storage-delivery-s38.filemoon.to/hls2/01/02403/hcvi2if32o15_x/index-v1-a1.m3u8?t=IBZucAdFzskUlbXZooW6LRgLhqnr3whCm0EgxXzxoDk&s=1672527342&e=43200&f=12015131&srv=127.0.0.1&asn=1&sp=1500
 
+#EXTINF:0,Promete Que Não Vai Esquecer tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/moments-in-spacetime_pt/moments-in-spacetime_pt_200x300.jpg" -Promete Que Não Vai Esquecer
+https://play.prod.gcp.vix.services/moments-in-spacetime_pt/moments-in-spacetime_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:0,Caçada Sangrentatvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/killing-down_pt/killing-down_pt_200x300.jpg" -Caçada Sangrenta
+https://play.prod.gcp.vix.services/killing-down_pt/killing-down_pt_1-1/play_hls_2500.m3u8
 
-
+#EXTINF:0,O Amor é Estranho tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/love-is-strange_en/love-is-strange_en_200x300.jpg" -O Amor é Estranho
+https://play.prod.gcp.vix.services/love-is-strange_en/love-is-strange_en_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:0,John Wick: Parabellum tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://media.tenor.com/TBcr6jWGzE4AAAAM/kopfkino-kopf.gif" -John Wick: Parabellum
 https://cdn77-vid.xvideos-cdn.com/2EezjCFVt3f72Fwqsc0zqQ==,1672456743/videos/hls/07/f3/37/07f33796a1842a23356170c2578f945e/hls-360p-3a6f0.m3u8
 #EXTINF:0,Três Homens em Conflito tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/97/53/07/20534288.jpg" -Três Homens em Conflito
@@ -1081,11 +1087,11 @@ https://cloclo54.datacloudmail.ru/public/view/7YpfVAwWpQDTAfZRKGdKCmnzpxtaVdSW7H
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId=
-
+https://play.prod.gcp.vix.services/love-is-strange_en/love-is-strange_en_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:0,Homens de Guerra tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/men-of-war_pt/men-of-war_pt_200x300.jpg" -Homens de Guerra
 https://play.prod.gcp.vix.services/men-of-war_pt/men-of-war_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:0,A Ocasião Faz o Ladrão tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://br.web.img3.acsta.net/pictures/14/02/25/16/05/551659.jpg" -A Ocasião Faz o Ladrão
-https://proxy-13.nyc.dailymotion.com/sec(djkNaqskckCuO1ExU1TbM-2q4xxA1PLq1kLffJdAgJUae-TVDoz5QUt750UO81K64fmVZSTa2QfYGKu_xBAHaHB_SFIo-hCa8fciwXhWGvA)/video/105/116/506611501_mp4_h264_aac_fhd.m3u8#cell=nyc
+#EXTINF:0,Assassino Sem Rastro tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://image.tmdb.org/t/p/w185/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg" -Assassino Sem Rastro
+https://moon-storage-delivery-s35.filemoon.to/hls2/01/01851/zqa15v5cs9fb_x/index-v1-a2.m3u8?t=Eu0qseV80Aii5hAryNow-G2g3PxzayxbARUIunZE-Q4&s=1672527641&e=43200&f=9255457&srv=127.0.0.1&asn=1&sp=1500
 #EXTINF:0,Jogo de Morte tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://m.media-amazon.com/images/I/51-vZw4NjLL._AC_.jpg" -Jogo de Morte
 https://proxy-17.nyc.dailymotion.com/sec(4pkX4jyJ09RyW9jaEyekkroG7NdAREOW41PAm0_iR9NSTY-RSb3HYzfeLRPOrbGxw6hsIkW6hOKKJm_5LdGzs4IgTJNSDiNdTHACWswKtJk)/video/794/116/506611497_mp4_h264_aac_fhd.m3u8#cell=nyc
 #EXTINF:0,negra wakanda tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://www.einerd.com.br/wp-content/uploads/2022/07/pantera-negra-wakanda-forever.jpg" -negra wakanda
@@ -1216,13 +1222,17 @@ https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m
 https://anrwfbifua.zoeweb.tv/apalavra/apalavra/chunklist.m3u8
 #EXTINF:0,TV GOSPEL LOUVORES tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkl4COXPWiYSScgK_qnSRhZnqJWA5LRhmUu4OKLik41uOzBj-aFHcCAkOileDbgVdr4iUfFZ68CjTEW2UdO0DvsBHgtas-P6FOZo6kvKtxrbpwa9C5Y6USjG39qyvQkVI8hbDQvEJtDedyxNlVSlYt5DJIMA468xi4K1GOPtrKz87f2qXW2OQvGcHs/s200/TV%20GOSPEL%20LOUVORES.webp" -TV GOSPEL LOUVORES
 https://stmv1.srvif.com/sidnei3429/sidnei3429/chunklist_w813072880.m3u8
-
+#EXTINF:0,Prisioneiros da Fé tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-family_pt/the-family_pt_200x300.jpg" -Prisioneiros da Fé
+https://play.prod.gcp.vix.services/the-family_pt/the-family_pt_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:0,WEB TV FONTE VIVA GOSPEL tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjy8kbpPu6CgVxAr65BBpf87hYn-hg7E57NRg6-tEw8kXD0xZ7ahrw3r07Pv0fhMTv7oUvYK5EQWuJLVAQmRcOkqFRtp1cvFYGRH0klsnS4cNqp4JmCGlH0zGfl38NFOFEI6SJM0ymg0xrW0aoLI32xDmWDI8YgHkZlIB2j4z_-QY3rKd1fW4dK1yzf=s200" -WEB TV FONTE VIVA GOSPEL
 https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/chunklist_w933133615.m3u8
 #EXTINF:0,WEB TV ALIANÇA DA FÉ GOSPEL tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nExlK45xEwaECvaomCG_Ew6pzNvfpYRQ2ssvCX8di1NASUJLdVqX3BA-wL7ACoASmitHo_hU1W7EWH0qSagdUimUZbJNvU1q-PZFvA5svzW7OEl0R3C8Ds6KEMz4SHVAPW4qw7oVEHXAaa2C8U3zyAQqSKl7T-hEKgTUfSzjPh6WUflxL99njW0g/s200/WEB%20TV%20ALIAN%C3%87A%20DA%20F%C3%89%20GOSPEL.webp" -WEB TV ALIANÇA DA FÉ GOSPEL
 https://video01.kshost.com.br:4443/9184/9184/chunklist_w925906946.m3u8
 
 
+
+#EXTINF:0,Sinal de Fé tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/heavenly-deposit_pt/heavenly-deposit_pt_200x300.jpg" -Sinal de Fé
+https://play.prod.gcp.vix.services/heavenly-deposit_pt/heavenly-deposit_pt_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:0,O Sinal de Deus tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/tribulation_pt/tribulation_pt_200x300.jpg" -O Sinal de Deus
 https://play.prod.gcp.vix.services/tribulation_pt/tribulation_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:0,carton gospel tvg-id="iddocanaldegospel" group-title="gospel" tvg-logo="https://i.pinimg.com/originals/02/55/1a/02551aba7e65efd5fe26108a8526494d.gif" -carton gospel
@@ -3300,8 +3310,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/TVJusti
 https://edge2.tikilive.com/unrestricted_tikilive/57785/amlst:dnwgXOywj4D7/chunklist_b5630798.m3u8
 #EXTINF:0,Abba Rtv tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" -Abba Rtv
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
-#EXTINF:0,Tv Imprensa – TVI tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Tv-Imprensa-TVI-300x300.webp" -Tv Imprensa – TVI
-https://streaming03.zas.media:1936/imprensa/imprensa/chunklist_w1128556944.m3u8
+
 #EXTINF:0,Suzuky TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" -Suzuky TV
 https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2077970629.m3u8
 #EXTINF:0,KRONEHIT TVtvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" -KRONEHIT TV
