@@ -3601,39 +3601,39 @@ https://hls8-cf.xvideos-cdn.com/a9217c921e5745fb118cf435152036ae300f996f-1672789
 #EXTINF:0,loiras 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/muito-sexo-quente-no-xvideos-porno-com-loiras.jpg" -loiras1
 https://hls4-cf.xvideos-cdn.com/e4905ad6f30d9714b5a61f668dd7d56186537af9-1672789669/videos/hls/58/a4/ed/58a4edfa4af4f637e68df444d52d4bf3/hls-1080p-33756.m3u8
 #EXTINF:0,loiras 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/muito-sexo-quente-no-xvideos-porno-com-loiras.jpg" -loiras1
-https://hls4-cf.xvideos-cdn.com/e4905ad6f30d9714b5a61f668dd7d56186537af9-1672789669/videos/hls/58/a4/ed/58a4edfa4af4f637e68df444d52d4bf3/hls-1080p-33756.m3u8
+https://cdn77-vid.xvideos-cdn.com/4NbO2POLxaG4dHfrsvoC0g==,1672926423/videos/hls/f5/59/f4/f559f48df1632b036934836a8f1c2ec3/hls-720p.m3u8
 #EXTINF:0,loiras 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/muito-sexo-quente-no-xvideos-porno-com-loiras.jpg" -loiras1
-https://hls8-cf.xvideos-cdn.com/8a328a4488fc92e62b181541d7332b8ddb867f0d-1672789068/videos/hls/9c/e7/15/9ce7156b38d3d092a9fe7c4b7bb4c5d1/hls-1080p-b50d3.m3u8
+https://cdn77-vid.xvideos-cdn.com/UGiKqGw4AYYOrr1yzX977w==,1672926407/videos/hls/5c/4c/f8/5c4cf8c4610b0d94714d6bc58282f24a/hls-720p.m3u8
 #EXTINF:0,loiras 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/sexo-gostoso-caseiro-em-indian-porn.jpg" -loiras1
-https://cdn77-vid.xvideos-cdn.com/1-vyzGWyUFWc5UfioJj3Mg==,1672789745/videos/hls/9e/af/56/9eaf56ce066ab59f3b2f5b1bd58ed6b7-1/hls-1080p-715e2.m3u8
+https://cdn77-vid.xvideos-cdn.com/i_2l6MjqsZdf4GhyxReTTw==,1672926142/videos/hls/a6/92/71/a69271a4fa8888cbae6cf49ba3d9e58b/hls-720p.m3u8
 #EXTINF:0,riley reynolds tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/uma-das-mais-belas-xoxotas-abertas-fudendo-gostoso.jpg" -riley reynolds
-https://cdn77-vid.xvideos-cdn.com/oiHHf4SGw37M0MHohcaOsw==,1672789584/videos/hls/97/75/16/9775163dc16038f3b766a0afa87269db/hls-720p.m3u8
+https://cdn77-vid.xvideos-cdn.com/i_2l6MjqsZdf4GhyxReTTw==,1672926142/videos/hls/a6/92/71/a69271a4fa8888cbae6cf49ba3d9e58b/hls-720p.m3u8
 #EXTINF:0,loiras 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/deliciosa-mulher-elada-dentro-de-casa-dando-a-buceta.jpg" -loiras1
-https://cdn77-vid.xvideos-cdn.com/Lw74CFj6qGAPe-De9ZvqPQ==,1672789896/videos/hls/7a/43/28/7a4328c0c0dc87ee5edec0af83a8fb66/hls-1080p-83f73.m3u8
+https://hls1-l3.xvideos-cdn.com/7833e8bba2a7d675788da41248303c538631ed19-1672926139/videos/hls/e8/a4/2b/e8a42be3d4084b32360754e5307a4090-1/hls-720p.m3u8
 #EXTINF:0,loiras tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/11/video-gostoso-de-sexo-com-bucetinha-quente-engolindo-piroca.jpg" -loiras
-https://cdn77-vid.xvideos-cdn.com/JT6RVcQNfsCG_1hQOhglJA==,1672789279/videos/hls/56/8f/dc/568fdcd0c9a89313479b6f15da8f59f6/hls-720p-47008.m3u8
+https://cdn77-vid.xvideos-cdn.com/fRku7PZBpUrwT4m6mQdV6A==,1672926276/videos/hls/98/08/a3/9808a34f863e5f99672a9795c1df2526/hls-360p.m3u8
 #EXTINF:0,riley reynolds tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/07/oral-gostoso-com-dotado-gozando-na-cara-da-amiga.jpg" -riley reynolds
-https://cdn77-vid.xvideos-cdn.com/EJSdV1k4rbE2-v3sNiHDyw==,1672789504/videos/hls/92/0d/ef/920def419eab8b6ebc47ef757e5ae559/hls-480p.m3u8
+https://hls7-cf.xvideos-cdn.com/28b30cd73a511610e5bc953527892477a484f162-1672926273/videos/hls/95/f1/61/95f161b0b80f411f7d56d498cc699a35/hls-720p.m3u8
 #EXTINF:0,loiras tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/muito-sexo-quente-no-xvideos-porno-com-loiras.jpg" -loiras
-https://hls4-cf.xvideos-cdn.com/62d4088b20ae743f60dc1d25ff3590cf0e05710e-1672788838/videos/hls/7d/a8/cb/7da8cb549da95543d7af1446267cdc56/hls-1080p.m3u8
+https://cdn77-vid.xvideos-cdn.com/yi89dfOb4l0EaslM5Alz-A==,1672926270/videos/hls/f8/6d/25/f86d252bfe75ff208aab2b0164df0203-1/hls-720p-24124.m3u8
 #EXTINF:0,calcinha branca  tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/mulheres-gatas-de-calcinha-branca-sensualizando-demais.jpg" -calcinha branca 
-https://cdn77-vid.xvideos-cdn.com/0gHIHLyPid1B8SUSFOULUw==,1672788856/videos/hls/f0/96/8e/f0968ee7fa6cf9414211926f25f57b86-1/hls-720p.m3u8
+https://hls6-cf.xvideos-cdn.com/2c60cdc1ab4412a122928e93131ad92067003a07-1672926135/videos/hls/a4/f0/7d/a4f07dd345baf62aa9c97c6d378fdee8/hls-480p.m3u8
 #EXTINF:0, gordinhas tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/11/mulheres-gordinhas-plus-size-fodem-sempre-bem-gostoso.jpg" - gordinhas
-https://hls5-cf.xvideos-cdn.com/a4eb86f7705db477ae2b9bbeda95a7ca94a1c54b-1672789116/videos/hls/7d/a1/92/7da192bbd94507c206fcb3f18cf492bb/hls-1080p-ac31f.m3u8
+https://hls4-cf.xvideos-cdn.com/1049e5d5c0732429bdb8f298815a1634e4bcb506-1672926248/videos/hls/0a/99/b0/0a99b0138a515e8d65fd453d2429560b/hls-480p.m3u8
 #EXTINF:0,riley reynolds tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/loirinha-riley-reynolds-porn-com-negao-no-sexo.jpg" -riley reynolds
-https://cdn77-vid.xvideos-cdn.com/WxbK_0W_IEKZE7ag9mrWyA==,1672789401/videos/hls/f6/77/6e/f6776e94be1ccdbc7d31f19b8c8006a8/hls-1080p-9a4f4.m3u8
+https://cdn77-vid.xvideos-cdn.com/0FuM9GqO3PXN1vsTmo0TLA==,1672926230/videos/hls/a7/d4/20/a7d420214f53e69c41b87d343c5c77e0/hls-480p.m3u8
 #EXTINF:0,picante tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/loirinha-devassa-fazendo-sexo-em-paris-em-video-picante.jpg" -picante
-https://cdn77-vid.xvideos-cdn.com/-Ea4yDWa27W5IMp-XUmCxQ==,1672789255/videos/hls/8c/dd/39/8cdd39974cb53f59b4f38779e7c56db1/hls-1080p-0c337.m3u8
+https://cdn77-vid.xvideos-cdn.com/Hs_4MEqfbn5mXC3gs5ecuw==,1672926212/videos/hls/42/cb/8e/42cb8ef83a032e427b405f0218bc2ef9/hls-480p.m3u8
 #EXTINF:0,Gatas nuas fazendo sexo anal com dotados tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2021/04/Gatas-do-Flamengo-e-Inter.jpeg" -Gatas nuas fazendo sexo anal com dotados
-https://cdn77-vid.xvideos-cdn.com/m7JgqvuoPKzE5U8UGHx09w==,1672788764/videos/hls/ea/a6/02/eaa602775935e4bbab0d62619f6d7911/hls-1080p-f85c6.m3u8
+https://hls5-cf.xvideos-cdn.com/965e498ecaee10ccd6b427bf4044e94d232eccc3-1672926196/videos/hls/62/92/db/6292db7b89b4a66fb4f774962d58c9c8-1/hls-360p.m3u8
 #EXTINF:0,Ruiva casada dando pra negao dotado tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.pinimg.com/736x/a3/ae/25/a3ae25694d7aff1461b807d1db0c7549.jpg" -Ruiva casada dando pra negao dotado
-https://cdn77-vid.xvideos-cdn.com/ZTDhYTv-NUzkPRfxp9IaJA==,1672465058/videos/hls/d6/58/00/d65800f5c7dc4a8ea4bdd32280d3c566/hls-1080p-22dd8.m3u8
+https://cdn77-vid.xvideos-cdn.com/bU2usFUiYr2Y27fy69DW7g==,1672926145/videos/hls/2b/a7/1b/2ba71bd3c49b985a00cb28c57ced1a76/hls-480p.m3u8
 #EXTINF:0,Comendo o cu da mulher do corno fazendo ele gozar muito tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://pbs.twimg.com/profile_images/1149526835782275073/cXF_sKcP_400x400.jpg" -Comendo o cu da mulher do corno fazendo ele gozar muito
-https://cdn77-vid.xvideos-cdn.com/i--nY6zs4oGamw24hnaf-A==,1672789582/videos/hls/91/85/c8/9185c82b1c937e186ed268a8a5a300e0/hls-720p-040c2.m3u8
+https://cdn77-vid.xvideos-cdn.com/b3678RGZZUC3C45N1Jq9vA==,1672926161/videos/hls/43/91/b2/4391b215e9cccfe599f3b92880f7166a-1/hls-250p.m3u8
 #EXTINF:0,Ruivinha gostosa rebolando gostoso no pau tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://pbs.twimg.com/media/EWVQMiEXYAAUk6F.jpg" -Ruivinha gostosa rebolando gostoso no pau
-https://cdn77-vid.xvideos-cdn.com/3Zh56fpulBiT_FsphYGQJg==,1672789295/videos/hls/b4/c9/a1/b4c9a164f83ffdf31c811e5f624f818a/hls-720p.m3u8
+https://cdn77-vid.xvideos-cdn.com/dRYUxKnBX2qYcRT1eebV1g==,1672926146/videos/hls/f3/9a/22/f39a22e3639619640a15740ce8f40353/hls-480p.m3u8
 #EXTINF:0,Mulher coroa rabuda e puta dando o seu cu gostoso tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/11/mulher-coroa-rabuda-e-puta-dando-o-seu-cu-gostoso.jpg" -Mulher coroa rabuda e puta dando o seu cu gostoso
-https://u3y8v8u4.aucdn.net/library/480319/484f3bf1cdd1a9ed6613bff479f9a5ee0000e7dc.mp4
+https://cdn77-vid.xvideos-cdn.com/NgNcTW8e6eO7tN0YH8ZuFQ==,1672926104/videos/hls/9e/62/a1/9e62a180d02f47e7aa031c3f78ccbc9b/hls-360p.m3u8
 
 
 
@@ -3648,120 +3648,120 @@ https://cdn77-vid.xvideos-cdn.com/M6QtwJA0IWNwKWuuKtvSBw==,1672465661/videos/hls
 
 
 #EXTINF:0,Mulher pelada com bunda grande sem calcinha tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/08/mulher-pelada-com-bunda-grande-sem-calcinha-51c.jpg" -Mulher pelada com bunda grande sem calcinha
-https://cdn77-vid.xvideos-cdn.com/bJoiAzU2pbp_r0TxNSjJmw==,1672465608/videos/hls/3c/61/65/3c616541edfad327ad8739090c50ecd1-2/hls-1080p-cd24e.m3u8
+https://cdn77-vid.xvideos-cdn.com/h6VUqPp4ZdjbvHPJORQWvA==,1672926085/videos/hls/81/4e/09/814e098444ef47fef27143a111c6732c-1/hls-720p.m3u8
 
 #EXTINF:0,Kpop TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Kpop TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+https://hls4-cf.xvideos-cdn.com/79087ef25b919553f3b409b85140fa1db8fcdea4-1672926069/videos/hls/b2/09/b7/b209b7d3842883ceab5d059424d083a6/hls-1080p.m3u8
 
 #EXTINF:0,Brunette tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Brunette
-https://live.adultiptv.net/brunette.m3u8
+https://cdn77-vid.xvideos-cdn.com/csWgD8xr0wRjhLVwg38qKQ==,1672926053/videos/hls/9a/b2/56/9ab256173512281eee984b33e74b6be7-1/hls-720p.m3u8
 
 #EXTINF:0,Blowjob tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Blowjob
-https://live.adultiptv.net/blowjob.m3u8
+https://cdn77-vid.xvideos-cdn.com/aImWzc2Cg3dLswi-uXIAdw==,1672926027/videos/hls/be/94/55/be9455a5fe73e63d0e4130928b7da594-1/hls-720p.m3u8
 
 #EXTINF:0,star tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -star
-https://live.adultiptv.net/pornstar.m3u8
+https://cdn77-vid.xvideos-cdn.com/ouAKahwA-E5_c4vA-vp_1w==,1672925930/videos/hls/db/91/c0/db91c0307799cdfd1a2ad37831c0b943-2/hls-720p.m3u8
 
 #EXTINF:0,Russian tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Russian
-https://live.adultiptv.net/russian.m3u8
+https://hls10-cf.xvideos-cdn.com/d7fd5a50890e2a03ddbd00a935a580abe0b32472-1672925994/videos/hls/92/16/0c/92160c3c23305b3a2fa7cb3fef84de83/hls-1080p.m3u8
 
 #EXTINF:0,MILF tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -MILF
-https://live.adultiptv.net/milf.m3u8
+https://cdn77-vid.xvideos-cdn.com/ulXT2oSTNa-3EkwqwKeCJA==,1672925977/videos/hls/99/eb/eb/99ebeb49bda677aa68219d1ceadb7f42/hls-1080p.m3u8
 
 #EXTINF:0,Gay tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Gay
-https://live.adultiptv.net/gay.m3u8
+https://hls4-l3.xvideos-cdn.com/8126447b7026f04574df22d539b8738169143fce-1672925961/videos/hls/8f/50/b3/8f50b30235f6f168afca1572c2ecd09c-2/hls-1080p-5feba.m3u8
 
 #EXTINF:0,Lesbian tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Lesbian
-https://live.adultiptv.net/lesbian.m3u8
+https://cdn77-vid.xvideos-cdn.com/udkoCdwUnhL6cj6lfliC2Q==,1672925948/videos/hls/05/42/39/0542390a3844f9d88d855cb6c72554b8-2/hls-1080p-2a5e6.m3u8
 
 #EXTINF:0,Cuckold tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Cuckold
-https://live.adultiptv.net/cuckold.m3u8
+https://hls4-cf.xvideos-cdn.com/00316f0d0977e0370e8df36dcf68c79c74b0c042-1672925927/videos/hls/b4/02/d1/b402d1511f9c3dd2d86ea01ae76549f3/hls-250p-37392.m3u8
 
 
 #EXTINF:0,Latina tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Latina
-https://live.adultiptv.net/latina.m3u8
+https://b-hls-06.doppiocdn.com/hls/79249942/79249942.m3u8
 
 #EXTINF:0,Live Cams tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Live Cams
-https://live.adultiptv.net/livecams.m3u8
+https://video3.xhcdn.com/key=FQmLqtxkPPVZcQiWoDWytg,end=1672927200/data=168.227.219.187-dvp/media=hls4/017/983/371/2160p.h264.mp4.m3u8
 
 #EXTINF:0,Gangbang tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Gangbang
-https://live.adultiptv.net/gangbang.m3u8
+https://video3.xhcdn.com/key=zH+87KpYUX6HjdZrr6k9bw,end=1672927200/data=168.227.219.187-dvp/media=hls4/022/093/169/2160p.h264.mp4.m3u8
 
 #EXTINF:0,Threesome tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Threesome
-https://live.adultiptv.net/threesome.m3u8
+https://video3.xhcdn.com/key=sBXrEjZwlp2dC4cyBqHGCA,end=1672927200/data=168.227.219.187-dvp/media=hls4/012/604/377/240p.h264.mp4.m3u8
 
 #EXTINF:0,Rough tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Rough
-https://live.adultiptv.net/rough.m3u8
+https://video3.xhcdn.com/key=iOdgdDt3eDRPn2M8tVh5vQ,end=1672927200/data=168.227.219.187-dvp/media=hls4/022/155/496/1080p.h264.mp4.m3u8
 
 #EXTINF:0,POV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -POV
-https://live.adultiptv.net/pov.m3u8
+https://b-hls-06.doppiocdn.com/hls/84925671/84925671_1080p.m3u8
 
 #EXTINF:0,Interracial tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Interracial  
-https://live.adultiptv.net/interracial.m3u8
+https://cdn77-vid.xvideos-cdn.com/Dw9rJBJzbRmhN0wWS_YKTA==,1672925332/videos/hls/97/f6/ae/97f6aed0f1a4a47552e5d373c645a55c/hls-720p.m3u8
 
 
 #EXTINF:0, Hardcore tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Hardcore
-https://live.adultiptv.net/hardcore.m3u8
+https://hls10-cf.xvideos-cdn.com/58323e21276cc038fc28edd76eb0a06f4c23e712-1672925624/videos/hls/7e/03/54/7e03545aef42f24a6c70f57fabeeaeaf/hls-1080p-d2b24.m3u8
 
 #EXTINF:0, Fetish tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Fetish
-https://live.adultiptv.net/fetish.m3u8
+https://cdn77-vid.xvideos-cdn.com/zo4Y_Y6qG5cTGErFDvSo_Q==,1672925595/videos/hls/ec/e6/a0/ece6a0329fda0b0ae2b11b82c92e77e2-2/hls-360p-ae866.m3u8
 
 #EXTINF:0, Compilation tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Compilation
-https://live.adultiptv.net/compilation.m3u8
+https://hls5-cf.xvideos-cdn.com/4cbee85ddcce2aac030268560a0ad91348ff23f9-1672925510/videos/hls/ee/0a/9f/ee0a9fcc050508aa78462a1d76d00d41-1/hls-1080p-8604d.m3u8
 
 #EXTINF:0,  Big Tits tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Big Tits
-https://live.adultiptv.net/bigtits.m3u8
+https://hls5-cf.xvideos-cdn.com/4cbee85ddcce2aac030268560a0ad91348ff23f9-1672925510/videos/hls/ee/0a/9f/ee0a9fcc050508aa78462a1d76d00d41-1/hls-1080p-8604d.m3u8
 
 #EXTINF:0,Big Dick tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Big Dick
-https://live.adultiptv.net/bigdick.m3u8
+https://cdn77-vid.xvideos-cdn.com/8zt16r5S6mozbdavC56C8Q==,1672925417/videos/hls/69/93/d0/6993d0bf9d3d9c2720e357e07f222088/hls-1080p.m3u8
 
 #EXTINF:0,Ana tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Ana
-https://live.adultiptv.net/anal.m3u8
+https://cdn77-vid.xnxx-cdn.com/6odfMKGc9k211pgtkEfELQ==,1672925429/videos/hls/e6/19/f7/e619f727284c9086b11329f7a5e818d6/hls-1080p-bd8c1.m3u8
 
 #EXTINF:0,Blonde tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Blonde
-https://live.adultiptv.net/blonde.m3u8
+https://cdn77-vid.xnxx-cdn.com/XJqURYouF_cExzkraIvqrg==,1672925424/videos/hls/92/27/20/92272058727340e8d656bcb6afa97a00/hls-1080p-95e54.m3u8
 
 #EXTINF:0,Teen tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Teen
-https://live.adultiptv.net/teen.m3u8
+https://cdn77-vid.xnxx-cdn.com/_ksvwd9GhdX9ZPAUKqI6rA==,1672925419/videos/hls/59/dd/f1/59ddf1a6ca59c01775dac70b25c9e747/hls-720p-e8c9f.m3u8
 
 #EXTINF:0,Big Ass tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Big Ass
-https://live.adultiptv.net/bigass.m3u8
+https://vs.ecniw.com/hls/eee1/017f/video_720p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0,ppp tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -ppp
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/665
+https://ev-h.phncdn.com/hls/videos/202211/13/419454651/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_419454651.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1672910510&validto=1672917710&ipa=45.167.183.151&hdl=-1&hash=ypsgRmw6PLOH%2FYrfL27W%2FPntw%2B8%3D
 
 #EXTINF:0,Atribulado (1929) tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://media.tenor.com/GJQuOocp5iMAAAAC/so-que-nao-nope.gif" -Atribulado
 https://cdn77-vid.xvideos-cdn.com/vnCQ_MOd6w9sdn_4QSj9Kg==,1670470231/videos/hls/83/2b/97/832b970dc10960ef0e7e48efca623499-1/hls-720p.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/321
+https://ev-h.phncdn.com/hls/videos/202212/07/420981221/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_420981221.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1672910503&validto=1672917703&ipa=45.167.183.151&hdl=-1&hash=%2BgLrKzAEjmSkRDKEX6jsGVqS1zk%3D
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/322
+https://ev-h.phncdn.com/hls/videos/202211/09/419220121/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_419220121.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1672910761&validto=1672917961&ipa=45.167.183.151&hdl=-1&hash=8%2F4UeIhPhaYTk%2BFJEbbaJ5vSvwg%3D
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/324
+https://ev-h.phncdn.com/hls/videos/202210/01/416671651/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_416671651.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1672910499&validto=1672917699&ipa=45.167.183.151&hdl=-1&hash=2%2FTJpZPUgmaG8m05IPeWV%2BUc8tg%3D
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/325
+https://ev-h.phncdn.com/hls/videos/202211/13/419446061/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_419446061.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1672910713&validto=1672917913&ipa=168.227.219.187&hdl=-1&hash=DsmLRLW%2Baw84LL7O4D2KupqiYKY%3D
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/326
+https://ev-h.phncdn.com/hls/videos/202212/01/420593971/,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_420593971.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1672910494&validto=1672917694&ipa=45.167.183.151&hdl=-1&hash=Q8xjTkhLO9MRncKS%2Fb88Bs0hFuQ%3D
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/328
+https://cdn77-vid.xnxx-cdn.com/Xn2KpUvhG1s7E8ydlzeg8A==,1672924799/videos/hls/d4/6b/0b/d46b0bd4982c4a314434699d83bc3c16/hls-1080p-64b4a.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/330
+https://cdn77-vid.xnxx-cdn.com/t6q1pKIPscZm55Nf2yiMVw==,1672924826/videos/hls/84/af/13/84af1368f132f8a911266da06c817327/hls-720p.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/331
+https://hls8-cf.xnxx-cdn.com/19fa1d496b78428a52c76927b343d7e161e2fca6-1672924796/videos/hls/9d/9f/91/9d9f91f212136d1710e8a3b97a3bdbf2/hls-480p.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/337
+https://cdn77-vid.xnxx-cdn.com/-2KdlPPKtiJPYJTduH5C_g==,1672924654/videos/hls/cd/49/6f/cd496f37e44a22605afa18528955b757/hls-720p-2b6c8.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/338
+https://cdn77-vid.xnxx-cdn.com/3zUcuNp43Q-ANWxzPWbX1A==,1672924724/videos/hls/4a/51/ac/4a51ac4796db2e803604071e4623b2e5/hls-720p-36991.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/341
+https://cdn77-vid.xnxx-cdn.com/Zt1MVpg4wWGx-STP1HRcWQ==,1672924651/videos/hls/47/47/df/4747dfeffe0feb4ad7f5a2165ed84010/hls-720p-a49f6.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1070
+https://cdn77-vid.xnxx-cdn.com/uU1isa1nLuZWlD7VQ84Sdw==,1672924684/videos/hls/39/ad/c2/39adc2b809ebb07bc6dd256b6043e6a3/hls-720p-d4c20.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1071
+https://cdn77-vid.xnxx-cdn.com/BLw8aS3yPCtkJkrSmm7izg==,1672924648/videos/hls/45/e8/75/45e875265d2e0b33e8d3794817927d3b/hls-720p-ec854.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1072
+https://hls2-cf.xnxx-cdn.com/18b273e31e4b502d96c43431948eab126f6b3bd6-1672924633/videos/hls/69/43/7b/69437b4c2f744f277c3c2c2f2c369814/hls-720p-30813.m3u8
 #EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1073
+https://cdn77-vid.xnxx-cdn.com/ivzCvIcUX8eu_JcH6y_kcQ==,1672924548/videos/hls/07/be/f0/07bef0f4ae287e997edf91310b348bf3/hls-720p-3fc87.m3u8
 #EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/567
 #EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
@@ -3960,5 +3960,7 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/662
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/663
 #EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/161004160803-05-sex-is-good-for-you-shutterstock-348997928.jpg?q=w_4148,h_2333,x_0,y_0,c_fill/w_1280" -PORNBOX 1 
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/664
+
 #EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://images.everydayhealth.com/images/sex-and-intimacys-role-in-your-overall-health-1440x810.jpg?sfvrsn=f7832db7_4" -PORNBOX 1
 https://video-hw.xvideos-cdn.com/videos/3gp/6/c/8/xvideos.com_6c8a6955392d1eaa19a262639c615fab.mp4?e=1671813714&ri=1024&rs=85&h=b49b856a0657a7b1df083912b2f28e73
+
