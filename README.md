@@ -4,11 +4,11 @@
 ############## radiofax #################  
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
 
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax
 http://stream.zeno.fm/hu70hmkcu68uv
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.m3u
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
