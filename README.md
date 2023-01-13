@@ -15,6 +15,8 @@ http://stream.zeno.fm/hu70hmkcu68uv.pls
 ############## alexsilva ################# 
 #EXTINF:-1 tvg-id=" iddocanaldealexsilva" group-title="
 
+
+
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" group-title="sporte",FOX Sports 2 HD
 https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Space_TV_1997.png/revision/latest/scale-to-width-down/250?cb=20161023185009" group-title="alexsilva",space
@@ -25,6 +27,15 @@ https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3025872&wmsAuthSi
 http://rec2.tvpn.eu/ibl/ibl/146.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Space_TV_1997.png/revision/latest/scale-to-width-down/250?cb=20161023185009" group-title="alexsilva",space tv
 https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3042560&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxMToxMjoyNyBQTSZoYXNoX3ZhbHVlPXlFQzJsREY2UnM4Z0ZJMnBrY2xlOXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+
+#EXTM3U url-tvg="http://grade-de-lançamento.xml"
+############## lançamento ################# 
+#EXTINF:-1 tvg-id=" iddocanaldealexsilva" group-title="
+
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/nwXDSGoFHClBuWTAbxOCx5JMc5sz05vebwPTDBvYAQc61LVU4IQy6lMwUy1aNmg77CbXqWJwD4M=s48-c-k-c0x00ffffff-no-rj" group-title="lançamento",Pantera Negra: Wakanda Para sempre 
+https://youtu.be/7ZC0eWRlqWg
+#EXTINF:1 tvg-logo="https://cdn.tapetender70er.de/media/image/d4/27/9f/Shabby-Shic-Carta-da-parati.jpg" group-title="lançamento",Espiões Por Acaso
+https://youtu.be/H23lEseol4g
 
 #EXTM3U url-tvg=" http://grade-de-TELEVISÃO.xml "
  ############## TELEVISÃO ############## ###   
@@ -840,6 +851,45 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/164
 #EXTM3U url-tvg=" http://grade-de-camera.xml "
 ############## Camera #################  
 #EXTINF:-1 tvg-id=" iddocanaldeCamera " group-title=" 
+
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="Camera",Lisboa - Belém
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/27201292/44434/i/450/depositphotos_444341112-stock-photo-an-aerial-shot-of-the.jpg" group-title="Camera",Ofir
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.playocean.net/i/portugal/beaches/porto/homem-do-leme/praia-do-homem-do-leme-6.jpg" group-title="Camera",Porto - Homem do Leme
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
+#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/CKsbn1KyNR0/maxresdefault.jpg" group-title="Camera",Praia Canide Norte - Sul
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-M1Il1azjs4E/VvbUDkM_VWI/AAAAAAAArcM/ZKdZx7nzO7ksRrx37wGrmuJ5Hs8rWGgyQ/s1600/Praia%2Bde%2BEsmoriz%2B1.jpg" group-title="Camera",Esmoriz
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:1 tvg-logo="http://praias.beachcam.pt/media/6756/th_furadouro_.jpg" group-title="Camera",Furadouro
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdn.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.PRA1205D.jpg?itok=tScQQeYj" group-title="Camera",Praia da Torreira
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:1 tvg-logo="https://img.ibxk.com.br/2014/06/10/10121324612294.gif" group-title="Camera",Costa Nova
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/uXWIkzVn-XY/maxresdefault.jpg" group-title="Camera",Praia da Tocha
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:1 tvg-logo="https://t3.ftcdn.net/jpg/05/20/86/68/360_F_520866848_rNYUPhBntmRiDiN3hFGrfV0MINMWQj1t.jpg" group-title="Camera",Murtinheira
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
+#EXTINF:1 tvg-logo="hhttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/01/e5/78/praia-do-cabedelo.jpg?w=1200&h=-1&s=1" group-title="Camera",Figueira da Foz - Cabedelo
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://gooutside.com.br/wp-content/uploads/sites/3/2021/05/osso-de-baleia-encontrado-em-sp-696x522.jpg" group-title="Camera",Praia Osso da Baleia
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+
 
 #EXTINF:0,Goiânia - Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68bf6c7c7f91f58a1fe48b3cd12e23bb.webp" -Goiânia - Panorâmica
 https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
@@ -3657,7 +3707,17 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
  ############## nao ################ #   
 #EXTINF:-1 tvg-id=" iddocanaldenao " group-title="
 
-https://filmesporno.xxx/page/3/
+https://filmesporno.xxx/xvideos/gringo-roludo/
+
+#EXTINF:1 tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/04/rrrrrrr-na-idade-da-pedra-filme-completo-250x140.jpg" group-title="nao",vid
+https://cdn77-vid.xvideos-cdn.com/xdz29bZhMyazCPFRBFklLQ==,1673588591/videos/hls/27/76/6e/27766ed0da46415f11e99fada8ecd5de/hls-360p-4e77f.m3u8
+#EXTINF:1 tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/04/idade-da-pedra.jpg" group-title="nao",Idade da pedra
+https://cdn77-vid.xvideos-cdn.com/sb4z6E1IVYlxOeQFtRYerw==,1673588934/videos/hls/56/5c/ab/565cabbf112571c6e494771c310c9410/hls-720p.m3u8
+#EXTINF:1 tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/04/idade-da-pedra.jpg" group-title="nao",Idade da pedra
+https://cdn77-vid.xvideos-cdn.com/ygtA5bbA55ZeghT-Sd7jWw==,1673589098/videos/hls/d0/d2/8c/d0d28ca4825faf8cbb1ee2353d15f2c9-1/hls-720p.m3u8
+
+#EXTINF:1 tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/04/rrrrrrr-na-idade-da-pedra-filme-completo-250x140.jpg" group-title="nao",vid
+https://hls4-cf.xvideos-cdn.com/78dc39536fa0643b144d0a121e351464cb4861f4-1673588847/videos/hls/1f/7b/be/1f7bbe23b31672ca17d3c0da560960b7-1/hls-360p.m3u8
 
 #EXTINF:0,loiras 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/muito-sexo-quente-no-xvideos-porno-com-loiras.jpg" -loiras1
 https://hls8-cf.xvideos-cdn.com/a9217c921e5745fb118cf435152036ae300f996f-1672789519/videos/hls/8c/e5/8f/8ce58fb5e362dea6b663bee0b610a720/hls-1080p-5cc7a.m3u8
