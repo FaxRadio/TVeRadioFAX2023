@@ -15,7 +15,8 @@ http://stream.zeno.fm/hu70hmkcu68uv.pls
 ############## alexsilva ################# 
 #EXTINF:-1 tvg-id=" iddocanaldealexsilva" group-title="
 
-
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/jrLPF9_b8R8/maxresdefault.jpg" group-title="alexsilva",Chaves AO VIVO
+https://youtu.be/poW2zsmWTT0
 
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" group-title="sporte",FOX Sports 2 HD
 https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
@@ -27,6 +28,38 @@ https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3025872&wmsAuthSi
 http://rec2.tvpn.eu/ibl/ibl/146.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Space_TV_1997.png/revision/latest/scale-to-width-down/250?cb=20161023185009" group-title="alexsilva",space tv
 https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3042560&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxMToxMjoyNyBQTSZoYXNoX3ZhbHVlPXlFQzJsREY2UnM4Z0ZJMnBrY2xlOXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+
+
+#EXTM3U url-tvg="http://grade-de-OsTrapalhões.xml"
+############## OsTrapalhões ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeOsTrapalhões" group-title="
+
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/bF2XorsH4vU/maxresdefault.jpg" group-title="OsTrapalhões",Nas Minas Do Rei Salomão
+https://youtu.be/bF2XorsH4vU
+#EXTINF:1 tvg-logo="http://s2.glbimg.com/9JIDYzMZSe9BdqpubQVSeMues7Q=/300x225/s.glbimg.com/jo/g1/f/original/2013/06/15/os_trapalhoes.jpg" group-title="OsTrapalhões",O CASAMENTO DOS TRAPALHOES
+https://youtu.be/tWd2vD2-_go
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/05/Os_Vagabundos_Trapalh%C3%B5es.jpg/250px-Os_Vagabundos_Trapalh%C3%B5es.jpg" group-title="OsTrapalhões",Os Vagabundos Trapalhões 
+https://youtu.be/0DNusO80lb0
+#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/cioD_f2fSJU/maxresdefault.jpg" group-title="OsTrapalhões",Os Fantasmas Trapalhões
+https://youtu.be/cioD_f2fSJU
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/aHOZk0xXqnw/maxresdefault.jpg" group-title="OsTrapalhões",Os Heróis Trapalhões
+https://youtu.be/cBQnGPoMbiI
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/O_Cangaceiro_Trapalh%C3%A3o.jpg" group-title="OsTrapalhões",O Cangaceiro Trapalhão
+https://youtu.be/_FjwuuCzRIU
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Os_Saltimbancos_Trapalh%C3%B5es.jpg" group-title="OsTrapalhões",Os Saltimbancos Trapalhões
+https://youtu.be/Eyopl8AJ4r4
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/7qrF2BW5RdA/sddefault.jpg" group-title="OsTrapalhões",Os Trapalhões no Auto da Compadecida
+https://youtu.be/zMLAJ5QWQpg
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/PC85d_D3_XU/maxresdefault.jpg" group-title="OsTrapalhões",Os Trapalhões E O Rei Do Futebol
+https://youtu.be/PC85d_D3_XU
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ0MDQ5OWEtMjQ4Mi00YzVjLWFjZjEtMmI2YTVhYjhiMDk1XkEyXkFqcGdeQXVyMTI0Nzk5NTQ2._V1_FMjpg_UX1000_.jpg" group-title="OsTrapalhões", Bonga o Vagabundo
+https://youtu.be/338gOxRS5zg
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/Uma_Escola_Atrapalhada.jpg/250px-Uma_Escola_Atrapalhada.jpg" group-title="OsTrapalhões",Uma Escola Atrapalhada
+https://youtu.be/fWLDmweGP58
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/BFxbDXbus_g/maxresdefault.jpg" group-title="OsTrapalhões",A Filha dos Trapalhões
+https://youtu.be/rtV0jKY2r4s
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GDE07kSV-1Y/maxresdefault.jpg" group-title="OsTrapalhões",No Reino da Fantasia
+https://youtu.be/fBbtFnP6HMc
 
 #EXTM3U url-tvg="http://grade-de-lançamento.xml"
 ############## lançamento ################# 
@@ -42,15 +75,41 @@ https://youtu.be/rNTUrTQT3kA
 https://youtu.be/bLfDX8PGYDA
 #EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/06/04/10/26/215084.jpg" group-title="lançamento",Os Últimos na Terra
 https://youtu.be/RZLHYXAJoBo
+#EXTINF:1 tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202111/2001/FXPQpJRPg0EZMVPCKRGTxMB8.png" group-title="lançamento",uncharted
+https://youtu.be/eGHc8yv59XI
+#EXTINF:1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/2145381526.jpg" group-title="lançamento",Hora das consequências
+https://youtu.be/uA5vqBekFWg
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Bullett_raja.jpg" group-title="lançamento",Bullet Raja
+https://youtu.be/_UQ7RCwukMU
+#EXTINF:1 tvg-logo="https://media.moneytimes.com.br/uploads/2021/12/2022-7.jpg" group-title="lançamento",AÇÃO 2022
+https://youtu.be/I6I3yyxvlJA
+#EXTINF:1 tvg-logo="https://polocriative.com/wp-content/uploads/2022/06/Bene-o-Filme-v2.jpg" group-title="lançamento",BENÉ
+https://youtu.be/vXcEGbw6xDU
+#EXTINF:1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_658133-MLB41260803644_032020-V.jpg" group-title="lançamento",Vingador Da Noite
+https://youtu.be/jYxPJ0Q4Hv4
+#EXTINF:1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2022/11/Avatar-O-Caminho-da-Agua-Trailer-da-sequencia-de-James-Cameron-retornando-a-Pandora-em-15-de-dezembro-de-2022.jpg" group-title="lançamento",Avatar 2: O Caminho da Água
+https://youtu.be/ubjwQuuHl8Y
+#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/iycbVZ7fdN0/maxresdefault.jpg" group-title="lançamento",Ação e Luta
+https://youtu.be/8kYok7e7Tqw
+#EXTINF:1 tvg-logo="https://thenexus.one/storage/2022/04/jet-li-the-one-multiverse.jpg" group-title="lançamento",jet li 2023
+https://youtu.be/MxotdKaRnY4
+#EXTINF:1 tvg-logo="https://media.gazetadopovo.com.br/2008/10/60c1372d698d0a25f3758f73a6e7e81f-gpLarge.jpg" group-title="lançamento",LIGA DA INJUSTIÇA
+https://youtu.be/btiOK3CaRlM
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/h-GUsN096Ps/maxresdefault.jpg" group-title="lançamento",BARÃO DA DROGA
+https://youtu.be/h-GUsN096Ps
+#EXTINF:1 tvg-logo="https://images.justwatch.com/poster/41592253/s718/roubo-sem-saida.%7Bformat%7D" group-title="lançamento",Roubo sem saida
+https://youtu.be/rrR-Rt6h0PU
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxOGNjOTAtNWM4YS00YmZmLTgxNzYtYTQ5M2ZmNTgxZjEzXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg" group-title="lançamento",daylight 
+https://youtu.be/XwPGXZDT83k  
 
 
-#EXTM3U url-tvg=" http://grade-de-TELEVISÃO.xml "
- ############## TELEVISÃO ############## ###   
+#EXTM3U url-tvg=" http://grade-de-televisao.xml "
+ ############## televisao ############## ###   
 #EXTINF:-1 tvg-id=" iddocanaldetelevisao" group-title="
 
 #EXTINF:1 tvg-logo="https://i2.wp.com/www.zapping-tv.com/wp-content/uploads/2013/02/sic_2.jpg?fit=555%2C404&ssl=1" group-title="TELEVISÃO",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/B8yEA0JPA6w/hqdefault.jpg" group-title="TELEVISÃO",Euronews PT
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/B8yEA0JPA6w/hqdefault.jpg" group-title="televisao" ,Euronews PT
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0,CINE LIVRE 2 tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://cdn.videoplasty.com/gif/clapper-board-stock-gif-4060-1024x576.gif" -CINE LIVRE 2
@@ -1701,11 +1760,8 @@ https://e-8.dokicloud.one/_v8/426dd31f1a731714111659b0a1756ce85dcb6258fcfaac3610
  ############## BRASIL: variedades em português ############## ###                
 #EXTINF:-1 tvg-id=" iddocanaldeBRASIL: variedades em português " group-title=" 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Brasil: variedades em português",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Banda | RBA TV - PA - Brasil
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Banda SP | Brasil
 https://stream-04.sv4.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm43zh8Y45ZL-LIiOKDVLm37WuO66vc37IUytdQYg_vR99)/dm/3/x83vbd6/s/live-3.m3u8
 #EXTINF:-1 tvg-id="BandRS.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Banda RS | Brasil
