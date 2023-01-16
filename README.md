@@ -1,15 +1,101 @@
 #EXTM3U
 
+#EXTM3U url-tvg=" http://grade-de-HRCERTA.xml "
+############## HRCERTA #################  
+#EXTINF:-1 tvg-id=" iddocanaldeHRCERTA" group-title="
+
+#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-FnmzY_BDIBY/WhQhIS1tubI/AAAAAAAAOYY/TNDRTQvlTYQKA69W6IwnVxRHii0HIzT6QCLcBGAs/s1600/LOGOHORACERTA2.png" group-title="HRCERTA",HRCERTA
+https://youtu.be/M1mROdK3aqE
+
 #EXTM3U url-tvg=" http://grade-de-radiofax.xml "
 ############## radiofax #################  
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
 
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.m3u
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.pls
+
+#EXTM3U url-tvg="http://grade-de-AOVIVO.xml"
+############## AOVIVO ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeAOVIVO" group-title="
+
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s48-c-k-c0x00ffffff-no-rj" group-title="AOVIVO",Record News
+https://youtu.be/94ZTYbp4xBI
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/A9E5D6U8Q8c/maxresdefault.jpg" group-title="AOVIVO",SBT - Ao vivo 24h
+https://youtu.be/hj9-hoYto0M
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/A9E5D6U8Q8c/maxresdefault.jpg" group-title="AOVIVO",SBT - Ao vivo 24h
+https://youtu.be/qOZTCySst30
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/i70If7KfmNVshM9q_WKbTqLCtjR0lH3vs5Zphh8NTQ3T3wdN7t-GvzIFU2FfCryvWNLn1pwF=s48-c-k-c0x00ffffff-no-rj" group-title="AOVIVO",Estúdio CBN
+https://youtu.be/jdNti50OpM8
+#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/24caSFvs2AQxJ-CRWlytu7T9oaR9SyGB2CzHT9znacPoKqf63w3TwP0pXfX-VgZfz8Mr62x47w=s48-c-k-c0x00ffffff-no-rj" group-title="AOVIVO",Monster Energy Supercross
+https://youtu.be/zJ4O5f_jsjM
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/lkUrkboYjtgBQUtNZvPU4oxf9UXe-cYYmYKd7Dv_RzzTvEQ3JW59PxTau91sueGFVogKl4ZknA=s48-c-k-c0x00ffffff-no-rj" group-title="TV Canção Nova ao vivo
+https://youtu.be/cVrvJTuTT9A
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/HXO1pQKapumNPPigcOzULQiymonRMMvyy128aMKA08xmacc7nvGfplE5fuiBVyhhBn6CQMs8Dg=s48-c-k-c0x00ffffff-no-rj" group-title="Santa Missa
+https://youtu.be/aEjhtytpCHQ
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_z4iDLGRndllYc8xWy_HdLiC0B5kYIcaLYJ75d=s48-c-k-c0x00ffffff-no-rj" group-title="Ponta Negra ao Vivo 24h - Manaus - Amz.Live - Lounge
+https://youtu.be/2PS9noNoA6o
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/lkUrkboYjtgBQUtNZvPU4oxf9UXe-cYYmYKd7Dv_RzzTvEQ3JW59PxTau91sueGFVogKl4ZknA=s48-c-k-c0x00ffffff-no-rj" group-title="TV Canção Nova ao vivo
+
+#EXTM3U url-tvg=" http://grade-de-camera.xml "
+############## Camera #################  
+#EXTINF:-1 tvg-id=" iddocanaldeCamera " group-title=" 
+
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="Camera",Lisboa - Belém
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/27201292/44434/i/450/depositphotos_444341112-stock-photo-an-aerial-shot-of-the.jpg" group-title="Camera",Ofir
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.playocean.net/i/portugal/beaches/porto/homem-do-leme/praia-do-homem-do-leme-6.jpg" group-title="Camera",Porto - Homem do Leme
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
+#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/CKsbn1KyNR0/maxresdefault.jpg" group-title="Camera",Praia Canide Norte - Sul
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-M1Il1azjs4E/VvbUDkM_VWI/AAAAAAAArcM/ZKdZx7nzO7ksRrx37wGrmuJ5Hs8rWGgyQ/s1600/Praia%2Bde%2BEsmoriz%2B1.jpg" group-title="Camera",Esmoriz
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:1 tvg-logo="http://praias.beachcam.pt/media/6756/th_furadouro_.jpg" group-title="Camera",Furadouro
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdn.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.PRA1205D.jpg?itok=tScQQeYj" group-title="Camera",Praia da Torreira
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:1 tvg-logo="https://img.ibxk.com.br/2014/06/10/10121324612294.gif" group-title="Camera",Costa Nova
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/uXWIkzVn-XY/maxresdefault.jpg" group-title="Camera",Praia da Tocha
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:1 tvg-logo="https://t3.ftcdn.net/jpg/05/20/86/68/360_F_520866848_rNYUPhBntmRiDiN3hFGrfV0MINMWQj1t.jpg" group-title="Camera",Murtinheira
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
+#EXTINF:1 tvg-logo="hhttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/01/e5/78/praia-do-cabedelo.jpg?w=1200&h=-1&s=1" group-title="Camera",Figueira da Foz - Cabedelo
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
+#EXTINF:1 tvg-logo="https://gooutside.com.br/wp-content/uploads/sites/3/2021/05/osso-de-baleia-encontrado-em-sp-696x522.jpg" group-title="Camera",Praia Osso da Baleia
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+
+#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/ytc/AMLnZu-9AN3w-LKpUgEiFLVALsFFUHvywcJIa-5tg1pgjw=s48-c-k-c0x00ffffff-no-rj" group-title="Camera",AO VIVO DE PORTUGAL
+https://youtu.be/Lb5ktLGFsKs
+
+#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s48-c-k-c0x00ffffff-no-rj" group-title="Camera", Balneário Camboriú
+https://youtu.be/PjXKFvxCkC4
+
+#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s48-c-k-c0x00ffffff-no-rj" group-title="Camera", Balneário Camboriú
+https://youtu.be/oV-J0AnViWo
+
+#EXTINF:0,Goiânia - Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68bf6c7c7f91f58a1fe48b3cd12e23bb.webp" -Goiânia - Panorâmica
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
+#EXTINF:0,Brasília Asa Sul tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2020/04/04/842306/20200404012621153669i.JPG" -Brasília Asa Sul
+https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
+#EXTINF:0,Cascavel Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f869e31dbca32dca5d9adda8f13fcd09.webp" -Cascavel Panorâmica
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
 
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
 ############## alexsilva ################# 
@@ -63,7 +149,7 @@ https://youtu.be/fBbtFnP6HMc
 
 #EXTM3U url-tvg="http://grade-de-lançamento.xml"
 ############## lançamento ################# 
-#EXTINF:-1 tvg-id=" iddocanaldealexsilva" group-title="
+#EXTINF:-1 tvg-id=" iddocanaldelançamento" group-title="
 
 #EXTINF:1 tvg-logo="https://yt3.ggpht.com/nwXDSGoFHClBuWTAbxOCx5JMc5sz05vebwPTDBvYAQc61LVU4IQy6lMwUy1aNmg77CbXqWJwD4M=s48-c-k-c0x00ffffff-no-rj" group-title="lançamento",Pantera Negra: Wakanda Para sempre 
 https://youtu.be/7ZC0eWRlqWg
@@ -910,55 +996,7 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/165
 #EXTINF:0,PREMIERE CLUB tvg-id="iddocanaldesporte" group-title="sporte" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/images/body/premiere-825x293.png" -PREMIERE CLUB
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/164
 
-#EXTM3U url-tvg=" http://grade-de-camera.xml "
-############## Camera #################  
-#EXTINF:-1 tvg-id=" iddocanaldeCamera " group-title=" 
 
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="Camera",Lisboa - Belém
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
-#EXTINF:1 tvg-logo="https://st2.depositphotos.com/27201292/44434/i/450/depositphotos_444341112-stock-photo-an-aerial-shot-of-the.jpg" group-title="Camera",Ofir
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.playocean.net/i/portugal/beaches/porto/homem-do-leme/praia-do-homem-do-leme-6.jpg" group-title="Camera",Porto - Homem do Leme
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
-#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/CKsbn1KyNR0/maxresdefault.jpg" group-title="Camera",Praia Canide Norte - Sul
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
-#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-M1Il1azjs4E/VvbUDkM_VWI/AAAAAAAArcM/ZKdZx7nzO7ksRrx37wGrmuJ5Hs8rWGgyQ/s1600/Praia%2Bde%2BEsmoriz%2B1.jpg" group-title="Camera",Esmoriz
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
-#EXTINF:1 tvg-logo="http://praias.beachcam.pt/media/6756/th_furadouro_.jpg" group-title="Camera",Furadouro
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cdn.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.PRA1205D.jpg?itok=tScQQeYj" group-title="Camera",Praia da Torreira
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
-#EXTINF:1 tvg-logo="https://img.ibxk.com.br/2014/06/10/10121324612294.gif" group-title="Camera",Costa Nova
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/uXWIkzVn-XY/maxresdefault.jpg" group-title="Camera",Praia da Tocha
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
-#EXTINF:1 tvg-logo="https://t3.ftcdn.net/jpg/05/20/86/68/360_F_520866848_rNYUPhBntmRiDiN3hFGrfV0MINMWQj1t.jpg" group-title="Camera",Murtinheira
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
-#EXTINF:1 tvg-logo="hhttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/01/e5/78/praia-do-cabedelo.jpg?w=1200&h=-1&s=1" group-title="Camera",Figueira da Foz - Cabedelo
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
-
-#EXTINF:1 tvg-logo="https://gooutside.com.br/wp-content/uploads/sites/3/2021/05/osso-de-baleia-encontrado-em-sp-696x522.jpg" group-title="Camera",Praia Osso da Baleia
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
-
-
-#EXTINF:0,Goiânia - Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68bf6c7c7f91f58a1fe48b3cd12e23bb.webp" -Goiânia - Panorâmica
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
-#EXTINF:0,Brasília Asa Sul tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2020/04/04/842306/20200404012621153669i.JPG" -Brasília Asa Sul
-https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
-#EXTINF:0,Cascavel Panorâmica tvg-id="iddocanaldecamera" group-title="camera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f869e31dbca32dca5d9adda8f13fcd09.webp" -Cascavel Panorâmica
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-NOVELAS.xml "         
  ############## NOVELAS ############## ###                  
