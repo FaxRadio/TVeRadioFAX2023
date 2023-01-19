@@ -101,12 +101,8 @@ https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.st
 ############## alexsilva ################# 
 #EXTINF:-1 tvg-id=" iddocanaldealexsilva" group-title="
 
-
-
-
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/jrLPF9_b8R8/maxresdefault.jpg" group-title="alexsilva",Chaves AO VIVO
 https://youtu.be/poW2zsmWTT0
-
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" group-title="sporte",FOX Sports 2 HD
 https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Space_TV_1997.png/revision/latest/scale-to-width-down/250?cb=20161023185009" group-title="alexsilva",space
@@ -117,7 +113,6 @@ https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3025872&wmsAuthSi
 http://rec2.tvpn.eu/ibl/ibl/146.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Space_TV_1997.png/revision/latest/scale-to-width-down/250?cb=20161023185009" group-title="alexsilva",space tv
 https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=3042560&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyMiAxMToxMjoyNyBQTSZoYXNoX3ZhbHVlPXlFQzJsREY2UnM4Z0ZJMnBrY2xlOXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-
 
 #EXTM3U url-tvg="http://grade-de-OsTrapalhões.xml"
 ############## OsTrapalhões ################# 
@@ -819,8 +814,7 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f32d2db0af67400077f29c4/3063648/playlist.m3u8?terminate=false&sid=cb1a6dfd-679e-11ed-ab24-0242ac110003&deviceDNT=0&deviceLat=-23.5229&deviceLon=-47.2817&deviceModel=web&deviceVersion=107.0.0&serverSideAds=true&appName=web&deviceId=4c5b616f-65f0-4b8f-ba3a-a89621d68e7e&appVersion=6.7.1-38d521889b5c2cd009d29efb8c0355e10028c31d&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlNTYzZDdlLTA2OWEtNDY1ZS04NTc1LTYxNmIxNzVkZDRhOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjYjFhNmRmZC02NzllLTExZWQtYWIyNC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE2Ny4xODAuMzEiLCJjaXR5IjoiQWx1bWluaW8iLCJwb3N0YWxDb2RlIjoiMTgxMjUiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjMuNTIyOSwiZGV2aWNlTG9uIjotNDcuMjgxNywicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA3LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi43LjEtMzhkNTIxODg5YjVjMmNkMDA5ZDI5ZWZiOGMwMzU1ZTEwMDI4YzMxZCIsImNsaWVudElEIjoiNGM1YjYxNmYtNjVmMC00YjhmLWJhM2EtYTg5NjIxZDY4ZTdlIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY2ODg0NTUyMiwianRpIjoiNjIzMTYzMmYtZWJiOS00NDNlLTg5MGUtNTNjZWQ2ZGMxZjU1IiwiaWF0IjoxNjY4ODE2NzIyLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6TkdNMVlqWXhObVl0TmpWbU1DMDBZamhtTFdKaE0yRXRZVGc1TmpJeFpEWTRaVGRsIn0.vZiHXfV1joRGl8qs5zszAPugjdIHgAzK1XPyvzWpSnI 
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" group-title="sporte",FOX Sports 2 HD
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110291
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" group-title="sporte",FOX Sports 2 HD
-https://live.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=1014659&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDk6MjE6MTIgUE0maGFzaF92YWx1ZT0wK3ppZ3hiZ09RZGIwVnM3UGZwcW93PT0mdmFsaWRtaW51dGVzPTkw
+
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" group-title="sporte",FOX Sports 2 HD
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/139
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BrilliantSoftDromaeosaur-size_restricted.gif" group-title="sporte",FOX Sports 2 HD
