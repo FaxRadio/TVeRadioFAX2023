@@ -1986,10 +1986,8 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHIKmOZ.png" group-title="Música",Blast Channel TV | Brasil
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5aWWmnK.png" group-title="Música",Box Playlist | latino
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1705
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N632la8.png" group-title="Música",BritAsia Live | Reino Unido
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alL0JMt.png" group-title="Música",Caltex Music | Irã
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7VmFIX9.png" group-title="Música",Canela Hits | Canela TV
@@ -2002,26 +2000,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=738
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=753
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=609
-#EXTINF:-1 tvg-id="FRBB1900001FA" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | França 
-https://d2kxrnvwjgpe0t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-FR-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | França - Rakuten
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5f984784ccb4de0007dfad74" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Pluto TV Alemanha 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="600ad4ad6537680007be2ea6" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Pluto TV Espanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="600ad8f86e1eba00081da3ce" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60802de3fd2d70000763bb83" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Pluto TV Itália
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61781623dccb9a000721f414" tvg-logo="https://images.pluto.tv/channels/61781623dccb9a000721f414/colorLogoPNG.png" group-title="Música",Clubbing TV | Pluto TV Noruega
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61781623dccb9a000721f414/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="600ad1a372e57c0007dbee5a" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a372e57c0007dbee5a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="GBBB1900001IG" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Samsung Brasil
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GBBB1900001IG" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música",Clubbing TV | Samsung Reino Unido
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música",CMT Equal Play | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="http://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Música",Conciertos | Pluto TV Argentina
@@ -2048,32 +2028,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1748
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYMtPuJ.png" group-title="Música",Friday Feels
 https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbFR8VK.png" group-title="Música",Fuego TV | Colômbia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1549
-#EXTINF:-1 tvg-id="6192396135f3910007fc5fc7" tvg-logo="https://images.pluto.tv/channels/6192396135f3910007fc5fc7/colorLogoPNG.png" group-title="Música",GoldStar | Pluto TV Alemanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6192396135f3910007fc5fc7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6INAu0.png" group-title="Música",Indistry | Galxy TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2535
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3aRMLWa.png" group-title="Música",Jam in The Van
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1693
-#EXTINF:-1 tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV | Austrália
-https://i.mjh.nz/nz/tv.juice.m3u8
-#EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Música",K-Pop | Pluto TV Espanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/yUfSk5U.png" group-title="Música",KPop TV Play | Brasil
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Odr10Zj.png" group-title="Música",Latido Music
 http://linear-257.frequency.stream/257/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iqUHf3x.png" group-title="Música",Latin Music TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1481
-#EXTINF:-1 tvg-id="603d01a55123740007f8375a" tvg-logo="https://images.pluto.tv/channels/603d01a55123740007f8375a/colorLogoPNG.png" group-title="Música",Live in Concert | Pluto TV Alemanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/603d01a55123740007f8375a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6080411af03506000759916e" tvg-logo="https://images.pluto.tv/channels/6080411af03506000759916e/colorLogoPNG.png" group-title="Música",Live in Concert | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6080411af03506000759916e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música",Live Music Replay | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60cab54031ae01002cf7bb31" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loopmusicvideos_logo_dark.png" group-title="Música",Loop Music Videos | Plex
-https://loopmusic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-loopmusic-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="Música",Love Songs | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Música",MTV Biggest Pop | Pluto TV Argentina
