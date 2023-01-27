@@ -3503,9 +3503,9 @@ https://youtu.be/Lb5ktLGFsKs
 https://youtu.be/PjXKFvxCkC4
 #EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s48-c-k-c0x00ffffff-no-rj" group-title="Camera", Balneário Camboriú
 https://youtu.be/oV-J0AnViWo
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68bf6c7c7f91f58a1fe48b3cd12e23bb.webp"group-title="Camera", -Goiânia - Panorâmica
+#EXTINF:1 tvg-logo="https://fotografiasaereas.com.br/wp-content/uploads/goiania-0013-fotos-aereas-estadio-Serra-dourada-parque-buritis-lago-rosas.jpg" group-title="Camera",Goiânia - Panorâmica
 https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
-#EXTINF:1 tvg-logo="https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2020/04/04/842306/20200404012621153669i.JPG"group-title="Camera", -Brasília Asa Sul
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8BgvfOZOA9DJmbWEoZXNmtjyw6dqn0z10Udke2r9tNYftQP3B_Kn68iTEqg1lJ39uJs&usqp=CAU" group-title="Camera",Brasília Asa Sul
 https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f869e31dbca32dca5d9adda8f13fcd09.webp"group-title="Camera", -Cascavel Panorâmica
+#EXTINF:1 tvg-logo="https://climaonline.com.br/public/fotos/pr/cascavel/foto-antiga-de-cascavel-22.webp" group-title="Camera",Cascavel Panorâmica
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
