@@ -133,13 +133,13 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1 tvg-logo="https://cdn.videoplasty.com/gif/clapper-board-stock-gif-4060-1024x576.gif" group-title="televisao",CINE LIVRE 2
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
-#EXTINF:0,Cine Natal | Brasil: cinematvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_MN8Xlgh9JGYaIJDdS-HiBFzAB26Ugv0dL4XNP=s900-c-k-c0x00ffffff-no-rj" group-title="televisao", -Cine Natal
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_MN8Xlgh9JGYaIJDdS-HiBFzAB26Ugv0dL4XNP=s900-c-k-c0x00ffffff-no-rj" group-title="televisao", -Cine Natal
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
 #EXTINF:1 tvg-logo="https://adslfibra.pt/sites/adslfibra.pt/files/images/axn-programacao-825x293.gif" group-title="televisao",AXN
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/233
 #EXTINF:1 tvg-logo="https://adslfibra.pt/sites/adslfibra.pt/files/images/axn-programacao-825x293.gif" group-title="televisao",AXN
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/234
-#EXTINF:0,chespirito tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://media.tenor.com/ZTA2k7-1DA8AAAAC/chespirito-el.gif" -chespirito
+#EXTINF:1 tvg-logo="https://media.tenor.com/ZTA2k7-1DA8AAAAC/chespirito-el.gif" group-title="televisao" -chespirito
 http://168.205.87.198:8555/live/1431/123456/159.ts
 #EXTINF:1 tvg-logo="https://cdn.myportfolio.com/2cb0938e-1725-4a29-85cb-c492ab3859dd/12a653cb-1bd0-4caf-b1a4-23f7e0fb4fd2_rw_1200.gif?h=bf5a01834c519068262cf9eefffcf243" group-title="televisao",ANIMAL PLANET
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/61
@@ -229,7 +229,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/835
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/256
 #EXTINF:1 tvg-logo="https://www.rd.com/wp-content/uploads/2022/06/hbo-max-tv-shows-opener.gif" group-title="televisao",HBO
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/257
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/RjxXozUVrjreOVMbtm/giphy.gif?cid=6c09b95278410d910426ba8bec89b5d408babaed28929832&rid=giphy.gif&ct=g" group-title="televisao",HBO PLUS
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/RjxXozUVrjreOVMbtm/giphy.gif?cid=6c09b95278410d910426ba8bec89b5d408babaed28929832&rid=giphy.gif&ct=g" group-title="televisao",HBO PLUS
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/258
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/RjxXozUVrjreOVMbtm/giphy.gif?cid=6c09b95278410d910426ba8bec89b5d408babaed28929832&rid=giphy.gif&ct=g" group-title="televisao",HBO PLUS
