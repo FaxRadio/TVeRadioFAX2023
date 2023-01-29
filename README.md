@@ -848,7 +848,6 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110247
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108712
 #EXTINF:1 tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" group-title="sporte",ESPN 2 HD
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110245
-
 #EXTINF:1 tvg-logo="https://nedisam.com/storage/media-images/posters/qzhwYNzGcKqPm1NJv5ji4nzTFMygENwLCtFcgJ1H.jpg" group-title="sporte",ESPN 3
 http://8.242.187.233:5800/play/a0bi/index.m3u8
 #EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5d3057675e6a3500012b0987/1574966648301-PH041LUTNQFVB85VC2UQ/ESP_Logo-progression_151103.gif?format=1000w" group-title="sporte",EUROSPORT
@@ -1686,98 +1685,20 @@ https://vdn.libreflix.org/video/nosso-corpo-nos-pertence/nosso-corpo-nos-pertenc
 https://vdn.libreflix.org/video/the-herd/the-herd.480.mp4
 
 
-#EXTM3U url-tvg=" http://grade-de-NOVELAS.xml "         
- ############## NOVELAS ############## ###                  
-#EXTINF:-1 tvg-id=" iddocanaldeNOVELAS " group-title=" 
+#EXTM3U url-tvg=" http://grade-de-novelas.xml "         
+ ############## novelas ############## ###                  
+#EXTINF:-1 tvg-id=" iddocanaldenovelas" group-title=" 
 
-#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS",Novelisima
+#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="novelas", Novelisima
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/98VBTkT.png" group-title="NOVELAS",Sony Novelas
+#EXTINF:-1 tvg-logo="https://imgur.com/98VBTkT.png" group-ttitle="novelas",Sony Novelas
 https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS",Televisa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="novelas", Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/v5PHoNr.png" group-title="NOVELAS",BBC Drama
+#EXTINF:-1 tvg-logo="https://imgur.com/v5PHoNr.png" group-title="novelas", BBC Drama
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS",CANELA TELENOVELAS
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="novelas", CANELA TELENOVELAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
-#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Clássicos | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Clássicos | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia Romântica | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia Romântica | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Drama | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Drama | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Família | Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Família | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CrVUxYU.png" group-title="Brasil: cinema em português",Cine Life Classic | Brasil 
-https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5f8a11ce2a4559000782a583" tvg-logo="https://images.pluto.tv/channels/5f8a11ce2a4559000782a583/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Natal | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f8a11ce2a4559000782a583" tvg-logo="https://images.pluto.tv/channels/5f8a11ce2a4559000782a583/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Natal | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Romance | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Romance | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Sucessos | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Sucessos | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Terror | Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Terror | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema em português",DarkFlix HD | Brasil
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEaW5zX.png" group-title="Brasil: cinema em português",Dark Matter TV | Brasil
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brasil: cinema em português",Ficção Científica | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brasil: cinema em português",Ficção Científica | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmelier | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmelier | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="A novidade",Filmelier | Brasil: cinema
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Ação | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Ação | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Nacionais | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Nacionais | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Suspense | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Suspense | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="Brasil: cinema em português",Fronteira Movies
-https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema em português",MyTime Movie Network | Brasil
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Brasil: cinema em português",Revry Brasil
-http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema em português",Soul Cine Clube | Brasil 
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-TerrorSuspensel.xml "
  ############## TerrorSuspense ################ #   
@@ -1800,6 +1721,7 @@ https://play.prod.gcp.vix.services/hex-2018_pt/hex-2018_pt_1-1/thumbs_640x360.m3
  ############## tvclips ############## ###   
 #EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 
+
 #EXTINF:1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/f4b4b11e32c71c670d8ad17e00684678/264x264.jpg" group-title="tvclips",TV HITS
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV. png" group-title="tvclips",Clube TV
@@ -1812,38 +1734,40 @@ http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png" group-title="tvclips",Country Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:0,NASHVILLE COUNTRY TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgezAG9yo_-Bi7qhtsF8V2iO3umkNhvvLtqTNJaw56uNNo0wVP5NAB6K055IhFAuikGKhR8ZwPF31RNqE1OrVFuCnPZLuTcWeSy3O_SiXHUb1ZVi49FYw5l_XvOx6f8UQ_QS4xxVDlC32-iEOSf9bQxaauiLBG9UYBiiGZRxi-b6KUP8jUHKCbZ2z-P/s200/NASHVILLE%20COUNTRY%20TV.webp" -NASHVILLE COUNTRY TV
+#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgezAG9yo_-Bi7qhtsF8V2iO3umkNhvvLtqTNJaw56uNNo0wVP5NAB6K055IhFAuikGKhR8ZwPF31RNqE1OrVFuCnPZLuTcWeSy3O_SiXHUb1ZVi49FYw5l_XvOx6f8UQ_QS4xxVDlC32-iEOSf9bQxaauiLBG9UYBiiGZRxi-b6KUP8jUHKCbZ2z-P/s200/NASHVILLE%20COUNTRY%20TV.webp"group-title="tvclips", -NASHVILLE COUNTRY TV
 https://edge2.tikilive.com/unrestricted_tikilive/57785/amlst:dnwgXOywj4D7/chunklist_b5630798.m3u8
-#EXTINF:0,Abba Rtv tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" -Abba Rtv
+#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" group-title="tvclips",Abba Rtv
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
 #EXTINF:0,Suzuky TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" -Suzuky TV
+#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" group-title="tvclips",Suzuky TV
 https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2077970629.m3u8
-#EXTINF:0,KRONEHIT TVtvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" -KRONEHIT TV
+#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" group-title="tvclips",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0,KPOP TV PLAY tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" -KPOP TV PLAY
+#EXTINF:1 tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" group-title="tvclips",KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
-#EXTINF:0,MUSIC TOP tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" -MUSIC TOP
+#EXTINF:1 tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" group-title="tvclips",MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b2028000_sleng.m3u8
-#EXTINF:0,As Patroas tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMXs1PucIe9J-1SeMEwWUe0LwlIpMF0rD9CkHiDfRv9mRLgHwaCXoSOqj2YbdcfwRefI&usqp=CAU" -As Patroas
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMXs1PucIe9J-1SeMEwWUe0LwlIpMF0rD9CkHiDfRv9mRLgHwaCXoSOqj2YbdcfwRefI&usqp=CAU" group-title="tvclips",As Patroas
 https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
-#EXTINF:0,HITS  tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" -HITS
+#EXTINF:1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="tvclips",HITS
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
-#EXTINF:0,TV sertaneja 2 tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://yt3.ggpht.com/VrAsGmOdacwOci2GbGdyqoUgStMD07TEZiK3btJiGRCSja-Ki3RSpDCzC0SnoBy4-KYkCQLs=s176-c-k-c0x00ffffff-no-rj-mo" -TV sertaneja 2
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/VrAsGmOdacwOci2GbGdyqoUgStMD07TEZiK3btJiGRCSja-Ki3RSpDCzC0SnoBy4-KYkCQLs=s176-c-k-c0x00ffffff-no-rj-mo" group-title="tvclips",TV sertaneja 2
 https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
-#EXTINF:0,Alvorada Sertaneja tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/logotipo.png" -Alvorada Sertaneja
+#EXTINF:1 tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/logotipo.png" group-title="tvclips",Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://i.gifer.com/FPAL.gif" -CLIPS
+#EXTINF:1 tvg-logo="https://i.gifer.com/FPAL.gif" group-title="tvclips", -CLIPS
 https://5c483b9d1019c.streamlock.net/8006/8006/chunklist_w1984678252.m3u8
-#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" -CLIPS
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" group-title="tvclips", -CLIPS
 https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
-#EXTINF:0,CLIPS tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif" -CLIPS
+#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif"group-title="tvclips",  -CLIPS
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-#EXTINF:0,MASTER SHOW TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png" -MASTER SHOW TV
+#EXTINF:1 tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png"group-title="tvclips",  -MASTER SHOW TV
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
-#EXTINF:0,Tv Jovem Hits tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png" -Tv Jovem Hits
+#EXTINF:1 tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png"group-title="tvclips",  -Tv Jovem Hits
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
-#EXTINF:0,TV DESTAK tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862" -TV DESTAK
+#EXTINF:1 tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862"group-title="tvclips",  -TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
+
 
 #EXTM3U url-tvg=" http://grade-de-ogordoeomagro.xml "
  ############## ogordoeomagro ############## ###   
@@ -2931,9 +2855,424 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png.png " group-title="México", Pluto TV Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device%TOBRGENT=Ivice&device%DRGENT=Ivice&DRGENT=Ivice =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTM3U url-tvg=" http://grade-de-Brasil: cinema.xml "  
- ############## Brasil: cinema ############## ###              
-#EXTINF:-1 tvg-id=" iddocanaldeBrasil: cinema " group-title=" 
+#EXTM3U url-tvg=" http://grade-de-BRASIL NOTÍCIAS.xml "     
+ ############## BRASIL NOTÍCIAS ############## ###               
+#EXTINF:-1 tvg-id=" iddocanaldeBRASIL NOTÍCIAS " group-title=" 
+
+#EXTINF:-1 tvg-id="ARTVCanalParlamento.pt" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Brasil: notícias em português",ARTV | Portugal
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="Brasil: notícias em português",Band Jornalismo - horários | YT Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/bandjornalismo/live
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo=" https://i.imgur.com/WwSAtkh.png" group-title="Brasil: notícias em português",Band News | Brasil
+https://gintna100.tulix.tv/gin_live/band-news-hd/cff3af9893c7c7a73f1b1e388368c457/6325cb65/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: notícias em português",BandNews FM | Goiânia GO
+https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: notícias em português",BandNews FM | YT São Paulo SP
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idf41FJ.png" group-title="Brasil: notícias em português",BM&C News | YT Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SmbDprb.png" group-title="Brasil: notícias em português",Câmara São Paulo | Brasil
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN RJ | Brasil
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN SP | Brasil
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil | Soul TV
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil - link 1 | Youtube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil - link 2 | Youtube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@CNNbrasil
+#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_logo_português.png" group -title="Brasil: notícias em português",Euronews | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_logo_português.png" group -title="Brasil: notícias em português",Euronews Pluto TV | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="Brasil: notícias em português",Jovem Pan Notícias | YT Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/jovempannews/live
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Brasil: notícias em português",Record News - Rede Sim | espírito santo
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | YT Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/recordnews/live
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="Brasil: notícias em português",RTP 3 | Portugal
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6hnddQ.png" group-title="Brasil: notícias em português",TV 247 - horários | Youtube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/brasil247/live
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: notícias em português",TV Alego | GO Brasil
+https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title ="Brasil: notícias em por tuguês",TV ALMG | MG Brasil
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title=" Brasil: notícias em português",TV Câmara | Brasil
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title=" Brasil: notícias em português",TV Câmara 2 | Brasil
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+
+#EXTM3U url-tvg=" http://grade-de-radio.xml "
+ ############## radio ################ #   
+#EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
+
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png" group-title="radio" ,Rádio Antena 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/radiolusitania.png" group-title="radio" ,Rádio Lusitânia
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png"group-title="radio" ,Rádio Comercial Kids
+https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-brasil.jpg"group-title="radio",Rádio Comercial Brasil
+https://media2.mcr.iol.pt/wrcomercial/rcbrasil.stream/playlist.m3u8
+#EXTINF:0,Saudade FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" -Saudade FM
+https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg"group-title="radio", -Nativa FM
+https://24073.live.streamtheworld.com/NATIVA_SPAAC/HLS/a648b04f-8a77-4fff-bab0-aa929fe71b41/0/3.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/hunterfm.jpg"group-title="radio", -Hunter FM Pop
+https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/alpha-fm-ao-vivo.jpeg"group-title="radio", -Alpha FM
+https://26653.live.streamtheworld.com/RADIO_ALPHAFMAAC.aac?dist=alphasp
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" group-title="radio",-radio mix
+https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
+#EXTINF:1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg"group-title="radio", -Super Rádio Tupi
+https://8903.brasilstream.com.br/stream?1649568567935/live
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="radio", -Rádio Bandeirantes
+https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC.aac
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jovem_Pan_FM_Marca_2022.jpg/800px-Jovem_Pan_FM_Marca_2022.jpg"group-title="radio", -Jovem Pan FM
+https://26143.live.streamtheworld.com/JP_SP_FMAAC.aac?1655836765030
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg"group-title="radio", -radio mix
+https://8923.brasilstream.com.br/stream?1649567398017
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rcE8RAPGud.jpg"group-title="radio", -Radio Total Hits
+https://stream-57.zeno.fm/bykfgnbuk2zuv?zs=JxT2WT1CR7Wf9YTu7xFnsw
+#EXTINF:1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerhero_2_v2_d8636a83.gif"group-title="radio",-RÁDIO DISNEY
+https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/playlist.m3u8?dist=web-radiodisney
+#EXTINF:1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/s_video_channelsquares_radiodisney_cfbe1301.gif"group-title="radio", -RÁDIO DISNEY sp
+https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/506f65ef-093f-466e-b883-c89ea7bdb21b/0/playlist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMSUbw7i5ZeQhh9Q4OonrhW-QtF9PFzuPHf-FmURsbfaU-bQ_zHmpjpAxKZIolqup95g&usqp=CAU" -Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png"group-title="radio", -Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:1 tvg-logo="https://smotret.tv/images/stingray-classic-rock.webp"group-title="radio", -Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png"group-title="radio", -Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png"group-title="radio", -Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:1 tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png"group-title="radio", -Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNDEftGBTD1o5SqgRZ7tyOPKcqjLEAsR7O-lTcdRQ9ObiYMhuWhbsogHT9LA-LiA7HA&usqp=CAU"group-title="radio", -Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png"group-title="radio", -Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/todays-latin-pop_thumbh_20200718_001031.jpg"group-title="radio", -Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:1 tvg-logo="https://eldorado87.com.br/wp-content/uploads/2022/03/logoeldoradofm-288x300.png"group-title="radio", - RÁDIO ELDORADO FM
+http://cast4.audiostream.com.br:8652/mp3
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/722893999531536384/ZiynlZVB_400x400.jpg"group-title="radio", -RÁDIO FM PREMIUM
+http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s176373/images/logod.jpg?t=636984330970000000"group-title="radio", -RÁDIO GRENAL FM
+http://cast4.audiostream.com.br:8649/mp3
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/lePN9a_MzDOxZzYLQ-nf9HjfeOs8Iy96loQ9j7wzsKih_AMJUNUrC8-SqMEoMuaC4S8"group-title="radio", -RÁDIO IMBÉ FM
+http://cast4.audiostream.com.br:8660/mp3
+#EXTINF:1 tvg-logo="https://www.radioliberdadefm.net/admin/assets/img/logo.png"group-title="radio", -RÁDIO LIBERDADE FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/radiopamap.png"group-title="radio", -RÁDIO PAMPA FM
+http://cast4.audiostream.com.br:8653/mp3
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoMJ9K8pZJyLAn06h8rS_lQtv8OMZ5zdN2VdKnVubVs1k55Jj4FBA_5P23vQrgEL91NI&usqp=CAU"group-title="radio", -RÁDIO FM XANGRI-LÁ
+http://cast4.audiostream.com.br:8659/mp3
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/17558.v4.png" group-title="radio",-RÁDIO FM TRAMANDAÍ
+http://cast4.audiostream.com.br:8658/mp3
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio63305_1530732391.jpg"group-title="radio", -RÁDIO FM EXPRESS
+http://cast4.audiostream.com.br:8648/mp3
+#EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f646e0a61338f95e080b07fee382aebf.jpg"group-title="radio", -RÁDIO FM TORRES
+http://cast4.audiostream.com.br:8661/mp3
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio28375_1634155269.jpg"group-title="radio", -RÁDIO FM CIDREIRA
+http://cast4.audiostream.com.br:8657/mp3
+#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/e1/c1/11166/1/c300.png"group-title="radio", -Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPbwBOGbH1yKzaZvWKZOS0-P-zazGIB1fm74KZq0kh2uTlUxCQY-8vxkT4zUFmIkaad0&usqp=CAU" group-title="radio",-Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:1 tvg-logo="https://spaceks.net/sites/radiotransmundial.com.br/images/pubs/user_1428162818.jpg"group-title="radio", -Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-k22tp5gL0xI/VPXyEp7lK9I/AAAAAAAAMqA/8EQ66dQ3-Es/s1600/Rock%2B4.gif" group-title="radio",-Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-jyklfMBqaJg/XRzPNEov2FI/AAAAAAAAAQw/Zc0jGQvjzIYXPTHs2dLc25eI18B0f3QTwCLcBGAs/s1600/0783cb_354d4952e97f4a3893289b47880e6d90_mv2.gif"group-title="radio", -Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-YGKJeePCwNs/VtM75OvajtI/AAAAAAAAO6g/LJzBf4Yoj9k/s1600/gifs-gifs-animados-de-musica-45.gif"group-title="radio", -Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/MixedNauticalBaiji-max-1mb.gif" group-title="radio",-New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:1 tvg-logo="https://media.tenor.com/-W-RL6pe8bMAAAAC/pop-music.gif"group-title="radio", -Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:1 tvg-logo="https://i.gifer.com/origin/88/88b25338ceb18ee87f5285444fa32a8c_w200.gif"group-title="radio", -Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-jRV9TmUKLC8/TpuHXEXIk2I/AAAAAAAAAOs/uu4yw5CkbYo/s1600/tumblr_lt55vlR5Le1qj5dhoo1_500.gif"group-title="radio", -Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k67T6EMRSn.png" group-title="radio",-Radio Tropical Recife 
+http://198.24.165.180:9762/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EAPBpnsJms.png" group-title="radio",-Radio Laser 93.3
+https://8577.brasilstream.com.br/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png"group-title="radio", -Radio Massa 92.9
+https://stm01.virtualcast.com.br:8000/live
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Kqh77h3b9Q.jpeg" group-title="radio",-Radio nativa 95,3
+https://22203.live.streamtheworld.com/NATIVA_SP_SC
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsB9TVKAXE.png"group-title="radio", -Radio nativa 89,3
+https://cast4.hoost.com.br:20143/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xBFjTdAKBH.jpg" group-title="radio",-Radio Band 96.1
+https://24403.live.streamtheworld.com/BANDFM_SPAAC/HLS/09a5e691-3cb8-446e-8a4b-3ac7d3469591/0/7.aac
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DyS4RwKRdU.png"group-title="radio", -Radio comeia fm
+https://stm01.virtualcast.com.br:8138/live
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uqkpsltjbkap.png" group-title="radio",-Radio coluna
+http://198.24.165.180:9626/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n4QyzNyx9K.png"group-title="radio", -Radio MIX 101,1
+https://26483.live.streamtheworld.com/MIXFM_CAMPINASAAC_SC?dist=mix-web-player-radio-ao-vivo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="radio",-Radio Sertanejo
+https://live.hunter.fm/sertanejo_normal
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" group-title="radio",-Radio TOP FM 
+http://cloud1.cdnseguro.com:16806/stream/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hVejQa99KB.jpg"group-title="radio", -Radio Dance
+https://stream-26.zeno.fm/7z9dmhaens8uv?zs=tN2R5aGRRuCqstj-peVLLA
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="radio",-Radio Sertanejo Raiz
+http://station.radionanet.com:8330/1;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" group-title="radio",-Radio  Raiz forte
+https://stream-57.zeno.fm/4dzm2padd8zuv?zs=QQ3DU5TfT1q2EydL4_Bisw
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" group-title="radio",-Radio Recife 
+http://zoeweb.net:8046/;stream.mp3
+#EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png"group-title="radio", -Rádio Sorriso 99.1 FM
+https://paineldj5.com.br:2213/stream
+#EXTINF:1 tvg-logo="https://www.convencaomais.com.br/uploads/images/2022/05/radio-convencao-a.png" group-title="radio",-Rádio Convenção AM Itu
+https://8745.brasilstream.com.br/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png"group-title="radio", -Rádio Olinda ao vivo
+http://cast2.hoost.com.br:9158/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png"group-title="radio", -Radio Pagode 90
+https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" group-title="radio",-Radio Sertanejo FM
+https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png"group-title="radio", -América Country
+https://ais-sa2.cdnstream1.com/1976_128.mp3
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png"group-title="radio", -América Country
+https://streaming.radiostreamlive.com/radiocountrylive_devices
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg"group-title="radio", -Nativa 97,5
+https://centova5.transmissaodigital.com:20060/;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" group-title="radio",-Radio Sertanejo
+https://stm1.mestrestream.xyz:7020/stream
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" group-title="radio",-Radio Sertanejo fm
+https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png"group-title="radio", -Radio Sertanejo fm
+https://alanza.iptv2022.com/VIDA_SERTANEJA_FM/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo=""https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png"group-title="radio", -Radio Sertanejo
+https://servidor.geracaoradios.com/listen/sertaneja/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="radio",-Sertanejo
+https://live.hunter.fm/sertanejo_normal
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="radio",-Radio Globo
+https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg"group-title="radio", -Radio Capital
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" group-title="radio",-radio Hits
+https://ice1.streeemer.com:8020/radio.mp3
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz79rkDMGfDunAWKq3vG3vz1kDcVHYaT4y0g&usqp=CAU"group-title="radio", -METROPOLITANA FM AO VIVO
+http://ice.paineldj3.com.br:8004/stream
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", -Antena 1
+http://antena1.newradio.it/stream2?ext=.mp3
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", Itapoan FM
+http://streaming.livecenter.com.br:9300/stream/1/
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",Atlantida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",Guaiba FM
+http://cast4.audiostream.com.br:8007/app
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",S30 MaxCast Web Rádio
+http://s30.maxcast.com.br:8190/live
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", RÁDIO 104 FM
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", RÁDIO CAIÇARA FM/AM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", RÁDIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", Anos 90
+http://6d9a.webradio.upx.net.br:9940/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream?Arlen
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",chitãozinho e xororó
+https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",Rádio UFRGS
+http://radioaovivo.ufrgs.br:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="radio",98 FM | BH MG
+https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png"group-title="radio",- Alpha FM | Osasco SP
+https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png"group-title="radio",Band FM | Campinas SP
+https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png"group-title="radio",BandNews FM | YT São Paulo SP
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png"group-title="radio",BandNews FM | Goiânia GO
+https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png"group-title="radio",CBN RJ | Brasil
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png"group-title="radio",CBN SP | Brasil
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png"group-title="radio",Cultura do Pará - Brasil
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png"group-title="radio",- Dumont FM | Jundiaí SP
+https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png"group-title="radio",- Educadora FM | Campinas SP
+https://evpp.mm.uol.com.br/band/educadora/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png"group-title="radio",Energia 97 FM | Santo Andre SP
+https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
+#EXTINF:-1 tvg-language="Português" tvg-logo="https://i.imgur.com/dFOg0qj.png"group-title="radio",Rádio Clube TV | Portugal
+https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="group-title="radio",Rádio Sociedade | Salvador BA
+https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="group-title="radio",Rádio UFRGS | RS Brasil
+http://radioaovivo.ufrgs.br:8000/stream.mp3
+
+#EXTM3U url-tvg=" http://grade-de-dinho santos.xml "
+ ############## dinho santos ################ #   
+#EXTINF:-1 tvg-id=" iddocanaldedinho santos " group-title="
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="dinho santos", -Sozinho na Rua
+https://video.wixstatic.com/video/c634a0_066356af468640b493c842fc204d42b5/360p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="dinho santos", -A Culpa é sua
+https://video.wixstatic.com/video/c634a0_499f021c57424cbda4f193174decd33d/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="dinho santos", -7 dias da semana
+https://video.wixstatic.com/video/c634a0_bb3cac51cacc4d8581027be2dc1ca135/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="dinho santos", -O Cara Errado
+https://video.wixstatic.com/video/c634a0_43b2a803bcd34217b79e33c8f839e453/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="dinho santos", -Pagina Virada
+https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="dinho santos", -ao vivo
+https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
+
+#EXTM3U url-tvg=" http://grade-de-traduçao.xml "
+ ############## traduçao ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -BERLIN TRADUÇAO ALEX SILVA
+https://music.wixstatic.com/preview/c634a0_64ba8f681d844fd9934fbec63ebc9bf9-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -I should have known better
+https://music.wixstatic.com/preview/c634a0_bd81dd16096945288529769194799293-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" group-title="traduçao",-Please Forgive Me PERDOE
+https://music.wixstatic.com/preview/c634a0_10b4b08cda154e84b72c1aa938907e2c-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Chicago - Hard To Say I'm Sorry 
+https://music.wixstatic.com/preview/c634a0_5f9c1128b36348019325d96d741723b7-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Nothing Love Out Of Nothing At All Air Suply
+https://music.wixstatic.com/preview/c634a0_6b5d9f2a9cd54f5d90af41ccf584407f-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Peter Cetera - The Glory Of Love (Gloria do Amor)
+https://music.wixstatic.com/preview/c634a0_897c99843dde4f8faa8a0d80fbc96b8d-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Please Don´t Go - KC & The Sunshine Band
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Roxette Spending My Time PERDENDO MEU TEMPO
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+##EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Richard Marx - Right Here Waiting 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -BRAY ADAMS HEVEM 
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Dire Straits So FAR Away-
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Aprecie a vida
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Eu Ainda Credito em seus olhos
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -Rem - Everybody Hurts
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -London London
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World
+https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
+
+#EXTM3U url-tvg=" http://grade-de-Brasil: cinema em português.xml "
+ ############## Brasil: cinema em português ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeBrasil: cinema em português " group-title="
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português", Cindie Lite | Brasil 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Clássicos | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Clássicos | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia Romântica | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia Romântica | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Drama | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Drama | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Família | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Família | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrVUxYU.png" group-title="Brasil: cinema em português",Cine Life Classic | Brasil 
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="5f8a11ce2a4559000782a583" tvg-logo="https://images.pluto.tv/channels/5f8a11ce2a4559000782a583/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Natal | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f8a11ce2a4559000782a583" tvg-logo="https://images.pluto.tv/channels/5f8a11ce2a4559000782a583/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Natal | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Romance | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Romance | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Sucessos | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Sucessos | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Terror | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Terror | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema em português",DarkFlix HD | Brasil
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEaW5zX.png" group-title="Brasil: cinema em português",Dark Matter TV | Brasil
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brasil: cinema em português",Ficção Científica | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brasil: cinema em português",Ficção Científica | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmelier | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmelier | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="A novidade",Filmelier | Brasil: cinema
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Ação | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Ação | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Nacionais | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Nacionais | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Suspense | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Suspense | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="Brasil: cinema em português",Fronteira Movies
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema em português",MyTime Movie Network | Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Brasil: cinema em português",Revry Brasil
+http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema em português",Soul Cine Clube | Brasil 
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Plutão TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
@@ -3023,367 +3362,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema em português",Soul Cine Clube | Brasil
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-BRASIL NOTÍCIAS.xml "     
- ############## BRASIL NOTÍCIAS ############## ###               
-#EXTINF:-1 tvg-id=" iddocanaldeBRASIL NOTÍCIAS " group-title=" 
-
-#EXTINF:-1 tvg-id="ARTVCanalParlamento.pt" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Brasil: notícias em português",ARTV | Portugal
-https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="Brasil: notícias em português",Band Jornalismo - horários | YT Brasil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/bandjornalismo/live
-#EXTINF:-1 tvg-id="BandNews.br" tvg-logo=" https://i.imgur.com/WwSAtkh.png" group-title="Brasil: notícias em português",Band News | Brasil
-https://gintna100.tulix.tv/gin_live/band-news-hd/cff3af9893c7c7a73f1b1e388368c457/6325cb65/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: notícias em português",BandNews FM | Goiânia GO
-https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: notícias em português",BandNews FM | YT São Paulo SP
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idf41FJ.png" group-title="Brasil: notícias em português",BM&C News | YT Brasil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SmbDprb.png" group-title="Brasil: notícias em português",Câmara São Paulo | Brasil
-https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN RJ | Brasil
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN SP | Brasil
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil | Soul TV
-http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil - link 1 | Youtube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil - link 2 | Youtube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@CNNbrasil
-#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_logo_português.png" group -title="Brasil: notícias em português",Euronews | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_logo_português.png" group -title="Brasil: notícias em português",Euronews Pluto TV | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="Brasil: notícias em português",Jovem Pan Notícias | YT Brasil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/jovempannews/live
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Brasil: notícias em português",Record News - Rede Sim | espírito santo
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | YT Brasil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/recordnews/live
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="Brasil: notícias em português",RTP 3 | Portugal
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h6hnddQ.png" group-title="Brasil: notícias em português",TV 247 - horários | Youtube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/brasil247/live
-#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: notícias em português",TV Alego | GO Brasil
-https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Português" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title ="Brasil: notícias em por tuguês",TV ALMG | MG Brasil
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title=" Brasil: notícias em português",TV Câmara | Brasil
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title=" Brasil: notícias em português",TV Câmara 2 | Brasil
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-
-
-#EXTM3U url-tvg=" http://grade-de-radio.xml "
- ############## radio ################ #   
-#EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
-
-#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 1
-https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
-#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 2
-https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
-#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png" group-title="radio" ,Rádio Antena 3
-https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/radiolusitania.png" group-title="radio" ,Rádio Lusitânia
-https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png"group-title="radio" ,Rádio Comercial Kids
-https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-brasil.jpg"group-title="radio",Rádio Comercial Brasil
-https://media2.mcr.iol.pt/wrcomercial/rcbrasil.stream/playlist.m3u8
-#EXTINF:0,Saudade FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" -Saudade FM
-https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
-#EXTINF:0,Nativa FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg" -Nativa FM
-https://24073.live.streamtheworld.com/NATIVA_SPAAC/HLS/a648b04f-8a77-4fff-bab0-aa929fe71b41/0/3.aac
-#EXTINF:0,Hunter FM Pop tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/hunterfm.jpg" -Hunter FM Pop
-https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
-#EXTINF:0,Alpha FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/alpha-fm-ao-vivo.jpeg" -Alpha FM
-https://26653.live.streamtheworld.com/RADIO_ALPHAFMAAC.aac?dist=alphasp
-#EXTINF:0,radio mix tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" -radio mix
-https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
-#EXTINF:0,Super Rádio Tupi tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg" -Super Rádio Tupi
-https://8903.brasilstream.com.br/stream?1649568567935/live
-#EXTINF:0,Rádio Bandeirantes tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg" -Rádio Bandeirantes
-https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC.aac
-#EXTINF:0,Jovem Pan FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jovem_Pan_FM_Marca_2022.jpg/800px-Jovem_Pan_FM_Marca_2022.jpg" -Jovem Pan FM
-https://26143.live.streamtheworld.com/JP_SP_FMAAC.aac?1655836765030
-#EXTINF:0,radio mix tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" -radio mix
-https://8923.brasilstream.com.br/stream?1649567398017
-#EXTINF:0,Radio Total Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rcE8RAPGud.jpg" -Radio Total Hits
-https://stream-57.zeno.fm/bykfgnbuk2zuv?zs=JxT2WT1CR7Wf9YTu7xFnsw
-#EXTINF:0,RÁDIO DISNEY tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerhero_2_v2_d8636a83.gif" -RÁDIO DISNEY
-https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/playlist.m3u8?dist=web-radiodisney
-#EXTINF:0,RÁDIO DISNEY sp  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/s_video_channelsquares_radiodisney_cfbe1301.gif" -RÁDIO DISNEY sp
-https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/506f65ef-093f-466e-b883-c89ea7bdb21b/0/playlist.m3u8
-#EXTINF:0,Stingray Greatest Hits  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMSUbw7i5ZeQhh9Q4OonrhW-QtF9PFzuPHf-FmURsbfaU-bQ_zHmpjpAxKZIolqup95g&usqp=CAU" -Stingray Greatest Hits
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:0,Stingray Hit List  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png" -Stingray Hit List
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:0,Stingray Classic Rock  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://smotret.tv/images/stingray-classic-rock.webp" -Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:0,Stingray Rock Alternative  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png" -Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:0,Stingray Pop Adult tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png" -Stingray Pop Adult
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:0,Stingray Urban Beat tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png" -Stingray Urban Beat
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:0,Stingray Flashback 70s tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNDEftGBTD1o5SqgRZ7tyOPKcqjLEAsR7O-lTcdRQ9ObiYMhuWhbsogHT9LA-LiA7HA&usqp=CAU" -Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:0,Stingray Everything 80s tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png" -Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:0,Stingray Today's Latin Pop tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/todays-latin-pop_thumbh_20200718_001031.jpg" -Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#EXTINF:0, RÁDIO ELDORADO FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://eldorado87.com.br/wp-content/uploads/2022/03/logoeldoradofm-288x300.png" - RÁDIO ELDORADO FM
-http://cast4.audiostream.com.br:8652/mp3
-#EXTINF:0,RÁDIO FM PREMIUM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://pbs.twimg.com/profile_images/722893999531536384/ZiynlZVB_400x400.jpg" -RÁDIO FM PREMIUM
-http://cast4.audiostream.com.br:8663/mp3
-#EXTINF:0,RÁDIO GRENAL FMtvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://cdn-profiles.tunein.com/s176373/images/logod.jpg?t=636984330970000000" -RÁDIO GRENAL FM
-http://cast4.audiostream.com.br:8649/mp3
-#EXTINF:0,RÁDIO IMBÉ FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://play-lh.googleusercontent.com/lePN9a_MzDOxZzYLQ-nf9HjfeOs8Iy96loQ9j7wzsKih_AMJUNUrC8-SqMEoMuaC4S8" -RÁDIO IMBÉ FM
-http://cast4.audiostream.com.br:8660/mp3
-#EXTINF:0,RÁDIO LIBERDADE FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.radioliberdadefm.net/admin/assets/img/logo.png" -RÁDIO LIBERDADE FM
-http://cast4.audiostream.com.br:8655/mp3
-#EXTINF:0,RÁDIO PAMPA FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/radiopamap.png" -RÁDIO PAMPA FM
-http://cast4.audiostream.com.br:8653/mp3
-#EXTINF:0,RÁDIO FM XANGRI-LÁ tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoMJ9K8pZJyLAn06h8rS_lQtv8OMZ5zdN2VdKnVubVs1k55Jj4FBA_5P23vQrgEL91NI&usqp=CAU" -RÁDIO FM XANGRI-LÁ
-http://cast4.audiostream.com.br:8659/mp3
-#EXTINF:0,RÁDIO FM TRAMANDAÍ tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/17558.v4.png" -RÁDIO FM TRAMANDAÍ
-http://cast4.audiostream.com.br:8658/mp3
-#EXTINF:0,RÁDIO FM EXPRESS tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio63305_1530732391.jpg" -RÁDIO FM EXPRESS
-http://cast4.audiostream.com.br:8648/mp3
-#EXTINF:0,RÁDIO FM TORRES tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f646e0a61338f95e080b07fee382aebf.jpg" -RÁDIO FM TORRES
-http://cast4.audiostream.com.br:8661/mp3
-#EXTINF:0,RÁDIO FM CIDREIRA tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://img.radios.com.br/radio/xl/radio28375_1634155269.jpg" -RÁDIO FM CIDREIRA
-http://cast4.audiostream.com.br:8657/mp3
-#EXTINF:0,Bossa Nova tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://br.radio.net/images/broadcasts/e1/c1/11166/1/c300.png" -Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:0,Pagode tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPbwBOGbH1yKzaZvWKZOS0-P-zazGIB1fm74KZq0kh2uTlUxCQY-8vxkT4zUFmIkaad0&usqp=CAU" -Pagode
-http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:0,Anos 2000 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://spaceks.net/sites/radiotransmundial.com.br/images/pubs/user_1428162818.jpg" -Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:0,Pop Rock tvg-id="iddocanalderadio" group-title="radio" tvg-logo="http://4.bp.blogspot.com/-k22tp5gL0xI/VPXyEp7lK9I/AAAAAAAAMqA/8EQ66dQ3-Es/s1600/Rock%2B4.gif" -Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream
-#EXTINF:0,Festa tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://4.bp.blogspot.com/-jyklfMBqaJg/XRzPNEov2FI/AAAAAAAAAQw/Zc0jGQvjzIYXPTHs2dLc25eI18B0f3QTwCLcBGAs/s1600/0783cb_354d4952e97f4a3893289b47880e6d90_mv2.gif" -Festa
-http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:0,Música Clássica tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://3.bp.blogspot.com/-YGKJeePCwNs/VtM75OvajtI/AAAAAAAAO6g/LJzBf4Yoj9k/s1600/gifs-gifs-animados-de-musica-45.gif" -Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream
-#EXTINF:0,New Rock tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://thumbs.gfycat.com/MixedNauticalBaiji-max-1mb.gif" -New Rock
-http://6d9a.webradio.upx.net.br:8028/stream
-#EXTINF:0,Pop Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://media.tenor.com/-W-RL6pe8bMAAAAC/pop-music.gif" -Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:0,Metal tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://i.gifer.com/origin/88/88b25338ceb18ee87f5285444fa32a8c_w200.gif" -Metal
-http://6d9a.webradio.upx.net.br:9898/stream
-#EXTINF:0,Trilhas Sonoras tvg-id="iddocanalderadio" group-title="radio" tvg-logo="http://4.bp.blogspot.com/-jRV9TmUKLC8/TpuHXEXIk2I/AAAAAAAAAOs/uu4yw5CkbYo/s1600/tumblr_lt55vlR5Le1qj5dhoo1_500.gif" -Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream
-#EXTINF:0,Radio Tropical Recife tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k67T6EMRSn.png" -Radio Tropical Recife 
-http://198.24.165.180:9762/;
-#EXTINF:0,Radio Laser 93.3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EAPBpnsJms.png" -Radio Laser 93.3
-https://8577.brasilstream.com.br/stream
-#EXTINF:0,Radio Massa 92.9 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png" -Radio Massa 92.9
-https://stm01.virtualcast.com.br:8000/live
-#EXTINF:0,Radio nativa 95,3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Kqh77h3b9Q.jpeg" -Radio nativa 95,3
-https://22203.live.streamtheworld.com/NATIVA_SP_SC
-#EXTINF:0,Radio nativa 89,3 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsB9TVKAXE.png" -Radio nativa 89,3
-https://cast4.hoost.com.br:20143/stream
-#EXTINF:0,Radio Band 96.1 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xBFjTdAKBH.jpg" -Radio Band 96.1
-https://24403.live.streamtheworld.com/BANDFM_SPAAC/HLS/09a5e691-3cb8-446e-8a4b-3ac7d3469591/0/7.aac
-#EXTINF:0,Radio comeia fm tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DyS4RwKRdU.png" -Radio comeia fm
-https://stm01.virtualcast.com.br:8138/live
-#EXTINF:0,Radio coluna tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uqkpsltjbkap.png" -Radio coluna
-http://198.24.165.180:9626/;
-#EXTINF:0,Radio MIX 101,1 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n4QyzNyx9K.png" -Radio MIX 101,1
-https://26483.live.streamtheworld.com/MIXFM_CAMPINASAAC_SC?dist=mix-web-player-radio-ao-vivo
-#EXTINF:0,Radio Sertanejo  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" -Radio Sertanejo
-https://live.hunter.fm/sertanejo_normal
-#EXTINF:0,Radio TOP FM  tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" -Radio TOP FM 
-http://cloud1.cdnseguro.com:16806/stream/;
-#EXTINF:0,Radio Dance tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hVejQa99KB.jpg" -Radio Dance
-https://stream-26.zeno.fm/7z9dmhaens8uv?zs=tN2R5aGRRuCqstj-peVLLA
-#EXTINF:0,Radio Sertanejo Raiz tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" -Radio Sertanejo Raiz
-http://station.radionanet.com:8330/1;
-#EXTINF:0,Radio  Raiz forte tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" -Radio  Raiz forte
-https://stream-57.zeno.fm/4dzm2padd8zuv?zs=QQ3DU5TfT1q2EydL4_Bisw
-#EXTINF:0,Radio Recife tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" -Radio Recife 
-http://zoeweb.net:8046/;stream.mp3
-#EXTINF:0,Rádio Sorriso 99.1 FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png" -Rádio Sorriso 99.1 FM
-https://paineldj5.com.br:2213/stream
-#EXTINF:0,Rádio Convenção AM Itu tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.convencaomais.com.br/uploads/images/2022/05/radio-convencao-a.png" -Rádio Convenção AM Itu
-https://8745.brasilstream.com.br/stream
-#EXTINF:0,Rádio Olinda ao vivo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png" -Rádio Olinda ao vivo
-http://cast2.hoost.com.br:9158/stream
-#EXTINF:0,Radio Pagode 90 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png" -Radio Pagode 90
-https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
-#EXTINF:0,Radio Sertanejo FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" -Radio Sertanejo FM
-https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
-#EXTINF:0,América Country tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png" -América Country
-https://ais-sa2.cdnstream1.com/1976_128.mp3
-#EXTINF:0,América Country tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png" -América Country
-https://streaming.radiostreamlive.com/radiocountrylive_devices
-#EXTINF:0,Nativa 97,5 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg" -Nativa 97,5
-https://centova5.transmissaodigital.com:20060/;
-#EXTINF:0,Radio Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" -Radio Sertanejo
-https://stm1.mestrestream.xyz:7020/stream
-#EXTINF:0,Radio Sertanejo fm tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" -Radio Sertanejo fm
-https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
-#EXTINF:0,Radio Sertanejo fm tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" -Radio Sertanejo fm
-https://alanza.iptv2022.com/VIDA_SERTANEJA_FM/tracks-v1a1/mono.m3u8
-#EXTINF:0,Radio Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png" -Radio Sertanejo
-https://servidor.geracaoradios.com/listen/sertaneja/stream
-#EXTINF:0, Sertanejo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" -Sertanejo
-https://live.hunter.fm/sertanejo_normal
-#EXTINF:0, Radio Globo tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" -Radio Globo
-https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
-#EXTINF:0, Radio Capital tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg" -Radio Capital
-https://f53.fabricahost.com.br/capitalfmsp?f=1667683638N01GH4V1PW7WGVGDYY4Q2CXBTZ7&tid=01GH4V1PW7Q8J8CPQFX05ZY3RP
-#EXTINF:0, radio Hits tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" -radio Hits
-https://ice1.streeemer.com:8020/radio.mp3
-#EXTINF:0,METROPOLITANA FM AO VIVO tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz79rkDMGfDunAWKq3vG3vz1kDcVHYaT4y0g&usqp=CAU" -METROPOLITANA FM AO VIVO
-http://ice.paineldj3.com.br:8004/stream
-#EXTINF:0,Antena 1 tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png" -Antena 1
-http://antena1.newradio.it/stream2?ext=.mp3
-
-#EXTINF:0, Itapoan FM
-#EXTVLCOPT:network-caching=1000
-http://streaming.livecenter.com.br:9300/stream/1/
-#EXTINF:59, Atlantida FM
-#EXTVLCOPT:network-caching=1000
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
-#EXTINF:0, Guaiba FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8007/app
-#EXTINF:0, S30 MaxCast Web Rádio
-#EXTVLCOPT:network-caching=1000
-http://s30.maxcast.com.br:8190/live
-#EXTINF:0, RÁDIO 104 FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8651/mp3
-#EXTINF:59, RÁDIO ATLÂNTIDA FM
-#EXTVLCOPT:network-caching=1000
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0, RÁDIO CAIÇARA FM/AM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8654/mp3
-#EXTINF:0, RÁDIO CAPÃO FM
-#EXTVLCOPT:network-caching=1000
-http://cast4.audiostream.com.br:8656/mp3
-#EXTINF:0,BOSSA NOVA
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:0,RÁDIO ATLÂNTIDA FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0,RÁDIO ELDORADO FM
-http://noasrv.caster.fm:10136/stream
-#EXTINF:0,Anos 90
-http://6d9a.webradio.upx.net.br:9940/stream?Arlen
-#EXTINF:0,Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream?Arlen
-#EXTINF:0,Pagode
-http://6d9a.webradio.upx.net.br:9061/stream?Arlen
-#EXTINF:0,Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream?Arlen
-#EXTINF:0,Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream?Arlen
-#EXTINF:0,Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream?Arlen
-#EXTINF:0,chitãozinho e xororó
-https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
-
-
-#EXTINF:0,Rádio UFRGS
-http://radioaovivo.ufrgs.br:8000/stream.mp3
-
-#EXTM3U url-tvg=" http://grade-de-Brasil: rádios em português.xml "         
- ############## Brasil: rádios em português ############## ###                    
-#EXTINF:-1 tvg-id=" iddocanaldeBrasil: rádios em português" group-title=" 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="Brasil: rádios em português",98 FM | BH MG
-https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="Brasil: rádios em português" - Alpha FM | Osasco SP
-https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="Brasil: rádios em português",Band FM | Campinas SP
-https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: rádios em português",BandNews FM | YT São Paulo SP
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: rádios em português",BandNews FM | Goiânia GO
-https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: rádios em português",CBN RJ | Brasil
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: rádios em português",CBN SP | Brasil
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Brasil: rádios em português",Cultura do Pará - Brasil
-https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="Brasil: rádios em português" - Dumont FM | Jundiaí SP
-https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="Brasil: rádios em português" - Educadora FM | Campinas SP
-https://evpp.mm.uol.com.br/band/educadora/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="Brasil: rádios em português",Energia 97 FM | Santo Andre SP
-https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
-#EXTINF:-1 tvg-language="Português" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="Brasil: rádios em português",Rádio Clube TV | Portugal
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="Brasil: rádios em português",Rádio Sociedade | Salvador BA
-https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="Brasil: rádios em português",Rádio UFRGS | RS Brasil
-http://radioaovivo.ufrgs.br:8000/stream.mp3
-
-#EXTM3U url-tvg=" http://grade-de-dinho santos.xml "
- ############## dinho santos ################ #   
-#EXTINF:-1 tvg-id=" iddocanaldedinho santos " group-title="
-
-#EXTINF:0,A Sozinho na Rua tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -Sozinho na Rua
-https://video.wixstatic.com/video/c634a0_066356af468640b493c842fc204d42b5/360p/mp4/file.mp4
-#EXTINF:0,A Culpa é sua tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -A Culpa é sua
-https://video.wixstatic.com/video/c634a0_499f021c57424cbda4f193174decd33d/720p/mp4/file.mp4
-#EXTINF:0,7 dias da semana tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -7 dias da semana
-https://video.wixstatic.com/video/c634a0_bb3cac51cacc4d8581027be2dc1ca135/720p/mp4/file.mp4
-#EXTINF:0,O Cara Errado tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -O Cara Errado
-https://video.wixstatic.com/video/c634a0_43b2a803bcd34217b79e33c8f839e453/720p/mp4/file.mp4
-#EXTINF:0,Pagina Virada tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -Pagina Virada
-https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
-#EXTINF:0,ao vivo tvg-id="iddocanaldedinho santos" group-title="dinho santos" tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif" -ao vivo
-https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
-
-#EXTM3U url-tvg=" http://grade-de-traduçao.xml "
- ############## traduçao ################ # 
-#EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
-
-#EXTINF:0,BERLIN TRADUÇAO ALEX SILVA tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -BERLIN TRADUÇAO ALEX SILVA
-https://music.wixstatic.com/preview/c634a0_64ba8f681d844fd9934fbec63ebc9bf9-128.mp3
-#EXTINF:0,I should have known better tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -I should have known better
-https://music.wixstatic.com/preview/c634a0_bd81dd16096945288529769194799293-128.mp3
-#EXTINF:0,Please Forgive Me PERDOE tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Please Forgive Me PERDOE
-https://music.wixstatic.com/preview/c634a0_10b4b08cda154e84b72c1aa938907e2c-128.mp3
-#EXTINF:0,Chicago - Hard To Say I'm Sorry  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Chicago - Hard To Say I'm Sorry 
-https://music.wixstatic.com/preview/c634a0_5f9c1128b36348019325d96d741723b7-128.mp3
-#EXTINF:0,Nothing Love Out Of Nothing At All Air Suplytvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Nothing Love Out Of Nothing At All Air Suply
-https://music.wixstatic.com/preview/c634a0_6b5d9f2a9cd54f5d90af41ccf584407f-128.mp3
-#EXTINF:0,Peter Cetera - The Glory Of Love (Gloria do Amor) tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Peter Cetera - The Glory Of Love (Gloria do Amor)
-https://music.wixstatic.com/preview/c634a0_897c99843dde4f8faa8a0d80fbc96b8d-128.mp3
-#EXTINF:0,Please Don´t Go - KC & The Sunshine Band tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Please Don´t Go - KC & The Sunshine Band
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Roxette Spending My Time PERDENDO MEU TEMPO tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Roxette Spending My Time PERDENDO MEU TEMPO
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Richard Marx - Right Here Waiting  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Richard Marx - Right Here Waiting 
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,We Are The World  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -We Are The World 
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,BRAY ADAMS HEVEM  tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -BRAY ADAMS HEVEM 
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Dire Straits So FAR Away- tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Dire Straits So FAR Away-
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Aprecie a vida tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Aprecie a vida
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Eu Ainda Credito em seus olhos tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Eu Ainda Credito em seus olhos
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,Rem - Everybody Hurtstvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -Rem - Everybody Hurts
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,London London tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -London London
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-#EXTINF:0,We Are The World tvg-id="iddocanaldetraduçao" group-title="traduçao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -We Are The World
-https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 
 #EXTM3U url-tvg=" http://grade-de-Camera.xml "
 ############## Camera #################  
