@@ -89,6 +89,12 @@ https://youtu.be/fBbtFnP6HMc
 ############## lançamento ################# 
 #EXTINF:-1 tvg-id=" iddocanaldelançamento" group-title="
 
+#EXTINF:1 tvg-logo="https://s2.glbimg.com/anCPCAmeZKWnMeT9YQq7GF_33o4=/0x0:640x360/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/I/M/0CKnWgQWAjlLC3srGTBw/a-sequencia-avatar-o-caminho-da-agua-esta-sendo-lancada-13-anos-depois-do-filme-original.png" group-title="lançamento",Avatar 2 o caminho da água
+https://youtu.be/FibUS1Z6-zU
+#EXTINF:1 tvg-logo="https://pixelnerd.com.br/wp-content/uploads/2022/05/Avatar-2.webp" group-title="lançamento",Avatar 2 o caminho da água
+https://youtu.be/IYpoG9T2LV0
+#EXTINF:1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2022/11/Avatar-O-Caminho-da-Agua-Trailer-da-sequencia-de-James-Cameron-retornando-a-Pandora-em-15-de-dezembro-de-2022.jpg" group-title="lançamento",Avatar 2 o caminho da água
+https://youtu.be/Cf9r96oYj78
 #EXTINF:1 tvg-logo="hhttps://pida.com.br/fotos/pida_noticias/3286/IMAGEM_NOTICIA_2.jpg?v=4314dafd01b739f" group-title="lançamento",Dog Avenentura de uma vida 
 https://youtu.be/08mWfYJ-sio
 #EXTINF:1 tvg-logo="https://yt3.ggpht.com/nwXDSGoFHClBuWTAbxOCx5JMc5sz05vebwPTDBvYAQc61LVU4IQy6lMwUy1aNmg77CbXqWJwD4M=s48-c-k-c0x00ffffff-no-rj" group-title="lançamento",Pantera Negra: Wakanda Para sempre 
@@ -2959,6 +2965,11 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTM3U url-tvg=" http://grade-de-radio.xml "
  ############## radio ################ #   
 #EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
+
+
+
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/u8jL4vY4ze.png" group-title="radio",Simone e Simaria
+http://stream.zeno.fm/81dhknvepxhvv
 
 #EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
