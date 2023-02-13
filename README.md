@@ -18,6 +18,14 @@ http://stream.zeno.fm/hu70hmkcu68uv.m3u
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
+#EXTM3U url-tvg="http://grade-de-bbb  Ao Vivo.xml"
+############## bbb  Ao Vivo ################# 
+#EXTINF:-1 tvg-id=" iddocanaldebbb  Ao Vivo" group-title="
+
+#EXTINF:1 tvg-logo="https://media.tenor.com/7aSRKWweMbAAAAAC/bbb-big-brother-brasil.gif" group-title="bbb  Ao Vivo",BBB
+https://server100.online/bbb/video.m3u8?token=692a4a1767e4e0a3796ae77ec63437be7c2d2321-d5ee878a8dedf576bc1dc6eca7c0f41c-1676255913-1676252313&remote=168.227.218.22
+#EXTINF:1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/FX5HMUU6MJEIRHIGFHJYC435ZU.jpg" group-title="bbb  Ao Vivo",BBB  argentina
+https://siloh.pluto.tv/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_2.m3u8
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
 ############## alexsilva ################# 
 #EXTINF:-1 tvg-id=" iddocanaldealexsilva" group-title="
@@ -741,6 +749,18 @@ http://91.149.224.231/live/Higor8838/Cmj816254/83625.m3u8?token=SRUMWUVaQV8SAQUD
 http://91.149.224.231/live/Higor8838/Cmj816254/83625.m3u8?token=SRUMWUVaQV8SAQUDBA9TU1JUAQUNVgAGBgMIXQYDVwtXUwJcBwBQVAZGHRJBTBAEB1pnXVBEDwgFVwpRGBUXS1dFO1FSEFlHAlUJAAsLVUNKFUxdWQMXCgZNGhRdU0ACEAFWDwADQUkSAUlEV0oMAApoXFFCD1ZVFFtWEVhbThpdWTtcU18CC1RGCxICGk5DD0RIFg4IQFxaTRoGXUMQWUZSRgIUA1FUBkYdElFXFw8SRUEWDkR3YhRNGgFMQwdWQV4LVhQIQQgDEQkSHhoLEjlFXUdAFFBRWwRKRg4VUhoeFQlZTm0ACl4KVFNGUQ0PFRUCFgVEGRJbDlYNQFgQZ0JeABoMEFJXBlUIEk8=
 #EXTINF:1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xysrvw1470407766.png" group-title="sporte", Sports 3 HD
 http://srv.cldplay.in/live/Higor8838/Cmj816254/83256.m3u8
+#EXTINF:1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_773,h_380/https://afftvvolei.com.br/wp-content/uploads/2022/01/SporTV2-773x380.jpg" group-title="sporte",SporTV 2 Ao Vivo
+https://server100.online/sportv2/video.m3u8?token=9b5206a76c2cec4dfb697335e3e6f7f025109931-8538ecd70084a562d20737df28e50277-1676253050-1676249450&remote=168.227.218.22
+
+#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/w1200-h675-p-k-no-nu/espnextra.png" group-title="sporte",ESPN Extra Ao Vivo
+https://live.embedflix.net/p2p/espnextra/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIzIDE6MDE6NTMgQU0maGFzaF92YWx1ZT1zWHZGdkFBUTkrZUdqMjRvZm5ybmJnPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/NarrowBeneficialApisdorsatalaboriosa-size_restricted.gif" group-title="sporte",SporTV Ao Vivo
+https://server100.online/sportv/video.m3u8?token=0df3a4f36295f8018aa599d4f77e46620f6fab8e-da4062fae5bbcef8c509e7bcfb55eb19-1676252148-1676248548&remote=168.227.218.22
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/3miKf6sgrutziGMWq1/200w.gif?cid=82a1493bidl325p4ttn00v0l8u846kakklo48j1nxsd1xhvj&rid=200w.gif&ct=g" group-title="sporte",DAZN Ao Vivo
+https://br.embedflix.net/p2p/dazn2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIzIDEyOjQwOjU1IEFNJmhhc2hfdmFsdWU9MDIyRFZEbTNram96UFIxNVhibThlUT09JnZhbGlkbWludXRlcz05MA==
+
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/GlisteningFrenchIndri-max-1mb.gif" group-title="sporte",TNT Sports
+https://server100.online/tnt/video.m3u8?token=ebb64b2f42f3973cc5d98b3349d6052a749ff296-cd43c81238836de1cbfc3e3b304825ee-1676251521-1676247921&remote=168.227.218.22
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" group-title="sporte",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" group-title="sporte",TNT Sports
@@ -799,6 +819,8 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110292
 http://23.131.184.240/live/Higor8838/Cmj816254/83210.m3u8?token=SRUMWUVaQV8SXFAICg0BVAIFWldXVAwGBgQAAFYDBAgAVAdcUwIHUQdGHRJBTBAEB1pnXVBEDwgFUwlUGBUXS1dFO1FSEFlHAlUJAAsLVUNKFUxdWQMXCgZNGhRdU0ACEAVRAAECQUkSAUlEV0oMAApoXFFCD1ZVFFtWEVhbThpdWTtcU18CC1RGCxICGk5DD0RIFg4IQFxaTRoGXUMQWUZSRgIUA1FXCEYdElFXFw8SRUEWDkR3YhRNGgFMQwdWQV4LVhQIQQgDEQkSHhoLEjlFXUdAFFBRWwRKRg4VUhoeFQlZTm0ACl4KVFNGUQ0PFRUCFgVEGRJbDlYNQFgQZ0JeABoMEFBRB1QTTQ==
 #EXTINF:1 tvg-logo="https://artwork.espncdn.com/networks/65da1d56-3ffd-44d2-aacd-423b64437fb1/16x9/1280x720_20201212220237.jpg" group-title="sporte",ESPN EXTRA
 http://connecttvapp.xyz:80/mgf4c18/mgf239161/581.ts
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/UnlawfulFrightenedHornshark-size_restricted.gif" group-title="sporte",ESPN
+https://server100.online/espn/video.m3u8?token=70baadb5712735921ba1b27e688ea8a2713a1990-82461310af762842c10c12a0be25b55b-1676252400-1676248800&remote=168.227.218.22
 #EXTINF:1 tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" group-title="sporte",ESPN 2 HD
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108714
 #EXTINF:1 tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" group-title="sporte",ESPN 2 HD
@@ -833,6 +855,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 http://172.106.6.242/live/Higor8838/Cmj816254/83251.m3u8?token=SRUMWUVaQV8SBwcCAAgGUAcHAAUNXlMFDwJcV1dVA15TAFEPDgECVQNGHRJBTBAEB1pnXVBEDwgFUw1VGBUXS1dFO1FSEFlHAlUJAAsLVUNKFUxdWQMXCgZNGhRdU0ACEAVUDw8BQUkSAUlEV0oMAApoXFFCD1ZVFFtWEVhbThpdWTtcU18CC1RGCxICGk5DD0RIFg4IQFxaTRoGXUMQWUZSRgIUAFBWCUYdElFXFw8SRUEWDkR3YhRNGgFMQwdWQV4LVhQIQQgDEQkSHhoLEjlFXUdAFFBRWwRKRg4VUhoeFQlZTm0ACl4KVFNGUQ0PFRUCFgVEGRJbDlYNQFgQZ0JeABoMEFBVAFIFEk8=
 #EXTINF:1 tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="sporte",PREMIERE
 http://connecttvapp.xyz:80/mgf4c18/mgf239161/632.ts
+#EXTINF:1 tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="sporte",PREMIERE
+https://server100.online/premiereclube/video.m3u8?token=f2589308db8f1fe264fed0dcebcabd45837f288a-583d0acdaf9424bcc708cabe180cf2a6-1676254205-1676250605&remote=168.227.218.22
 #EXTINF:1 tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="sporte",PREMIERE 1
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/148
 #EXTINF:1 tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="sporte",PREMIERE 2
