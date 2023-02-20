@@ -420,6 +420,9 @@ http://rec2.tvpn.eu/auth/228.m3u8?token=lhTSd4RS3T2gVrpsPc4BkWoW4clBL75X1t43iTa5
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 #EXTINF:1 tvg-logo="https://www.netsaopaulo.net/wp-content/uploads/2019/02/telecine-play-fevereiro.gif"group-title="televisao", -TELE CINE ACTION
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-OF4ufVDufUc/V5ogpUFifXI/AAAAAAABiNw/wqYsQKMFv6M6689oJmxJX7zZpfeOZt2OACLcB/s1600/tnt%2Blogos.jpg" group-title="televisao",TNT
+https://server100.online/tnt/tracks-v1a1/mono.m3u8?remote=168.227.218.22&token=099ba686db9778593601d71b89caf11646ef640e-a3c1fd80b8e62518277ef1aa9ad99846-1676936342-1676932742
 #EXTINF:1 tvg-logo="hhttps://media.tenor.com/prSyl1BgizEAAAAC/hbo.gif" group-title="televisao",TNT serie
 http://connecttvapp.xyz:80/mgf4c18/mgf239161/68.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png",group-title="televisao",TNT serie
@@ -1051,6 +1054,8 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:1 tvg-logo="https://imgur.com/3Mrx9Ee.png"group-title="tvaberta", -TV JORNAL (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" group-title="tvaberta",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" group-title="tvaberta",SBT TV
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-mImhpAt9aMA/T8alETSex4I/AAAAAAAAgIM/6ZG9Xyxm5l8/s400/sbt2-gif.gif" group-title="tvaberta",SBT TV
@@ -1185,6 +1190,26 @@ https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
 #EXTINF:1 tvg-logo="https://yt3.ggpht.com/UWngkCUCMRdfsznZc7GD-UdmVWJANVa7D12sR2pNokqOeWThzKHOHmFpu3W5_ZGCxUILB-Bdqw=s900-c-k-c0x00ffffff-no-rj"  group-title="tvaberta",TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:1 tvg-logo="https://centroatleticanodememoria.com.br/w/images/a/a5/LogoTVGalo.png"group-title="tvaberta",TV Gallo
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/qXLHQEP1XYA/hqdefault_live.jpg"group-title="tvaberta",TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5ff7LGg2mrpN4AxJEq3-wdau3aduFvdPxJXfAE06laGofbWEIpuwrvPGbsSGPHg0vs1kdvQDCmzwCBI2EeZ7pd5KYAVppNVDWB7V4QWjCs460nxBV_25euyqBjQ8xkEkBRUmh0EMtVkoMw_jz2rNMsg1hNFAMSiGAph14MEuDfpJdGd61vayT=s274"group-title="tvaberta", Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/148m4oTVuVzxCXzRuFtT7XNj5gunHCj8N38CT0XQt2M17X50ZLJU7I6Puhm72PGy_w=w1024-h500"group-title="tvaberta",Fora do Tédio
+http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp"group-title="tvaberta", Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdn6.aptoide.com/imgs/2/5/f/25f55aa46a425b14d42c8ab343cbe975_icon.png"group-title="tvaberta",cloudTV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e3988457040bce0bd05af600734dd1f0.webpgroup-title="tvaberta",Ghost
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.emersonsites.com.br/images/webtv_logo_by_blueamnesiac-d6u9y7o.jpg"group-title="tvaberta",Web TV
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://repository-images.githubusercontent.com/276998499/5f4fdcfa-4a9e-49f2-82c8-9b8da8876fd1"group-title="tvaberta",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://image.winudf.com/v2/image1/c3R1ZGlvLnh0cmVtZXR2Lnh0cmVtZXR2X2ljb25fMTU3NjkyNDI2NF8wMTk/icon.png?w=160&fakeurl=1"  group-title="tvaberta",XTreme
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-sporte.xml "         
  ############## sporte ############## ###                
