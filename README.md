@@ -2307,19 +2307,10 @@ https://play.prod.gcp.vix.services/hex-2018_pt/hex-2018_pt_1-1/thumbs_640x360.m3
  ############## tvclips ############## ###   
 #EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="tvclips",TV Web Camocim 
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e53513E.png" group-title="tvclips",TV WTJMINAS 
 https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
-
 #EXTINF:1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/f4b4b11e32c71c670d8ad17e00684678/264x264.jpg" group-title="tvclips",TV HITS
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV. png" group-title="tvclips",Clube TV
