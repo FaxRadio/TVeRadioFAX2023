@@ -97,6 +97,10 @@ https://youtu.be/fBbtFnP6HMc
 ############## lançamento ################# 
 #EXTINF:-1 tvg-id=" iddocanaldelançamento" group-title="
 
+#EXTINF:1 tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F14%2F48%2F14486460_339FABA249DC5353.jpg&width=1400&height=787&resize=CROP&format=JPEG" group-title="lançamento",Tempestade Mortal
+https://youtu.be/9lGBJ3KIHN4
+
+
 #EXTINF:1 tvg-logo="https://s2.glbimg.com/anCPCAmeZKWnMeT9YQq7GF_33o4=/0x0:640x360/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/I/M/0CKnWgQWAjlLC3srGTBw/a-sequencia-avatar-o-caminho-da-agua-esta-sendo-lancada-13-anos-depois-do-filme-original.png" group-title="lançamento",Avatar 2 o caminho da água
 https://youtu.be/FibUS1Z6-zU
 #EXTINF:1 tvg-logo="https://pixelnerd.com.br/wp-content/uploads/2022/05/Avatar-2.webp" group-title="lançamento",Avatar 2 o caminho da água
@@ -1422,6 +1426,32 @@ http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/19131/index.m3u8
  ############## filmes ############## ###   
 #EXTINF:-1 tvg-id=" iddocanaldefilmes " group-title="
 
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/ROPSVwJ2SyM/maxresdefault.jpg" group-title="filmes",A Família Buscapé  1993 
+https://youtu.be/AL9efdXjz94
+
+#EXTINF:1 tvg-logo="https://i.etsystatic.com/21322475/r/il/f84a0c/4088774974/il_fullxfull.4088774974_hebp.jpg" group-title="filmes",STEVEN SEAGAL
+https://youtu.be/02zvXcenyL4
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/c822rXnZM7o/maxresdefault.jpg" group-title="filmes",SUSPENSE DUBLADO 2023
+https://youtu.be/FlctsDRHEW0
+#EXTINF:1 tvg-logo="https://s2.glbimg.com/uCBHxg7D95UXRVKBm-eglG6cKRA=/362x536/https://s2.glbimg.com/u1e5gjUV7uR-Nev_kSp4VJZ5X0g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/a/d/NBTw9lSDyQUepbJVnNKg/1434990-poster.jpg" group-title="filmes",PEGANDO FOGO
+https://youtu.be/bGxiSxdQ7N0
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/07/03/19/28/342807.jpg" group-title="filmes",Voltando a Lutar
+https://youtu.be/YhQWzRgBS9M
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/t5y6fHGn6TM/maxresdefault.jpg" group-title="filmes",Filme Gospel
+https://youtu.be/t5y6fHGn6TM
+#EXTINF:1 tvg-logo="https://www.minhavidaliteraria.com.br/wp-content/uploads/2012/05/sk11Beastly.gif" group-title="filmes",A FERA
+https://youtu.be/NNc8PhkxFgo
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
+https://stream.ads.ottera.tv/cl/230226cfta9cblbchavkvrdf4g/640x360_1126400_3_f.m3u8?i=475_2553
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
+https://stream.ads.ottera.tv/cl/230226cfta72baqhf9g4n3p3l0/1280x720_3071200_0_f.m3u8?i=475_2153
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
+https://stream.ads.ottera.tv/cl/230226cfta72baqhf9g4n3p3l0/1280x720_3071200_0_f.m3u8?i=475_2153
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/black-water_pt/black-water_pt_200x300.jpg" group-title="filmes",Perigo no Oceano
+https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/danny-the-dog_pt/danny-the-dog_pt_200x300.jpg" group-title="filmes",Cão de briga
+https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7vp1miv0CcClkxZy42c9RUL8ty9_cEWGhg&usqp=CAU" group-title="filmes",Joseph Smith O Profeta da Restauração
 https://youtu.be/HdCC66SHiE0
 #EXTINF:1 tvg-logo="https://i.scdn.co/image/ab67616d0000b2736fd1c2c1474e4e89fde3c014" group-title="filmes",2 DOIS FILHOS DE FRANCISCO
@@ -1940,6 +1970,12 @@ https://play.prod.gcp.vix.services/where-is-good_pt/where-is-good_pt_1-1/play_v1
 
 #EXTINF:1 tvg-logo="https://rollingstone.uol.com.br/media/uploads/encanto_foto_reproducaodisney.jpg"group-title="infantil",-encanto
 http://127.0.0.1:32400/library/parts/77/1661696349/file.mp4?X-Plex-Session-Identifier=6jjjw60tigqqjhda6jr2cldj&X-Plex-Product=Plex%20Web&X-Plex-Version=4.87.2&X-Plex-Client-Identifier=tjv9whiacni5fhxwby48xhyi&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x937%2C1920x1080&X-Plex-Token=CAvE25CuczsBSQ5Q7zNK&X-Plex-Language=pt-BR&Accept-Language=pt-BR
+
+#EXTINF:1 tvg-logo="https://bebe.abril.com.br/wp-content/uploads/2016/11/moana.jpg?quality=90&strip=info"group-title="infantil",-MOANA
+https://youtu.be/0QUTCifXiPo
+
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_Zn-G8_W3Uj6nStoELa2RlEO-5sZBHXUGA&usqp=CAU" group-title="infantil", A Pequena Sereia
+https://youtu.be/G64vg5OUDOs
 
 #EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/ploddy_the_police_car_makes_a_splash_thumbnail_16x9_widescreen_br.jpg" group-title="infantil",Ploddy, o carro da polícia, faz barulho
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_7y1hfikt/v/1/pv/1/ev/9/flavorId/1_wy9mfcvz/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV83eTFoZmlrdC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NTA5ODQxN319fV19&Signature=GsN~S7MxCmpqK9uF7gROWO-fa8DSV9wUNvY69fF0IqMl2siIjCgGixerisC6nJcUUKqfBZJgDGSkN~jxfBOK9SEUuLd~1Gpq9SqnBqIKFPFvDSjpuv2KAC5vF1T6Il5qZBFGoubbAhOAZ7nA21dx2wpPD622tuOb-khjcVKCyjHHV0YJYy0Hi6IJ09jkvANduqwXQ3YQxhnlRB8IsIlJDbFEs8RW4WRNiqtQaMMcJQkzt4kbO3hLbrly9Q0JQM8VbphesBgYzrjJBE3wGJlVPY~ryTpRjlbBbhG1NXcJyUHfVn4Mrx6PDZcTZlZStQ2GygwlLVJgteHYXm02W9dyig__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
