@@ -18,14 +18,700 @@ http://stream.zeno.fm/hu70hmkcu68uv.m3u
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
-#EXTM3U url-tvg="http://grade-de-bbb  Ao Vivo.xml"
-############## bbb  Ao Vivo ################# 
-#EXTINF:-1 tvg-id=" iddocanaldebbb  Ao Vivo" group-title="
+#EXTM3U url-tvg="http://grade-de-lançamento.xml"
+############## lançamento ################# 
+#EXTINF:-1 tvg-id=" iddocanaldelançamento" group-title="
 
-#EXTINF:1 tvg-logo="https://media.tenor.com/7aSRKWweMbAAAAAC/bbb-big-brother-brasil.gif" group-title="bbb  Ao Vivo",BBB
-https://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=168.227.218.22&token=417ae33093031e28f806dc301d171ed8b75ce582-16d335a9b920cdc795c4e9cff6ee8e15-1676324012-1676320412
-#EXTINF:1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/FX5HMUU6MJEIRHIGFHJYC435ZU.jpg" group-title="bbb  Ao Vivo",BBB  argentina
-https://siloh.pluto.tv/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_2.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/FD7PmB8eiSUAAAAd/miracle-in-cell-no7-aras-buluti%CC%87ynemli.gif" group-title="lançamento",o milagre da cela 7
+http://127.0.0.1:32400/library/parts/26/1661706526/file.mp4?X-Plex-Session-Identifier=z7wpbf5b4t8jyv37m2jp9b6n&X-Plex-Product=Plex%20Web&X-Plex-Version=4.87.2&X-Plex-Client-Identifier=tjv9whiacni5fhxwby48xhyi&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x937%2C1920x1080&X-Plex-Token=CAvE25CuczsBSQ5Q7zNK&X-Plex-Language=pt-BR&Accept-Language=pt-BR
+
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/04/10/20/50/1713361.jpg" group-title="lançamento",o filho do homem
+http://127.0.0.1:32400/library/parts/29/1661704054/file.mp4?X-Plex-Session-Identifier=z7wpbf5b4t8jyv37m2jp9b6n&X-Plex-Product=Plex%20Web&X-Plex-Version=4.87.2&X-Plex-Client-Identifier=tjv9whiacni5fhxwby48xhyi&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x937%2C1920x1080&X-Plex-Token=CAvE25CuczsBSQ5Q7zNK&X-Plex-Language=pt-BR&Accept-Language=pt-BR
+
+
+#EXTINF:1 tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F14%2F48%2F14486460_339FABA249DC5353.jpg&width=1400&height=787&resize=CROP&format=JPEG" group-title="lançamento",Tempestade Mortal
+https://youtu.be/9lGBJ3KIHN4
+#EXTINF:1 tvg-logo="https://s2.glbimg.com/anCPCAmeZKWnMeT9YQq7GF_33o4=/0x0:640x360/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/I/M/0CKnWgQWAjlLC3srGTBw/a-sequencia-avatar-o-caminho-da-agua-esta-sendo-lancada-13-anos-depois-do-filme-original.png" group-title="lançamento",Avatar 2 o caminho da água
+https://youtu.be/FibUS1Z6-zU
+#EXTINF:1 tvg-logo="https://pixelnerd.com.br/wp-content/uploads/2022/05/Avatar-2.webp" group-title="lançamento",Avatar 2 o caminho da água
+https://youtu.be/IYpoG9T2LV0
+#EXTINF:1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2022/11/Avatar-O-Caminho-da-Agua-Trailer-da-sequencia-de-James-Cameron-retornando-a-Pandora-em-15-de-dezembro-de-2022.jpg" group-title="lançamento",Avatar 2 o caminho da água
+https://youtu.be/Cf9r96oYj78
+#EXTINF:1 tvg-logo="hhttps://pida.com.br/fotos/pida_noticias/3286/IMAGEM_NOTICIA_2.jpg?v=4314dafd01b739f" group-title="lançamento",Dog Avenentura de uma vida 
+https://youtu.be/08mWfYJ-sio
+#EXTINF:1 tvg-logo="https://yt3.ggpht.com/nwXDSGoFHClBuWTAbxOCx5JMc5sz05vebwPTDBvYAQc61LVU4IQy6lMwUy1aNmg77CbXqWJwD4M=s48-c-k-c0x00ffffff-no-rj" group-title="lançamento",Pantera Negra: Wakanda Para sempre 
+https://youtu.be/7ZC0eWRlqWg
+#EXTINF:1 tvg-logo="https://cdn.tapetender70er.de/media/image/d4/27/9f/Shabby-Shic-Carta-da-parati.jpg" group-title="lançamento",Espiões Por Acaso
+https://youtu.be/H23lEseol4g
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/rNTUrTQT3kA/maxresdefault.jpg" group-title="lançamento",A ESTRADA DO DESERTO
+https://youtu.be/rNTUrTQT3kA
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Black_Adam_poster.jpg" group-title="lançamento",BLACK ADAM
+https://youtu.be/bLfDX8PGYDA
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/06/04/10/26/215084.jpg" group-title="lançamento",Os Últimos na Terra
+https://youtu.be/RZLHYXAJoBo
+#EXTINF:1 tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202111/2001/FXPQpJRPg0EZMVPCKRGTxMB8.png" group-title="lançamento",uncharted
+https://youtu.be/eGHc8yv59XI
+#EXTINF:1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/2145381526.jpg" group-title="lançamento",Hora das consequências
+https://youtu.be/uA5vqBekFWg
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Bullett_raja.jpg" group-title="lançamento",Bullet Raja
+https://youtu.be/_UQ7RCwukMU
+#EXTINF:1 tvg-logo="https://media.moneytimes.com.br/uploads/2021/12/2022-7.jpg" group-title="lançamento",AÇÃO 2022
+https://youtu.be/I6I3yyxvlJA
+#EXTINF:1 tvg-logo="https://polocriative.com/wp-content/uploads/2022/06/Bene-o-Filme-v2.jpg" group-title="lançamento",BENÉ
+https://youtu.be/vXcEGbw6xDU
+#EXTINF:1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_658133-MLB41260803644_032020-V.jpg" group-title="lançamento",Vingador Da Noite
+https://youtu.be/jYxPJ0Q4Hv4
+#EXTINF:1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2022/11/Avatar-O-Caminho-da-Agua-Trailer-da-sequencia-de-James-Cameron-retornando-a-Pandora-em-15-de-dezembro-de-2022.jpg" group-title="lançamento",Avatar 2: O Caminho da Água
+https://youtu.be/ubjwQuuHl8Y
+#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/iycbVZ7fdN0/maxresdefault.jpg" group-title="lançamento",Ação e Luta
+https://youtu.be/8kYok7e7Tqw
+#EXTINF:1 tvg-logo="https://thenexus.one/storage/2022/04/jet-li-the-one-multiverse.jpg" group-title="lançamento",jet li 2023
+https://youtu.be/MxotdKaRnY4
+#EXTINF:1 tvg-logo="https://media.gazetadopovo.com.br/2008/10/60c1372d698d0a25f3758f73a6e7e81f-gpLarge.jpg" group-title="lançamento",LIGA DA INJUSTIÇA
+https://youtu.be/btiOK3CaRlM
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/h-GUsN096Ps/maxresdefault.jpg" group-title="lançamento",BARÃO DA DROGA
+https://youtu.be/h-GUsN096Ps
+#EXTINF:1 tvg-logo="https://images.justwatch.com/poster/41592253/s718/roubo-sem-saida.%7Bformat%7D" group-title="lançamento",Roubo sem saida
+https://youtu.be/rrR-Rt6h0PU
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxOGNjOTAtNWM4YS00YmZmLTgxNzYtYTQ5M2ZmNTgxZjEzXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg" group-title="lançamento",daylight 
+https://youtu.be/XwPGXZDT83k  
+
+#EXTM3U url-tvg=" http://grade-de-filmes.xml "
+ ############## filmes ############## ###   
+#EXTINF:-1 tvg-id=" iddocanaldefilmes " group-title="
+
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/ROPSVwJ2SyM/maxresdefault.jpg" group-title="filmes",A Família Buscapé  1993 
+https://youtu.be/AL9efdXjz94
+
+#EXTINF:1 tvg-logo="https://i.etsystatic.com/21322475/r/il/f84a0c/4088774974/il_fullxfull.4088774974_hebp.jpg" group-title="filmes",STEVEN SEAGAL
+https://youtu.be/02zvXcenyL4
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/c822rXnZM7o/maxresdefault.jpg" group-title="filmes",SUSPENSE DUBLADO 2023
+https://youtu.be/FlctsDRHEW0
+#EXTINF:1 tvg-logo="https://s2.glbimg.com/uCBHxg7D95UXRVKBm-eglG6cKRA=/362x536/https://s2.glbimg.com/u1e5gjUV7uR-Nev_kSp4VJZ5X0g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/a/d/NBTw9lSDyQUepbJVnNKg/1434990-poster.jpg" group-title="filmes",PEGANDO FOGO
+https://youtu.be/bGxiSxdQ7N0
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/07/03/19/28/342807.jpg" group-title="filmes",Voltando a Lutar
+https://youtu.be/YhQWzRgBS9M
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/t5y6fHGn6TM/maxresdefault.jpg" group-title="filmes",Filme Gospel
+https://youtu.be/t5y6fHGn6TM
+#EXTINF:1 tvg-logo="https://www.minhavidaliteraria.com.br/wp-content/uploads/2012/05/sk11Beastly.gif" group-title="filmes",A FERA
+https://youtu.be/NNc8PhkxFgo
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
+https://stream.ads.ottera.tv/cl/230226cfta9cblbchavkvrdf4g/640x360_1126400_3_f.m3u8?i=475_2553
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
+https://stream.ads.ottera.tv/cl/230226cfta72baqhf9g4n3p3l0/1280x720_3071200_0_f.m3u8?i=475_2153
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
+https://stream.ads.ottera.tv/cl/230226cfta72baqhf9g4n3p3l0/1280x720_3071200_0_f.m3u8?i=475_2153
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/black-water_pt/black-water_pt_200x300.jpg" group-title="filmes",Perigo no Oceano
+https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/danny-the-dog_pt/danny-the-dog_pt_200x300.jpg" group-title="filmes",Cão de briga
+https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7vp1miv0CcClkxZy42c9RUL8ty9_cEWGhg&usqp=CAU" group-title="filmes",Joseph Smith O Profeta da Restauração
+https://youtu.be/HdCC66SHiE0
+#EXTINF:1 tvg-logo="https://i.scdn.co/image/ab67616d0000b2736fd1c2c1474e4e89fde3c014" group-title="filmes",2 DOIS FILHOS DE FRANCISCO
+https://youtu.be/2WWyuzuKrSc
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/rBzccU33XsE/hqdefault.jpg" group-title="filmes",O Carro Desgovernado
+https://youtu.be/b44Y26G14C8
+#EXTINF:1 tvg-logo="https://cdn.iset.io/assets/54564/produtos/144/procurado-vivo-ou-morto-temp-c-b.png" group-title="filmes",Procurado Vivo ou Morto
+https://youtu.be/pPVlr4-wl64
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/9CkiGw6eNdE/sddefault.jpg" group-title="filmes",Homem Aranha (o filme original completo de 1977)
+https://youtu.be/64-BJgeUlFY
+#EXTINF:1 tvg-logo="hhttps://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/an_ordinary_man_thumbnail_16x9_widescreen_br_v2.jpg" group-title="filmes",Um Homem Comum
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_3orb0xj9/format/applehttp/protocol/https/flavorIds/1_2mvrpmje,1_6sxtb51v,1_95j3vl7s,1_1jdty1c0,1_sil4lh5m,1_o2yv3669,1_02yyxvfi/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1675538442&id=1891&ip=168.227.218.20&override_expiration=1500&sign=w0YvIAWxSCVlbIDXrocC8nzPARclbc%2FwY9kqdLeGMww%3D&playSessionId=5e061f6b-2c58-6a85-0dfb-b756dd982c3b:6ed8b13c-871c-35ac-39f1-852e076e94a5&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3VtLWhvbWVtLWNvbXVt&clientTag=html5:v7.58
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/bunraku_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",Uma Cidade Sem Lei
+Ahttps://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_zila0tjo/format/applehttp/protocol/https/flavorIds/1_hc751s57,1_5e18d2ev,1_xpxgele4,1_m30qrm9y,1_k5m6jf3c,1_jlgv7ia7,1_lhhx9u0x/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1675538577&id=1653&ip=168.227.218.20&override_expiration=1500&sign=hWWLC%2BUqiIlTJ3WJDb8QPVUW94iz8KTcuZzdBPeh3wQ%3D&playSessionId=cc12203d-4b60-357e-8d2d-dc38169b7ade:17388bef-3150-b0c2-84db-f2d77f5c813d&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3VtYS1jaWRhZGUtc2VtLWxlaQ==&clientTag=html5:v7.58
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/shamers-daughter-2_pt/shamers-daughter-2_pt_200x300.jpg" group-title="filmes",O dom da serpente
+https://play.prod.gcp.vix.services/shamers-daughter-2_pt/shamers-daughter-2_pt_1-1/thumbs_320x180.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submergence-sofa_pt/submergence-sofa_pt_200x300.jpg" group-title="filmes",Submersão
+https://api.prod.gcp.vix.services/play.m3u8?access-key=555c5a19c9cfd50f60e08944246fc0ed5ea24308&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/momentum_pt/momentum_pt_200x300.jpg" group-title="filmes",Momentum
+https://api.prod.gcp.vix.services/play.m3u8?access-key=8c5979b8951b51d1b82ec55117c9203bc02aa3fd&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/wasabi_pt/wasabi_pt_200x300.jpg" group-title="filmes",Wasabi
+https://api.prod.gcp.vix.services/play.m3u8?access-key=9b0089d50ca0168266ca2fd6391cbee831b0154d&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jerico_pt/jerico_pt_200x300.jpg" group-title="filmes",Jerico
+https://api.prod.gcp.vix.services/play.m3u8?access-key=cc7de3aa2604dc7384360f8bf13e58afe15be7c0&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesse-james-train_pt/jesse-james-train_pt_200x300.jpg" group-title="filmes",Jesse James - O Roubo do Trem Negro
+https://api.prod.gcp.vix.services/play.m3u8?access-key=63448cc5c50bc7a03bdcba4bfbc5da31190ed664&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/coyote_pt/coyote_pt_200x300.jpg" group-title="filmes",Predadores
+https://api.prod.gcp.vix.services/play.m3u8?access-key=6cbef848d23e6e9a8b9a2988a8672471eb531944&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/library-suicides_pt/library-suicides_pt_200x300.jpg" group-title="filmes",Armadilha mortal
+https://api.prod.gcp.vix.services/play.m3u8?access-key=2c9ba52ccd200c1b919d83273d0dc1095d369992&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/terminal_pt/terminal_pt_200x300.jpg" group-title="filmes",A Vingança perfeita
+https://api.prod.gcp.vix.services/play.m3u8?access-key=0ded0d0fbfc222192fdfbd888fd0d52b716d09b1&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/frozen-valley_pt/frozen-valley_pt_200x300.jpg" group-title="filmes",Morte abaixo de zero
+https://api.prod.gcp.vix.services/play.m3u8?access-key=eb75c7e378e69ad5cdfd66cf7a498bb1f068282d&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/on-the-edge_pt/on-the-edge_pt_200x300.jpg" group-title="filmes",Emboscada
+https://api.prod.gcp.vix.services/play.m3u8?access-key=218cbfb4494bcce18456d83a3f5674059ed8082b&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/pioner_pt/pioner_pt_200x300.jpg" group-title="filmes",Mergulho Profundo
+https://api.prod.gcp.vix.services/play.m3u8?access-key=5cad53798eb48b2ceb9a0821814b59d938977481&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-marker_pt/the-marker_pt_200x300.jpg" group-title="filmes",Mercenário
+https://api.prod.gcp.vix.services/play.m3u8?access-key=e0f45c253aea2423b48ee653d86ecaa58844d9a7&
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/panic-button_pt/panic-button_pt_200x300.jpg" group-title="filmes",Pânico Virtual
+https://api.prod.gcp.vix.services/play.m3u8?access-key=9dbe01ca5fc447c8fdefad8fbe61dc1ef8919bdb&
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/fly_me_to_the_moon_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",Um Plano Perfeito
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_tnqorthd/v/11/pv/1/ev/21/flavorId/1_mlp7r65e/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV90bnFvcnRoZC92LzExL3B2LzEvZXYvMjEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjc1MTAxMjYxfX19XX0_&Signature=AswW9-u0VBeZkXfxDPB81EGcocpfXARAuQ9vjvwg94ZI5fGr4n6pX1YeivWtiIc7Nu8mEZ6cfQWYTuu4~xanFSuB5uuULVxaf-3bb8GgWminXhc8TVYVeeBZ1jKkw9DVU7j9ARs5tRCaPWWYljHtNu08gZdA~QFcN2evU-N6d1ToPjAqxs6yGRbBNg0GqR4lraRqUXBVXjj-mpSpH66la1hDnKG-8NBzkMpACmpKxeH3q-dgO94MDQFQZ8Wf~BVYbOGiE9dpAp43nT~Ok1TmqDdoa4DvwItwbCnFgs9zdMpcae~eSTIK921ga27ErT~uenk6BFwNRGPzPhqwivFEeA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/long_way_down_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Uma Longa Queda
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_bent85mj/v/1/pv/1/ev/10/flavorId/1_io14is5k/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9iZW50ODVtai92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDEzMzV9fX1dfQ__&Signature=Uc0MOctNslmZPe2XqVAtOgHfYjTB1GljwYHra0KBqQrbfF4M6Q6RaryWA1WZOToIlyfdsQ1J58i15xM20vJWmb2ZxfNA-nkzQAHf4H9eFwGw6J6PrKDRhDeDjgV3BfFKecoeGz8SheayVNAONHnqJjXkvJo50CXnR6JTIj0ifBHAF0XRBx9HbHv3-wnQgdAd0SjzCxbkcdPgyOQHF6Hrti7eIBkH8UuSGYeIrpTq8RC2nWkHViR6srpxekLya0OOwDb9XVeKuVLF71ctJdh-lNixh5c13YrTb7UCbOK4AtSSsCuZeqt0o~PeO49OGsyNBG48h8ckm~V7Smptf1Eatw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/christmas_comes_home_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Construindo Um Lar
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_6p2076fo/v/1/pv/1/ev/9/flavorId/1_as5z9c2m/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV82cDIwNzZmby92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NTEwMTM2N319fV19&Signature=MPrIXIzWQZZdalYNbHSbtrd6HlbxXlfbiD0ZAadQtLHIyPg2anp8GCtty2jLB1Zf252tgkxnHrJSvyLvzwBQiVrfVI9bcSDRAaNKF3M1YjSrn5iWF0Lqyr1rugQyXOi0emsaOsen-n-c5-~El8CNVAZnxO1erKeEph4MmUNEFo14efXro6h1HTKgNKIlAPvQyMghjdsyW~YhfUWkq4~ANnoiFx~Pxxv5stfthx4KYD6j2bqM6vVcL~bMxTQtQEjyyZmy-x70evJjOARE81gcVM4ins1WOv0FjsfzSWKKMp1Ttx-mtALunNU65eNuHfrRbA~zxN65Dw2RLB0DYoUmEQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/love_sick_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",Louco Amor
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_eo5nh2xw/v/1/pv/1/ev/12/flavorId/1_73bme2rd/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lbzVuaDJ4dy92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDE1MDB9fX1dfQ__&Signature=a0mnbUW2~aoOuvlwEXFIeaV7aK~0J5fo5qQ8xneyrsel1zwK8RVXwbJB6uMQjE2DDVPl2xPBJJHlBtyEsk1FgcX~EsHOCEDtG1NanUcB44v5s6Rb1aI2mA9fsFNETfKRwDUoVzOeLAII6kJmtgJWVk8-weIWwFCEByxVhxkyLZiurcoNmBwe3ERyzVO3IyOpvy7G-jg9QRzKVih7LnMsVbHZVe~bmDAM8u2cIapT5FCFA6iU-9A9ru6fNqBF-wEpnWdLgma-D3P4F~04SbjIRKSDsDYDS3KIjNk2AgEWhSC0~zdiomZhd05uwKJ9LKchlLxkAEt45RAP6wsSanGxnQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/laura_smiles_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",O Sorriso de Laura
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9qat20iz/v/1/pv/1/ev/11/flavorId/1_j1gac9bv/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85cWF0MjBpei92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDE2ODV9fX1dfQ__&Signature=GAL87rJXN310arlHFafQP96Tee3821DqgE951pSMQRjEeed7qcTeOjGUFhmIyezt6cA-FtuOcy3OS2iFymiyOHr0FEFCvU9LIbbqdp5PJ7-vO~fzztFe9VcVBCl4wM5Lt4bhbQtv6iUqsZWWNoJUZopX7JAmoI6eifEjln5MveUBXmiD9fnMwQq506CEVz-p5AzP8NPcbz6rSHt92uFejC6sBa5HexxGGDtILzYWCEKKbAt6O3cB1nLeGU-lkm-nS25pClrT-2M8YN6TKNrLvA-e58ZE5SyIGnVPQFdHP72Sm1KM7zCUUhs-fvYZxVgQE8VM3Pr-U3rYBpm7EKf-cA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/backcountry_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",sobrevivente
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_d7evkhen/v/1/pv/1/ev/10/flavorId/1_4hg0e2ko/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9kN2V2a2hlbi92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDE4MDR9fX1dfQ__&Signature=B1AXMNgVr7KazmlPPDs0-GwANwdoC-CfnCmcPBp5tSaav09rlcQ-QBQHpC2PBYjRc18qDUtUMoWuIqGsCEY6GEuDwsHM4FOq49YmnrwsBZix8FGY6Q~yIK-noWCWgVxTlmjKtia2uf2-wqIfKtBP4RoxQZYpGy8D7fbfECwGK~i-sDXUCEyJ-wtSyZcQr3rAu44hCzBKrwJNCjbgnHLKa16naCoum~XGRl5SZ4Pt2wnpNJAtEtplyxSmF4vqH5x9NDx7TzKT0-hqkhHzUec8WiHzr90uNI8NPX2KrGIxZ0ltxDChjTooohFGVu5uiXxWeXLTBwxRtrCIEW1RJz6tBA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/on_wings_of_eagles_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Em Busca da Liberdade
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_wxxtrkt6/v/1/pv/1/ev/11/flavorId/1_cxo0diu7/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV93eHh0cmt0Ni92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDE4MzN9fX1dfQ__&Signature=FADRHw-Tt4nsLsB4NgToCENKlgGCStkUuE7WWxacQ6fUbPjCWJcIRnVSvVyqPHmM8V0wvq5wja-6kHXEn2KB2fu2COnTxGCZZqBrjY1cRPndTTSZUYOMFrJWrB0u74fi02bwefiQGpVV9czSaYeLOT3jy24tBz7khQNxilWwy~bGP4uKg0lwvseB2SQtrR59ZkOjSNkTlWXp6Jh220iKDfzBIfl3qKOANpwosTOys4xcgOQTVf3CwPImcuxgwBsG5FxtfoLgCfxVJWqjaYshg~G~Grun1bp6YehQebxLlvlHEoIfnM02IBITXAyIy8UkqUGxPs~5tWdf9z9fWFIM-Q__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/malcolm_x_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Malcolm X
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_2y3noteo/v/1/pv/1/ev/10/flavorId/1_05638gwy/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8yeTNub3Rlby92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDIwNDZ9fX1dfQ__&Signature=Zwyd2vopiHAeb13PVeie27HENSbA1fTYMkLPG15Y0qf9k7pUvoLa0EWBzqS-AkV7EeVv9~K2slgOkLDF-QFB6qCqFpKCgIQDuekG2bE-HBDs55sDY-kxw3U6d26N5jfVvRP3u8Cmx2tZahtThzj2LzQTaBMdnHBQdnNxV4A1IyYNPwH-t3u-LJK7uwdXIdyA1lZhh-kAPo9bh5lst-fd1fQjrqg8yLy1KRjGEhvPRmcZpk2QZbZGcntvy1ONvFCoDOmKfQK-YCz8mIBUQcsRvp6MVfJAR1gBEoWZw3Uco0LgDuOzyqLLOmwemE~8HvimI5zeoJeD4Bm-9erXJy3x7w__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/walk_to_remember_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Um amor para gravar
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_rc78aatk/v/1/pv/1/ev/10/flavorId/1_s561evb9/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yYzc4YWF0ay92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDIxMTR9fX1dfQ__&Signature=S-xrckvU-5hxAyZFeggJSwRBeQ8xdRqnLvcob3HhjwrOUNLCjCVoS8rIxOaRTjjor5crb~93G4KILCxnvyoxQsCqlgd8l~oURn-7UgZEvyCGuyTyHezmvVQobjaMyRK-ivNECFLpNHGyjL2wRRTfdtRkhsWRK5R28pn5Av9-OqncBOvFoqug9RBb49eYzsfd0n2-~cG-Q4JRoyfwNjHLGyHgexb~xpkF7tORqDgW3hSswitcxE7UcAZQsCiI7OORyUy562oH-0u0Oi1s1yPPGebOue17JT1jM8akyQTP1bhfV5zxU6Ri8ez4h9YgcVk5TNQcLlpilQGmzkUxggCSKw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/our_wild_hearts_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Uma Segunda Chance
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_edd1lcf4/v/1/pv/1/ev/10/flavorId/1_pim9ltdh/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lZGQxbGNmNC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDA4NjR9fX1dfQ__&Signature=VuSLS8lpqMXnaMd4BgvAgxwhrO6GBf21bQAVcQujY5evVjKo~e-ejod1DOxu9ndLN0e4ZsHBvnDqXVvML6P9e66-wn0imJ13yw5IBe8JnzDF3C2Q86vZ67O7MzbOt3zDtP0FRm0NBmi4mtKUpnmzVB8m92u1mdei67bW1oXjKOm2KN6nH6wqYC1b8hcgLIhuB6t5a9ItBiXocnzFRAIOSedw1~2OnixT~8dH2YcVzXKQHfasmqS4ooLtjkEGOFtKwF9xwoRrlRwalS3FC~hcTaZkSMSnPEdGJITFtcKIgjqWOAhmCvpFG7155V1K8LHbvRQdq48PWYjLSJc0M-MrEw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/confessions_of_a_prodigal_son_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Confissões de um filho
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_i1zfo013/v/1/pv/1/ev/11/flavorId/1_ww5gfizj/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9pMXpmbzAxMy92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDA3NTh9fX1dfQ__&Signature=QNZK0~PXdikdMhvGGT98F2BoVDrres0Yo-wSTNj~QlBJzO1IKHy5aENiyq791sFyr7WmFUquPAa2WD6jdQJY5vk2wd7d9hlnGZUPBuwcBU~S1h8h-1XBmjecQCC-PtJE2fFWtQKB3X6QuKE6ZsfCQaLilAptp82ynPI644g~eakG4~DWI7OcYs6fbrmcTKte3rwOTrFnu3iwZFj8bDkDUpCs2vfGsb0owcGDKyVzRZoQSHpGXh9vdRtkBcC7lumxAS83qzg1lQJHPC61Px56wH1c9cvNRhJGBqxuRZuRfOiizJv3hhr6WLtyrPaCzd36YO7fCIwJZIUrfHo1xQ8vXQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/rodeo_girl_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",Tempo de Mudançcas
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_ybckjca1/v/1/pv/1/ev/12/flavorId/1_vi5853ej/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV95YmNramNhMS92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDA2MjF9fX1dfQ__&Signature=LDwfkU5Pgvu4ysNLdc8c1W-tozwCmjQWnpY586DmcUBwxlRZYOgL7wD6wh18vrZQ9UcjwgUfhtBVdXHs2oLyagcgCG44eRvfUhKWCOc3~9t1nQAvqHfRS-G1o2wROlXIvfMNInRI-dOfYAQ85X1iDQnT5boyVOkI-oXw5H4XMAsBCTU0TSDJjW8P6FB-0wH97empb3JCxkwbK0paokz3p7qtNtuDyqF1Cghd~rqy-SCqhci5K5bD8ldWx~YoiVzXOaauwHM-RZ59SqgygE7ieRVBbeMKjF4qvzRcgzdBf4mhjgvvF9ph1C1BLXv7uppKA2yJ6vGAkF7xhtZ15E78fg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/bad_luck_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Deu Ruim
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_gkyagk5h/v/1/pv/1/ev/9/flavorId/1_erv3gpbq/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9na3lhZ2s1aC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NDYwMDQ4OH19fV19&Signature=f1HqVtcJQSgadqAS1ba1Vd~BAA34fdLyWM3ArG4oxUI2HhjSrxOuvKIDeCrQjyaUVu1Tejudn30CEzld4eQ~DDAv25js9yiWkWmYjF0ocGSmWPnBvR4sGVro1BJQcbIdoCe2Jm9tOLWnWv7xDYi3R-QDJS57DLLKjDLS1J8VeutYZuYc9DwIxd35-aWCAFslXfpSK0Y2Kx0FVW-Axauei2TturzKSRn~~kXK2wyztN445HQML3zKLdbSQTYip4hRqu~uTbr8sKtGzfpOiE~-NcTMsnxeKxJeY5LVFh3FgkZFUWK6XH9bJaew43JkxE6nqxMx3wi-RcMMiQWRAcIh9A__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/morning_star_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Guerreiro do Amanhã
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_ra4326ze/v/1/pv/1/ev/9/flavorId/1_2dncnftd/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yYTQzMjZ6ZS92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NDYwMDU0OX19fV19&Signature=AmgNidXlEHNh9jYxxTn5Md3nkU9TiJb1Q98axwrBgrO~whUj6PVHCaCj6laG3EgGKPSTMpt3BPQyZFdwxwkENalsIrC3lDfQnEL1lZrFANAOZ3jpscuIC5ehbSfGjsoFyqkJJ7CsB3dxHepfX6HuM9wVK3eYTIksYVzRF-CEVqSmC6DnLox-BI3AucWrW9bqNRxDt9kscRwWPFR~PlZw4svxwD~FPCxdUZa1VNU~iEE6LfNu2dUiKnrn2l9HxmJy-8Gt5UMOYexnI9MB2A3--AihngBEDnRyTcI9VgkcEAppbLjAOzKdtm9VeEixvhoXTwOj2dm1rspW~WaUnfDtfA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="hhttps://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/killing_salazar_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Matando Salazar
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_1ua52vw8/v/1/pv/1/ev/10/flavorId/1_23zdy85j/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xdWE1MnZ3OC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDA2MzF9fX1dfQ__&Signature=WE4kzwEKANXbbg-UmW7GPRGd4upG4fdOSRwswolWcx5DEZ90TLG0VsrL7Nsk17-OGZ3ugzKBnvvg3YiXeXvt0NpyKebfVK~Qc~zPzBmxMh2AHiOEG-lAnAJ4ASwCMKMnkMTu04Z2gy8yEpjmwUwUxdM1BOFR0EzmHP7vRAXZzVTG1Z2e6~ixe-vX4tN5Rxb3gwQ4bUUoopLNpQ2I0uljhxQbla7giQnjsx1c64Kh8z9HjKPK3bHX~JT3DSLEYcxvnAZqfxuEzeVTltYXsOjtYrSl9DV6SlCULkExIfL7TB2xRkpUX~VX7SoS5ZnaMEVfHw0hLNeSFGCyuUc1eI3KLw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/attack_of_the_killer_donuts_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Ataque Dos Donuts Assassinos
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_eectldk0/v/1/pv/1/ev/10/flavorId/1_ggqc8ttw/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lZWN0bGRrMC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDA3NDB9fX1dfQ__&Signature=KBkmzcJ88RVGh4tq8qXLY4BxUYuRsObfA6N0444k4MoEwHrw~bg-dYz9vCezYHKSadItKe~z6IttXA~YDI2J4ox-3snDZjQAA~IQTY-mREKYinXMqh-luIaWsmt6v5RsDS1~VUqHdufYC2kJjHk4KTshqrL5ZduijISWmy4sGDBWvSjFwKKEWnN0wsUgOWw~hxOXlX6x6LXM7Ylehl0vpgLgF7m2P4TmjfTQuwxY5SLLyuiMsA-i6ToS8hhYezq9TDx1-l3wVSBUD4cmXNR-quntVcC7wlzKfoq3gitsoeBzpYbLkcjw8wYKetwJW-T8MrvXXgLWnv3ZN~yGKGo-DQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="hhttps://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/alex_rider_operation_stormbreaker_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Alex Rider
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_l0l43jmj/v/1/pv/1/ev/10/flavorId/1_ynx2svlf/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9sMGw0M2ptai92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDA5ODV9fX1dfQ__&Signature=MAXTbCZwNgGChWoutIAQOzv3O60lr2iJxLMZMsHLM1--bG~3GKkBJTp6NhAkZ2qN0SCjEWnTSFv2~UMn1rzvyuUMSJEN~UPGyVDmPQUFyNJHq3ug20VQk2Sol9eXMNN7ZMloQujy7G6Ds6ukqa8OgKrf1dlj2RUn04e9VQCI~59LR7Sd7fxN8t~H9HnoybYc~sfBNGdJ3GgoO-4MZKHyfuJheA51s4TnmgybuF8DhgKFXkTwlkSEbjQd5rSJih5ejMX2wKwrXRXBzBSzdZP6~HfiN4kpUv-l~CU164YztHQGUp50KIf6un~BPKAaWmlEqrsJ~I~rFu2hpTV4~gRjyw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/inuyasha_4_fire_on_mystic_island_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Inuyasha 4: Fogo na Ilha Mística
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_qy1r1gxx/v/1/pv/1/ev/10/flavorId/1_3cfxvsyf/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9xeTFyMWd4eC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDEwNDZ9fX1dfQ__&Signature=UoFUmU4eJ2YcPe~r-Oo9dmsYDm1TIhgs~BsU2R8aql9lytk54VixftMoxbmzNkfBQOKJaB68LkfzT66Xsl4AOPVg~pZq2oIyArf5QlD8DjXWLUBiYb7Z4r4xunCfBJ9nPbGFrESmwu26~epVxPkd9JLxsqvXNaxIJ9tdvX0n5LQpydNIna~PTks3vPjP6Fl6aUf2K0OuNWCruH6Z4f5GoAu-WYV1QhjAatgJVOXi7oJga-H3Ew4xyhN~Z2qZrFXlDt~B2AiFZY-Rjk~YETGZI3nwWSWMvHuWs5WmRFzjJNAliOGSZSWm6c8t7TaOsMYFAOKJkGJmyZda~3pZWE~5Bw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/samurai_x3_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Samurai X 1: O Filme
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_2y5oflnz/v/1/pv/1/ev/10/flavorId/1_0vrkfh59/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8yeTVvZmxuei92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDExMzh9fX1dfQ__&Signature=J~KTEIh2ZnPF-GxCvAY80NMy~B4gA8GALC1qNC7iWk78Wv3o1lxMExuo-3rEkRTzoyoL2MwJB1OANBD8cgfb~HnpXZY5vS4-eqTeEKwiSU5-kBrASNdvjqcu1kfKmsiezO9T2peRmbl~GXzyCrlNmkVbVRPqtjRFIv3yS4jdtaX2Rx-RkzVYgjIL2GC4sqfZBa3N83F0A59fpNrlb7fiJtm6upkmL~6OdwNnAGBB367IkGp4Wc1SWlIuDG0l5douwsqgblHw466ep60E-aZ7V5~Q2-nQiOm9Sxd6QKVca-b3Y~-FU3LTIxv9L0GTRkBpsbwlzHIlhPFA7gJkwKkjJw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/samurai_x_2_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Samurai X 2: O Inferno de Kyoto
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_zvofx10w/v/1/pv/1/ev/10/flavorId/1_7tb8mj9g/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV96dm9meDEwdy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDEyOTF9fX1dfQ__&Signature=BdgUZAh-bsoMEYG8yOx-3pRl8uFeTcjIwV4woTFlHoABttDS1~odmXvzNOE55lCPNeSHxvpqvIevSxwvb-VWmoI713vumkK7zl92dp8c8txzkYiz8huOBWMCHplEI4u99De8aPXEoFvT5aPaGVCWF6CN2j7RL-TQlGwNj2eoH~2Xq7heQmaIw7CKm3m7T1Nvr4rvBxQzshWBNxZ3pfVccYIz52lqt6hr1kMXvZf24IO0Xq8sBUS~lQ149OMidsGKBDAdAJwo26Ak6J6vTnQATRsACH5leM6YeJHruohOd6j8UoViOw5M6wxJQhxQFV2A4eOgnyPJUu4f52912CTj2A__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://media.tenor.com/5LKt2plZPkAAAAAM/macgyver-approved-macgyver.gif" group-title="filmes",MACGYVER
+http://connecttvapp.xyz:80/mgf4c18/mgf239161/18094.m3u8
+#EXTINF:1 tvg-logo="hhttps://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/the_king_of_fighters_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",King of Fighters - A Batalha Final
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_05i8iazp/v/1/pv/1/ev/10/flavorId/1_yfvpazvw/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8wNWk4aWF6cC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDEyMTd9fX1dfQ__&Signature=fJeRYmo5IZts0zN~KKKBY924v2DVvKVT-Y-BlpUeE~dDDIvxa7XrZ8qzEK87S1-6dp51~vNcQvSCMWIuViDoB7KrSYdPom7jt-BkemX05L4Ud8C7H1qHUeQjVANRcNy4gW7M5yaissKHUjzhOGCqzS4tgVz3LymPMszoHF6LqME-3xq2pbgtLVprPLKfO3nkMbNQE9-QBY9S0R8U3SU5lWQX~zgY8M6HM7w2c0spQhwVXW6U1DNNuket6og5x4YJOQACfIgLcAtCTtGSciktu1tfx~7e6WbyNXlt472T~uc4YnxwYjwOmy8bPjIsGdU7-Qi3rytX~5nZrfjIT683mQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/04/22/18/15/3561252.jpg" group-title="filmes",Obsessão
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_8wqypieg/v/1/pv/1/ev/9/flavorId/1_zin7fiy4/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV84d3F5cGllZy92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NDYwMDIxM319fV19&Signature=MeRVMTWoIwSNtOsvc4FvFeDcnWsYkkqq84YstjY6uo5mJFb~vdi8jdntDC04EuDWY0FmpdXAyKGUT4R6w6Gqn-MXxToxlpehysm7~HL1f85VuKChFrUFdAl2AM7pvmCHwWFNtEFudFuZ8A6wbT8s2onx-oEYEnpUzDyaekFoJlNslV74-JBDMvuySxu~WE3ZB6YHZbH2kUOiZ1smBBdECGlT6-i7epxuxQ3es1Yn8K~FbHkq2MQymXsQRLgbnrWxHvzJVxQKr~DK-tPbtU8vbaJrWbMjtsi3qfFqoi0-7IW8Z4pJgXYAhHvJWt-md3-yQkotWfxs0aHfHSvYyQbZqg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/disaster_movie_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Super-Heróis: A Liga da Injustiça
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_q9addcc8/v/1/pv/1/ev/10/flavorId/1_94kke9g0/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9xOWFkZGNjOC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjgyNzR9fX1dfQ__&Signature=aKNWxhGn0mL1CIRW4EhgYinbILrDyV9j4xyC02Ek9eM-g3E0d4VxBK~2ZRblDIDtTEgPiSG7EiA45prd5NohCPGA0lCFFF4KrT1AD3xv8VA6TThoz0Ay3K4EgtlE1WW7tn8Kd-S4eqkiYHSv4y5J8cIq4Tcj6CdlnommhxVCd0eYeO6ZtqEDZ-ms1sKK6nYG-XEYDfGdf-MyAjj-2KXD~TgIXGgOCgirDHVGoYS864pj2zh92HbLokfdMDxqEH7Fa35F2Ukf9nFqKJ7zGzLrLObKja6Cn28WeZZlwGZW8cCMlkHqLasgMMFav~8oS8EJeXrPAym3nTCkjXaladV4yw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/khumba_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Khumba
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_r8p05vjm/v/1/pv/1/ev/10/flavorId/1_dy4rjkpx/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yOHAwNXZqbS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjg3NDF9fX1dfQ__&Signature=FCWZtSeqCJ1ZVpyNct5uSS0V6H5UBxShC-84mBiljh66ckOjFdNF2pXMJ0o0dds3A0J0FhKRuqWsuGx6M3apEnzt3ANEgw~190ktV8aTTetEdK~5VJSEpmTpW-YdPsHZapQwB4za~QQUB225HaOabfD4nqbvEQ3lU~jKDGPCtBeh85WbNXWewVv3Izrwr-B0uBq4tYUSxmkmt8jm2RhMV7wiQJ2e0r9LqDbdILF0apv15bloJXVJwjrNyYkBoODyF2K-acf4er1~tYj8ywwp5zz94~mZ2DuXam6W-Hbm3do~Psp4XOm72dBA7OaBJ-xE1qvVAZ9urXjZw0loXO62Pg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/beyond_the_reach_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Fora de Alcance
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_b8egsn5h/v/1/pv/1/ev/10/flavorId/1_uxgm5ysn/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9iOGVnc241aC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjg4MTl9fX1dfQ__&Signature=aO2icWDjXQbqU0forrHIN7ExQBjB-nFct5-d95hzAEVZR~n~i2qUGU4bTlOabDq1dTEfSc4LdQPbuR8Od4Pu0IJEz5ssY2NWc42niUnBRCbs9~DqjuVWU-x6SgjXk2Xisbmlm6ZAIt7xBRYSOJc6TwuGvNNN9RA7UqGo-MUSojfU24d6CRofGizwcffEyVkeVmrc0cKzPkAU58TnJorL0z0g6YDeJTjdL~XLaX-Y6YxTdDIH3dwPOeLpDZ~AmuLjAHyg31wQHL5iOrkfzW5NUWIAUIY~HMRXwQT01rcxYIRegSyF0aFuwnWVHIcWO585odzNVyqNJZLI9g~mOVfH8w__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/fast_track_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Nascido para Correr 2: Velocidade Máxima
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_ajlca8tq/v/1/pv/1/ev/10/flavorId/1_knpmr7c6/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9hamxjYTh0cS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjg4OTJ9fX1dfQ__&Signature=FFH~T4JGuZFz9Zlbm4ZpG4k1-2DIzu93tv815DKRAJp9gs0xt-YwWPxknhC0CMUZLX53TzhHAMCev~iUENdZ~CshPwLM4PdQ7mIW~A29FPcyr0jLf5zuyIWEq3Nkwzjt~DUPiyWvMftuc~8rMWxn9UH9akxMt1ZJosA2H5lfTYJ5ts1CkanrNEHcXDZn6W8vG0LEhtgWUfbw-L4VfcNlbPTG5BhZ~2Dd6pKX6e82REjCnPhzVYjNWw60Dl2B8MT1JLd9y~phiidTzKAAIBTLJtu~Rw3FLaItdHsFHTwH5Dmo~9RZVRXARdj6DBtKRh69JSunsMTsVrkbhGg9UfdHrg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/redbad_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Redbad
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_s65fw2x2/v/1/pv/1/ev/10/flavorId/1_0w0eygtj/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9zNjVmdzJ4Mi92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkwMDB9fX1dfQ__&Signature=SrwGbQzoT9J4c8RybtBj-bMe19KtoEAZ0kVkKCoLhoe67P40ieyQxDf-C2F8q5uvsJ4~0wYHl7dT1T8uDS44xpxfwAi6drHoKqautgT~ABBGz35CJ1G8Duq5fbsue7YmKS1hp2gQKJ5d2cRW~rvrfw2JxA8MtbmzDX4x6~te8wmF4Znw7S3Dr3uYaCB~y440do~2v5fpta3sWYzY7p7LShdiH0AazRpmYNQsktfiudynfBqpCdfKWuAfq9BkTeWhfOE1o7p7mQtAwRfRhIqDRqC6awcge4smfnE6xCbDMkdsmxqJpYboDWl9YD7tENSyh6PXF1OlpC8q3vYXBfFGbw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/stretch_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Esticam
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_7skug76q/v/1/pv/1/ev/10/flavorId/1_fltb6eq5/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV83c2t1Zzc2cS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkwMjZ9fX1dfQ__&Signature=Gy4Q2vK286yRqgEzmMB8zWO1h3gNZ2p5pAYvXAfQYaRNkMXYJRKpdjUoqTm2xZ0fiZrmhwePxqd2cMsDxpA1y1CZO0f4KGnAbbx12L1PszVzI3HdMXGammWxVnKpK1yokQQ95S0XVTGPD9GQhEqzDkCbPQu5VN3KNPdGkwa7EYBoBKV7p2fy5kMXpH8tDw-~iWTrxPlJ55JMr2etjEifHGAQ0XWavxSFFjy2XlDCvzBEeRvmVAlk78y0Ui7uNxRzhf~0Upj9wtoXRPqpuKbbyRktQZi7Mhx-XMOjp-IMDekq1EaRWRPUqrpGG3nxMLfgGpedfOUAG2n9XLUhjjBxsQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_angriest_man_in_brooklyn_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Que Fazer?
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_dv7ejoqx/v/1/pv/1/ev/10/flavorId/1_re9uc5kr/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9kdjdlam9xeC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkwODV9fX1dfQ__&Signature=VqmyOP6wTUIf606XFL8ZE2x3s7cB26zHOd8rL3op6sd7SZsFiRW9SUAwNHaIQAjYBm9FCpiegEnf6yl3r73kCUbzkKm22in8kzUvrfulQiZYweULjp3MP920dPT7FpgkKfLDVPusHlN4vOEGHhovMrCNMvknFp2GEHLKCQjhrYPJr6dPL9rmAejUIUVZpZjn4qupiUTllHI18d8JdWquu8COfZbbVETFalcUv9PzsJRGbEdh1q5gTVDyH8C5yVeYtiOqYujtqUlOibIrYXZawUJLv9mrcnqyGxDeLuVKIVG-6ssmeiRxxicaC3fiWPlAPM9nuKOHcuUrGEZOo0IJaA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_seventh_dwarf_thumbnail_16x9_widescreen_br_v2.jpg" group-title="filmes",7º Anão: O Pequeno Herói
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_snzun1ac/v/1/pv/1/ev/10/flavorId/1_a5k5q7ff/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9zbnp1bjFhYy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkxNTF9fX1dfQ__&Signature=Isr932O5u1APIIlAhHlnYD2FxsYtL8kEF-dyPaMkebsUKQn-69N-aOEBk6-ksx8643jJyOnzwg5USMaT3ytttmAv81ubyT5damCpWJ5ykySIGAFNIyWq3c8ZeME70tDOjD5NBWjRNAVs3nYFAScOO--80iR~KMRoa-zQpWKWbxkxa6fiXVkCvysiivwSa0BOTRNm9igxQGJb3ZiCM-9gtImWbExYUWy7w32I1IvlhRaT15VUjxiRCrnk-47O0bzx24Ls833VXV7zhTlcQJvTJ9eNfu4fEF17Cx-bbFevoWI-Uzi0~Qi1-0Fu0bBMN3VgJj7myMJReOSlXMpWND7EEA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/everly_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",sempre
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_g2effnj2/v/1/pv/1/ev/10/flavorId/1_9wb6c7w9/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9nMmVmZm5qMi92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkyMDl9fX1dfQ__&Signature=drzH~XKwXX1OpFVWwqSbfjpIXk5YVPTMuCqP~6AgfUPvwmtvD1GKSQkXIdUhxQskRYpWXQ-CXvZcj0JpV~sAlt7l6KgZ6JdtDNTWbbH7HNH3g6bZ2jiSvPeSqz14NqhW0fgZcSOtYT53gE84CIbYea8gH4jMP6oPFpSeJTsBLLC-rA-TrJcB6x-Zyta51Jw33UrVDkcILUrerOvi3NeMRsKNS7mBlBkceBaaMUtqMvEEeyDa4AMxXrpW4iAH41WiKsZw1KttMxpYPuUby1-lHeVWJYvtBltkJ~jWfCK49L9K9emwqYYEgtvL8gbaki8uDAKzwovXp0AHdDUpUs-KXw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/long_way_down_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Uma Longa Queda
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_bent85mj/v/1/pv/1/ev/10/flavorId/1_io14is5k/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9iZW50ODVtai92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkzMDV9fX1dfQ__&Signature=DO17naIAHHRLwCsWegKWaQgOT16KSYIYGokCbyFdb-uam0e8EidP2Kph~9uEPjlFuxLICGJm0lEqIyApu49j7jxkAzLur2VQwwZR7WgzeKeTWON0qulB-3Go~VpSr--HEGJATgRl6ozgjaeUO3FSlBehNNs07r2QZe6Jk8ehizOEVnPaeTd~6U0~NwkmiFlK6g7epAAMNqLlnEo3zqH5kPGmY0xH97zv6RLFMl4kc~D31yeS8AgogXscB4BMXijRlA33bRgpby2n7BESxsuq7ekt1fyJq-7TLLgoS-9AD-bH1DeIJwew3sPne1AaONTgFswkbszQM-K0JopDmN5NvA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_family_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",uma família
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_rdbyqlyk/v/1/pv/1/ev/10/flavorId/1_l076vtuq/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yZGJ5cWx5ay92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0NDh9fX1dfQ__&Signature=QuIAVyc78jB81o9Hmp-nTuspyLo3lsM41-lOYBuoJRWxLt7neWfjIZR2wkmv4V08UU1CandDNiytbuM9NLDcySCg2iLoAnJ9ayBqTfe~B6jb6YUVNN42Ps5A~GpXFFSoSHWijKGpH7Q1GBCFLwI52rIqgVKShlSh6VwDdZ75L3uw8oBdCfqaQw4O8iBPOf6H0yLo0Hg23p-aXfqDWB9Oyipw8AYTAGrT~5lkp2OPlxsbKAxX5Rzyf6aIa1vFvyXTSasAg7d6LI0U2fhMkdLklLNwJJItrtdtNanU-0uEbVh0ukKep~UnoejPd2tm9KyKToZsUy7Fwfqgzv1MSBwV3w__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/assault_on_wall_street_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Homem contra Wall Street
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_1370ln3s/v/1/pv/1/ev/10/flavorId/1_fjty4ax2/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xMzcwbG4zcy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0NTh9fX1dfQ__&Signature=XlgORyKmN5B4~RbH0Xu3hOLODoe30S8D7AEhXViGH7IyZEG71uzrCsBNROZVi2zJVi0T9yQ4bRA4Ib74~FM-fl7YXD~I5Y7IwPUDp5EUPlzs96tcLS1QR5lOBiv4PT4QnKLocE09pX3BGe28VjKDpY1qFXqaQE8xLBEg~76TGIvgUbfbP5U188yq-HQNHLx6z6hFcl8sSmrad3YQuHtapKcX~TnxHulicXJirK8fdPFprkIfmppaBKVNk7mT-tT5OEuYZtJ8ePtwJ6C2cY9fErTw0HmuNimoVfR3J87EX15woHgHXx4O2g9keBlss5Ub1biFdBw-geJhjHVBy6PqnA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/hit_and_run_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",relação explosiva
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_l6c2dj4o/v/1/pv/1/ev/10/flavorId/1_oakzxcu3/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9sNmMyZGo0by92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0NTN9fX1dfQ__&Signature=Ae00FFeaoMI~tQcFmBf9W2oerzbvhysQtGzJ5HZ6WKDd7tEVTkAOrDbIhopqGFnP5zRzb8eg9odWizswiTgNJxiis-4LfAnM57i4q-ZOMsHYrL8~dgUuu7WEkpDp6SawFYnGMqG9CaM-~KyshoXPnQ-~P4jfIwEm85AYDLEoYITRdxt-RB3o-1rbUTJbX2m5wr9TOpGGe-jrwNaCCeUcWWIcWKnGetdAJgjMaQjcaNXxJYoWRF4Th~~LEKvwOEyezta5QWmjjtaLxPekP2RVEracMHdXwFBGwZD8u3IX0k26xDIxX1aUM03v~Uol6ESm-AvnqAZyvrJ8Y~3UrHMIDQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/out_of_the_furnace_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Tudo por Justiça
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_idh8n9xo/v/1/pv/1/ev/10/flavorId/1_mhit7c5v/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9pZGg4bjl4by92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0NDB9fX1dfQ__&Signature=BwbtWdYUFHcxzhojzSkTTCqphfm4xCEp675e2RsvpN4KLKYaDOz6gURUtaRCkJKGBUTxJS1lFq3wM0DEjUb0IksBmkVOGfQC71U4Zpw7CA9zHK7m1Lgx75RloYw8RWjS5IEv~2itF5Ygbfgxtrdhcati2wPei0qaTLsWiAMhH3V~SdJUUq-~146sucePOWiwNj5iOhAPhZ0Efpe8n2Fea0Yfil4Hoxkyrcg1gEuwdpyem472uaUKZFX65YdqGdEDaSi-A09KDWOZm0e1aaGizsGcSR3tseHt-azOxgEpbb8W3XLeT-CoTPAKEYb1mchwllmu-ym3wadKqC50KNH~eQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_perfect_wave_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",A Onda Perfeita
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_106kefsy/v/21/pv/1/ev/32/flavorId/1_gpyuclsi/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xMDZrZWZzeS92LzIxL3B2LzEvZXYvMzIqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjc0MTY5NDM2fX19XX0_&Signature=SoBzqUOfhTfykNR00NRL37s9NS9XOLMyFZphY7OQeSnlPJs-6nbv6DH5c9DkFN9AOhprrsrY~7VWjNLsoMcztVRwuYoBBZfeo99lDrIvD1dZyzzl4HfaN9RsYvM5lPQpULGh8EItzBW0If0~ufL1m4jzEbNuTQeivFTT~ix32HumKENkBN5tSrSSIRGJKdp3FjeTPmfioEs9lhNoBEF4v759x3~8nzjju2DhfpuI9TsWFVy~B21-InAONQJjKFsit9hiMsdsuGJa2tLecjuPxpgDoQxpVta4QlaVyG2bbKnIw8SbsltHwa7cIZOPY~Gcs7OCfBNGP~4JfyoJPlMeLQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/samurai_x3_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Samurai X 3: O Fim de Uma Lenda
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_em3q0ts3/v/1/pv/1/ev/10/flavorId/1_n8fwcvt4/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lbTNxMHRzMy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0MTh9fX1dfQ__&Signature=JIta7sNaF22VyHTntXMp12~j65~DiYRj-LWFWzGz8u1LD2AfihsRTt9UdaWjS0~WLcfPbu0wAQ1~Px8tLFd7J52oxoMxgA4TH8sXOSymghv23LOvWkk5qtrIGBwwsXZ6L54JbCezRh~IxSHLqqwoGGUHZloI46BcU3rPItCRbJAbK-8Kvo8s5NpbUxFJRudoi3n1tVLKkrIXvB9Q0w2l~6OM91YqoCgh0nH0P9NeNC~T0YF1lyEBGvIpvfNleTUMZy4nvTVWf-OrVsE1hE0TBBhmo6zvbXd-xqupTfem23V2TjXldTL8gG1u3TIem3Jl8WksWX7zkWohwQB3YSmNkw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="hhttps://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/bad_lieutenant_port_of_call_new_orleans_thumbnail_16x9_widescreen_bpor_0.jpg" group-title="filmes",Vício Frenético
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_s7dd3ir8/v/1/pv/1/ev/10/flavorId/1_phafbi2z/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9zN2RkM2lyOC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI2MDd9fX1dfQ__&Signature=BdUlkBbDnZE~eA0bIfGc87gXE9QL4YEeh4bM3TqUdNN2heFWw-STEUPwbp-87pGw6ev-V3dXsaFuJojmFsvid3GGrWXkj~aIU7zwe8RKk9gzZ1db1KZe2sdJcdURCoNVr-K7VVjWNViCJkT6zK8AHMrbHLkx354mo2~-uqGeY7JzoaRmMxQPw~Y41MW0AgT0U3zBDIPDnUNkbNOsXY9ZQSbMWunPuxDMwCQlvklGHXQkSNx22~ruD7NUuh-zdggfbELuvnCym-2ons1MdiDxcYj1PzFSLJKhNeefm3mkpi0GHEdwCOwHauF8Lo7-uNwjwST~R9QQPYrBLZhrkfoyAQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/winged_creatures_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Efeito da Fúria
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_py0hmu0l/v/1/pv/1/ev/10/flavorId/1_r5wkxn5o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9weTBobXUwbC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI2Mjl9fX1dfQ__&Signature=AGoXNwvrenHJgHCeb7OMOScvab1Sx3UkH6Gnj2tlogpRDV~rVoHtYD-mFcbigrRMI8hwuoBSHTspNgCXrEP9Ehf2v89v9gg8TtHWRfs5-Sbey01L7na7o~zaN4fZrudQTWHR0vCYaXjBk7KvVGJypnmyMbbtkc7W230kIOylbWNl241T9jAYAEY9n~fAVHtdLrFG3BL81HZO0Mz9ziL8Ax0bYX4HV2I~GYcW41WwtJNb3hZtWBFMlSXYGNnljvpgi8YWGf2HY4FvTBGY0DyhB3XnGsoRhAsBe304e6yHkc4u3lIsKlr9MqFObBiFMvkMdo6tlbceVTagkBaiRDdOFQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/bulletproof_monk_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Monge à Prova de Balas
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_f4iqf5ur/v/1/pv/1/ev/10/flavorId/1_ogm28f4o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9mNGlxZjV1ci92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI3NDR9fX1dfQ__&Signature=D~2DrHCF02lbJhoQWTTGz3vLK83qGZuADNRCDLsURNi1dgwfJI8oLYx2l311i0E2k2zAyTWfFl9c~YHg6Er0MtbG9xlkOOnYF6ydJoilhyPtWl2Gq8gekHKnPX7gTkjFY3ga-Yomdv6PvGr8ck-BPc6xv2j0hMvuhHLSYd6ELTE-o0tntNhhsL33FdEbIRP7jjLyd8az6xk6M8IvV2oxOnoUd0ZbxjGTlxCFImJGpahLOD~V6rueilsh7Ng2jsex6vd2RvTzlkMW0D~W0Nep5Ky4opmyrGAaU1y7ovUYd-WCC8FGWC5tVzRctvOlO6uipIAgR-v4inoM2HDHKFzdjQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/kidnapping_mr_heineken_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Jogada de Mestre
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_kklq34jd/v/1/pv/1/ev/10/flavorId/1_ua3qejew/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9ra2xxMzRqZC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI4MTZ9fX1dfQ__&Signature=HzhPA-jvnRWYG534vLdsR81FVC83apdd98AgeeW9VivK~P6YRL~NBNVedYfkmbmnyWk9TU1ruVM1SNMYwHljCMo69ZlC22dcVGlYX~n8WqIOHHOVWfV2RshgFAjwsty8xpnODppjiLH0tsdOIUr8ofq0P-Fyn0XcZQVrtpAKzr0QKdDxBu6nynjFKHYF75ZvrO7rch0GZxCaRLTJe6w2XLJFyJWIbUCOkpWFu-lcwsooAWAqkYtubZmILKyqRvoevk~tSUr4CdYj8yTBfPMqxbFHIZAjzxrTriXwhivf6bGO-DXjreMIstwF-WNEz-FotaODAROcNpSl4tZmiKzsOw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_borgias_thumbnail_16x9_widescreen_br_v2_0.jpg" group-title="filmes",Os Bórgias: Poder e Luxúria
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_mqcl61vi/v/1/pv/1/ev/10/flavorId/1_mm5577pc/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9tcWNsNjF2aS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI4NjR9fX1dfQ__&Signature=T-VA2ZaVQNWIDSyCGbnLCcchXhqxYlsmu4r2vxXlZbZi2J20OLJ8vcyokmehWiJ1ZcS8PHHbwPCo9-79Gsro88DwqfQt5zNcZ4v6qZqUFEyshan66L-vmxGuCQ~EP7nkp2XAY-hQ7fCrexLF-LY7wXGWEUDJyBRd-WINc3FTErNdttje9acpt-G7t1-JQH5d0gTV7gLFhyIUJow71WuUDrKtYZ29ZQTneT0FnbGBJsUh~b1sbPOXO-RAmEu~GTccK3OoILYPBQll9~9fl94gvC5zxGSBhm2hDSMcnc5fQWLC4x7Junud6axjNY-3py5FN5Tf7VBcVhwkkVEE9XDX2A__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/line_walker_2_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Line Walker 2: Espião Invisível
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_enl0s1dk/v/1/pv/1/ev/10/flavorId/1_l33xqn9o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lbmwwczFkay92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI5MzJ9fX1dfQ__&Signature=aabDDmofAOeAqOy268oV9eCOUkLpqZI2bViIr2nfpE0nbuRwqwOgSODc2pPJsWo6rEoLCNnyFyrqJQ12RFcKC5qf~-PQQiX81U2FGgxNebrIhc~KLXlyCU7DwAhA0syfzASTvDt8jVTot5KoUWMRQBxbR4j4B4~5E3~PgO-ROUF-sqkY5l9L~HruIZtuGIeOrK9ODz1n6k3JUhAddEi0YNzPQVQvK-N1M9GDwbpejjupJhPnIVmdgENOHpPgU~xKnDuKYMiXHXQSOAV3hbeaO-DpL5DDtRmZve0BA0kVGYfhY05n6mOFlk15RQ7kDikPQvu81vVLI7MiB90tOAPDyw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/paper_man_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Tempo de Crescer
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_r928ja3m/v/1/pv/1/ev/10/flavorId/1_06ik8v1i/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yOTI4amEzbS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI3OTN9fX1dfQ__&Signature=TZsyVcXN8ZJa7Mk7gJ46~cjG6eOA1G1eEhsmjg4FEgUzh8VNt-kc7PF0hVXr~t6YgwUSVqDs-13Gc4PtHNg06sSOWv-jEw4sHXvc5XMoz8oJYYOjKXoe-hXFq~Va8VnBhbPEbEM0Ip6SnhiTiuMXmKzIuI1huKbI5yWJru00hV5KCrT4O5f282fgRS1TMv7Va4jNX82Yu3PWomVooyAeJYS~uR9x54JCOr22WnXLjFaoMA2anyU7WzDXUf9I6rkvHhNGUqbaUCgdxR644QSIkTHmecqKFfJep5go8B67aXezlEfkuqHEeivFzpgqCcS~nbahRWZK0Pr1c1UvUOVFnw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/month_stretch_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Uma Juíza Sem Juízo
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_140wisby/v/1/pv/1/ev/9/flavorId/1_9hc25flh/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xNDB3aXNieS92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NDE2ODY3OH19fV19&Signature=AqqtJEScuceKH2P~FwGK70fL5LFBfm~L5GKoLM9qcYmctNAgaPCyDgkZBCSRv-HseBM4glTJX51elbqbwi0YuU7MOt89qyX6uJ3yz~red9UTc7W7lHdrXqr7hePu3BAwC9IS0HX9nU8Q3dEZsTAsgiIQtyTRB~yvYNY7sbOFMK42QE532BD7N~5fHdOGavVQEVqoCR4svGMGVTM03otZFjt0hcM4pkWlzgOUqLuvBdWNUhMd8Sg~pn4Z46P-FlBS80xnPp4m1eojFH2MS8JVJ2iCGifNnIJamBTQWiUmtbWxC3MHQ1r4F3BPRwd9XRFvIM~ewiT~2fXsN5RRABZQuw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQug92yBVBiYymJE0ZY0S7UqW6Grs_qOAaDzg&usqp=CAU" group-title="filmes",King of Fighters - A Batalha Final
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_05i8iazp/v/1/pv/1/ev/10/flavorId/1_yfvpazvw/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8wNWk4aWF6cC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjg0MTl9fX1dfQ__&Signature=I0SlMxBOo-3xFn6k18~YKtkUynFrSSM~teWgOMI0XxiJdntt~dQeRJFpEC10wtgM2fn9p3fLF5T6np8IQYs1QSzO7Gd~hkRsHPKPmk22BgJbEbHo8qWxBS7tC~JrNl0sr2Ee7UKSEJdOpTJweiU2WXFoLB3Zywqo7myFvHvtRhjzw40KS9Y6tE9pVURBqf-PzA2SXaT1IBA2uIC272sgj5Z4His8rhtr4yMo97-5HYdCHSEEtMMGmb-~GhLaXrFSEhfBGw7wvFRUDCI85tExfWcK-C5LJDvOCip2RcKSpCqAyqke~Mda-PdNynvzCudDRyqYFlTkGUuFw7epI75~6g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/doomsday_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Juízo Final
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_0lzd7hey/v/1/pv/1/ev/10/flavorId/1_25suzdpn/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8wbHpkN2hleS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjc4NjJ9fX1dfQ__&Signature=KJcRvocuzkuZW~nnqyjps3rGo0tiEBPuMP1doOhDNCxyf6Ebgj0b9ygkU0Cpx7fmjL6cmD3YXC3s79vTx-3dNmSXjU9HfTJ1CfWYBT~PlBBHwbTjd1Nv9uGHHIDl5idOfBMT52RXXCWx7E5XDYkaosYLdxrttKC2Zk~fi6sgeeboxIbp5CMOtbz2oysUUiiDFkt2UOFRsLugViufSpFtynUtV5jsLW5SBWuD92H~dVINH0TGd9G8H-Rx1~0X-ViWGtYMVqdFjFHW11M7Y2s9ap31-2cN2N78xKkcRJkuAMS9L4tENq0DfhR0v0E8cS338YFrPKD5vmYs4XEei2Yyqw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/moments-in-spacetime_pt/moments-in-spacetime_pt_200x300.jpg" group-title="filmes", -Promete Que Não Vai Esquecer
+https://play.prod.gcp.vix.services/moments-in-spacetime_pt/moments-in-spacetime_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/killing-down_pt/killing-down_pt_200x300.jpg" group-title="filmes", -Caçada Sangrenta
+https://play.prod.gcp.vix.services/killing-down_pt/killing-down_pt_1-1/play_hls_2500.m3u8
+#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/love-is-strange_en/love-is-strange_en_200x300.jpg" group-title="filmes", -O Amor é Estranho
+https://play.prod.gcp.vix.services/love-is-strange_en/love-is-strange_en_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/TBcr6jWGzE4AAAAM/kopfkino-kopf.gif" group-title="filmes", -John Wick: Parabellum
+https://cdn77-vid.xvideos-cdn.com/2EezjCFVt3f72Fwqsc0zqQ==,1672456743/videos/hls/07/f3/37/07f33796a1842a23356170c2578f945e/hls-360p-3a6f0.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/high-rise_pt/high-rise_pt_200x300.jpg" group-title="filmes", -No Topo do Poder
+https://play.prod.gcp.vix.services/high-rise_pt/high-rise_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/men-of-war_pt/men-of-war_pt_200x300.jpg" group-title="filmes", -Homens de Guerra
+https://play.prod.gcp.vix.services/men-of-war_pt/men-of-war_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg" group-title="filmes", -Assassino Sem Rastro
+https://moon-storage-delivery-s35.filemoon.to/hls2/01/01851/zqa15v5cs9fb_x/index-v1-a2.m3u8?t=Eu0qseV80Aii5hAryNow-G2g3PxzayxbARUIunZE-Q4&s=1672527641&e=43200&f=9255457&srv=127.0.0.1&asn=1&sp=1500
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/salvation-boulevard_pt/salvation-boulevard_pt_200x300.jpg" group-title="filmes", -E que Deus Nos Ajude
+https://play.prod.gcp.vix.services/salvation-boulevard_pt/salvation-boulevard_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://www.einerd.com.br/wp-content/uploads/2022/07/pantera-negra-wakanda-forever.jpg" group-title="filmes", -negra wakanda
+https://delivery-node-mikhail.voe-network.net/engine/hls2/01/08429/osvi54scd3fy_n/index-v1-a1.m3u8?t=2UL_S1nCZHHUIDBwQdrxmXl-eM67OOC2ELcu9bRj3js&s=1670644774&e=14400&f=42147721&node=delivery-node-mikhail.voe-network.net&i=45.167&sp=4500&asn=268042
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/maggie_pt/maggie_pt_200x300.jpg"  group-title="filmes",-Contágio: Epidemia Mortal
+https://play.prod.gcp.vix.services/maggie_pt/maggie_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/fort-bliss_pt/fort-bliss_pt_200x300.jpg" group-title="filmes", -Laços de Família
+https://play.prod.gcp.vix.services/fort-bliss_pt/fort-bliss_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/shamers-daughter-2_pt/shamers-daughter-2_pt_200x300.jpg" group-title="filmes", -O dom da serpente
+https://play.prod.gcp.vix.services/shamers-daughter-2_pt/shamers-daughter-2_pt_1-1/play_v1_hls_108
+https://proxy-14.nyc.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpQ3vt1oV9ckIadM3eorSBninp2MFJPVbDqhaX-WxdSJbin-MXL3PJq87KUxSTDRSscDFxzllhaOzJWxO9SJsKlk)/video/394/116/506611493_mp4_h264_aac_fhd.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH2mEavEstwUPp2ps388_BTHzysF7RO5kSbvBPVx1nQ1ZqBIk6H50C_KkH05F0w-PgGEQ&usqp=CAU"  group-title="filmes",-Casamento de Verdade
+https://play.prod.gcp.vix.services/jennys-wedding_pt/jennys-wedding_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL61PR/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="filmes", -Em Busca de Justiça
+https://proxy-06.nyc.dailymotion.com/sec(EmIm9qZ57xxVtk2oHDZgSorIdwWyC6p8ZfLFRYUjftV2jFA53et5SNGmTNjWsNrkQ6Sxl3PbYsOEJceM_3MhMseBrM71DXRbH0Pv3xuT3L8)/video/725/116/506611527_mp4_h264_aac_fhd.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://www.planofeminino.com.br/wp-content/uploads/2016/04/follow-the-colours-big-eyes-olhos-grandes-filme-poster.jpg" group-title="filmes", -Grandes Olhos
+https://proxy-033.ix7.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzmqHlAOjdveXCp74biWW4uFLphfKyNaA_ONtHowXeEmkxojwwPEcucMmAHcF-hez_gp5obp6lTOEiJ_H1pcWlAE)/video/206/271/503172602_mp4_h264_aac_fhd_34.m3u8#cell=core
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submergence-sofa_pt/submergence-sofa_pt_200x300.jpg" group-title="filmes",-Submersão
+https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/welcome-willits_pt/welcome-willits_pt_200x300.jpg"  group-title="filmes",-Os Desaparecidos
+https://play.prod.gcp.vix.services/welcome-willits_pt/welcome-willits_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/braven_pt/braven_pt_200x300.jpg" group-title="filmes", -Perigo na montanha
+https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://www.shoppinganaliafranco.com.br/sites/saf/files/cinema/ad__o-negro_1.jpg" group-title="filmes", -adao negro
+https://delivery-node-ibtisam.voe-network.net/engine/hls2/01/08438/9vrhzb9cvof7_n/index-v1-a1.m3u8?t=HfxB5N2JY3YYGMHbjaErqzT3bz6DLEO1mTNTd7Zm1DI&s=1670645000&e=14400&f=42192517&node=delivery-node-ibtisam.voe-network.net&i=45.167&sp=4500&asn=268042
+#EXTINF:1 tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-condenacao-brutal-sylvester-stallone-ma/brotherscom/9441485852/91e8931282f5634ff2ace9689617261d.jpg"  group-title="filmes",-Condenação Brutal
+https://troy2.s3.us-central-1.wasabisys.com/cdn3/CondenacaoBrutal.mp4
+#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/2017/coisa-malu-thumb.jpg?resize=480,270&crop=entropy" group-title="filmes", -Coisa-Malu
+https://vdn.libreflix.org/video/coisa-malu/coisa-malu.720.mp4
+#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/53aa0ea0-0b91-11ec-9742-4bf51aa62f72bcb56990-eae8-11eb-b74e-f33afdab038ecapa_filme_wide.jpg?resize=480,270&crop=entropy" group-title="filmes", -Lú
+https://vdn.libreflix.org/video/lu/lu.360.mp4
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/swelter_pt/swelter_pt_200x300.jpg"  group-title="filmes",-Jogo Sujo
+https://play.prod.gcp.vix.services/swelter_pt/swelter_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mussum-cacildis_pt/mussum-cacildis_pt_200x300.jpg" group-title="filmes", -Mussum, Um Filme Do Cacildis
+https://play.prod.gcp.vix.services/mussum-cacildis_pt/mussum-cacildis_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/face-angel_pt/face-angel_pt_200x300.jpg"  group-title="filmes",-A Face De Um Anjo
+https://play.prod.gcp.vix.services/face-angel_pt/face-angel_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/rescue-bus-300_pt/rescue-bus-300_pt_200x300.jpg" group-title="filmes", -O Sequestro do Ônibus 300   
+https://play.prod.gcp.vix.services/rescue-bus-300_pt/rescue-bus-300_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/antboy-3_pt/antboy-3_pt_200x300.jpg" group-title="filmes", -Garoto Formiga 3
+https://play.prod.gcp.vix.services/antboy-3_pt/antboy-3_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://gifs.eco.br/wp-content/uploads/2021/09/gifs-de-casal-dancando-0.gif" group-title="filmes", -Encontro De Casais
+https://play.prod.gcp.vix.services/marriage-retreat_pt/marriage-retreat_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/26/23/49/5652254.jpg" group-title="filmes", -fuga
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_t0t90a36/format/applehttp/protocol/https/flavorIds/1_snjewnf7,1_y554ntp0,1_knzxaagp,1_wib2qijx,1_dwewlgiw,1_j5bc0hpk/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1675538065&id=1754&ip=168.227.218.20&override_expiration=1500&sign=WdvIDb%2BubYbAFn0mv7%2Bu%2Fhc4g889aANbw2IbufGYYXc%3D&playSessionId=fdf861ba-039f-71fa-6226-df73a1032245:050ea07a-bf2a-5ac1-d609-9779d1e355ef&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Z1Z2E=&clientTag=html5:v7.58
+#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/underdog_kids_thumbnail_16x9_widescreen_br.jpg" group-title="filmes", -turma da luta
+https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_7l1wqr4x/format/applehttp/protocol/https/flavorIds/1_zjudimvw,1_nyhiz3wf,1_p2k0xqc1,1_a6omk62g,1_drgmps5p,1_oc6c9anc,1_3vz5k15f/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1675538276&id=2444&ip=168.227.218.20&override_expiration=1500&sign=Cop2y08adTYPJcSwrnwC3Mrv5lm5%2FULt%2F1D1HWel1ME%3D&playSessionId=d3939d7a-e88b-f089-da63-39f907af7bcd:84057273-c2cd-5c07-e2a8-5f02e4aeb3b3&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3R1cm1hLWRhLWx1dGE=&clientTag=html5:v7.58
+#EXTINF:1 tvg-logo="http://media.tumblr.com/tumblr_lx91qvCmnM1qagjt8.gif" -filme antigo
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w427661643.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/cleaner_pt/cleaner_pt_200x300.jpg" group-title="filmes", -Evidências de um Crime
+https://play.prod.gcp.vix.services/cleaner_pt/cleaner_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="filmes", -tv bons tempos
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2130737570.m3u8
+#EXTINF:1 tvg-logo="https://i.gifer.com/COTV.gif" group-title="filmes", -filme 
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1540966671.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/rV4x6aE5B7MAAAAM/big-bear-bear.gif" group-title="filmes", -great-bear
+https://play.prod.gcp.vix.services/great-bear_pt/great-bear_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/45/68/cf/4568cf99c35b3a9924910b154640fa7d.jpg" group-title="filmes", -robo-dog
+https://play.prod.gcp.vix.services/robo-dog_pt/robo-dog_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://64.media.tumblr.com/a0bac85df52bca5c771a03646d7c163d/tumblr_nrdbnw2yBp1sqo325o4_250.gif"  group-title="filmes",-jaspion
+https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://64.media.tumblr.com/278e037d779c5cf398ed237e3b285283/tumblr_n2045hNh6O1reitwwo3_r1_250.gifv"  group-title="filmes",-bunny-drop
+https://play.prod.gcp.vix.services/bunny-drop_pt/bunny-drop_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/SXOYn8ayYmcAAAAd/hunter-connect-is-up-monster-hunter-movie.gif" group-title="filmes", -dragon-hunter
+https://play.prod.gcp.vix.services/dragon-hunter_pt/dragon-hunter_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/gsDB22cB7LM/maxresdefault.jpg"  group-title="filmes",-ash-lad-castle
+https://play.prod.gcp.vix.services/ash-lad-castle_pt/ash-lad-castle_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BlankWeightyHart-size_restricted.gif"  group-title="filmes",-fun-mom-dinner
+https://play.prod.gcp.vix.services/fun-mom-dinner_pt/fun-mom-dinner_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://cultmetalflix.files.wordpress.com/2019/10/kung-fu-yoga-gif-2.gif?w=480" group-title="filmes", -kung-fu-yoga
+https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://assistironline.net/wp-content/uploads/elementor/thumbs/assistir-Lutador-Misterioso-2018-online-owcz95sj2och0bgm6oivxna0mud4mhkyuke06773qw.jpg" group-title="filmes", -mysterious-fighter
+https://play.prod.gcp.vix.services/mysterious-fighter_pt/mysterious-fighter_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/FrequentPitifulArcherfish-size_restricted.gif" group-title="filmes", -filme 
+https://play.prod.gcp.vix.services/tik-tok_pt/tik-tok_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRlNTU1ZjItMWEzMC00NjlkLWFjMDktMDNhN2E0MThhMDNhXkEyXkFqcGdeQXVyOTIxNTU1Mzc@._V1_FMjpg_UX1000_.jpg" group-title="filmes", -gold-digger
+https://play.prod.gcp.vix.services/gold-digger_pt/gold-digger_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/rEbE20QO8YYAAAAC/cacildis-tvglobo.gif" group-title="filmes", -mussum-cacildis
+https://play.prod.gcp.vix.services/mussum-cacildis_pt/mussum-cacildis_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/dWsftHjX5uEAAAAj/sphinx-and-the-cursed-mummy-sphinx.gif" group-title="filmes", -dummie-mummy
+https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://64.media.tumblr.com/7df4776b56013e9ded38e9c0187d9da0/b46aaf6466471b3f-8c/s400x600/332846d508c5805fe7be26025293fbc097f4cd73.gif" group-title="filmes", -saving-flora
+https://play.prod.gcp.vix.services/saving-flora_pt/saving-flora_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/W646gL_x0zAAAAAC/dog-mans-best-friend.gif" group-title="filmes", -mans-best-friend
+https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CleanHospitableBeardeddragon-max-1mb.gif" group-title="filmes", -cine
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1003176830.m3u8
+#EXTINF:1 tvg-logo="https://i.gifer.com/COTV.gif" group-title="filmes", -filme antigo
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w427661643.m3u8
+#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-IIizbvEzAwg/WuMuaVOyPMI/AAAAAAAAIXI/nZ_YE9cxGWUt2_ZNAFsSXW5c2iphlNqHACLcBGAs/s640/box-office-results.gif" group-title="filmes", -filme
+https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m3u8
+#EXTINF:1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/10/Verdade-e-Justi%C3%A7a_poster.jpg"  group-title="filmes",-Verdade e Justiça
+https://play.prod.gcp.vix.services/truth-justice_pt/truth-justice_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/VY18f3VQPbwAAAAC/television.gif" group-title="filmes", -Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media4.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" group-title="filmes", -ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoLcJgjMkXBMFkD603e6r-B65fu67QXqKK-0uwdJNqFrtkXxsk7yTBbNRAxGxPNQPsqU&usqp=CAU" -Táxi 2 - Mais Velocidade nas Ruas
+https://play.prod.gcp.vix.services/taxi-2_pt/taxi-2_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://c.tenor.com/8kdsbSrl784AAAAd/taxi3.gif" group-title="filmes", -Táxi 3
+https://play.prod.gcp.vix.services/taxi-3_pt/taxi-3_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CoolCorruptAstarte-size_restricted.gif"  group-title="filmes",-Táxi 4
+https://play.prod.gcp.vix.services/taxi-4_pt/taxi-4_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/01/24/18/52/554165.jpg" group-title="filmes", -Gata Em Fuga
+https://play.prod.gcp.vix.services/cat-run_pt/cat-run_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://pa1.narvii.com/7056/55ea7c04501e071a4608c4320fd76338b81e55b4r1-540-224_hq.gif" group-title="filmes", -Em Busca da Felicidade
+https://play.prod.gcp.vix.services/wings-eagles_pt/wings-eagles_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://c.tenor.com/460we4Ae5B0AAAAC/tv-globo-o-outro-lado-do-paraiso.gif" group-title="filmes", -O Outro Lado do Paraíso
+https://play.prod.gcp.vix.services/outro-lado-paraiso_pt/outro-lado-paraiso_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://64.media.tumblr.com/3023f579ec2b2a55a3ed2cc8ef6d2666/tumblr_inline_p9zgbyOSsC1rqq37j_400.gifv"  group-title="filmes",-braven
+https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/VoncL3SJlhg/maxresdefault.jpg" group-title="filmes", -estrada-47
+https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/g5Cu46Hf-o4/mqdefault.jpg"  group-title="filmes",-last-days-desert
+https://play.prod.gcp.vix.services/last-days-desert_pt/last-days-desert_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkf0EPPO1yWoKFZ2IYoaX6dbosnwUlYJ-dcBXewRBkDlgYNOrWPly58PeJ8RZkalYbfs&usqp=CAU"  group-title="filmes",-lay dying
+https://play.prod.gcp.vix.services/lay-dying_pt/lay-dying_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://64.media.tumblr.com/7180f3d9061b3035d2abdd1a952eb2ab/tumblr_pkfbx99QCs1qkcxtwo1_540.gif"  group-title="filmes",-bravestorm
+https://play.prod.gcp.vix.services/bravestorm_pt/bravestorm_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://giffiles.alphacoders.com/812/81299.gif" group-title="filmes", -ringu 3
+https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/DelightfulSpanishBuffalo-size_restricted.gif"  group-title="filmes",-kabluey
+https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTM3U url-tvg=" http://grade-de-infanti.xml "
+ ############## infantil ################ # 
+#EXTINF:-1 tvg-id=" iddocanaldeinfantil " group-title="
+
+#EXTINF:1 tvg-logo="https://rollingstone.uol.com.br/media/uploads/encanto_foto_reproducaodisney.jpg"group-title="infantil",-encanto
+http://127.0.0.1:32400/library/parts/77/1661696349/file.mp4?X-Plex-Session-Identifier=z7wpbf5b4t8jyv37m2jp9b6n&X-Plex-Product=Plex%20Web&X-Plex-Version=4.87.2&X-Plex-Client-Identifier=tjv9whiacni5fhxwby48xhyi&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x937%2C1920x1080&X-Plex-Token=CAvE25CuczsBSQ5Q7zNK&X-Plex-Language=pt-BR&Accept-Language=pt-BR
+#EXTINF:1 tvg-logo="https://rollingstone.uol.com.br/media/uploads/encanto_foto_reproducaodisney.jpg"group-title="infantil",-encanto
+http://127.0.0.1:32400/library/parts/77/1661696349/file.mp4?X-Plex-Session-Identifier=6jjjw60tigqqjhda6jr2cldj&X-Plex-Product=Plex%20Web&X-Plex-Version=4.87.2&X-Plex-Client-Identifier=tjv9whiacni5fhxwby48xhyi&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x937%2C1920x1080&X-Plex-Token=CAvE25CuczsBSQ5Q7zNK&X-Plex-Language=pt-BR&Accept-Language=pt-BR
+
+#EXTINF:1 tvg-logo="https://bebe.abril.com.br/wp-content/uploads/2016/11/moana.jpg?quality=90&strip=info"group-title="infantil",-MOANA
+https://youtu.be/0QUTCifXiPo
+
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_Zn-G8_W3Uj6nStoELa2RlEO-5sZBHXUGA&usqp=CAU" group-title="infantil", A Pequena Sereia
+https://youtu.be/G64vg5OUDOs
+
+
+#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/ploddy_the_police_car_makes_a_splash_thumbnail_16x9_widescreen_br.jpg" group-title="infantil",Ploddy, o carro da polícia, faz barulho
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_7y1hfikt/v/1/pv/1/ev/9/flavorId/1_wy9mfcvz/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV83eTFoZmlrdC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NTA5ODQxN319fV19&Signature=GsN~S7MxCmpqK9uF7gROWO-fa8DSV9wUNvY69fF0IqMl2siIjCgGixerisC6nJcUUKqfBZJgDGSkN~jxfBOK9SEUuLd~1Gpq9SqnBqIKFPFvDSjpuv2KAC5vF1T6Il5qZBFGoubbAhOAZ7nA21dx2wpPD622tuOb-khjcVKCyjHHV0YJYy0Hi6IJ09jkvANduqwXQ3YQxhnlRB8IsIlJDbFEs8RW4WRNiqtQaMMcJQkzt4kbO3hLbrly9Q0JQM8VbphesBgYzrjJBE3wGJlVPY~ryTpRjlbBbhG1NXcJyUHfVn4Mrx6PDZcTZlZStQ2GygwlLVJgteHYXm02W9dyig__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/marco_macaco_thumbnail_16x9_widescreen_br.jpg" group-title="infantil",Marco Macaco
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_dlg8tdtp/v/1/pv/1/ev/9/flavorId/1_rem0mcw3/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9kbGc4dGR0cC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NTA5ODI2Mn19fV19&Signature=DLFUNrcs4U4b3Y2rGzwiNYynGbiPOdnrSAQwtf0-6dfSHBSOMuZ4s6HPEqWZ4UnXbsTAwdA6jJnyO4F1BwUtrQEH29~Zwv~ym6aquvoNVc3e5SWJ6VB7~xpjMazdqIwlC3yrsu9otL0ldc95PpGdMllDKwM~wfy8wjMrFbsrj8u69IJ4R4Gz4InnG3S02ysyG2uULpOc9oOV1GokfKsPc~M9dIiLR7uBU~-lXCwZLoClOxNVp2mwyLyWyd5iYaQK3n7tUa23-mKsUrTpK-62W0Oxyl4P6Tl8-lAnlYltFlwDmvKyurnwZFf~YCf~MUFxtDs5ftHKd5bhCX6WA9882g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:1 tvg-logo="hthttps://ironstudios.vteximg.com.br/arquivos/ids/302631-1000-1000/264006_0.jpg?v=637954532000530000" group-title="infantil",POWER RANGERS 
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/2
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="infantil", DISCOVERY KIDS 
+http://8.242.187.233:5800/play/a0c0/index.m3u8
+#EXTINF:1 tvg-logo="http://iptvhit.com/screenshot?http://host:post/live/user/pass/1000.m3u8" group-title="infantil", Peppa Pig 
+http://boxtv.uniredes.com.br/auth/8.m3u8?token=yps76BvM85cKiFz_shI-r8RligeHuiZ1aKsvuBkOdXAafKqc5ceUA5FoGJloqZxMvnfpZXTS9qJyTjBkcPKxx-cGvWEIuETjK0C06D2m2Q1B6TgQTwngU7xCbXAHcfHz6X6eVi1OolVKZwMo4h-MlxFxxPraEPlcgjN2oubWYE82CfPSATIp_TSNLal-fidTXmgDHWHJ2EYbn_1I6zQMsOYrPCmNBarCPa3e79qJe2-v4xGmEprHj7PjlcpiMZRR_wB64kgsQCVKhwHGl-etQA3jkV_UcoYA4mGcVpEy6MNG9zF8NAJoKtZZHnU7ksLdxsbr_bMUOBg0vz7DuhmEmmEPt3uZ2YHGTt1_dkP5y16SHPvDKvKCIx_PKL58KOgMjhtpQ9nl6kPOsAHSVeP6SUcciF_uhr_vGu_Pc_kDH8t9qOWWMZNilGQLzqr_k7sA__AUDWQd-Gf-hgr8yLNIPV-xKzmJvwp0UaQL-ZSs_nP5bLI3wQMHVf7UfPUjZ6ECfFYvMoR4hrGpF0gqBbxbUEk5_A1lv7hmiPEZIdYUUwYH2FejQh92PhLpuAWtOf-CoZFgZQ6jk0C-WV1NkSzi2A
+#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/ban/led.235891/looke_4001.jpg?900994678" group-title="infantil",-Ploddy
+https://www130.ff-01.com/token=gc3UvBJCLH6UhMmxgq9ayA/1670658834/45.167.0.0/196/c/1d/27c00bf26bce4adc970c45c4abdca1dc-480p.mp4
+#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_200x300.jpg"group-title="infantil", -Cachinhos Dourados e os Três Ursos
+https://play.prod.gcp.vix.services/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/a4f89f90-ca25-11eb-b4bf-99d9958b2c1d7.jpg?resize=480,270&crop=entropy"group-title="infantil",-BRICHOS
+https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
+#EXTINF:1 tvg-logo="https://cineclick-static.flixmedia.cloud/1280/processed/8ab2d0ce-20ad-4d3f-870d-6f0e8561c76d.webp"group-title="infantil", -Jack e a Mecânica do Coração 
+https://proxy-004.dc3.dailymotion.com/sec(zvUbbWr2oKyjb9WcqKTKNVVk_6Rtnv9NISe3FQirxK4wLEjpq9rRwTbTA8GOvtZwJhdGAVsjVp7NTaCPfHMKt4I1WprRjpGBTd5WzSCUXzo)/video/272/771/503177272_mp4_h264_aac_fhd.m3u8#cell=core
+#EXTINF:1 tvg-logo="https://filmestipo.com/img_pt/movie/thumb/e4/12428.jpg"group-title="group-title="infantil",-Um Voo Encantado em Noite de Natal
+https://proxy-02.nyc.dailymotion.com/sec(aZJbBa-i7L8siFHhRXmEveoFMBjMyViswVkqneW5kDjcOxnQ9ABcLhzUlaw6py7GE5OvSlaVC0uGFFQqqmPBDJa_QZ9RJX14A0j5_ZiQaWI)/video/340/820/506028043_mp4_h264_aac_fhd.m3u8#cell=nyc
+#EXTINF:1 tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-to-de-ferias-2-focus-filmes/milesimo/550658590/037ec232ffec404f36dfde5702e611db.jpg"group-title="infantil", -Tô de Férias 2
+https://proxy-13.nyc.dailymotion.com/sec(w5efqWj1U6D91t1Jg1W0Q_Yc4XF1z8FzGo015N-v2t-v2u5BiHk6UcuN7yhLafDABFcNZVIjBGB7a-QEvmrEzogoYksueTYrcRwbY5gKQXg)/video/930/820/506028039_mp4_h264_aac_fhd.m3u8#cell=nyc
+#EXTINF:1 tvg-logo=" https://vdn.libreflix.org/covers/media/sintel/sintelthumb.jpg?resize=480,270&crop=entropy"group-title="infantil",-Sintel
+https://vdn.libreflix.org/video/sintel/sintel.360.mp4
+#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/o-fim-do-recreio/thumb.jpg?resize=480,270&crop=entropy"group-title="infantil",-O Fim do Recreio
+https://vdn.libreflix.org/video/o-fim-do-recreio/o-fim-do-recreio.480.mp4
+#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/29cb6110-a898-11e8-af4d-492ddc47cea4caralixo_lixo.jpg?resize=480,270&crop=entropy"group-title="infantil", -Lugar de lixo é no lixo
+https://vdn.libreflix.org/video/lugardelixo/lugardelixo.480.mp4
+#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/d43c9e10-b341-11ea-8180-a13ab0d4340fyhumbguga.jpg?resize=480,270&crop=entropy" group-title="infantil",-GUGA
+https://vdn.libreflix.org/video/guga/guga.360.mp4
+#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/2017/coisa-malu-thumb.jpg?resize=480,270&crop=entropy"group-title="infantil",-Coisa-Malu
+https://vdn.libreflix.org/video/coisa-malu/coisa-malu.720.mp4
+#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/314835c0-4569-11ea-bc67-a94bbfaa277e4061273.jpg?resize=480,270&crop=entropy"group-title="infantil",-A Princesa e o Robô
+https://vdn.libreflix.org/video/a-princesa-e-o-robo/a-princesa-e-o-robo.360.mp4
+#EXTINF:1 tvg-logo="https://pa1.narvii.com/6902/c2eebcbb24b4128a19de9eb223acbbe3addb9972r1-500-280_hq.gif"group-title="infantil",-Tartarugas Ninjas
+https://play.prod.gcp.vix.services/teenage-mutant-ninja-turtles_pt/teenage-mutant-ninja-turtles_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif"group-title="infantil", -Monica
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif"group-title="infantil", -Monica
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/8b/f4/4d/8bf44ddc23d678af55c9819d53a7e94e.gif"group-title="infantil", -Os Anjinhos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif"group-title="infantil",-As Aventuras de Jackie Chan
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif"group-title="infantil",-As Aventuras de Jackie Chan
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/4b/7a/eb/4b7aeb7ddb78b7d0a6f08f695208d2ae.gif"group-title="infantil", -Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:1 tvg-logo="https://www.icegif.com/wp-content/uploads/2022/06/icegif-375.gif"group-title="infantil",-Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://media.tenor.com/Ce_iI765nq0AAAAd/beyblade-free.gif"group-title="infantil",-Beyblade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/XfDpE3gHXrjdZtcPcw/200w.gif?cid=82a1493b2v5rm3p6dv135id4r5brk8fu55ua2pl5fsddhh2c&rid=200w.gif&ct=g" group-title="infantil",-Babyfirst
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://media1.giphy.com/media/fAKThZs5sM7K3XqHw7/200w.gif?cid=6c09b952pxjd839v4gr5vb3prlk8qqw1f4jmj55awpnui55w&rid=200w.gif&ct=g"group-title="infantil",-Babyfirst
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/81/c9/fc/81c9fc92d868081b65ac8173159faa1e.gif"group-title="infantil", -Bob Esponja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/SnappyFrighteningAmazonparrot-max-1mb.gif" group-title="infantil",-Desenhos antigos
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media3.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif"group-title="infantil",-Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/fe/31/5b/fe315b4cd83ccf7dd185aa0970fb9ecc.gif"group-title="infantil",-Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/0b/c0/00/0bc0009a819d2231807ae7886112d191.gif"group-title="infantil", -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://media.tenor.com/wNTOa_xu-xkAAAAd/anime-lightning.gif"group-title="infantil", -Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/6-12-2016/KSMS6v.gif"group-title="infantil",-Cocoricó
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://pa1.narvii.com/6434/a6766a4a7c261f4c71e7c8b6a7b73f0dc18d560c_hq.gif"group-title="infantil",-Os Anjinhos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif"group-title="infantil",-Luz, Camera, Ação
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-5/thumbs_640x360.m3u8
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" group-title="infantil",-Hora do Banho
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-6/thumbs_320x180.m3u8
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif"group-title="infantil", -Bagunça Animal
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-7/thumbs_320x180.m3u8
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif"group-title="infantil", -Cine Gibi 8: ...Tá Brincando
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-8/thumbs_640x360.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AffectionateSmallIrishterrier-max-1mb.gif"group-title="infantil",-Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CautiousWellgroomedLeafwing-size_restricted.gif" group-title="infantil",-Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:1 tvg-logo="https://i.gifer.com/7GDX.gif"group-title="infantil", -Bob Esponja Calça Quadrada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:1 tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif"group-title="infantil",-Turma da Mônica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/2a/c8/b1/2ac8b1237027b374246f34edbc0ad838.gif" group-title="infantil",-O Reino Infantil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/18/32/43/183243f9b5725797d46158f8a66afbef.gif"group-title="infantil",-jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w975554247.m3u8
+#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5bfbe93d627885aa54a17c6bac312d1e70cfc12d07b27daa8e9ecdd8cbbe96cb._RI_.jpg" group-title="infantil",-Car City: Construction Squad 1
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/E3O0KrW9WbM/maxresdefault.jpg"group-title="infantil", -Car City: Construction Squad 2
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-2/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI3YjQyZGEtZWJkMy00OWMyLWFjZTktZmZiOThiNGIyMTY4XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg"group-title="infantil", -Car City: Construction Squad 3
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-3/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/6vIg84Oh8rU/maxresdefault.jpg"group-title="infantil",-Car City: Construction Squad 4
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-4/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/55hsL9ewec8/maxresdefault.jpg"group-title="infantil",-Car City: Construction Squad 5
+https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-5/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-mermaid_pt/the-mermaid_pt_200x300.jpg"group-title="infantil", -As Travessuras de Uma Sereia
+https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/vamps-2012_pt/vamps-2012_pt_200x300.jpg" group-title="infantil",-Vampiras
+https://play.prod.gcp.vix.services/vamps-2012_pt/vamps-2012_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/sobre-rodas_pt/sobre-rodas_pt_200x300.jpg" group-title="infantil",-Sobre Rodas
+https://play.prod.gcp.vix.services/sobre-rodas_pt/sobre-rodas_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/wheres-my-dog_pt/wheres-my-dog_pt_200x300.jpg"group-title="infantil",-Cara, Cadê Meu Cachorro?
+https://play.prod.gcp.vix.services/wheres-my-dog_pt/wheres-my-dog_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/kabluey_pt/kabluey_pt_200x300.jpg"group-title="infantil",-Tudo Azul
+https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mans-best-friend_pt/mans-best-friend_pt_200x300.jpg" group-title="infantil",-Até o Limite
+https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dummie-mummy-3_pt/dummie-mummy-3_pt_200x300.jpg"group-title="infantil", -Dummie a Múmia e a Tumba de Achnetut
+https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/antboy-3_pt/antboy-3_pt_200x300.jpg"group-title="infantil",-Garoto Formiga 3
+https://play.prod.gcp.vix.services/antboy-3_pt/antboy-3_pt_1-1/hls_2500.m3u8
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/698
+#EXTINF:1 tvg-logo="https://i.imgur.com/iu4Xbjd.png"group-title="infantil",A vida moderna de Rocko | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/iu4Xbjd.png" group-title="infantil",A vida moderna de Rocko | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/hPUry0Y.png" group-title="infantil",Anime | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/hPUry0Y.png" group-title="infantil",Anime | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png"group-title="infantil",Anime Ação | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="infantil",Anime Ação | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"group-title="infantil",As Aventuras de Jackie Chan | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"group-title="infantil",As Aventuras de Jackie Chan | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/bHhxhRb.png"group-title="infantil",As Pistas de Azul | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/bHhxhRb.png"group-title="infantil",As Pistas de Azul | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"group-title="infantil",Babyfirst | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"group-title="infantil",Babyfirst | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"group-title="infantil",A novidade",Beyblade | Brasil: infanto-juvenis
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="infantil",Beyblade | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"group-title="infantil",Beyblade | Plutão TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"group-title="infantil",Bob Esponja | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"group-title="infantil",Bob Esponja | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/WklXZlV.png"group-title="infantil",Clubinho Fun | Brasil
+http://45.165.178.82:8000/play/a011/index.m3u8
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png"group-title="infantil",Cocoricó | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" group-title="infantil",Desenhos antigos 1 | Brasil
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"group-title="infantil",iCarly | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"group-title="infantil",iCarly | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/4a5RFCU.png"group-title="infantil",Junior | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/4a5RFCU.png"group-title="infantil",Junior | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/g505N5r.png"group-title="infantil",Kids | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/g505N5r.png"group-title="infantil",Kids | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://kuriakos.com/wp-content/uploads/2017/07/Kuriakos_kids_V2.jpg"group-title="infantil",Kuriakos Kids | Portugal
+http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/046zDW4.png"group-title="infantil",Naruto | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/046zDW4.png"group-title="infantil",Naruto | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="infantil",Nick Clássico | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="infantil",Nick Clássico | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="infantil",Nick Jr. Club | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="infantil",Nick Jr. Club | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="infantil",NickTeen | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="infantil",NickTeen | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="infantil",O Reino Infantil | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png"group-title="infantil",O Reino Infantil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="infantil",A novidade",One Piece | Brasil: infanto-juvenis
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="infantil",One Piece | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png"group-title="infantil",One Piece | Plutão TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/1jXXHVr.png"group-title="infantil",Os Anjinhos - Rugrats | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/1jXXHVr.png"group-title="infantil",Os Anjinhos - Rugrats | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png"group-title="infantil",A novidade",Os Padrinhos Mágicos | Brasil: infanto-juvenis
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="infantil",Os Padrinhos Mágicos | Plutão TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="infantil",Os Padrinhos Mágicos | Plutão TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
+#EXTINF:1 tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="group-title="infantil",Os Jetsons | Brasil
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+#EXTINF:1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"group-title="infantil",Caricatura Retrô | Brasil
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/GSJv0sy.png" group-title="group-title="infantil",Xilam
+https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/iu4Xbjd.png"group-title="infantil",A vida moderna de Rocko | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/iu4Xbjd.png"group-title="infantil",A vida moderna de Rocko | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/hPUry0Y.png"group-title="infantil",Anime | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/hPUry0Y.png" group-title="infantil",Anime | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png"group-title="infantil",Anime Ação | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png"group-title="infantil",Anime Ação | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"group-title="infantil",As Aventuras de Jackie Chan | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"group-title="infantil",As Aventuras de Jackie Chan | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/bHhxhRb.png"group-title="infantil",As Pistas de Blue | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/bHhxhRb.png"group-title="infantil",As Pistas de Blue | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"group-title="infantil",Babyfirst | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"group-title="infantil",Babyfirst | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"group-title="infantil",A novidade",Beyblade | Brasil: infanto-juvenis
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="infantil",Beyblade | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"group-title="infantil",Beyblade | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"group-title="infantil",Bob Esponja | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"group-title="infantil",Bob Esponja | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/WklXZlV.png"group-title="infantil",Clubinho Fun | Brasil
+http://45.165.178.82:8000/play/a011/index.m3u8
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="infantil",Cocoricó | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png"group-title="infantil",Desenhos antigos 1 | Brasil
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"group-title="infantil",iCarly | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"group-title="infantil",iCarly | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/4a5RFCU.png"group-title="infantil",Junior | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/4a5RFCU.png"group-title="infantil",Junior | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/g505N5r.png" group-title="infantil",Kids | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/g505N5r.png" group-title="infantil",Kids | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://kuriakos.com/wp-content/uploads/2017/07/Kuriakos_kids_V2.jpg"group-title="infantil",Kuriakos Kids | Portugal 
+http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/046zDW4.png"group-title="infantil",Naruto | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/046zDW4.png" group-title="infantil",Naruto | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/z2Fwd4q.png"group-title="infantil",Nick Clássico | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="infantil",Nick Clássico | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://i.imgur.com/j9CMGyU.png"group-title="infantil",Nick Jr. Club | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="infantil",Nick Jr. Club | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="infantil",NickTeen 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png"group-title="infantil",NickTeen | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="infantil",O Reino Infantil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png"group-title="infantil",O Reino Infantil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png"group-title="infantil", A novidade",One Piece | Brasil: infanto-juvenis
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="infantil",One Piece 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="infantil",One Piece 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/1jXXHVr.png"group-title="infantil",Os Anjinhos - Rugrats 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/1jXXHVr.png"group-title="infantil",Os Anjinhos - Rugrats | link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="infantil",A novidade",Os Padrinhos Mágicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png"group-title="infantil",Os Padrinhos Mágicos 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png"group-title="infantil",Os Padrinhos Mágicos 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://i.imgur.com/sqUlcaY.png"group-title="infantil",Os Jetsons | Brasil
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/QwPiPlI.png"group-title="infantil",Rakuten Família | Portugal - inglês e português
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"group-title="infantil",Retrô Cartoon | Brasil 
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
 #EXTM3U url-tvg="http://grade-de-alexsilva.xml"
 ############## alexsilva ################# 
 #EXTINF:-1 tvg-id=" iddocanaldealexsilva" group-title="
@@ -93,63 +779,19 @@ https://youtu.be/rtV0jKY2r4s
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GDE07kSV-1Y/maxresdefault.jpg" group-title="OsTrapalhões",No Reino da Fantasia
 https://youtu.be/fBbtFnP6HMc
 
-#EXTM3U url-tvg="http://grade-de-lançamento.xml"
-############## lançamento ################# 
-#EXTINF:-1 tvg-id=" iddocanaldelançamento" group-title="
 
-#EXTINF:1 tvg-logo="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F14%2F48%2F14486460_339FABA249DC5353.jpg&width=1400&height=787&resize=CROP&format=JPEG" group-title="lançamento",Tempestade Mortal
-https://youtu.be/9lGBJ3KIHN4
-
-
-#EXTINF:1 tvg-logo="https://s2.glbimg.com/anCPCAmeZKWnMeT9YQq7GF_33o4=/0x0:640x360/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/I/M/0CKnWgQWAjlLC3srGTBw/a-sequencia-avatar-o-caminho-da-agua-esta-sendo-lancada-13-anos-depois-do-filme-original.png" group-title="lançamento",Avatar 2 o caminho da água
-https://youtu.be/FibUS1Z6-zU
-#EXTINF:1 tvg-logo="https://pixelnerd.com.br/wp-content/uploads/2022/05/Avatar-2.webp" group-title="lançamento",Avatar 2 o caminho da água
-https://youtu.be/IYpoG9T2LV0
-#EXTINF:1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2022/11/Avatar-O-Caminho-da-Agua-Trailer-da-sequencia-de-James-Cameron-retornando-a-Pandora-em-15-de-dezembro-de-2022.jpg" group-title="lançamento",Avatar 2 o caminho da água
-https://youtu.be/Cf9r96oYj78
-#EXTINF:1 tvg-logo="hhttps://pida.com.br/fotos/pida_noticias/3286/IMAGEM_NOTICIA_2.jpg?v=4314dafd01b739f" group-title="lançamento",Dog Avenentura de uma vida 
-https://youtu.be/08mWfYJ-sio
-#EXTINF:1 tvg-logo="https://yt3.ggpht.com/nwXDSGoFHClBuWTAbxOCx5JMc5sz05vebwPTDBvYAQc61LVU4IQy6lMwUy1aNmg77CbXqWJwD4M=s48-c-k-c0x00ffffff-no-rj" group-title="lançamento",Pantera Negra: Wakanda Para sempre 
-https://youtu.be/7ZC0eWRlqWg
-#EXTINF:1 tvg-logo="https://cdn.tapetender70er.de/media/image/d4/27/9f/Shabby-Shic-Carta-da-parati.jpg" group-title="lançamento",Espiões Por Acaso
-https://youtu.be/H23lEseol4g
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/rNTUrTQT3kA/maxresdefault.jpg" group-title="lançamento",A ESTRADA DO DESERTO
-https://youtu.be/rNTUrTQT3kA
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Black_Adam_poster.jpg" group-title="lançamento",BLACK ADAM
-https://youtu.be/bLfDX8PGYDA
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/06/04/10/26/215084.jpg" group-title="lançamento",Os Últimos na Terra
-https://youtu.be/RZLHYXAJoBo
-#EXTINF:1 tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202111/2001/FXPQpJRPg0EZMVPCKRGTxMB8.png" group-title="lançamento",uncharted
-https://youtu.be/eGHc8yv59XI
-#EXTINF:1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/2145381526.jpg" group-title="lançamento",Hora das consequências
-https://youtu.be/uA5vqBekFWg
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Bullett_raja.jpg" group-title="lançamento",Bullet Raja
-https://youtu.be/_UQ7RCwukMU
-#EXTINF:1 tvg-logo="https://media.moneytimes.com.br/uploads/2021/12/2022-7.jpg" group-title="lançamento",AÇÃO 2022
-https://youtu.be/I6I3yyxvlJA
-#EXTINF:1 tvg-logo="https://polocriative.com/wp-content/uploads/2022/06/Bene-o-Filme-v2.jpg" group-title="lançamento",BENÉ
-https://youtu.be/vXcEGbw6xDU
-#EXTINF:1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_658133-MLB41260803644_032020-V.jpg" group-title="lançamento",Vingador Da Noite
-https://youtu.be/jYxPJ0Q4Hv4
-#EXTINF:1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2022/11/Avatar-O-Caminho-da-Agua-Trailer-da-sequencia-de-James-Cameron-retornando-a-Pandora-em-15-de-dezembro-de-2022.jpg" group-title="lançamento",Avatar 2: O Caminho da Água
-https://youtu.be/ubjwQuuHl8Y
-#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/iycbVZ7fdN0/maxresdefault.jpg" group-title="lançamento",Ação e Luta
-https://youtu.be/8kYok7e7Tqw
-#EXTINF:1 tvg-logo="https://thenexus.one/storage/2022/04/jet-li-the-one-multiverse.jpg" group-title="lançamento",jet li 2023
-https://youtu.be/MxotdKaRnY4
-#EXTINF:1 tvg-logo="https://media.gazetadopovo.com.br/2008/10/60c1372d698d0a25f3758f73a6e7e81f-gpLarge.jpg" group-title="lançamento",LIGA DA INJUSTIÇA
-https://youtu.be/btiOK3CaRlM
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/h-GUsN096Ps/maxresdefault.jpg" group-title="lançamento",BARÃO DA DROGA
-https://youtu.be/h-GUsN096Ps
-#EXTINF:1 tvg-logo="https://images.justwatch.com/poster/41592253/s718/roubo-sem-saida.%7Bformat%7D" group-title="lançamento",Roubo sem saida
-https://youtu.be/rrR-Rt6h0PU
-#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxOGNjOTAtNWM4YS00YmZmLTgxNzYtYTQ5M2ZmNTgxZjEzXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_.jpg" group-title="lançamento",daylight 
-https://youtu.be/XwPGXZDT83k  
 
 #EXTM3U url-tvg=" http://grade-de-televisao.xml "
  ############## televisao ############## ###   
 #EXTINF:-1 tvg-id=" iddocanaldetelevisao" group-title="
 
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="televisao",Web Tv Cine Ao Vivo
+https://stmv1.srvif.com/channel1/channel1/chunklist_w545456591.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="televisao",CinePIX TV Ao Vivo
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1376802368.m3u8
+
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee32135a0ae4307048d3b24d0891738f.webp" group-title="televisao",Tela Viva Tv Ao Vivo
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w607372272.m3u8
 #EXTINF:1 tvg-logo="https://www.mustaqil.az/wp-content/uploads/2021/01/spece.png" group-title="televisao",space
 http://195.181.163.144:14730/
 #EXTINF:1 tvg-logo="https://i2.wp.com/www.zapping-tv.com/wp-content/uploads/2013/02/sic_2.jpg?fit=555%2C404&ssl=1" group-title="televisao",SIC
@@ -424,7 +1066,6 @@ http://rec2.tvpn.eu/auth/228.m3u8?token=lhTSd4RS3T2gVrpsPc4BkWoW4clBL75X1t43iTa5
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 #EXTINF:1 tvg-logo="https://www.netsaopaulo.net/wp-content/uploads/2019/02/telecine-play-fevereiro.gif"group-title="televisao", -TELE CINE ACTION
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-
 #EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-OF4ufVDufUc/V5ogpUFifXI/AAAAAAABiNw/wqYsQKMFv6M6689oJmxJX7zZpfeOZt2OACLcB/s1600/tnt%2Blogos.jpg" group-title="televisao",TNT
 https://server100.online/tnt/tracks-v1a1/mono.m3u8?remote=168.227.218.22&token=099ba686db9778593601d71b89caf11646ef640e-a3c1fd80b8e62518277ef1aa9ad99846-1676936342-1676932742
 #EXTINF:1 tvg-logo="hhttps://media.tenor.com/prSyl1BgizEAAAAC/hbo.gif" group-title="televisao",TNT serie
@@ -1301,7 +1942,6 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/47a14bdf8904ec919261ab65ad21f26b.gif" group-title="sporte",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="sporte",TNT Sports 2 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="sporte",TNT Sports 3 Brasil (720p)
@@ -1310,7 +1950,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="sporte",TNT Sports 5 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/4/4a/Combate.jpg/revision/latest?cb=20160826141705&path-prefix=pt-br" group-title="sporte",combate
 http://23.131.187.72/live/Higor8838/Cmj816254/83194.m3u8?token=SRUMWUVaQV8SU1dSCw1bVwABWgAFXgwCUFEJBQVRU14CA1cLAlFQXFRGHRJBTBAEB1pnXVBEDwgFUAFQGBUXS1dFO1FSEFlHAlUJAAsLVUNKFUxdWQMXCgZNGhRdU0ACEAZWDwELQUkSAUlEV0oMAApoXFFCD1ZVFFtWEVhbThpdWTtcU18CC1RGCxICGk5DD0RIFg4IQFxaTRoGXUMQWUZSRgIUAFBXBkYdElFXFw8SRUEWDkR3YhRNGgFMQwdWQV4LVhQIQQgDEQkSHhoLEjlFXUdAFFBRWwRKRg4VUhoeFQlZTm0ACl4KVFNGUQ0PFRUCFgVEGRJbDlYNQFgQZ0JeABoMEFJcAlYDEk8=
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/RaggedParchedFlicker-max-1mb.gif" group-title="sporte",COMBATE 4K
@@ -1421,314 +2060,6 @@ http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/165
 http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/164
 #EXTINF:1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg" group-title="sporte",SKY SPORT FOOTBALL
 http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/19131/index.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-filmes.xml "
- ############## filmes ############## ###   
-#EXTINF:-1 tvg-id=" iddocanaldefilmes " group-title="
-
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/ROPSVwJ2SyM/maxresdefault.jpg" group-title="filmes",A Família Buscapé  1993 
-https://youtu.be/AL9efdXjz94
-
-#EXTINF:1 tvg-logo="https://i.etsystatic.com/21322475/r/il/f84a0c/4088774974/il_fullxfull.4088774974_hebp.jpg" group-title="filmes",STEVEN SEAGAL
-https://youtu.be/02zvXcenyL4
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/c822rXnZM7o/maxresdefault.jpg" group-title="filmes",SUSPENSE DUBLADO 2023
-https://youtu.be/FlctsDRHEW0
-#EXTINF:1 tvg-logo="https://s2.glbimg.com/uCBHxg7D95UXRVKBm-eglG6cKRA=/362x536/https://s2.glbimg.com/u1e5gjUV7uR-Nev_kSp4VJZ5X0g=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/a/d/NBTw9lSDyQUepbJVnNKg/1434990-poster.jpg" group-title="filmes",PEGANDO FOGO
-https://youtu.be/bGxiSxdQ7N0
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/07/03/19/28/342807.jpg" group-title="filmes",Voltando a Lutar
-https://youtu.be/YhQWzRgBS9M
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/t5y6fHGn6TM/maxresdefault.jpg" group-title="filmes",Filme Gospel
-https://youtu.be/t5y6fHGn6TM
-#EXTINF:1 tvg-logo="https://www.minhavidaliteraria.com.br/wp-content/uploads/2012/05/sk11Beastly.gif" group-title="filmes",A FERA
-https://youtu.be/NNc8PhkxFgo
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
-https://stream.ads.ottera.tv/cl/230226cfta9cblbchavkvrdf4g/640x360_1126400_3_f.m3u8?i=475_2553
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
-https://stream.ads.ottera.tv/cl/230226cfta72baqhf9g4n3p3l0/1280x720_3071200_0_f.m3u8?i=475_2153
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/renaissance_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Canais ao Vivo
-https://stream.ads.ottera.tv/cl/230226cfta72baqhf9g4n3p3l0/1280x720_3071200_0_f.m3u8?i=475_2153
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/black-water_pt/black-water_pt_200x300.jpg" group-title="filmes",Perigo no Oceano
-https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/danny-the-dog_pt/danny-the-dog_pt_200x300.jpg" group-title="filmes",Cão de briga
-https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7vp1miv0CcClkxZy42c9RUL8ty9_cEWGhg&usqp=CAU" group-title="filmes",Joseph Smith O Profeta da Restauração
-https://youtu.be/HdCC66SHiE0
-#EXTINF:1 tvg-logo="https://i.scdn.co/image/ab67616d0000b2736fd1c2c1474e4e89fde3c014" group-title="filmes",2 DOIS FILHOS DE FRANCISCO
-https://youtu.be/2WWyuzuKrSc
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/rBzccU33XsE/hqdefault.jpg" group-title="filmes",O Carro Desgovernado
-https://youtu.be/b44Y26G14C8
-#EXTINF:1 tvg-logo="https://cdn.iset.io/assets/54564/produtos/144/procurado-vivo-ou-morto-temp-c-b.png" group-title="filmes",Procurado Vivo ou Morto
-https://youtu.be/pPVlr4-wl64
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/9CkiGw6eNdE/sddefault.jpg" group-title="filmes",Homem Aranha (o filme original completo de 1977)
-https://youtu.be/64-BJgeUlFY
-#EXTINF:1 tvg-logo="hhttps://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/an_ordinary_man_thumbnail_16x9_widescreen_br_v2.jpg" group-title="filmes",Um Homem Comum
-https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_3orb0xj9/format/applehttp/protocol/https/flavorIds/1_2mvrpmje,1_6sxtb51v,1_95j3vl7s,1_1jdty1c0,1_sil4lh5m,1_o2yv3669,1_02yyxvfi/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1675538442&id=1891&ip=168.227.218.20&override_expiration=1500&sign=w0YvIAWxSCVlbIDXrocC8nzPARclbc%2FwY9kqdLeGMww%3D&playSessionId=5e061f6b-2c58-6a85-0dfb-b756dd982c3b:6ed8b13c-871c-35ac-39f1-852e076e94a5&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3VtLWhvbWVtLWNvbXVt&clientTag=html5:v7.58
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/bunraku_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",Uma Cidade Sem Lei
-Ahttps://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_zila0tjo/format/applehttp/protocol/https/flavorIds/1_hc751s57,1_5e18d2ev,1_xpxgele4,1_m30qrm9y,1_k5m6jf3c,1_jlgv7ia7,1_lhhx9u0x/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1675538577&id=1653&ip=168.227.218.20&override_expiration=1500&sign=hWWLC%2BUqiIlTJ3WJDb8QPVUW94iz8KTcuZzdBPeh3wQ%3D&playSessionId=cc12203d-4b60-357e-8d2d-dc38169b7ade:17388bef-3150-b0c2-84db-f2d77f5c813d&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3VtYS1jaWRhZGUtc2VtLWxlaQ==&clientTag=html5:v7.58
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/shamers-daughter-2_pt/shamers-daughter-2_pt_200x300.jpg" group-title="filmes",O dom da serpente
-https://play.prod.gcp.vix.services/shamers-daughter-2_pt/shamers-daughter-2_pt_1-1/thumbs_320x180.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submergence-sofa_pt/submergence-sofa_pt_200x300.jpg" group-title="filmes",Submersão
-https://api.prod.gcp.vix.services/play.m3u8?access-key=555c5a19c9cfd50f60e08944246fc0ed5ea24308&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/momentum_pt/momentum_pt_200x300.jpg" group-title="filmes",Momentum
-https://api.prod.gcp.vix.services/play.m3u8?access-key=8c5979b8951b51d1b82ec55117c9203bc02aa3fd&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/wasabi_pt/wasabi_pt_200x300.jpg" group-title="filmes",Wasabi
-https://api.prod.gcp.vix.services/play.m3u8?access-key=9b0089d50ca0168266ca2fd6391cbee831b0154d&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jerico_pt/jerico_pt_200x300.jpg" group-title="filmes",Jerico
-https://api.prod.gcp.vix.services/play.m3u8?access-key=cc7de3aa2604dc7384360f8bf13e58afe15be7c0&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesse-james-train_pt/jesse-james-train_pt_200x300.jpg" group-title="filmes",Jesse James - O Roubo do Trem Negro
-https://api.prod.gcp.vix.services/play.m3u8?access-key=63448cc5c50bc7a03bdcba4bfbc5da31190ed664&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/coyote_pt/coyote_pt_200x300.jpg" group-title="filmes",Predadores
-https://api.prod.gcp.vix.services/play.m3u8?access-key=6cbef848d23e6e9a8b9a2988a8672471eb531944&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/library-suicides_pt/library-suicides_pt_200x300.jpg" group-title="filmes",Armadilha mortal
-https://api.prod.gcp.vix.services/play.m3u8?access-key=2c9ba52ccd200c1b919d83273d0dc1095d369992&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/terminal_pt/terminal_pt_200x300.jpg" group-title="filmes",A Vingança perfeita
-https://api.prod.gcp.vix.services/play.m3u8?access-key=0ded0d0fbfc222192fdfbd888fd0d52b716d09b1&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/frozen-valley_pt/frozen-valley_pt_200x300.jpg" group-title="filmes",Morte abaixo de zero
-https://api.prod.gcp.vix.services/play.m3u8?access-key=eb75c7e378e69ad5cdfd66cf7a498bb1f068282d&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/on-the-edge_pt/on-the-edge_pt_200x300.jpg" group-title="filmes",Emboscada
-https://api.prod.gcp.vix.services/play.m3u8?access-key=218cbfb4494bcce18456d83a3f5674059ed8082b&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/pioner_pt/pioner_pt_200x300.jpg" group-title="filmes",Mergulho Profundo
-https://api.prod.gcp.vix.services/play.m3u8?access-key=5cad53798eb48b2ceb9a0821814b59d938977481&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-marker_pt/the-marker_pt_200x300.jpg" group-title="filmes",Mercenário
-https://api.prod.gcp.vix.services/play.m3u8?access-key=e0f45c253aea2423b48ee653d86ecaa58844d9a7&
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/panic-button_pt/panic-button_pt_200x300.jpg" group-title="filmes",Pânico Virtual
-https://api.prod.gcp.vix.services/play.m3u8?access-key=9dbe01ca5fc447c8fdefad8fbe61dc1ef8919bdb&
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/fly_me_to_the_moon_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",Um Plano Perfeito
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_tnqorthd/v/11/pv/1/ev/21/flavorId/1_mlp7r65e/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV90bnFvcnRoZC92LzExL3B2LzEvZXYvMjEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjc1MTAxMjYxfX19XX0_&Signature=AswW9-u0VBeZkXfxDPB81EGcocpfXARAuQ9vjvwg94ZI5fGr4n6pX1YeivWtiIc7Nu8mEZ6cfQWYTuu4~xanFSuB5uuULVxaf-3bb8GgWminXhc8TVYVeeBZ1jKkw9DVU7j9ARs5tRCaPWWYljHtNu08gZdA~QFcN2evU-N6d1ToPjAqxs6yGRbBNg0GqR4lraRqUXBVXjj-mpSpH66la1hDnKG-8NBzkMpACmpKxeH3q-dgO94MDQFQZ8Wf~BVYbOGiE9dpAp43nT~Ok1TmqDdoa4DvwItwbCnFgs9zdMpcae~eSTIK921ga27ErT~uenk6BFwNRGPzPhqwivFEeA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/long_way_down_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Uma Longa Queda
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_bent85mj/v/1/pv/1/ev/10/flavorId/1_io14is5k/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9iZW50ODVtai92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDEzMzV9fX1dfQ__&Signature=Uc0MOctNslmZPe2XqVAtOgHfYjTB1GljwYHra0KBqQrbfF4M6Q6RaryWA1WZOToIlyfdsQ1J58i15xM20vJWmb2ZxfNA-nkzQAHf4H9eFwGw6J6PrKDRhDeDjgV3BfFKecoeGz8SheayVNAONHnqJjXkvJo50CXnR6JTIj0ifBHAF0XRBx9HbHv3-wnQgdAd0SjzCxbkcdPgyOQHF6Hrti7eIBkH8UuSGYeIrpTq8RC2nWkHViR6srpxekLya0OOwDb9XVeKuVLF71ctJdh-lNixh5c13YrTb7UCbOK4AtSSsCuZeqt0o~PeO49OGsyNBG48h8ckm~V7Smptf1Eatw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/christmas_comes_home_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Construindo Um Lar
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_6p2076fo/v/1/pv/1/ev/9/flavorId/1_as5z9c2m/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV82cDIwNzZmby92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NTEwMTM2N319fV19&Signature=MPrIXIzWQZZdalYNbHSbtrd6HlbxXlfbiD0ZAadQtLHIyPg2anp8GCtty2jLB1Zf252tgkxnHrJSvyLvzwBQiVrfVI9bcSDRAaNKF3M1YjSrn5iWF0Lqyr1rugQyXOi0emsaOsen-n-c5-~El8CNVAZnxO1erKeEph4MmUNEFo14efXro6h1HTKgNKIlAPvQyMghjdsyW~YhfUWkq4~ANnoiFx~Pxxv5stfthx4KYD6j2bqM6vVcL~bMxTQtQEjyyZmy-x70evJjOARE81gcVM4ins1WOv0FjsfzSWKKMp1Ttx-mtALunNU65eNuHfrRbA~zxN65Dw2RLB0DYoUmEQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/love_sick_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",Louco Amor
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_eo5nh2xw/v/1/pv/1/ev/12/flavorId/1_73bme2rd/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lbzVuaDJ4dy92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDE1MDB9fX1dfQ__&Signature=a0mnbUW2~aoOuvlwEXFIeaV7aK~0J5fo5qQ8xneyrsel1zwK8RVXwbJB6uMQjE2DDVPl2xPBJJHlBtyEsk1FgcX~EsHOCEDtG1NanUcB44v5s6Rb1aI2mA9fsFNETfKRwDUoVzOeLAII6kJmtgJWVk8-weIWwFCEByxVhxkyLZiurcoNmBwe3ERyzVO3IyOpvy7G-jg9QRzKVih7LnMsVbHZVe~bmDAM8u2cIapT5FCFA6iU-9A9ru6fNqBF-wEpnWdLgma-D3P4F~04SbjIRKSDsDYDS3KIjNk2AgEWhSC0~zdiomZhd05uwKJ9LKchlLxkAEt45RAP6wsSanGxnQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/laura_smiles_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",O Sorriso de Laura
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9qat20iz/v/1/pv/1/ev/11/flavorId/1_j1gac9bv/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85cWF0MjBpei92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDE2ODV9fX1dfQ__&Signature=GAL87rJXN310arlHFafQP96Tee3821DqgE951pSMQRjEeed7qcTeOjGUFhmIyezt6cA-FtuOcy3OS2iFymiyOHr0FEFCvU9LIbbqdp5PJ7-vO~fzztFe9VcVBCl4wM5Lt4bhbQtv6iUqsZWWNoJUZopX7JAmoI6eifEjln5MveUBXmiD9fnMwQq506CEVz-p5AzP8NPcbz6rSHt92uFejC6sBa5HexxGGDtILzYWCEKKbAt6O3cB1nLeGU-lkm-nS25pClrT-2M8YN6TKNrLvA-e58ZE5SyIGnVPQFdHP72Sm1KM7zCUUhs-fvYZxVgQE8VM3Pr-U3rYBpm7EKf-cA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/backcountry_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",sobrevivente
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_d7evkhen/v/1/pv/1/ev/10/flavorId/1_4hg0e2ko/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9kN2V2a2hlbi92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDE4MDR9fX1dfQ__&Signature=B1AXMNgVr7KazmlPPDs0-GwANwdoC-CfnCmcPBp5tSaav09rlcQ-QBQHpC2PBYjRc18qDUtUMoWuIqGsCEY6GEuDwsHM4FOq49YmnrwsBZix8FGY6Q~yIK-noWCWgVxTlmjKtia2uf2-wqIfKtBP4RoxQZYpGy8D7fbfECwGK~i-sDXUCEyJ-wtSyZcQr3rAu44hCzBKrwJNCjbgnHLKa16naCoum~XGRl5SZ4Pt2wnpNJAtEtplyxSmF4vqH5x9NDx7TzKT0-hqkhHzUec8WiHzr90uNI8NPX2KrGIxZ0ltxDChjTooohFGVu5uiXxWeXLTBwxRtrCIEW1RJz6tBA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/on_wings_of_eagles_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Em Busca da Liberdade
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_wxxtrkt6/v/1/pv/1/ev/11/flavorId/1_cxo0diu7/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV93eHh0cmt0Ni92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDE4MzN9fX1dfQ__&Signature=FADRHw-Tt4nsLsB4NgToCENKlgGCStkUuE7WWxacQ6fUbPjCWJcIRnVSvVyqPHmM8V0wvq5wja-6kHXEn2KB2fu2COnTxGCZZqBrjY1cRPndTTSZUYOMFrJWrB0u74fi02bwefiQGpVV9czSaYeLOT3jy24tBz7khQNxilWwy~bGP4uKg0lwvseB2SQtrR59ZkOjSNkTlWXp6Jh220iKDfzBIfl3qKOANpwosTOys4xcgOQTVf3CwPImcuxgwBsG5FxtfoLgCfxVJWqjaYshg~G~Grun1bp6YehQebxLlvlHEoIfnM02IBITXAyIy8UkqUGxPs~5tWdf9z9fWFIM-Q__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/malcolm_x_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Malcolm X
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_2y3noteo/v/1/pv/1/ev/10/flavorId/1_05638gwy/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8yeTNub3Rlby92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDIwNDZ9fX1dfQ__&Signature=Zwyd2vopiHAeb13PVeie27HENSbA1fTYMkLPG15Y0qf9k7pUvoLa0EWBzqS-AkV7EeVv9~K2slgOkLDF-QFB6qCqFpKCgIQDuekG2bE-HBDs55sDY-kxw3U6d26N5jfVvRP3u8Cmx2tZahtThzj2LzQTaBMdnHBQdnNxV4A1IyYNPwH-t3u-LJK7uwdXIdyA1lZhh-kAPo9bh5lst-fd1fQjrqg8yLy1KRjGEhvPRmcZpk2QZbZGcntvy1ONvFCoDOmKfQK-YCz8mIBUQcsRvp6MVfJAR1gBEoWZw3Uco0LgDuOzyqLLOmwemE~8HvimI5zeoJeD4Bm-9erXJy3x7w__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/walk_to_remember_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Um amor para gravar
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_rc78aatk/v/1/pv/1/ev/10/flavorId/1_s561evb9/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yYzc4YWF0ay92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDIxMTR9fX1dfQ__&Signature=S-xrckvU-5hxAyZFeggJSwRBeQ8xdRqnLvcob3HhjwrOUNLCjCVoS8rIxOaRTjjor5crb~93G4KILCxnvyoxQsCqlgd8l~oURn-7UgZEvyCGuyTyHezmvVQobjaMyRK-ivNECFLpNHGyjL2wRRTfdtRkhsWRK5R28pn5Av9-OqncBOvFoqug9RBb49eYzsfd0n2-~cG-Q4JRoyfwNjHLGyHgexb~xpkF7tORqDgW3hSswitcxE7UcAZQsCiI7OORyUy562oH-0u0Oi1s1yPPGebOue17JT1jM8akyQTP1bhfV5zxU6Ri8ez4h9YgcVk5TNQcLlpilQGmzkUxggCSKw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/our_wild_hearts_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Uma Segunda Chance
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_edd1lcf4/v/1/pv/1/ev/10/flavorId/1_pim9ltdh/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lZGQxbGNmNC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDA4NjR9fX1dfQ__&Signature=VuSLS8lpqMXnaMd4BgvAgxwhrO6GBf21bQAVcQujY5evVjKo~e-ejod1DOxu9ndLN0e4ZsHBvnDqXVvML6P9e66-wn0imJ13yw5IBe8JnzDF3C2Q86vZ67O7MzbOt3zDtP0FRm0NBmi4mtKUpnmzVB8m92u1mdei67bW1oXjKOm2KN6nH6wqYC1b8hcgLIhuB6t5a9ItBiXocnzFRAIOSedw1~2OnixT~8dH2YcVzXKQHfasmqS4ooLtjkEGOFtKwF9xwoRrlRwalS3FC~hcTaZkSMSnPEdGJITFtcKIgjqWOAhmCvpFG7155V1K8LHbvRQdq48PWYjLSJc0M-MrEw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/confessions_of_a_prodigal_son_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Confissões de um filho
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_i1zfo013/v/1/pv/1/ev/11/flavorId/1_ww5gfizj/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9pMXpmbzAxMy92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDA3NTh9fX1dfQ__&Signature=QNZK0~PXdikdMhvGGT98F2BoVDrres0Yo-wSTNj~QlBJzO1IKHy5aENiyq791sFyr7WmFUquPAa2WD6jdQJY5vk2wd7d9hlnGZUPBuwcBU~S1h8h-1XBmjecQCC-PtJE2fFWtQKB3X6QuKE6ZsfCQaLilAptp82ynPI644g~eakG4~DWI7OcYs6fbrmcTKte3rwOTrFnu3iwZFj8bDkDUpCs2vfGsb0owcGDKyVzRZoQSHpGXh9vdRtkBcC7lumxAS83qzg1lQJHPC61Px56wH1c9cvNRhJGBqxuRZuRfOiizJv3hhr6WLtyrPaCzd36YO7fCIwJZIUrfHo1xQ8vXQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/rodeo_girl_thumbnail_16x9_widescreen_br.jpg" group-title="filmes",Tempo de Mudançcas
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_ybckjca1/v/1/pv/1/ev/12/flavorId/1_vi5853ej/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV95YmNramNhMS92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzUxMDA2MjF9fX1dfQ__&Signature=LDwfkU5Pgvu4ysNLdc8c1W-tozwCmjQWnpY586DmcUBwxlRZYOgL7wD6wh18vrZQ9UcjwgUfhtBVdXHs2oLyagcgCG44eRvfUhKWCOc3~9t1nQAvqHfRS-G1o2wROlXIvfMNInRI-dOfYAQ85X1iDQnT5boyVOkI-oXw5H4XMAsBCTU0TSDJjW8P6FB-0wH97empb3JCxkwbK0paokz3p7qtNtuDyqF1Cghd~rqy-SCqhci5K5bD8ldWx~YoiVzXOaauwHM-RZ59SqgygE7ieRVBbeMKjF4qvzRcgzdBf4mhjgvvF9ph1C1BLXv7uppKA2yJ6vGAkF7xhtZ15E78fg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/bad_luck_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Deu Ruim
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_gkyagk5h/v/1/pv/1/ev/9/flavorId/1_erv3gpbq/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9na3lhZ2s1aC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NDYwMDQ4OH19fV19&Signature=f1HqVtcJQSgadqAS1ba1Vd~BAA34fdLyWM3ArG4oxUI2HhjSrxOuvKIDeCrQjyaUVu1Tejudn30CEzld4eQ~DDAv25js9yiWkWmYjF0ocGSmWPnBvR4sGVro1BJQcbIdoCe2Jm9tOLWnWv7xDYi3R-QDJS57DLLKjDLS1J8VeutYZuYc9DwIxd35-aWCAFslXfpSK0Y2Kx0FVW-Axauei2TturzKSRn~~kXK2wyztN445HQML3zKLdbSQTYip4hRqu~uTbr8sKtGzfpOiE~-NcTMsnxeKxJeY5LVFh3FgkZFUWK6XH9bJaew43JkxE6nqxMx3wi-RcMMiQWRAcIh9A__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/morning_star_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Guerreiro do Amanhã
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_ra4326ze/v/1/pv/1/ev/9/flavorId/1_2dncnftd/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yYTQzMjZ6ZS92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NDYwMDU0OX19fV19&Signature=AmgNidXlEHNh9jYxxTn5Md3nkU9TiJb1Q98axwrBgrO~whUj6PVHCaCj6laG3EgGKPSTMpt3BPQyZFdwxwkENalsIrC3lDfQnEL1lZrFANAOZ3jpscuIC5ehbSfGjsoFyqkJJ7CsB3dxHepfX6HuM9wVK3eYTIksYVzRF-CEVqSmC6DnLox-BI3AucWrW9bqNRxDt9kscRwWPFR~PlZw4svxwD~FPCxdUZa1VNU~iEE6LfNu2dUiKnrn2l9HxmJy-8Gt5UMOYexnI9MB2A3--AihngBEDnRyTcI9VgkcEAppbLjAOzKdtm9VeEixvhoXTwOj2dm1rspW~WaUnfDtfA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="hhttps://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/killing_salazar_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Matando Salazar
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_1ua52vw8/v/1/pv/1/ev/10/flavorId/1_23zdy85j/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xdWE1MnZ3OC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDA2MzF9fX1dfQ__&Signature=WE4kzwEKANXbbg-UmW7GPRGd4upG4fdOSRwswolWcx5DEZ90TLG0VsrL7Nsk17-OGZ3ugzKBnvvg3YiXeXvt0NpyKebfVK~Qc~zPzBmxMh2AHiOEG-lAnAJ4ASwCMKMnkMTu04Z2gy8yEpjmwUwUxdM1BOFR0EzmHP7vRAXZzVTG1Z2e6~ixe-vX4tN5Rxb3gwQ4bUUoopLNpQ2I0uljhxQbla7giQnjsx1c64Kh8z9HjKPK3bHX~JT3DSLEYcxvnAZqfxuEzeVTltYXsOjtYrSl9DV6SlCULkExIfL7TB2xRkpUX~VX7SoS5ZnaMEVfHw0hLNeSFGCyuUc1eI3KLw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/attack_of_the_killer_donuts_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Ataque Dos Donuts Assassinos
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_eectldk0/v/1/pv/1/ev/10/flavorId/1_ggqc8ttw/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lZWN0bGRrMC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDA3NDB9fX1dfQ__&Signature=KBkmzcJ88RVGh4tq8qXLY4BxUYuRsObfA6N0444k4MoEwHrw~bg-dYz9vCezYHKSadItKe~z6IttXA~YDI2J4ox-3snDZjQAA~IQTY-mREKYinXMqh-luIaWsmt6v5RsDS1~VUqHdufYC2kJjHk4KTshqrL5ZduijISWmy4sGDBWvSjFwKKEWnN0wsUgOWw~hxOXlX6x6LXM7Ylehl0vpgLgF7m2P4TmjfTQuwxY5SLLyuiMsA-i6ToS8hhYezq9TDx1-l3wVSBUD4cmXNR-quntVcC7wlzKfoq3gitsoeBzpYbLkcjw8wYKetwJW-T8MrvXXgLWnv3ZN~yGKGo-DQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="hhttps://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/alex_rider_operation_stormbreaker_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Alex Rider
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_l0l43jmj/v/1/pv/1/ev/10/flavorId/1_ynx2svlf/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9sMGw0M2ptai92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDA5ODV9fX1dfQ__&Signature=MAXTbCZwNgGChWoutIAQOzv3O60lr2iJxLMZMsHLM1--bG~3GKkBJTp6NhAkZ2qN0SCjEWnTSFv2~UMn1rzvyuUMSJEN~UPGyVDmPQUFyNJHq3ug20VQk2Sol9eXMNN7ZMloQujy7G6Ds6ukqa8OgKrf1dlj2RUn04e9VQCI~59LR7Sd7fxN8t~H9HnoybYc~sfBNGdJ3GgoO-4MZKHyfuJheA51s4TnmgybuF8DhgKFXkTwlkSEbjQd5rSJih5ejMX2wKwrXRXBzBSzdZP6~HfiN4kpUv-l~CU164YztHQGUp50KIf6un~BPKAaWmlEqrsJ~I~rFu2hpTV4~gRjyw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/inuyasha_4_fire_on_mystic_island_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Inuyasha 4: Fogo na Ilha Mística
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_qy1r1gxx/v/1/pv/1/ev/10/flavorId/1_3cfxvsyf/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9xeTFyMWd4eC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDEwNDZ9fX1dfQ__&Signature=UoFUmU4eJ2YcPe~r-Oo9dmsYDm1TIhgs~BsU2R8aql9lytk54VixftMoxbmzNkfBQOKJaB68LkfzT66Xsl4AOPVg~pZq2oIyArf5QlD8DjXWLUBiYb7Z4r4xunCfBJ9nPbGFrESmwu26~epVxPkd9JLxsqvXNaxIJ9tdvX0n5LQpydNIna~PTks3vPjP6Fl6aUf2K0OuNWCruH6Z4f5GoAu-WYV1QhjAatgJVOXi7oJga-H3Ew4xyhN~Z2qZrFXlDt~B2AiFZY-Rjk~YETGZI3nwWSWMvHuWs5WmRFzjJNAliOGSZSWm6c8t7TaOsMYFAOKJkGJmyZda~3pZWE~5Bw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/samurai_x3_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Samurai X 1: O Filme
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_2y5oflnz/v/1/pv/1/ev/10/flavorId/1_0vrkfh59/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8yeTVvZmxuei92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDExMzh9fX1dfQ__&Signature=J~KTEIh2ZnPF-GxCvAY80NMy~B4gA8GALC1qNC7iWk78Wv3o1lxMExuo-3rEkRTzoyoL2MwJB1OANBD8cgfb~HnpXZY5vS4-eqTeEKwiSU5-kBrASNdvjqcu1kfKmsiezO9T2peRmbl~GXzyCrlNmkVbVRPqtjRFIv3yS4jdtaX2Rx-RkzVYgjIL2GC4sqfZBa3N83F0A59fpNrlb7fiJtm6upkmL~6OdwNnAGBB367IkGp4Wc1SWlIuDG0l5douwsqgblHw466ep60E-aZ7V5~Q2-nQiOm9Sxd6QKVca-b3Y~-FU3LTIxv9L0GTRkBpsbwlzHIlhPFA7gJkwKkjJw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/samurai_x_2_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Samurai X 2: O Inferno de Kyoto
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_zvofx10w/v/1/pv/1/ev/10/flavorId/1_7tb8mj9g/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV96dm9meDEwdy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDEyOTF9fX1dfQ__&Signature=BdgUZAh-bsoMEYG8yOx-3pRl8uFeTcjIwV4woTFlHoABttDS1~odmXvzNOE55lCPNeSHxvpqvIevSxwvb-VWmoI713vumkK7zl92dp8c8txzkYiz8huOBWMCHplEI4u99De8aPXEoFvT5aPaGVCWF6CN2j7RL-TQlGwNj2eoH~2Xq7heQmaIw7CKm3m7T1Nvr4rvBxQzshWBNxZ3pfVccYIz52lqt6hr1kMXvZf24IO0Xq8sBUS~lQ149OMidsGKBDAdAJwo26Ak6J6vTnQATRsACH5leM6YeJHruohOd6j8UoViOw5M6wxJQhxQFV2A4eOgnyPJUu4f52912CTj2A__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://media.tenor.com/5LKt2plZPkAAAAAM/macgyver-approved-macgyver.gif" group-title="filmes",MACGYVER
-http://connecttvapp.xyz:80/mgf4c18/mgf239161/18094.m3u8
-#EXTINF:1 tvg-logo="hhttps://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/the_king_of_fighters_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",King of Fighters - A Batalha Final
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_05i8iazp/v/1/pv/1/ev/10/flavorId/1_yfvpazvw/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8wNWk4aWF6cC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQ2MDEyMTd9fX1dfQ__&Signature=fJeRYmo5IZts0zN~KKKBY924v2DVvKVT-Y-BlpUeE~dDDIvxa7XrZ8qzEK87S1-6dp51~vNcQvSCMWIuViDoB7KrSYdPom7jt-BkemX05L4Ud8C7H1qHUeQjVANRcNy4gW7M5yaissKHUjzhOGCqzS4tgVz3LymPMszoHF6LqME-3xq2pbgtLVprPLKfO3nkMbNQE9-QBY9S0R8U3SU5lWQX~zgY8M6HM7w2c0spQhwVXW6U1DNNuket6og5x4YJOQACfIgLcAtCTtGSciktu1tfx~7e6WbyNXlt472T~uc4YnxwYjwOmy8bPjIsGdU7-Qi3rytX~5nZrfjIT683mQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/04/22/18/15/3561252.jpg" group-title="filmes",Obsessão
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_8wqypieg/v/1/pv/1/ev/9/flavorId/1_zin7fiy4/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV84d3F5cGllZy92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NDYwMDIxM319fV19&Signature=MeRVMTWoIwSNtOsvc4FvFeDcnWsYkkqq84YstjY6uo5mJFb~vdi8jdntDC04EuDWY0FmpdXAyKGUT4R6w6Gqn-MXxToxlpehysm7~HL1f85VuKChFrUFdAl2AM7pvmCHwWFNtEFudFuZ8A6wbT8s2onx-oEYEnpUzDyaekFoJlNslV74-JBDMvuySxu~WE3ZB6YHZbH2kUOiZ1smBBdECGlT6-i7epxuxQ3es1Yn8K~FbHkq2MQymXsQRLgbnrWxHvzJVxQKr~DK-tPbtU8vbaJrWbMjtsi3qfFqoi0-7IW8Z4pJgXYAhHvJWt-md3-yQkotWfxs0aHfHSvYyQbZqg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/disaster_movie_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Super-Heróis: A Liga da Injustiça
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_q9addcc8/v/1/pv/1/ev/10/flavorId/1_94kke9g0/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9xOWFkZGNjOC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjgyNzR9fX1dfQ__&Signature=aKNWxhGn0mL1CIRW4EhgYinbILrDyV9j4xyC02Ek9eM-g3E0d4VxBK~2ZRblDIDtTEgPiSG7EiA45prd5NohCPGA0lCFFF4KrT1AD3xv8VA6TThoz0Ay3K4EgtlE1WW7tn8Kd-S4eqkiYHSv4y5J8cIq4Tcj6CdlnommhxVCd0eYeO6ZtqEDZ-ms1sKK6nYG-XEYDfGdf-MyAjj-2KXD~TgIXGgOCgirDHVGoYS864pj2zh92HbLokfdMDxqEH7Fa35F2Ukf9nFqKJ7zGzLrLObKja6Cn28WeZZlwGZW8cCMlkHqLasgMMFav~8oS8EJeXrPAym3nTCkjXaladV4yw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/khumba_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Khumba
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_r8p05vjm/v/1/pv/1/ev/10/flavorId/1_dy4rjkpx/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yOHAwNXZqbS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjg3NDF9fX1dfQ__&Signature=FCWZtSeqCJ1ZVpyNct5uSS0V6H5UBxShC-84mBiljh66ckOjFdNF2pXMJ0o0dds3A0J0FhKRuqWsuGx6M3apEnzt3ANEgw~190ktV8aTTetEdK~5VJSEpmTpW-YdPsHZapQwB4za~QQUB225HaOabfD4nqbvEQ3lU~jKDGPCtBeh85WbNXWewVv3Izrwr-B0uBq4tYUSxmkmt8jm2RhMV7wiQJ2e0r9LqDbdILF0apv15bloJXVJwjrNyYkBoODyF2K-acf4er1~tYj8ywwp5zz94~mZ2DuXam6W-Hbm3do~Psp4XOm72dBA7OaBJ-xE1qvVAZ9urXjZw0loXO62Pg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/beyond_the_reach_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Fora de Alcance
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_b8egsn5h/v/1/pv/1/ev/10/flavorId/1_uxgm5ysn/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9iOGVnc241aC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjg4MTl9fX1dfQ__&Signature=aO2icWDjXQbqU0forrHIN7ExQBjB-nFct5-d95hzAEVZR~n~i2qUGU4bTlOabDq1dTEfSc4LdQPbuR8Od4Pu0IJEz5ssY2NWc42niUnBRCbs9~DqjuVWU-x6SgjXk2Xisbmlm6ZAIt7xBRYSOJc6TwuGvNNN9RA7UqGo-MUSojfU24d6CRofGizwcffEyVkeVmrc0cKzPkAU58TnJorL0z0g6YDeJTjdL~XLaX-Y6YxTdDIH3dwPOeLpDZ~AmuLjAHyg31wQHL5iOrkfzW5NUWIAUIY~HMRXwQT01rcxYIRegSyF0aFuwnWVHIcWO585odzNVyqNJZLI9g~mOVfH8w__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/fast_track_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Nascido para Correr 2: Velocidade Máxima
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_ajlca8tq/v/1/pv/1/ev/10/flavorId/1_knpmr7c6/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9hamxjYTh0cS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjg4OTJ9fX1dfQ__&Signature=FFH~T4JGuZFz9Zlbm4ZpG4k1-2DIzu93tv815DKRAJp9gs0xt-YwWPxknhC0CMUZLX53TzhHAMCev~iUENdZ~CshPwLM4PdQ7mIW~A29FPcyr0jLf5zuyIWEq3Nkwzjt~DUPiyWvMftuc~8rMWxn9UH9akxMt1ZJosA2H5lfTYJ5ts1CkanrNEHcXDZn6W8vG0LEhtgWUfbw-L4VfcNlbPTG5BhZ~2Dd6pKX6e82REjCnPhzVYjNWw60Dl2B8MT1JLd9y~phiidTzKAAIBTLJtu~Rw3FLaItdHsFHTwH5Dmo~9RZVRXARdj6DBtKRh69JSunsMTsVrkbhGg9UfdHrg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/redbad_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Redbad
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_s65fw2x2/v/1/pv/1/ev/10/flavorId/1_0w0eygtj/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9zNjVmdzJ4Mi92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkwMDB9fX1dfQ__&Signature=SrwGbQzoT9J4c8RybtBj-bMe19KtoEAZ0kVkKCoLhoe67P40ieyQxDf-C2F8q5uvsJ4~0wYHl7dT1T8uDS44xpxfwAi6drHoKqautgT~ABBGz35CJ1G8Duq5fbsue7YmKS1hp2gQKJ5d2cRW~rvrfw2JxA8MtbmzDX4x6~te8wmF4Znw7S3Dr3uYaCB~y440do~2v5fpta3sWYzY7p7LShdiH0AazRpmYNQsktfiudynfBqpCdfKWuAfq9BkTeWhfOE1o7p7mQtAwRfRhIqDRqC6awcge4smfnE6xCbDMkdsmxqJpYboDWl9YD7tENSyh6PXF1OlpC8q3vYXBfFGbw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/stretch_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Esticam
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_7skug76q/v/1/pv/1/ev/10/flavorId/1_fltb6eq5/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV83c2t1Zzc2cS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkwMjZ9fX1dfQ__&Signature=Gy4Q2vK286yRqgEzmMB8zWO1h3gNZ2p5pAYvXAfQYaRNkMXYJRKpdjUoqTm2xZ0fiZrmhwePxqd2cMsDxpA1y1CZO0f4KGnAbbx12L1PszVzI3HdMXGammWxVnKpK1yokQQ95S0XVTGPD9GQhEqzDkCbPQu5VN3KNPdGkwa7EYBoBKV7p2fy5kMXpH8tDw-~iWTrxPlJ55JMr2etjEifHGAQ0XWavxSFFjy2XlDCvzBEeRvmVAlk78y0Ui7uNxRzhf~0Upj9wtoXRPqpuKbbyRktQZi7Mhx-XMOjp-IMDekq1EaRWRPUqrpGG3nxMLfgGpedfOUAG2n9XLUhjjBxsQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_angriest_man_in_brooklyn_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Que Fazer?
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_dv7ejoqx/v/1/pv/1/ev/10/flavorId/1_re9uc5kr/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9kdjdlam9xeC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkwODV9fX1dfQ__&Signature=VqmyOP6wTUIf606XFL8ZE2x3s7cB26zHOd8rL3op6sd7SZsFiRW9SUAwNHaIQAjYBm9FCpiegEnf6yl3r73kCUbzkKm22in8kzUvrfulQiZYweULjp3MP920dPT7FpgkKfLDVPusHlN4vOEGHhovMrCNMvknFp2GEHLKCQjhrYPJr6dPL9rmAejUIUVZpZjn4qupiUTllHI18d8JdWquu8COfZbbVETFalcUv9PzsJRGbEdh1q5gTVDyH8C5yVeYtiOqYujtqUlOibIrYXZawUJLv9mrcnqyGxDeLuVKIVG-6ssmeiRxxicaC3fiWPlAPM9nuKOHcuUrGEZOo0IJaA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_seventh_dwarf_thumbnail_16x9_widescreen_br_v2.jpg" group-title="filmes",7º Anão: O Pequeno Herói
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_snzun1ac/v/1/pv/1/ev/10/flavorId/1_a5k5q7ff/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9zbnp1bjFhYy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkxNTF9fX1dfQ__&Signature=Isr932O5u1APIIlAhHlnYD2FxsYtL8kEF-dyPaMkebsUKQn-69N-aOEBk6-ksx8643jJyOnzwg5USMaT3ytttmAv81ubyT5damCpWJ5ykySIGAFNIyWq3c8ZeME70tDOjD5NBWjRNAVs3nYFAScOO--80iR~KMRoa-zQpWKWbxkxa6fiXVkCvysiivwSa0BOTRNm9igxQGJb3ZiCM-9gtImWbExYUWy7w32I1IvlhRaT15VUjxiRCrnk-47O0bzx24Ls833VXV7zhTlcQJvTJ9eNfu4fEF17Cx-bbFevoWI-Uzi0~Qi1-0Fu0bBMN3VgJj7myMJReOSlXMpWND7EEA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/everly_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",sempre
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_g2effnj2/v/1/pv/1/ev/10/flavorId/1_9wb6c7w9/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9nMmVmZm5qMi92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkyMDl9fX1dfQ__&Signature=drzH~XKwXX1OpFVWwqSbfjpIXk5YVPTMuCqP~6AgfUPvwmtvD1GKSQkXIdUhxQskRYpWXQ-CXvZcj0JpV~sAlt7l6KgZ6JdtDNTWbbH7HNH3g6bZ2jiSvPeSqz14NqhW0fgZcSOtYT53gE84CIbYea8gH4jMP6oPFpSeJTsBLLC-rA-TrJcB6x-Zyta51Jw33UrVDkcILUrerOvi3NeMRsKNS7mBlBkceBaaMUtqMvEEeyDa4AMxXrpW4iAH41WiKsZw1KttMxpYPuUby1-lHeVWJYvtBltkJ~jWfCK49L9K9emwqYYEgtvL8gbaki8uDAKzwovXp0AHdDUpUs-KXw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/long_way_down_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Uma Longa Queda
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_bent85mj/v/1/pv/1/ev/10/flavorId/1_io14is5k/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9iZW50ODVtai92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjkzMDV9fX1dfQ__&Signature=DO17naIAHHRLwCsWegKWaQgOT16KSYIYGokCbyFdb-uam0e8EidP2Kph~9uEPjlFuxLICGJm0lEqIyApu49j7jxkAzLur2VQwwZR7WgzeKeTWON0qulB-3Go~VpSr--HEGJATgRl6ozgjaeUO3FSlBehNNs07r2QZe6Jk8ehizOEVnPaeTd~6U0~NwkmiFlK6g7epAAMNqLlnEo3zqH5kPGmY0xH97zv6RLFMl4kc~D31yeS8AgogXscB4BMXijRlA33bRgpby2n7BESxsuq7ekt1fyJq-7TLLgoS-9AD-bH1DeIJwew3sPne1AaONTgFswkbszQM-K0JopDmN5NvA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_family_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",uma família
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_rdbyqlyk/v/1/pv/1/ev/10/flavorId/1_l076vtuq/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yZGJ5cWx5ay92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0NDh9fX1dfQ__&Signature=QuIAVyc78jB81o9Hmp-nTuspyLo3lsM41-lOYBuoJRWxLt7neWfjIZR2wkmv4V08UU1CandDNiytbuM9NLDcySCg2iLoAnJ9ayBqTfe~B6jb6YUVNN42Ps5A~GpXFFSoSHWijKGpH7Q1GBCFLwI52rIqgVKShlSh6VwDdZ75L3uw8oBdCfqaQw4O8iBPOf6H0yLo0Hg23p-aXfqDWB9Oyipw8AYTAGrT~5lkp2OPlxsbKAxX5Rzyf6aIa1vFvyXTSasAg7d6LI0U2fhMkdLklLNwJJItrtdtNanU-0uEbVh0ukKep~UnoejPd2tm9KyKToZsUy7Fwfqgzv1MSBwV3w__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/assault_on_wall_street_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Homem contra Wall Street
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_1370ln3s/v/1/pv/1/ev/10/flavorId/1_fjty4ax2/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xMzcwbG4zcy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0NTh9fX1dfQ__&Signature=XlgORyKmN5B4~RbH0Xu3hOLODoe30S8D7AEhXViGH7IyZEG71uzrCsBNROZVi2zJVi0T9yQ4bRA4Ib74~FM-fl7YXD~I5Y7IwPUDp5EUPlzs96tcLS1QR5lOBiv4PT4QnKLocE09pX3BGe28VjKDpY1qFXqaQE8xLBEg~76TGIvgUbfbP5U188yq-HQNHLx6z6hFcl8sSmrad3YQuHtapKcX~TnxHulicXJirK8fdPFprkIfmppaBKVNk7mT-tT5OEuYZtJ8ePtwJ6C2cY9fErTw0HmuNimoVfR3J87EX15woHgHXx4O2g9keBlss5Ub1biFdBw-geJhjHVBy6PqnA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/hit_and_run_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",relação explosiva
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_l6c2dj4o/v/1/pv/1/ev/10/flavorId/1_oakzxcu3/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9sNmMyZGo0by92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0NTN9fX1dfQ__&Signature=Ae00FFeaoMI~tQcFmBf9W2oerzbvhysQtGzJ5HZ6WKDd7tEVTkAOrDbIhopqGFnP5zRzb8eg9odWizswiTgNJxiis-4LfAnM57i4q-ZOMsHYrL8~dgUuu7WEkpDp6SawFYnGMqG9CaM-~KyshoXPnQ-~P4jfIwEm85AYDLEoYITRdxt-RB3o-1rbUTJbX2m5wr9TOpGGe-jrwNaCCeUcWWIcWKnGetdAJgjMaQjcaNXxJYoWRF4Th~~LEKvwOEyezta5QWmjjtaLxPekP2RVEracMHdXwFBGwZD8u3IX0k26xDIxX1aUM03v~Uol6ESm-AvnqAZyvrJ8Y~3UrHMIDQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/out_of_the_furnace_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Tudo por Justiça
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_idh8n9xo/v/1/pv/1/ev/10/flavorId/1_mhit7c5v/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9pZGg4bjl4by92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0NDB9fX1dfQ__&Signature=BwbtWdYUFHcxzhojzSkTTCqphfm4xCEp675e2RsvpN4KLKYaDOz6gURUtaRCkJKGBUTxJS1lFq3wM0DEjUb0IksBmkVOGfQC71U4Zpw7CA9zHK7m1Lgx75RloYw8RWjS5IEv~2itF5Ygbfgxtrdhcati2wPei0qaTLsWiAMhH3V~SdJUUq-~146sucePOWiwNj5iOhAPhZ0Efpe8n2Fea0Yfil4Hoxkyrcg1gEuwdpyem472uaUKZFX65YdqGdEDaSi-A09KDWOZm0e1aaGizsGcSR3tseHt-azOxgEpbb8W3XLeT-CoTPAKEYb1mchwllmu-ym3wadKqC50KNH~eQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_perfect_wave_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",A Onda Perfeita
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_106kefsy/v/21/pv/1/ev/32/flavorId/1_gpyuclsi/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xMDZrZWZzeS92LzIxL3B2LzEvZXYvMzIqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjc0MTY5NDM2fX19XX0_&Signature=SoBzqUOfhTfykNR00NRL37s9NS9XOLMyFZphY7OQeSnlPJs-6nbv6DH5c9DkFN9AOhprrsrY~7VWjNLsoMcztVRwuYoBBZfeo99lDrIvD1dZyzzl4HfaN9RsYvM5lPQpULGh8EItzBW0If0~ufL1m4jzEbNuTQeivFTT~ix32HumKENkBN5tSrSSIRGJKdp3FjeTPmfioEs9lhNoBEF4v759x3~8nzjju2DhfpuI9TsWFVy~B21-InAONQJjKFsit9hiMsdsuGJa2tLecjuPxpgDoQxpVta4QlaVyG2bbKnIw8SbsltHwa7cIZOPY~Gcs7OCfBNGP~4JfyoJPlMeLQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/samurai_x3_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Samurai X 3: O Fim de Uma Lenda
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_em3q0ts3/v/1/pv/1/ev/10/flavorId/1_n8fwcvt4/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lbTNxMHRzMy92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjk0MTh9fX1dfQ__&Signature=JIta7sNaF22VyHTntXMp12~j65~DiYRj-LWFWzGz8u1LD2AfihsRTt9UdaWjS0~WLcfPbu0wAQ1~Px8tLFd7J52oxoMxgA4TH8sXOSymghv23LOvWkk5qtrIGBwwsXZ6L54JbCezRh~IxSHLqqwoGGUHZloI46BcU3rPItCRbJAbK-8Kvo8s5NpbUxFJRudoi3n1tVLKkrIXvB9Q0w2l~6OM91YqoCgh0nH0P9NeNC~T0YF1lyEBGvIpvfNleTUMZy4nvTVWf-OrVsE1hE0TBBhmo6zvbXd-xqupTfem23V2TjXldTL8gG1u3TIem3Jl8WksWX7zkWohwQB3YSmNkw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="hhttps://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/bad_lieutenant_port_of_call_new_orleans_thumbnail_16x9_widescreen_bpor_0.jpg" group-title="filmes",Vício Frenético
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_s7dd3ir8/v/1/pv/1/ev/10/flavorId/1_phafbi2z/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9zN2RkM2lyOC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI2MDd9fX1dfQ__&Signature=BdUlkBbDnZE~eA0bIfGc87gXE9QL4YEeh4bM3TqUdNN2heFWw-STEUPwbp-87pGw6ev-V3dXsaFuJojmFsvid3GGrWXkj~aIU7zwe8RKk9gzZ1db1KZe2sdJcdURCoNVr-K7VVjWNViCJkT6zK8AHMrbHLkx354mo2~-uqGeY7JzoaRmMxQPw~Y41MW0AgT0U3zBDIPDnUNkbNOsXY9ZQSbMWunPuxDMwCQlvklGHXQkSNx22~ruD7NUuh-zdggfbELuvnCym-2ons1MdiDxcYj1PzFSLJKhNeefm3mkpi0GHEdwCOwHauF8Lo7-uNwjwST~R9QQPYrBLZhrkfoyAQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/winged_creatures_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Efeito da Fúria
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_py0hmu0l/v/1/pv/1/ev/10/flavorId/1_r5wkxn5o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9weTBobXUwbC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI2Mjl9fX1dfQ__&Signature=AGoXNwvrenHJgHCeb7OMOScvab1Sx3UkH6Gnj2tlogpRDV~rVoHtYD-mFcbigrRMI8hwuoBSHTspNgCXrEP9Ehf2v89v9gg8TtHWRfs5-Sbey01L7na7o~zaN4fZrudQTWHR0vCYaXjBk7KvVGJypnmyMbbtkc7W230kIOylbWNl241T9jAYAEY9n~fAVHtdLrFG3BL81HZO0Mz9ziL8Ax0bYX4HV2I~GYcW41WwtJNb3hZtWBFMlSXYGNnljvpgi8YWGf2HY4FvTBGY0DyhB3XnGsoRhAsBe304e6yHkc4u3lIsKlr9MqFObBiFMvkMdo6tlbceVTagkBaiRDdOFQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/bulletproof_monk_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",O Monge à Prova de Balas
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_f4iqf5ur/v/1/pv/1/ev/10/flavorId/1_ogm28f4o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9mNGlxZjV1ci92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI3NDR9fX1dfQ__&Signature=D~2DrHCF02lbJhoQWTTGz3vLK83qGZuADNRCDLsURNi1dgwfJI8oLYx2l311i0E2k2zAyTWfFl9c~YHg6Er0MtbG9xlkOOnYF6ydJoilhyPtWl2Gq8gekHKnPX7gTkjFY3ga-Yomdv6PvGr8ck-BPc6xv2j0hMvuhHLSYd6ELTE-o0tntNhhsL33FdEbIRP7jjLyd8az6xk6M8IvV2oxOnoUd0ZbxjGTlxCFImJGpahLOD~V6rueilsh7Ng2jsex6vd2RvTzlkMW0D~W0Nep5Ky4opmyrGAaU1y7ovUYd-WCC8FGWC5tVzRctvOlO6uipIAgR-v4inoM2HDHKFzdjQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/kidnapping_mr_heineken_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Jogada de Mestre
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_kklq34jd/v/1/pv/1/ev/10/flavorId/1_ua3qejew/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9ra2xxMzRqZC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI4MTZ9fX1dfQ__&Signature=HzhPA-jvnRWYG534vLdsR81FVC83apdd98AgeeW9VivK~P6YRL~NBNVedYfkmbmnyWk9TU1ruVM1SNMYwHljCMo69ZlC22dcVGlYX~n8WqIOHHOVWfV2RshgFAjwsty8xpnODppjiLH0tsdOIUr8ofq0P-Fyn0XcZQVrtpAKzr0QKdDxBu6nynjFKHYF75ZvrO7rch0GZxCaRLTJe6w2XLJFyJWIbUCOkpWFu-lcwsooAWAqkYtubZmILKyqRvoevk~tSUr4CdYj8yTBfPMqxbFHIZAjzxrTriXwhivf6bGO-DXjreMIstwF-WNEz-FotaODAROcNpSl4tZmiKzsOw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/the_borgias_thumbnail_16x9_widescreen_br_v2_0.jpg" group-title="filmes",Os Bórgias: Poder e Luxúria
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_mqcl61vi/v/1/pv/1/ev/10/flavorId/1_mm5577pc/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9tcWNsNjF2aS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI4NjR9fX1dfQ__&Signature=T-VA2ZaVQNWIDSyCGbnLCcchXhqxYlsmu4r2vxXlZbZi2J20OLJ8vcyokmehWiJ1ZcS8PHHbwPCo9-79Gsro88DwqfQt5zNcZ4v6qZqUFEyshan66L-vmxGuCQ~EP7nkp2XAY-hQ7fCrexLF-LY7wXGWEUDJyBRd-WINc3FTErNdttje9acpt-G7t1-JQH5d0gTV7gLFhyIUJow71WuUDrKtYZ29ZQTneT0FnbGBJsUh~b1sbPOXO-RAmEu~GTccK3OoILYPBQll9~9fl94gvC5zxGSBhm2hDSMcnc5fQWLC4x7Junud6axjNY-3py5FN5Tf7VBcVhwkkVEE9XDX2A__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/line_walker_2_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Line Walker 2: Espião Invisível
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_enl0s1dk/v/1/pv/1/ev/10/flavorId/1_l33xqn9o/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9lbmwwczFkay92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI5MzJ9fX1dfQ__&Signature=aabDDmofAOeAqOy268oV9eCOUkLpqZI2bViIr2nfpE0nbuRwqwOgSODc2pPJsWo6rEoLCNnyFyrqJQ12RFcKC5qf~-PQQiX81U2FGgxNebrIhc~KLXlyCU7DwAhA0syfzASTvDt8jVTot5KoUWMRQBxbR4j4B4~5E3~PgO-ROUF-sqkY5l9L~HruIZtuGIeOrK9ODz1n6k3JUhAddEi0YNzPQVQvK-N1M9GDwbpejjupJhPnIVmdgENOHpPgU~xKnDuKYMiXHXQSOAV3hbeaO-DpL5DDtRmZve0BA0kVGYfhY05n6mOFlk15RQ7kDikPQvu81vVLI7MiB90tOAPDyw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/paper_man_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Tempo de Crescer
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_r928ja3m/v/1/pv/1/ev/10/flavorId/1_06ik8v1i/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9yOTI4amEzbS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNzI3OTN9fX1dfQ__&Signature=TZsyVcXN8ZJa7Mk7gJ46~cjG6eOA1G1eEhsmjg4FEgUzh8VNt-kc7PF0hVXr~t6YgwUSVqDs-13Gc4PtHNg06sSOWv-jEw4sHXvc5XMoz8oJYYOjKXoe-hXFq~Va8VnBhbPEbEM0Ip6SnhiTiuMXmKzIuI1huKbI5yWJru00hV5KCrT4O5f282fgRS1TMv7Va4jNX82Yu3PWomVooyAeJYS~uR9x54JCOr22WnXLjFaoMA2anyU7WzDXUf9I6rkvHhNGUqbaUCgdxR644QSIkTHmecqKFfJep5go8B67aXezlEfkuqHEeivFzpgqCcS~nbahRWZK0Pr1c1UvUOVFnw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/month_stretch_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Uma Juíza Sem Juízo
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_140wisby/v/1/pv/1/ev/9/flavorId/1_9hc25flh/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8xNDB3aXNieS92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NDE2ODY3OH19fV19&Signature=AqqtJEScuceKH2P~FwGK70fL5LFBfm~L5GKoLM9qcYmctNAgaPCyDgkZBCSRv-HseBM4glTJX51elbqbwi0YuU7MOt89qyX6uJ3yz~red9UTc7W7lHdrXqr7hePu3BAwC9IS0HX9nU8Q3dEZsTAsgiIQtyTRB~yvYNY7sbOFMK42QE532BD7N~5fHdOGavVQEVqoCR4svGMGVTM03otZFjt0hcM4pkWlzgOUqLuvBdWNUhMd8Sg~pn4Z46P-FlBS80xnPp4m1eojFH2MS8JVJ2iCGifNnIJamBTQWiUmtbWxC3MHQ1r4F3BPRwd9XRFvIM~ewiT~2fXsN5RRABZQuw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQug92yBVBiYymJE0ZY0S7UqW6Grs_qOAaDzg&usqp=CAU" group-title="filmes",King of Fighters - A Batalha Final
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_05i8iazp/v/1/pv/1/ev/10/flavorId/1_yfvpazvw/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8wNWk4aWF6cC92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjg0MTl9fX1dfQ__&Signature=I0SlMxBOo-3xFn6k18~YKtkUynFrSSM~teWgOMI0XxiJdntt~dQeRJFpEC10wtgM2fn9p3fLF5T6np8IQYs1QSzO7Gd~hkRsHPKPmk22BgJbEbHo8qWxBS7tC~JrNl0sr2Ee7UKSEJdOpTJweiU2WXFoLB3Zywqo7myFvHvtRhjzw40KS9Y6tE9pVURBqf-PzA2SXaT1IBA2uIC272sgj5Z4His8rhtr4yMo97-5HYdCHSEEtMMGmb-~GhLaXrFSEhfBGw7wvFRUDCI85tExfWcK-C5LJDvOCip2RcKSpCqAyqke~Mda-PdNynvzCudDRyqYFlTkGUuFw7epI75~6g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/480x270/doomsday_thumbnail_16x9_widescreen_bpor.jpg" group-title="filmes",Juízo Final
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_0lzd7hey/v/1/pv/1/ev/10/flavorId/1_25suzdpn/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV8wbHpkN2hleS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzQxNjc4NjJ9fX1dfQ__&Signature=KJcRvocuzkuZW~nnqyjps3rGo0tiEBPuMP1doOhDNCxyf6Ebgj0b9ygkU0Cpx7fmjL6cmD3YXC3s79vTx-3dNmSXjU9HfTJ1CfWYBT~PlBBHwbTjd1Nv9uGHHIDl5idOfBMT52RXXCWx7E5XDYkaosYLdxrttKC2Zk~fi6sgeeboxIbp5CMOtbz2oysUUiiDFkt2UOFRsLugViufSpFtynUtV5jsLW5SBWuD92H~dVINH0TGd9G8H-Rx1~0X-ViWGtYMVqdFjFHW11M7Y2s9ap31-2cN2N78xKkcRJkuAMS9L4tENq0DfhR0v0E8cS338YFrPKD5vmYs4XEei2Yyqw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/moments-in-spacetime_pt/moments-in-spacetime_pt_200x300.jpg" group-title="filmes", -Promete Que Não Vai Esquecer
-https://play.prod.gcp.vix.services/moments-in-spacetime_pt/moments-in-spacetime_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/killing-down_pt/killing-down_pt_200x300.jpg" group-title="filmes", -Caçada Sangrenta
-https://play.prod.gcp.vix.services/killing-down_pt/killing-down_pt_1-1/play_hls_2500.m3u8
-#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/love-is-strange_en/love-is-strange_en_200x300.jpg" group-title="filmes", -O Amor é Estranho
-https://play.prod.gcp.vix.services/love-is-strange_en/love-is-strange_en_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/TBcr6jWGzE4AAAAM/kopfkino-kopf.gif" group-title="filmes", -John Wick: Parabellum
-https://cdn77-vid.xvideos-cdn.com/2EezjCFVt3f72Fwqsc0zqQ==,1672456743/videos/hls/07/f3/37/07f33796a1842a23356170c2578f945e/hls-360p-3a6f0.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/high-rise_pt/high-rise_pt_200x300.jpg" group-title="filmes", -No Topo do Poder
-https://play.prod.gcp.vix.services/high-rise_pt/high-rise_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/men-of-war_pt/men-of-war_pt_200x300.jpg" group-title="filmes", -Homens de Guerra
-https://play.prod.gcp.vix.services/men-of-war_pt/men-of-war_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg" group-title="filmes", -Assassino Sem Rastro
-https://moon-storage-delivery-s35.filemoon.to/hls2/01/01851/zqa15v5cs9fb_x/index-v1-a2.m3u8?t=Eu0qseV80Aii5hAryNow-G2g3PxzayxbARUIunZE-Q4&s=1672527641&e=43200&f=9255457&srv=127.0.0.1&asn=1&sp=1500
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/salvation-boulevard_pt/salvation-boulevard_pt_200x300.jpg" group-title="filmes", -E que Deus Nos Ajude
-https://play.prod.gcp.vix.services/salvation-boulevard_pt/salvation-boulevard_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://www.einerd.com.br/wp-content/uploads/2022/07/pantera-negra-wakanda-forever.jpg" group-title="filmes", -negra wakanda
-https://delivery-node-mikhail.voe-network.net/engine/hls2/01/08429/osvi54scd3fy_n/index-v1-a1.m3u8?t=2UL_S1nCZHHUIDBwQdrxmXl-eM67OOC2ELcu9bRj3js&s=1670644774&e=14400&f=42147721&node=delivery-node-mikhail.voe-network.net&i=45.167&sp=4500&asn=268042
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/maggie_pt/maggie_pt_200x300.jpg"  group-title="filmes",-Contágio: Epidemia Mortal
-https://play.prod.gcp.vix.services/maggie_pt/maggie_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/fort-bliss_pt/fort-bliss_pt_200x300.jpg" group-title="filmes", -Laços de Família
-https://play.prod.gcp.vix.services/fort-bliss_pt/fort-bliss_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/shamers-daughter-2_pt/shamers-daughter-2_pt_200x300.jpg" group-title="filmes", -O dom da serpente
-https://play.prod.gcp.vix.services/shamers-daughter-2_pt/shamers-daughter-2_pt_1-1/play_v1_hls_108
-https://proxy-14.nyc.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpQ3vt1oV9ckIadM3eorSBninp2MFJPVbDqhaX-WxdSJbin-MXL3PJq87KUxSTDRSscDFxzllhaOzJWxO9SJsKlk)/video/394/116/506611493_mp4_h264_aac_fhd.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH2mEavEstwUPp2ps388_BTHzysF7RO5kSbvBPVx1nQ1ZqBIk6H50C_KkH05F0w-PgGEQ&usqp=CAU"  group-title="filmes",-Casamento de Verdade
-https://play.prod.gcp.vix.services/jennys-wedding_pt/jennys-wedding_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL61PR/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="filmes", -Em Busca de Justiça
-https://proxy-06.nyc.dailymotion.com/sec(EmIm9qZ57xxVtk2oHDZgSorIdwWyC6p8ZfLFRYUjftV2jFA53et5SNGmTNjWsNrkQ6Sxl3PbYsOEJceM_3MhMseBrM71DXRbH0Pv3xuT3L8)/video/725/116/506611527_mp4_h264_aac_fhd.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://www.planofeminino.com.br/wp-content/uploads/2016/04/follow-the-colours-big-eyes-olhos-grandes-filme-poster.jpg" group-title="filmes", -Grandes Olhos
-https://proxy-033.ix7.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzmqHlAOjdveXCp74biWW4uFLphfKyNaA_ONtHowXeEmkxojwwPEcucMmAHcF-hez_gp5obp6lTOEiJ_H1pcWlAE)/video/206/271/503172602_mp4_h264_aac_fhd_34.m3u8#cell=core
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submergence-sofa_pt/submergence-sofa_pt_200x300.jpg" group-title="filmes",-Submersão
-https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/welcome-willits_pt/welcome-willits_pt_200x300.jpg"  group-title="filmes",-Os Desaparecidos
-https://play.prod.gcp.vix.services/welcome-willits_pt/welcome-willits_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/braven_pt/braven_pt_200x300.jpg" group-title="filmes", -Perigo na montanha
-https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://www.shoppinganaliafranco.com.br/sites/saf/files/cinema/ad__o-negro_1.jpg" group-title="filmes", -adao negro
-https://delivery-node-ibtisam.voe-network.net/engine/hls2/01/08438/9vrhzb9cvof7_n/index-v1-a1.m3u8?t=HfxB5N2JY3YYGMHbjaErqzT3bz6DLEO1mTNTd7Zm1DI&s=1670645000&e=14400&f=42192517&node=delivery-node-ibtisam.voe-network.net&i=45.167&sp=4500&asn=268042
-#EXTINF:1 tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-condenacao-brutal-sylvester-stallone-ma/brotherscom/9441485852/91e8931282f5634ff2ace9689617261d.jpg"  group-title="filmes",-Condenação Brutal
-https://troy2.s3.us-central-1.wasabisys.com/cdn3/CondenacaoBrutal.mp4
-#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/2017/coisa-malu-thumb.jpg?resize=480,270&crop=entropy" group-title="filmes", -Coisa-Malu
-https://vdn.libreflix.org/video/coisa-malu/coisa-malu.720.mp4
-#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/53aa0ea0-0b91-11ec-9742-4bf51aa62f72bcb56990-eae8-11eb-b74e-f33afdab038ecapa_filme_wide.jpg?resize=480,270&crop=entropy" group-title="filmes", -Lú
-https://vdn.libreflix.org/video/lu/lu.360.mp4
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/swelter_pt/swelter_pt_200x300.jpg"  group-title="filmes",-Jogo Sujo
-https://play.prod.gcp.vix.services/swelter_pt/swelter_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mussum-cacildis_pt/mussum-cacildis_pt_200x300.jpg" group-title="filmes", -Mussum, Um Filme Do Cacildis
-https://play.prod.gcp.vix.services/mussum-cacildis_pt/mussum-cacildis_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/face-angel_pt/face-angel_pt_200x300.jpg"  group-title="filmes",-A Face De Um Anjo
-https://play.prod.gcp.vix.services/face-angel_pt/face-angel_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/rescue-bus-300_pt/rescue-bus-300_pt_200x300.jpg" group-title="filmes", -O Sequestro do Ônibus 300   
-https://play.prod.gcp.vix.services/rescue-bus-300_pt/rescue-bus-300_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/antboy-3_pt/antboy-3_pt_200x300.jpg" group-title="filmes", -Garoto Formiga 3
-https://play.prod.gcp.vix.services/antboy-3_pt/antboy-3_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://gifs.eco.br/wp-content/uploads/2021/09/gifs-de-casal-dancando-0.gif" group-title="filmes", -Encontro De Casais
-https://play.prod.gcp.vix.services/marriage-retreat_pt/marriage-retreat_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/09/26/23/49/5652254.jpg" group-title="filmes", -fuga
-https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_t0t90a36/format/applehttp/protocol/https/flavorIds/1_snjewnf7,1_y554ntp0,1_knzxaagp,1_wib2qijx,1_dwewlgiw,1_j5bc0hpk/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1675538065&id=1754&ip=168.227.218.20&override_expiration=1500&sign=WdvIDb%2BubYbAFn0mv7%2Bu%2Fhc4g889aANbw2IbufGYYXc%3D&playSessionId=fdf861ba-039f-71fa-6226-df73a1032245:050ea07a-bf2a-5ac1-d609-9779d1e355ef&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL2Z1Z2E=&clientTag=html5:v7.58
-#EXTINF:1 tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/underdog_kids_thumbnail_16x9_widescreen_br.jpg" group-title="filmes", -turma da luta
-https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_7l1wqr4x/format/applehttp/protocol/https/flavorIds/1_zjudimvw,1_nyhiz3wf,1_p2k0xqc1,1_a6omk62g,1_drgmps5p,1_oc6c9anc,1_3vz5k15f/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1675538276&id=2444&ip=168.227.218.20&override_expiration=1500&sign=Cop2y08adTYPJcSwrnwC3Mrv5lm5%2FULt%2F1D1HWel1ME%3D&playSessionId=d3939d7a-e88b-f089-da63-39f907af7bcd:84057273-c2cd-5c07-e2a8-5f02e4aeb3b3&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3R1cm1hLWRhLWx1dGE=&clientTag=html5:v7.58
-#EXTINF:1 tvg-logo="http://media.tumblr.com/tumblr_lx91qvCmnM1qagjt8.gif" -filme antigo
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w427661643.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/cleaner_pt/cleaner_pt_200x300.jpg" group-title="filmes", -Evidências de um Crime
-https://play.prod.gcp.vix.services/cleaner_pt/cleaner_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="filmes", -tv bons tempos
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2130737570.m3u8
-#EXTINF:1 tvg-logo="https://i.gifer.com/COTV.gif" group-title="filmes", -filme 
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1540966671.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/rV4x6aE5B7MAAAAM/big-bear-bear.gif" group-title="filmes", -great-bear
-https://play.prod.gcp.vix.services/great-bear_pt/great-bear_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/45/68/cf/4568cf99c35b3a9924910b154640fa7d.jpg" group-title="filmes", -robo-dog
-https://play.prod.gcp.vix.services/robo-dog_pt/robo-dog_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://64.media.tumblr.com/a0bac85df52bca5c771a03646d7c163d/tumblr_nrdbnw2yBp1sqo325o4_250.gif"  group-title="filmes",-jaspion
-https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://64.media.tumblr.com/278e037d779c5cf398ed237e3b285283/tumblr_n2045hNh6O1reitwwo3_r1_250.gifv"  group-title="filmes",-bunny-drop
-https://play.prod.gcp.vix.services/bunny-drop_pt/bunny-drop_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/SXOYn8ayYmcAAAAd/hunter-connect-is-up-monster-hunter-movie.gif" group-title="filmes", -dragon-hunter
-https://play.prod.gcp.vix.services/dragon-hunter_pt/dragon-hunter_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/gsDB22cB7LM/maxresdefault.jpg"  group-title="filmes",-ash-lad-castle
-https://play.prod.gcp.vix.services/ash-lad-castle_pt/ash-lad-castle_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BlankWeightyHart-size_restricted.gif"  group-title="filmes",-fun-mom-dinner
-https://play.prod.gcp.vix.services/fun-mom-dinner_pt/fun-mom-dinner_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://cultmetalflix.files.wordpress.com/2019/10/kung-fu-yoga-gif-2.gif?w=480" group-title="filmes", -kung-fu-yoga
-https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://assistironline.net/wp-content/uploads/elementor/thumbs/assistir-Lutador-Misterioso-2018-online-owcz95sj2och0bgm6oivxna0mud4mhkyuke06773qw.jpg" group-title="filmes", -mysterious-fighter
-https://play.prod.gcp.vix.services/mysterious-fighter_pt/mysterious-fighter_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/FrequentPitifulArcherfish-size_restricted.gif" group-title="filmes", -filme 
-https://play.prod.gcp.vix.services/tik-tok_pt/tik-tok_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRlNTU1ZjItMWEzMC00NjlkLWFjMDktMDNhN2E0MThhMDNhXkEyXkFqcGdeQXVyOTIxNTU1Mzc@._V1_FMjpg_UX1000_.jpg" group-title="filmes", -gold-digger
-https://play.prod.gcp.vix.services/gold-digger_pt/gold-digger_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/rEbE20QO8YYAAAAC/cacildis-tvglobo.gif" group-title="filmes", -mussum-cacildis
-https://play.prod.gcp.vix.services/mussum-cacildis_pt/mussum-cacildis_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/dWsftHjX5uEAAAAj/sphinx-and-the-cursed-mummy-sphinx.gif" group-title="filmes", -dummie-mummy
-https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://64.media.tumblr.com/7df4776b56013e9ded38e9c0187d9da0/b46aaf6466471b3f-8c/s400x600/332846d508c5805fe7be26025293fbc097f4cd73.gif" group-title="filmes", -saving-flora
-https://play.prod.gcp.vix.services/saving-flora_pt/saving-flora_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/W646gL_x0zAAAAAC/dog-mans-best-friend.gif" group-title="filmes", -mans-best-friend
-https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CleanHospitableBeardeddragon-max-1mb.gif" group-title="filmes", -cine
-https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1003176830.m3u8
-#EXTINF:1 tvg-logo="https://i.gifer.com/COTV.gif" group-title="filmes", -filme antigo
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w427661643.m3u8
-#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-IIizbvEzAwg/WuMuaVOyPMI/AAAAAAAAIXI/nZ_YE9cxGWUt2_ZNAFsSXW5c2iphlNqHACLcBGAs/s640/box-office-results.gif" group-title="filmes", -filme
-https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m3u8
-#EXTINF:1 tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/10/Verdade-e-Justi%C3%A7a_poster.jpg"  group-title="filmes",-Verdade e Justiça
-https://play.prod.gcp.vix.services/truth-justice_pt/truth-justice_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/VY18f3VQPbwAAAAC/television.gif" group-title="filmes", -Ghost TV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media4.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif" group-title="filmes", -ISTV
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoLcJgjMkXBMFkD603e6r-B65fu67QXqKK-0uwdJNqFrtkXxsk7yTBbNRAxGxPNQPsqU&usqp=CAU" -Táxi 2 - Mais Velocidade nas Ruas
-https://play.prod.gcp.vix.services/taxi-2_pt/taxi-2_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://c.tenor.com/8kdsbSrl784AAAAd/taxi3.gif" group-title="filmes", -Táxi 3
-https://play.prod.gcp.vix.services/taxi-3_pt/taxi-3_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CoolCorruptAstarte-size_restricted.gif"  group-title="filmes",-Táxi 4
-https://play.prod.gcp.vix.services/taxi-4_pt/taxi-4_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/01/24/18/52/554165.jpg" group-title="filmes", -Gata Em Fuga
-https://play.prod.gcp.vix.services/cat-run_pt/cat-run_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://pa1.narvii.com/7056/55ea7c04501e071a4608c4320fd76338b81e55b4r1-540-224_hq.gif" group-title="filmes", -Em Busca da Felicidade
-https://play.prod.gcp.vix.services/wings-eagles_pt/wings-eagles_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://c.tenor.com/460we4Ae5B0AAAAC/tv-globo-o-outro-lado-do-paraiso.gif" group-title="filmes", -O Outro Lado do Paraíso
-https://play.prod.gcp.vix.services/outro-lado-paraiso_pt/outro-lado-paraiso_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://64.media.tumblr.com/3023f579ec2b2a55a3ed2cc8ef6d2666/tumblr_inline_p9zgbyOSsC1rqq37j_400.gifv"  group-title="filmes",-braven
-https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/VoncL3SJlhg/maxresdefault.jpg" group-title="filmes", -estrada-47
-https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/g5Cu46Hf-o4/mqdefault.jpg"  group-title="filmes",-last-days-desert
-https://play.prod.gcp.vix.services/last-days-desert_pt/last-days-desert_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkf0EPPO1yWoKFZ2IYoaX6dbosnwUlYJ-dcBXewRBkDlgYNOrWPly58PeJ8RZkalYbfs&usqp=CAU"  group-title="filmes",-lay dying
-https://play.prod.gcp.vix.services/lay-dying_pt/lay-dying_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://64.media.tumblr.com/7180f3d9061b3035d2abdd1a952eb2ab/tumblr_pkfbx99QCs1qkcxtwo1_540.gif"  group-title="filmes",-bravestorm
-https://play.prod.gcp.vix.services/bravestorm_pt/bravestorm_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://giffiles.alphacoders.com/812/81299.gif" group-title="filmes", -ringu 3
-https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/DelightfulSpanishBuffalo-size_restricted.gif"  group-title="filmes",-kabluey
-https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-XenaAPrincesaGuerreira.xml "
  ############## XenaAPrincesaGuerreira ################ #  
@@ -1964,330 +2295,7 @@ https://play.prod.gcp.vix.services/old-machine_pt/old-machine_pt_1-1/play_v1_hls
 #EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/where-is-good_pt/where-is-good_pt_200x300.jpg" group-title="filmebiblico", -Onde Está Deus?
 https://play.prod.gcp.vix.services/where-is-good_pt/where-is-good_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-infanti.xml "
- ############## infantil ################ # 
-#EXTINF:-1 tvg-id=" iddocanaldeinfantil " group-title="
 
-#EXTINF:1 tvg-logo="https://rollingstone.uol.com.br/media/uploads/encanto_foto_reproducaodisney.jpg"group-title="infantil",-encanto
-http://127.0.0.1:32400/library/parts/77/1661696349/file.mp4?X-Plex-Session-Identifier=6jjjw60tigqqjhda6jr2cldj&X-Plex-Product=Plex%20Web&X-Plex-Version=4.87.2&X-Plex-Client-Identifier=tjv9whiacni5fhxwby48xhyi&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x937%2C1920x1080&X-Plex-Token=CAvE25CuczsBSQ5Q7zNK&X-Plex-Language=pt-BR&Accept-Language=pt-BR
-
-#EXTINF:1 tvg-logo="https://bebe.abril.com.br/wp-content/uploads/2016/11/moana.jpg?quality=90&strip=info"group-title="infantil",-MOANA
-https://youtu.be/0QUTCifXiPo
-
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_Zn-G8_W3Uj6nStoELa2RlEO-5sZBHXUGA&usqp=CAU" group-title="infantil", A Pequena Sereia
-https://youtu.be/G64vg5OUDOs
-
-#EXTINF:1 tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/ploddy_the_police_car_makes_a_splash_thumbnail_16x9_widescreen_br.jpg" group-title="infantil",Ploddy, o carro da polícia, faz barulho
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_7y1hfikt/v/1/pv/1/ev/9/flavorId/1_wy9mfcvz/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV83eTFoZmlrdC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NTA5ODQxN319fV19&Signature=GsN~S7MxCmpqK9uF7gROWO-fa8DSV9wUNvY69fF0IqMl2siIjCgGixerisC6nJcUUKqfBZJgDGSkN~jxfBOK9SEUuLd~1Gpq9SqnBqIKFPFvDSjpuv2KAC5vF1T6Il5qZBFGoubbAhOAZ7nA21dx2wpPD622tuOb-khjcVKCyjHHV0YJYy0Hi6IJ09jkvANduqwXQ3YQxhnlRB8IsIlJDbFEs8RW4WRNiqtQaMMcJQkzt4kbO3hLbrly9Q0JQM8VbphesBgYzrjJBE3wGJlVPY~ryTpRjlbBbhG1NXcJyUHfVn4Mrx6PDZcTZlZStQ2GygwlLVJgteHYXm02W9dyig__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="https://img3.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/marco_macaco_thumbnail_16x9_widescreen_br.jpg" group-title="infantil",Marco Macaco
-https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_dlg8tdtp/v/1/pv/1/ev/9/flavorId/1_rem0mcw3/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9kbGc4dGR0cC92LzEvcHYvMS9ldi85KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3NTA5ODI2Mn19fV19&Signature=DLFUNrcs4U4b3Y2rGzwiNYynGbiPOdnrSAQwtf0-6dfSHBSOMuZ4s6HPEqWZ4UnXbsTAwdA6jJnyO4F1BwUtrQEH29~Zwv~ym6aquvoNVc3e5SWJ6VB7~xpjMazdqIwlC3yrsu9otL0ldc95PpGdMllDKwM~wfy8wjMrFbsrj8u69IJ4R4Gz4InnG3S02ysyG2uULpOc9oOV1GokfKsPc~M9dIiLR7uBU~-lXCwZLoClOxNVp2mwyLyWyd5iYaQK3n7tUa23-mKsUrTpK-62W0Oxyl4P6Tl8-lAnlYltFlwDmvKyurnwZFf~YCf~MUFxtDs5ftHKd5bhCX6WA9882g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-#EXTINF:1 tvg-logo="hthttps://ironstudios.vteximg.com.br/arquivos/ids/302631-1000-1000/264006_0.jpg?v=637954532000530000" group-title="infantil",POWER RANGERS 
-http://boxtv.uniredes.com.br:80/eduardos/eduardos/2
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="infantil", DISCOVERY KIDS 
-http://8.242.187.233:5800/play/a0c0/index.m3u8
-#EXTINF:1 tvg-logo="http://iptvhit.com/screenshot?http://host:post/live/user/pass/1000.m3u8" group-title="infantil", Peppa Pig 
-http://boxtv.uniredes.com.br/auth/8.m3u8?token=yps76BvM85cKiFz_shI-r8RligeHuiZ1aKsvuBkOdXAafKqc5ceUA5FoGJloqZxMvnfpZXTS9qJyTjBkcPKxx-cGvWEIuETjK0C06D2m2Q1B6TgQTwngU7xCbXAHcfHz6X6eVi1OolVKZwMo4h-MlxFxxPraEPlcgjN2oubWYE82CfPSATIp_TSNLal-fidTXmgDHWHJ2EYbn_1I6zQMsOYrPCmNBarCPa3e79qJe2-v4xGmEprHj7PjlcpiMZRR_wB64kgsQCVKhwHGl-etQA3jkV_UcoYA4mGcVpEy6MNG9zF8NAJoKtZZHnU7ksLdxsbr_bMUOBg0vz7DuhmEmmEPt3uZ2YHGTt1_dkP5y16SHPvDKvKCIx_PKL58KOgMjhtpQ9nl6kPOsAHSVeP6SUcciF_uhr_vGu_Pc_kDH8t9qOWWMZNilGQLzqr_k7sA__AUDWQd-Gf-hgr8yLNIPV-xKzmJvwp0UaQL-ZSs_nP5bLI3wQMHVf7UfPUjZ6ECfFYvMoR4hrGpF0gqBbxbUEk5_A1lv7hmiPEZIdYUUwYH2FejQh92PhLpuAWtOf-CoZFgZQ6jk0C-WV1NkSzi2A
-#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/ban/led.235891/looke_4001.jpg?900994678" group-title="infantil",-Ploddy
-https://www130.ff-01.com/token=gc3UvBJCLH6UhMmxgq9ayA/1670658834/45.167.0.0/196/c/1d/27c00bf26bce4adc970c45c4abdca1dc-480p.mp4
-#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_200x300.jpg"group-title="infantil", -Cachinhos Dourados e os Três Ursos
-https://play.prod.gcp.vix.services/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/a4f89f90-ca25-11eb-b4bf-99d9958b2c1d7.jpg?resize=480,270&crop=entropy"group-title="infantil",-BRICHOS
-https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
-#EXTINF:1 tvg-logo="https://cineclick-static.flixmedia.cloud/1280/processed/8ab2d0ce-20ad-4d3f-870d-6f0e8561c76d.webp"group-title="infantil", -Jack e a Mecânica do Coração 
-https://proxy-004.dc3.dailymotion.com/sec(zvUbbWr2oKyjb9WcqKTKNVVk_6Rtnv9NISe3FQirxK4wLEjpq9rRwTbTA8GOvtZwJhdGAVsjVp7NTaCPfHMKt4I1WprRjpGBTd5WzSCUXzo)/video/272/771/503177272_mp4_h264_aac_fhd.m3u8#cell=core
-#EXTINF:1 tvg-logo="https://filmestipo.com/img_pt/movie/thumb/e4/12428.jpg"group-title="group-title="infantil",-Um Voo Encantado em Noite de Natal
-https://proxy-02.nyc.dailymotion.com/sec(aZJbBa-i7L8siFHhRXmEveoFMBjMyViswVkqneW5kDjcOxnQ9ABcLhzUlaw6py7GE5OvSlaVC0uGFFQqqmPBDJa_QZ9RJX14A0j5_ZiQaWI)/video/340/820/506028043_mp4_h264_aac_fhd.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-to-de-ferias-2-focus-filmes/milesimo/550658590/037ec232ffec404f36dfde5702e611db.jpg"group-title="infantil", -Tô de Férias 2
-https://proxy-13.nyc.dailymotion.com/sec(w5efqWj1U6D91t1Jg1W0Q_Yc4XF1z8FzGo015N-v2t-v2u5BiHk6UcuN7yhLafDABFcNZVIjBGB7a-QEvmrEzogoYksueTYrcRwbY5gKQXg)/video/930/820/506028039_mp4_h264_aac_fhd.m3u8#cell=nyc
-#EXTINF:1 tvg-logo=" https://vdn.libreflix.org/covers/media/sintel/sintelthumb.jpg?resize=480,270&crop=entropy"group-title="infantil",-Sintel
-https://vdn.libreflix.org/video/sintel/sintel.360.mp4
-#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/o-fim-do-recreio/thumb.jpg?resize=480,270&crop=entropy"group-title="infantil",-O Fim do Recreio
-https://vdn.libreflix.org/video/o-fim-do-recreio/o-fim-do-recreio.480.mp4
-#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/29cb6110-a898-11e8-af4d-492ddc47cea4caralixo_lixo.jpg?resize=480,270&crop=entropy"group-title="infantil", -Lugar de lixo é no lixo
-https://vdn.libreflix.org/video/lugardelixo/lugardelixo.480.mp4
-#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/d43c9e10-b341-11ea-8180-a13ab0d4340fyhumbguga.jpg?resize=480,270&crop=entropy" group-title="infantil",-GUGA
-https://vdn.libreflix.org/video/guga/guga.360.mp4
-#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/2017/coisa-malu-thumb.jpg?resize=480,270&crop=entropy"group-title="infantil",-Coisa-Malu
-https://vdn.libreflix.org/video/coisa-malu/coisa-malu.720.mp4
-#EXTINF:1 tvg-logo="https://vdn.libreflix.org/covers/media/314835c0-4569-11ea-bc67-a94bbfaa277e4061273.jpg?resize=480,270&crop=entropy"group-title="infantil",-A Princesa e o Robô
-https://vdn.libreflix.org/video/a-princesa-e-o-robo/a-princesa-e-o-robo.360.mp4
-#EXTINF:1 tvg-logo="https://pa1.narvii.com/6902/c2eebcbb24b4128a19de9eb223acbbe3addb9972r1-500-280_hq.gif"group-title="infantil",-Tartarugas Ninjas
-https://play.prod.gcp.vix.services/teenage-mutant-ninja-turtles_pt/teenage-mutant-ninja-turtles_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif"group-title="infantil", -Monica
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif"group-title="infantil", -Monica
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/8b/f4/4d/8bf44ddc23d678af55c9819d53a7e94e.gif"group-title="infantil", -Os Anjinhos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif"group-title="infantil",-As Aventuras de Jackie Chan
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/fc/fc/5c/fcfc5cb5c3a81c8828615ef6848bad30.gif"group-title="infantil",-As Aventuras de Jackie Chan
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/4b/7a/eb/4b7aeb7ddb78b7d0a6f08f695208d2ae.gif"group-title="infantil", -Beyblade
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="https://www.icegif.com/wp-content/uploads/2022/06/icegif-375.gif"group-title="infantil",-Beyblade
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://media.tenor.com/Ce_iI765nq0AAAAd/beyblade-free.gif"group-title="infantil",-Beyblade
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/XfDpE3gHXrjdZtcPcw/200w.gif?cid=82a1493b2v5rm3p6dv135id4r5brk8fu55ua2pl5fsddhh2c&rid=200w.gif&ct=g" group-title="infantil",-Babyfirst
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://media1.giphy.com/media/fAKThZs5sM7K3XqHw7/200w.gif?cid=6c09b952pxjd839v4gr5vb3prlk8qqw1f4jmj55awpnui55w&rid=200w.gif&ct=g"group-title="infantil",-Babyfirst
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/81/c9/fc/81c9fc92d868081b65ac8173159faa1e.gif"group-title="infantil", -Bob Esponja
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/SnappyFrighteningAmazonparrot-max-1mb.gif" group-title="infantil",-Desenhos antigos
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media3.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif"group-title="infantil",-Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/fe/31/5b/fe315b4cd83ccf7dd185aa0970fb9ecc.gif"group-title="infantil",-Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/0b/c0/00/0bc0009a819d2231807ae7886112d191.gif"group-title="infantil", -Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://media.tenor.com/wNTOa_xu-xkAAAAd/anime-lightning.gif"group-title="infantil", -Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.makeagif.com/media/6-12-2016/KSMS6v.gif"group-title="infantil",-Cocoricó
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://pa1.narvii.com/6434/a6766a4a7c261f4c71e7c8b6a7b73f0dc18d560c_hq.gif"group-title="infantil",-Os Anjinhos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif"group-title="infantil",-Luz, Camera, Ação
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-5/thumbs_640x360.m3u8
-#EXTINF:1 tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif" group-title="infantil",-Hora do Banho
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-6/thumbs_320x180.m3u8
-#EXTINF:1 tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif"group-title="infantil", -Bagunça Animal
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-7/thumbs_320x180.m3u8
-#EXTINF:1 tvg-logo="https://i.makeagif.com/media/7-10-2018/NMQnmo.gif"group-title="infantil", -Cine Gibi 8: ...Tá Brincando
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-8/thumbs_640x360.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AffectionateSmallIrishterrier-max-1mb.gif"group-title="infantil",-Naruto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CautiousWellgroomedLeafwing-size_restricted.gif" group-title="infantil",-Pluto TV Kids
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 tvg-logo="https://i.gifer.com/7GDX.gif"group-title="infantil", -Bob Esponja Calça Quadrada
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif"group-title="infantil",-Turma da Mônica
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/2a/c8/b1/2ac8b1237027b374246f34edbc0ad838.gif" group-title="infantil",-O Reino Infantil
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/18/32/43/183243f9b5725797d46158f8a66afbef.gif"group-title="infantil",-jetsons
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w975554247.m3u8
-#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5bfbe93d627885aa54a17c6bac312d1e70cfc12d07b27daa8e9ecdd8cbbe96cb._RI_.jpg" group-title="infantil",-Car City: Construction Squad 1
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/E3O0KrW9WbM/maxresdefault.jpg"group-title="infantil", -Car City: Construction Squad 2
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI3YjQyZGEtZWJkMy00OWMyLWFjZTktZmZiOThiNGIyMTY4XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg"group-title="infantil", -Car City: Construction Squad 3
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/6vIg84Oh8rU/maxresdefault.jpg"group-title="infantil",-Car City: Construction Squad 4
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/55hsL9ewec8/maxresdefault.jpg"group-title="infantil",-Car City: Construction Squad 5
-https://play.prod.gcp.vix.services/construction-squad_pt/construction-squad_pt_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-mermaid_pt/the-mermaid_pt_200x300.jpg"group-title="infantil", -As Travessuras de Uma Sereia
-https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/vamps-2012_pt/vamps-2012_pt_200x300.jpg" group-title="infantil",-Vampiras
-https://play.prod.gcp.vix.services/vamps-2012_pt/vamps-2012_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/sobre-rodas_pt/sobre-rodas_pt_200x300.jpg" group-title="infantil",-Sobre Rodas
-https://play.prod.gcp.vix.services/sobre-rodas_pt/sobre-rodas_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/wheres-my-dog_pt/wheres-my-dog_pt_200x300.jpg"group-title="infantil",-Cara, Cadê Meu Cachorro?
-https://play.prod.gcp.vix.services/wheres-my-dog_pt/wheres-my-dog_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/kabluey_pt/kabluey_pt_200x300.jpg"group-title="infantil",-Tudo Azul
-https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mans-best-friend_pt/mans-best-friend_pt_200x300.jpg" group-title="infantil",-Até o Limite
-https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dummie-mummy-3_pt/dummie-mummy-3_pt_200x300.jpg"group-title="infantil", -Dummie a Múmia e a Tumba de Achnetut
-https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/antboy-3_pt/antboy-3_pt_200x300.jpg"group-title="infantil",-Garoto Formiga 3
-https://play.prod.gcp.vix.services/antboy-3_pt/antboy-3_pt_1-1/hls_2500.m3u8
-http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/698
-#EXTINF:1 tvg-logo="https://i.imgur.com/iu4Xbjd.png"group-title="infantil",A vida moderna de Rocko | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/iu4Xbjd.png" group-title="infantil",A vida moderna de Rocko | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/hPUry0Y.png" group-title="infantil",Anime | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/hPUry0Y.png" group-title="infantil",Anime | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png"group-title="infantil",Anime Ação | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="infantil",Anime Ação | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"group-title="infantil",As Aventuras de Jackie Chan | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"group-title="infantil",As Aventuras de Jackie Chan | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/bHhxhRb.png"group-title="infantil",As Pistas de Azul | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/bHhxhRb.png"group-title="infantil",As Pistas de Azul | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"group-title="infantil",Babyfirst | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"group-title="infantil",Babyfirst | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"group-title="infantil",A novidade",Beyblade | Brasil: infanto-juvenis
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="infantil",Beyblade | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"group-title="infantil",Beyblade | Plutão TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"group-title="infantil",Bob Esponja | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"group-title="infantil",Bob Esponja | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/WklXZlV.png"group-title="infantil",Clubinho Fun | Brasil
-http://45.165.178.82:8000/play/a011/index.m3u8
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png"group-title="infantil",Cocoricó | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" group-title="infantil",Desenhos antigos 1 | Brasil
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"group-title="infantil",iCarly | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"group-title="infantil",iCarly | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/4a5RFCU.png"group-title="infantil",Junior | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/4a5RFCU.png"group-title="infantil",Junior | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/g505N5r.png"group-title="infantil",Kids | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/g505N5r.png"group-title="infantil",Kids | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://kuriakos.com/wp-content/uploads/2017/07/Kuriakos_kids_V2.jpg"group-title="infantil",Kuriakos Kids | Portugal
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://i.imgur.com/046zDW4.png"group-title="infantil",Naruto | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/046zDW4.png"group-title="infantil",Naruto | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="infantil",Nick Clássico | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="infantil",Nick Clássico | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="infantil",Nick Jr. Club | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="infantil",Nick Jr. Club | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="infantil",NickTeen | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="infantil",NickTeen | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="infantil",O Reino Infantil | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png"group-title="infantil",O Reino Infantil | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="infantil",A novidade",One Piece | Brasil: infanto-juvenis
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="infantil",One Piece | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png"group-title="infantil",One Piece | Plutão TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/1jXXHVr.png"group-title="infantil",Os Anjinhos - Rugrats | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/1jXXHVr.png"group-title="infantil",Os Anjinhos - Rugrats | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png"group-title="infantil",A novidade",Os Padrinhos Mágicos | Brasil: infanto-juvenis
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="infantil",Os Padrinhos Mágicos | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="infantil",Os Padrinhos Mágicos | Plutão TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-#EXTINF:1 tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="group-title="infantil",Os Jetsons | Brasil
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
-#EXTINF:1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"group-title="infantil",Caricatura Retrô | Brasil
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://i.imgur.com/GSJv0sy.png" group-title="group-title="infantil",Xilam
-https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.imgur.com/iu4Xbjd.png"group-title="infantil",A vida moderna de Rocko | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/iu4Xbjd.png"group-title="infantil",A vida moderna de Rocko | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/hPUry0Y.png"group-title="infantil",Anime | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/hPUry0Y.png" group-title="infantil",Anime | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png"group-title="infantil",Anime Ação | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png"group-title="infantil",Anime Ação | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"group-title="infantil",As Aventuras de Jackie Chan | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png"group-title="infantil",As Aventuras de Jackie Chan | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/bHhxhRb.png"group-title="infantil",As Pistas de Blue | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/bHhxhRb.png"group-title="infantil",As Pistas de Blue | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"group-title="infantil",Babyfirst | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"group-title="infantil",Babyfirst | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"group-title="infantil",A novidade",Beyblade | Brasil: infanto-juvenis
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="infantil",Beyblade | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png"group-title="infantil",Beyblade | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"group-title="infantil",Bob Esponja | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png"group-title="infantil",Bob Esponja | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/WklXZlV.png"group-title="infantil",Clubinho Fun | Brasil
-http://45.165.178.82:8000/play/a011/index.m3u8
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="infantil",Cocoricó | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png"group-title="infantil",Desenhos antigos 1 | Brasil
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"group-title="infantil",iCarly | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png"group-title="infantil",iCarly | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/4a5RFCU.png"group-title="infantil",Junior | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/4a5RFCU.png"group-title="infantil",Junior | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/g505N5r.png" group-title="infantil",Kids | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/g505N5r.png" group-title="infantil",Kids | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://kuriakos.com/wp-content/uploads/2017/07/Kuriakos_kids_V2.jpg"group-title="infantil",Kuriakos Kids | Portugal 
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://i.imgur.com/046zDW4.png"group-title="infantil",Naruto | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/046zDW4.png" group-title="infantil",Naruto | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/z2Fwd4q.png"group-title="infantil",Nick Clássico | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="infantil",Nick Clássico | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://i.imgur.com/j9CMGyU.png"group-title="infantil",Nick Jr. Club | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="infantil",Nick Jr. Club | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="infantil",NickTeen 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png"group-title="infantil",NickTeen | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="infantil",O Reino Infantil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png"group-title="infantil",O Reino Infantil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png"group-title="infantil", A novidade",One Piece | Brasil: infanto-juvenis
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="infantil",One Piece 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="infantil",One Piece 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/1jXXHVr.png"group-title="infantil",Os Anjinhos - Rugrats 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/1jXXHVr.png"group-title="infantil",Os Anjinhos - Rugrats | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="infantil",A novidade",Os Padrinhos Mágicos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png"group-title="infantil",Os Padrinhos Mágicos 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png"group-title="infantil",Os Padrinhos Mágicos 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:1 tvg-logo="https://i.imgur.com/sqUlcaY.png"group-title="infantil",Os Jetsons | Brasil
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://i.imgur.com/QwPiPlI.png"group-title="infantil",Rakuten Família | Portugal - inglês e português
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"group-title="infantil",Retrô Cartoon | Brasil 
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-feminismo.xml "
  ############## feminismo ############## ###   
