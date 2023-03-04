@@ -328,6 +328,71 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
 ############## FILMES ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES" group-title="
 
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/danny-the-dog_pt/danny-the-dog_pt_200x300.jpg" group-title="FILMES",Cão de briga
+https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/black-water_pt/black-water_pt_200x300.jpg" group-title="FILMES",Perigo no Oceano
+https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/ages-of-love_pt/ages-of-love_pt_200x300.jpg" group-title="FILMES",As Idades do Amor
+https://play.prod.gcp.vix.services/ages-of-love_pt/ages-of-love_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/running-wild_pt/running-wild_pt_200x300.jpg" group-title="FILMES",Corrida Selvagem
+https://play.prod.gcp.vix.services/running-wild_pt/running-wild_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/slow-west_pt/slow-west_pt_200x300.jpg" group-title="FILMES",Oeste Sem Lei
+https://play.prod.gcp.vix.services/slow-west_pt/slow-west_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/case-of-you_pt/case-of-you_pt_200x300.jpg" group-title="FILMES",Um Caso de Amor
+https://play.prod.gcp.vix.services/case-of-you_pt/case-of-you_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/momentum_pt/momentum_pt_200x300.jpg" group-title="FILMES",Momentum
+https://play.prod.gcp.vix.services/momentum_pt/momentum_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/broken-swords-line_pt/broken-swords-line_pt_200x300.jpg" group-title="FILMES",Espada da Vingança
+https://play.prod.gcp.vix.services/broken-swords-line_pt/broken-swords-line_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dna-1996_pt/dna-1996_pt_200x300.jpg" group-title="FILMES",DNA: Caçada ao Predador
+https://play.prod.gcp.vix.services/dna-1996_pt/dna-1996_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/spionen_pt/spionen_pt_200x300.jpg" group-title="FILMES",A espiã
+https://play.prod.gcp.vix.services/spionen_pt/spionen_pt_1-1/play_v1_hls_432p.m3u8
+#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/defenseless_pt/defenseless_pt_200x300.jpg" group-title="FILMES",Sem Defesa
+https://play.prod.gcp.vix.services/defenseless_pt/defenseless_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/ash-lad-castle_pt/ash-lad-castle_pt_200x300.jpg" group-title="FILMES",Em busca do castelo dourado
+https://play.prod.gcp.vix.services/ash-lad-castle_pt/ash-lad-castle_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/once_pt/once_pt_200x300.jpg" group-title="FILMES",Apenas Uma Vez
+https://play.prod.gcp.vix.services/once_pt/once_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/know-killed-me_pt/know-killed-me_pt_200x300.jpg" group-title="FILMES",Eu sei quem me matou
+https://play.prod.gcp.vix.services/know-killed-me_pt/know-killed-me_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/kidnapped-romania_en/kidnapped-romania_en_200x300.jpg" group-title="FILMES",Sequestro na Romênia
+https://play.prod.gcp.vix.services/kidnapped-romania_en/kidnapped-romania_en_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/case-for-christ_pt/case-for-christ_pt_200x300.jpg" group-title="FILMES",Em Defesa de Cristo
+https://play.prod.gcp.vix.services/case-for-christ_pt/case-for-christ_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jack-coeur_pt/jack-coeur_pt_200x300.jpg" group-title="FILMES",Jack e a Mecânica do Coração
+https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",Sansão e Dalila
+https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
+
+
+
 #EXTINF:1 tvg-logo="https://strapi.api-tvcine.com/uploads/7a9c2b3ead0b4f1fb1415ab488160498.jpg" group-title="FILMES",PERIGO NO OCEANO
 https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_540p.m3u8
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39b5ba3eeeffc0dd011389fbfc82e1d5b6d1c42b104c7cd19402eb86ec7482b8._RI_V_TTW_.jpg" group-title="FILMES",CÓDIGO DE CONDUTA
@@ -336,6 +401,84 @@ https://play.prod.gcp.vix.services/law-abiding_pt/law-abiding_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_360p.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/SomXpRF5StYAAAAM/take-scene.gif" group-title="FILMES",filmes
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1841371.m3u8
+
+
+#EXTM3U url-tvg="http://grade-de-ADOLECENTE.xml"
+############## ADOLECENTE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeADOLECENTE" group-title="
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/belong-to-us_pt/belong-to-us_pt_200x300.jpg" group-title="ADOLECENTE",Um Amor de Filhote
+https://play.prod.gcp.vix.services/belong-to-us_pt/belong-to-us_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/saving-flora_pt/saving-flora_pt_200x300.jpg" group-title="ADOLECENTE",Uma grande amizade
+https://play.prod.gcp.vix.services/saving-flora_pt/saving-flora_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jack-coeur_pt/jack-coeur_pt_200x300.jpg" group-title="ADOLECENTE",Jack e a Mecânica do Coração
+https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/small-town-santa_pt/small-town-santa_pt_200x300.jpg" group-title="ADOLECENTE",O Verdadeiro Sentido do Amor
+https://play.prod.gcp.vix.services/small-town-santa_pt/small-town-santa_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo=https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/flight-before-christmas_pt/flight-before-christmas_pt_200x300.jpg" group-title="ADOLECENTE",Um Voo Encantado em Noite de Natal
+https://play.prod.gcp.vix.services/flight-before-christmas_pt/flight-before-christmas_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_200x300.jpg" group-title="ADOLECENTE",Cachinhos Dourados e os Três Ursos
+https://play.prod.gcp.vix.services/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/unstable-tortoise-hare_pt/unstable-tortoise-hare_pt_200x300.jpg" group-title="ADOLECENTE",A Tartaruga e a Lebre: A Revanche do Século
+https://play.prod.gcp.vix.services/unstable-tortoise-hare_pt/unstable-tortoise-hare_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/impys-wonderland_pt/impys-wonderland_pt_200x300.jpg" group-title="ADOLECENTE",Tô de Férias 2
+https://play.prod.gcp.vix.services/impys-wonderland_pt/impys-wonderland_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_200x300.jpg" group-title="ADOLECENTE",A Lenda de Oz
+https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/superjuffie_pt/superjuffie_pt_200x300.jpg" group-title="ADOLECENTE",As Aventuras de uma Super Professora
+https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
+
+
+
+#EXTM3U url-tvg="http://grade-de-BIBLICO.xml"
+############## BIBLICO ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeBIBLICO" group-title="
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
 
 
 #EXTM3U url-tvg="http://grade-de-GOSPEL.xml"
