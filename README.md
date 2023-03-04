@@ -24,7 +24,6 @@ http://stream.zeno.fm/hu70hmkcu68uv.pls
 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisAbertos" group-title="
 
-
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoz0gyLnImviBNJgOgn2qwrIrBgZGV55uvT0phiBTZU-RSShgjf4JE8z_H1lxjw7sLAEk&usqp=CAU" group-title="CanaisAbertos",TV GAZETA
 http://15.235.10.31:14347/tvgazeta
 #EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-xRZm7yIBiBs/XRkWrcLJ4MI/AAAAAAAABQw/szcNw0g0y1Q6_u_lF7MFoPzmidC7gcSqQCK4BGAsYHg/w1200-h630-p-k-no-nu/Screenshot_2019-06-30-16-55-08.png" group-title="CanaisAbertos",REDE MINAS
@@ -39,9 +38,7 @@ http://168.205.87.198:8555/live/1052/123456/159.ts
 http://168.205.87.198:8555/live/1052/123456/19.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" group-title="CanaisAbertos",BAND CE FHD
 http://45.58.126.146:14148/
-
 #EXTINF:1 tvg-logo=https://media.tenor.com/37b5HIvleLkAAAAC/eptv-globo.gif" group-title="CanaisAbertos",EPTV CAMPINAS
-
 http://15.235.55.115:14104/
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
@@ -153,7 +150,6 @@ http://7go.xyz:8080/Rafagullosala/gaFf0EVj/64707
 http://45.58.126.146:14329
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/mkx_N9VNvqE/maxresdefault.jpg" group-title="CanaisFechados",STAR LIFE HD
 http://212.102.60.39:2200/BR/Star_Life-br/tracks-v1/mono.m3u8
-
 #EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="CanaisFechados" HBO
 http://195.181.163.144:14606/HBO2
 #EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="CanaisFechados" HBO
@@ -176,7 +172,6 @@ http://51.222.44.30:14081/
 http://15.235.10.31:14395
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/OKCHMG1PBO4/maxresdefault.jpg" group-title="CanaisFechados",HBO XTREME
 http://15.235.10.31:14406
-
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",FX HD
 
 http://45.58.126.146:14311/
@@ -233,7 +228,6 @@ http://15.235.10.31:14365
 http://45.58.126.146:14338
 #EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CanaisFechados",TLC
 http://45.58.126.146:14270/
-
 #EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CanaisFechados",TLC HD
 http://45.58.126.146:14270
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/InexperiencedHappygoluckyFinwhale-size_restricted.gif" group-title="CanaisFechados", PARAMOUNT
@@ -248,14 +242,11 @@ http://84.17.44.179:14635/
 http://45.58.126.146:14287/
 #EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54b747c3e4b089bfadc49def/1523223957506-KBRJP4MRY6T0903198KO/HGTV_CouchLogoAnimation.gif" group-title="CanaisFechados",HGTV
 http://15.235.10.31:14412
-
 #EXTINF:1 tvg-logo="https://media.giphy.com/avatars/abrahaomendes/4L8KS5CpAx47.png" group-title="CanaisFechados",MEGAPIX
 http://45.58.126.146:14317
 #EXTINF:1 tvg-logo="http://25.media.tumblr.com/90027c20d4c15a599e61236e76a60422/tumblr_mooestZPzK1rdutw3o1_400.gif" group-title="CanaisFechados",COMEDY CENTRAL HD
 http://45.58.126.146:14308/
-
 #EXTINF:1 tvg-logo="https://imagens-cdn.canalrural.com.br/2019/10/rn2.gif" group-title="CanaisFechados",CANAL RURAL
-
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
  
 
@@ -300,7 +291,6 @@ http://7go.xyz:8080/Rafagullosala/gaFf0EVj/31469
 
 #EXTINF:1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/1758112356300653192/5436F98DAF7C191284DBF7A30E8B5A715681E4AE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" group-title="Infantil",ANIME TV SD
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1969769045.m3u8
-
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/kibxTdFJXzAA0/giphy.gif?cid=6c09b952f012a53161a12761b5868a2ab05a60a50b13c4c2&rid=giphy.gif&ct=g" group-title="Infantil",NICK SD
 http://84.17.44.179:14310/
 #EXTINF:1 tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="Infantil",NICK JR
@@ -361,36 +351,8 @@ https://play.prod.gcp.vix.services/know-killed-me_pt/know-killed-me_pt_1-1/play_
 https://play.prod.gcp.vix.services/kidnapped-romania_en/kidnapped-romania_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/case-for-christ_pt/case-for-christ_pt_200x300.jpg" group-title="FILMES",Em Defesa de Cristo
 https://play.prod.gcp.vix.services/case-for-christ_pt/case-for-christ_pt_1-1/play_v1_hls_1080p.m3u8
-
 #EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jack-coeur_pt/jack-coeur_pt_200x300.jpg" group-title="FILMES",Jack e a Mecânica do Coração
 https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",Sansão e Dalila
-https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="FILMES",
-
 
 
 #EXTINF:1 tvg-logo="https://strapi.api-tvcine.com/uploads/7a9c2b3ead0b4f1fb1415ab488160498.jpg" group-title="FILMES",PERIGO NO OCEANO
@@ -401,6 +363,46 @@ https://play.prod.gcp.vix.services/law-abiding_pt/law-abiding_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_360p.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/SomXpRF5StYAAAAM/take-scene.gif" group-title="FILMES",filmes
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1841371.m3u8
+
+#EXTM3U url-tvg="http://grade-de-BaseadoHistoriaReal.xml"
+############## BaseadoHistoriaReal ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeBaseadoHistoriaReal" group-title="
+
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/im-not-there_pt/im-not-there_pt_200x300.jpg" group-title="BaseadoHistoriaReal",Não Estou Lá
+https://play.prod.gcp.vix.services/im-not-there_pt/im-not-there_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/alphabet-killer_pt/alphabet-killer_pt_200x300.jpg" group-title="BaseadoHistoriaReal",O Assassino do Alfabeto
+https://play.prod.gcp.vix.services/alphabet-killer_pt/alphabet-killer_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/boys-ghraib_pt/boys-ghraib_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Vigilantes da Guerra
+https://play.prod.gcp.vix.services/boys-ghraib_pt/boys-ghraib_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/perfect-sister_pt/perfect-sister_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Cúmplices de Um Segredo
+https://play.prod.gcp.vix.services/perfect-sister_pt/perfect-sister_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/sobibor_pt/sobibor_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Sobibor
+https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/kongen-bastoy_pt/kongen-bastoy_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Inferno na Ilha
+https://play.prod.gcp.vix.services/kongen-bastoy_pt/kongen-bastoy_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/estrada-47_pt/estrada-47_pt_200x300.jpg" group-title="BaseadoHistoriaReal"A Estrada 47
+https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/red-dirt-rising_pt/red-dirt-rising_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Desafios de uma Vida
+https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/masked-saint_pt/masked-saint_pt_200x300.jpg" group-title="BaseadoHistoriaReal"O Vigilante Mascarado
+https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.m3u8
+
+
+#EXTM3U url-tvg="http://grade-de-FilmesDrama.xml"
+############## FilmesDrama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmesDrama" group-title="
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/urban-country_pt/urban-country_pt_200x300.jpg" group-title="FilmesDrama"Hora de Recomeçar
+https://play.prod.gcp.vix.services/urban-country_pt/urban-country_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/copenhagen-2014_pt/copenhagen-2014_pt_200x300.jpg" group-title="FilmesDrama"Copenhagen
+https://play.prod.gcp.vix.services/copenhagen-2014_pt/copenhagen-2014_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jackie-ryan_pt/jackie-ryan_pt_200x300.jpg" group-title="FilmesDrama"Jackie & Ryan: Amor Sem Medidas
+https://play.prod.gcp.vix.services/jackie-ryan_pt/jackie-ryan_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/trafficked_pt/trafficked_pt_200x300.jpg" group-title="FilmesDrama"Tráfico de Mulheres
+https://play.prod.gcp.vix.services/trafficked_pt/trafficked_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submergence-sofa_pt/submergence-sofa_pt_200x300.jpg" group-title="FilmesDrama"Submersão
+https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/play_v2_hls_1080p.m3u8
 
 
 #EXTM3U url-tvg="http://grade-de-ADOLECENTE.xml"
@@ -427,22 +429,6 @@ https://play.prod.gcp.vix.services/impys-wonderland_pt/impys-wonderland_pt_1-1/p
 https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/superjuffie_pt/superjuffie_pt_200x300.jpg" group-title="ADOLECENTE",As Aventuras de uma Super Professora
 https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="ADOLECENTE",
 
 
 
