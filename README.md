@@ -8,7 +8,8 @@
 https://youtu.be/M1mROdK3aqE
 
 #EXTM3U url-tvg=" http://grade-de-radiofax.xml "
-############## radiofax #################  
+############## radiofax ################# 
+#EXTINF:1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SKyRIuHhu5Z9yCQsIUDRwRUD3b9pogn3Py03p4MZrmJcXlZm4m_GQ1CUgmbC3WKB4oo&usqp=CAU" group-title="radiofax
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
 
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
@@ -20,25 +21,36 @@ http://stream.zeno.fm/hu70hmkcu68uv.pls
 
 #EXTM3U url-tvg="http://grade-de-CanaisAbertos.xml"
 ############## CanaisAbertos ################# 
+#EXTINF:1 tvg-logo=" https://media.tenor.com/CvS9C3XRDvYAAAAM/salute-old-television.gif" group-title="CanaisAbertos
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisAbertos" group-title="
 
 
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoz0gyLnImviBNJgOgn2qwrIrBgZGV55uvT0phiBTZU-RSShgjf4JE8z_H1lxjw7sLAEk&usqp=CAU" group-title="CanaisAbertos",TV GAZETA
+http://15.235.10.31:14347/tvgazeta
+#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-xRZm7yIBiBs/XRkWrcLJ4MI/AAAAAAAABQw/szcNw0g0y1Q6_u_lF7MFoPzmidC7gcSqQCK4BGAsYHg/w1200-h630-p-k-no-nu/Screenshot_2019-06-30-16-55-08.png" group-title="CanaisAbertos",REDE MINAS
+http://168.205.87.198:8555/live/1052/123456/101.m3u8
 #EXTINF:1 tvg-logo="https://imagem.natelinha.uol.com.br/televisao/emissora/tv-brasil_8669.jpeg" group-title="CanaisAbertos",TV Brasil
 http://168.205.87.198:8555/live/1052/123456/134.m3u8
-
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" group-title="CanaisAbertos",TV TROPICAL
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
 #EXTINF:1 tvg-logo="https://uvn-brightspot.s3.amazonaws.com/assets/vixes/imj/frases_de_chespirito.gif" group-title="CanaisAbertos",CHISPIRITO
 http://168.205.87.198:8555/live/1052/123456/159.ts
 #EXTINF:1 tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CanaisAbertos",BAND HD
 http://168.205.87.198:8555/live/1052/123456/19.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" group-title="CanaisAbertos",BAND CE FHD
+http://45.58.126.146:14148/
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
 http://boxtv.uniredes.com.br:80/rafael/rafael/12.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
+http://45.58.126.146:14066
 #EXTINF:1 tvg-logo="https://i.makeagif.com/media/6-22-2016/sHf3O7.gif" group-title="CanaisAbertos",SBT
 http://boxtv.uniredes.com.br:80/rafael/rafael/23.m3u8
-
-#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CanaisAbertos",SPACE HD
-http://195.181.163.144:14730/
+#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="CanaisAbertos",RECORD
+http://45.58.126.146:14153
+#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2370403edc09d33cee93e9d0c0a05175/366139-multi-media-channels-tv-world-india-star-utsav-movies.gif" group-title="CanaisAbertos",MOVIE STAR
+http://62.176.77.22:9781/play/a00f
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2370403edc09d33cee93e9d0c0a05175/366139-multi-media-channels-tv-world-india-star-utsav-movies.gif" group-title="CanaisAbertos",MOVIE STAR
 http://62.176.77.22:9781/play/a00f
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CanaisAbertos",NATIONAL GEOGRAPHIC
@@ -47,62 +59,198 @@ http://84.17.44.179:14635
 http://boxtv.uniredes.com.br:80/1234/1234/53
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/rheP_IKI3B34qKYNK1Idcu9fz8UDXnxOCOOqiwAu3cEZkdMK2nzoc6HIhU234AUqWxY" group-title="CanaisAbertos",YES LIFE
 http://cdn.connectbr.com.br/Life/index.m3u8
-#EXTINF:1 tvg-logo="https://imagem.natelinha.uol.com.br/televisao/emissora/tv-brasil_8669.jpeg" group-title="CanaisAbertos",
+#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",RECORD NEWS
+http://15.235.10.31:14351/
 
 #EXTM3U url-tvg="http://grade-de-CanaisFechados.xml"
 ############## CanaisFechados ################# 
+#EXTINF:1 tvg-logo="https://photos.enjoei.com.br/libero-todos-os-canais-de-tv-fechado-e-aberto-40116907/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy8xMzE4ODkxNS8wOGNkMmY1ZjQyNmNmNzcwMmM5ODg1MjZjNjI2YjYzMS5qcGc" group-title="CanaisFechados",
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisFechados" group-title="
 
+
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd93a7-2WB8_NpP7RnlO9LTLeA9wnt6_vQeg&usqp=CAU" group-title="CanaisFechados",SPACE
+http://45.58.126.146:14323
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd93a7-2WB8_NpP7RnlO9LTLeA9wnt6_vQeg&usqp=CAU" group-title="CanaisFechados",SPACE
+http://51.159.54.153:14408/
+#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CanaisFechados",SPACE HD
+http://195.181.163.144:14730/
+#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CanaisFechados",SPACE HD
+http://51.159.54.153:14408/space
+#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CanaisFechados", SPACE UHD
+http://195.181.163.144:14730/
+#EXTINF:1 tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="CanaisFechados", UNIVERSAL TV FHD
+http://45.58.126.146:14348/universal
+#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",STUDIO UNIVERSAL
+http://45.58.126.146:14332
+#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",universal-studios
+http://45.58.126.146:14234/cnn
+#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",TELECINE
+http://51.83.238.223:16763
 #EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CanaisFechados",DISCOVERY TURBO
-http://45.58.126.146:14267/
+#EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
+http://45.58.126.146:14293/A&E
+#EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
+http://45.58.126.146:14293
+#EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
+http://199.127.60.83:16002/
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CanaisFechados",CINEMAX HD
+http://45.58.126.146:14305/
 #EXTINF:1 tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CanaisFechados",DISCOVERY id
 http://45.58.126.146:14258/
 #EXTINF:1 tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="CanaisFechados",ANIMAL PLANET
 http://45.58.126.146:14249/
+#EXTINF:1 tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="CanaisFechados",ANIMAL PLANET HD
+http://45.58.126.146:14249/
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BogusUnlawfulGopher-size_restricted.gif" group-title="CanaisFechados",AMC
 http://45.58.126.146:14296/
-#EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CanaisFechados",TLC
-http://45.58.126.146:14270/
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AggressiveLightChihuahua-size_restricted.gif" group-title="CanaisFechados",AMC
+http://199.127.60.83:16004
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="CanaisFechados",AXN HD *
+http://45.58.126.146:14299/axn
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CanaisFechados",DISCOVERY TURBO
+http://45.58.126.146:14267/
+#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY
+http://45.58.126.146:14252/   
+#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY
+http://45.58.126.146:14258/
+#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY THEATER HD
+http://45.58.126.146:14264/
+#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY H&H HD
+http://45.58.126.146:14255/
+#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY H&H HD
+http://45.58.126.146:14255/
 #EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY THEATER
 http://45.58.126.146:14264/
+#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY CHANNEL HD
+http://45.58.126.146:14252/
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_efeCgIAMAh6W76x0ztDm0Ix-aLKy0zRvGixKlpEI_PVaxmfRxKEjEjYmHiuJQF32pyM&usqp=CAU" group-title="CanaisFechados",DISCOVER
+http://45.58.126.146:14267/
 #EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-9GZJEcGclHE/W3LaujjGVlI/AAAAAAABLM4/OmvRnCPl-MUEAqVn4ImQ4ZSTxU36wB1ZQCLcBGAs/w1200-h675-p-k-no-nu/discovery-home-and-health-tv-logo-1.png" group-title="CanaisFechados",DISCOVERY H&H
 http://45.58.126.146:14255/
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AlarmedLinearAsp-max-1mb.gif" group-title="CanaisFechados",Comedy Central
 http://45.58.126.146:14308/ 
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY
-http://45.58.126.146:14252/   
 #EXTINF:1 tvg-logo="https://media.giphy.com/avatars/canalsony/15tJJMKaaLzf.gif" group-title="CanaisFechados",SONY CHANNEL
 http://45.58.126.146:14302/ 
+#EXTINF:1 tvg-logo="https://media.giphy.com/avatars/canalsony/15tJJMKaaLzf.gif" group-title="CanaisFechados",SONY CHANNEL HD
+http://45.58.126.146:14302/
+#EXTINF:1 tvg-logo="https://i.gifer.com/2YxD.gif" group-title="CanaisFechados"WARNER HD
+http://45.58.126.146:14351/
 #EXTINF:1 tvg-logo="https://i.gifer.com/2YxD.gif" group-title="CanaisFechados",WARNER
 http://45.58.126.146:14351/
 #EXTINF:1 tvg-logo="https://media.tenor.com/m4PK9QWUpcQAAAAC/star-plus-star-premium.gif" group-title="CanaisFechados",STAR CHANEL
 http://45.58.126.146:14329/
+#EXTINF:1 tvg-logo="https://media.tenor.com/0gWvpeAuDUYAAAAC/star-plus-star-premium.gif" group-title="CanaisFechados", STAR+ 3 HD¹
+http://7go.xyz:8080/Rafagullosala/gaFf0EVj/64707
+#EXTINF:1 tvg-logo="https://media.tenor.com/0gWvpeAuDUYAAAAC/star-plus-star-premium.gif" group-title="CanaisFechados",STAR CHANNEL
+http://45.58.126.146:14329
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="CanaisFechados",TNT 2 SÉRIES HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CanaisFechados",CINEMAX HD
-http://45.58.126.146:14305/
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CanaisFechados",TNT
+http://45.58.126.146:14342
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CanaisFechados",TNT SERIES
+http://45.58.126.146:14345
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CanaisFechados",TNT HD
+http://45.58.126.146:14341
+#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="CanaisFechados" HBO
+http://195.181.163.144:14606/HBO2
+#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="CanaisFechados" HBO
+http://15.235.10.31:14379
 #EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="CanaisFechados",HBO
 http://195.181.163.144:14606/HBO2
 #EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="CanaisFechados",HBO
 http://15.235.10.31:14379
 #EXTINF:1 tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="CanaisFechados",HBO 2
-
 http://15.235.10.31:14381
+#EXTINF:1 tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="CanaisFechados",HBO 2
+http://15.235.10.31:14383
+#EXTINF:1 tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="CanaisFechados",HBO 2
+http://15.235.10.31:14384
+#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif" group-title="CanaisFechados",HBO PLUS
+http://51.222.44.30:14081/
+#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif" group-title="CanaisFechados",HBO MUND
+http://15.235.10.31:14395
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/OKCHMG1PBO4/maxresdefault.jpg" group-title="CanaisFechados",HBO XTREME
+http://15.235.10.31:14406
 #EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-xOELKSkkr4A/Uuv3Fyz8CyI/AAAAAAAAhHs/C_BhByvHncU/s1600/50p9xc.jpg" group-title="CanaisFechados",TV TEEN NET  HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
-
-
+#EXTINF:1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEUAAAD////V1dX8/Pw9PT3z8/NGRkZfX1+9vb3h4eFmZmZtbW0cHBzo6Oje3t6Xl5fY2NgwMDB9fX24uLhRUVHOzs6Ojo5NTU1CQkI5OTnIyMjBwcGoqKiEhIT29vavr6+dnZ0mJiYPDw9aWloMDAx1dXUrKyuyL8vVAAADdUlEQVR4nO2d205iURBEuQsICiKI4gW8/f8nTvZMfOJQ2d2ZpHe1tb6gVkwAu7vO6fWEEEIIIYQQQgghhBAijONq4GF1jA5ezabvYxMdvJpnp+FzdPBqjk7D2+jg1eychrvo4NW8OA1fooNX8+U0/IoOXs210/A6Ong1c6fhPDp4NR9Ow4/o4NXcOw3vo4NX8+A0fIgOXk1+w73TcB8dvJpHp+FjdPBq1kOX4HAdHbya09hlOD5FB69m4TRcRAev5n3pMly+Rwevx2kYHdvAzGU4i45tIL/hjcvwJjq2ARnyGw5chqvo2AaeoMlyM+3iwDNM7PWm0JBntH2ZN2g4jY73H8Bj/QyGeKyfwfA2vSFeXGQwxIuLDIZ36Q3xakaGDODlUwZDvHzKYIiXTxkM8eIig+EIDr0zGOKxfgbDU3rD99fshj0Z8gOXTzKkIL8hXq8Nu6BarvnG+kxDfd9YfxAd2gQe63fzFB3axMFheIgObcJzrc+1zsCLi27eokOb8PQReLoIBU8f4Rgd2kR+Q7ya6YZpBfwbDD2tGZ7GTAGvZrq5iw5twtMp4emTFK4chlfRoU14Ghc8bYuC51qf51K/sHYY8tyxFxYOQ54r7784DKMjG5FhbsPd1bwDri98bMhTpESgBSLXj5dLoLF+DkM01s9hiMb6OQxX6Q236Q3R4iKHIVpc5DBEjYschmg1k8MQrWZkyAFaPuUwRGP9HIZorJ/DEI31cxiiPkIOQ3Stn8MQXevnMETX+jkM0eIihyF6zFAOQ7SayWF4kiE9CzASzmGIOiU5DD/B0DuHIRp6c50kXAQ8SGk562AbHdiM9Vqfq4tQQGP9Lri6CAVrH4HpAUP/QIuLLrjaFgWrId8nTX5Da2uGzxA/DOscrk5Qwdop4WrMFKydEq7GTMF6rX+MDmzGeq3P1UUoWN9xwdVFKFj7CFxdhIL1LR48b+/4wfqOC7bjS3vjguftHT9YDfmGN9b3lPCd1VpbM3zjqYnRcBId2Ax+GNYZw1F0YDNr+BCeM165OkGFb+Pf8Ds6sJ39xAJXcU0IIYQQv4bR2AbfL+/8/1vIUIbtI0MZto8MZdg+MpRh+8hQhu0jQxm2jwxl2D4ylGH7yFCG7SNDGbaPDGXYPjKUYfuMTIL9Pp/hejuwsOW7ghZCCCGEEEIIIYQQQiTjDzo3NSZXRS+QAAAAAElFTkSuQmCC" group-title="CanaisFechados", E! HD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/515
+#EXTINF:1 tvg-logo="hhttps://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9c8a862-29ad-45da-8858-cab400ae94a3.gif?ClientID=vimeo-core-prod&Date=1630623797&Signature=ea02577a6740cc87bc97597c39b38f8e0e0af335" group-title="CanaisFechados",MEGAPIX
+http://51.83.238.223:16823/
+#EXTINF:1 tvg-logo="https://videoplatform.sky.it/still/2020/10/01/1601566998351_-arrivata-la-nuova-app-my-sky_videostill_1.jpg" group-title="CanaisFechados", SKY CINEMA 1 HD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/556
+#EXTINF:1 tvg-logo="https://mysuiteshome.com/wp-content/uploads/2017/08/Sky-camera.gif" group-title="CanaisFechados", SKY CINEMA 2 HD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/557
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ImprobableUntriedBluet-size_restricted.gif" group-title="CanaisFechados", SKY CINEMA 4 FHD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/559
+#EXTINF:1 tvg-logo="https://media.tenor.com/hgp9CJ-H9yoAAAAd/sky-logo.gif" group-title="CanaisFechados", SKY CINEMA 5 FHD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/560
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/Y2t2KMeVwlAMKXlm2a/giphy.gif?cid=6c09b952a6gwygwqhc9roenv07rhjxeus3cl2ie3eh1q0upw&rid=giphy.gif&ct=s" group-title="CanaisFechados", SKY CINEMA 6 FHD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/561
+#EXTINF:1 tvg-logo="https://logosave.com/images/large/15/Sky-Cinema-2-logo.gif" group-title="CanaisFechados", SKY CINEMA 7 FHD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/562
+#EXTINF:1 tvg-logo="https://www.eventoswe.com/uploads/propagandas/sky.gif" group-title="CanaisFechados", SKY CINEMA 8 FHD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/563
+#EXTINF:1 tvg-logo="https://blackmadre.com/img/projects/36/sky-61f58881d0f8d7639456.gif" group-title="CanaisFechados", SKY CINEMA  9 HD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/564
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ImprobableUntriedBluet-size_restricted.gif" group-title="CanaisFechados", SKY CINEMA 11 FHD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/566
+#EXTINF:1 tvg-logo="https://static.wixstatic.com/media/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif/v1/fill/w_280,h_280,q_90/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif" group-title="CanaisFechados", SKY CINEMA 12 FHD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/567
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/EwuUQpFKyQHHSdsTiY/giphy.gif" group-title="CanaisFechados", SKY CINEMA  13 FHD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/568
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/Y2t2KMeVwlAMKXlm2a/giphy.gif?cid=6c09b952a6gwygwqhc9roenv07rhjxeus3cl2ie3eh1q0upw&rid=giphy.gif&ct=s" group-title="CanaisFechados",SKY CINEMA 14 HD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/569
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="CanaisFechados", TELECINE PIPOCA
+http://51.83.238.223:16763/
+#EXTINF:1 tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CanaisFechados", TELECINE ACTION
+http://51.83.238.223:16703/
+#EXTINF:1 tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CanaisFechados", TELECINE ACTION
+http://45.58.126.146:14354
+#EXTINF:1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3f06f279623251.5cc8ee09266a3.gif" group-title="CanaisFechados", GNT
+http://15.235.10.31:14365
+#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/27722/screenshots/2331277/tbs-example.gif" group-title="CanaisFechados", TBS
+http://45.58.126.146:14338
+#EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CanaisFechados",TLC
+http://45.58.126.146:14270/
+#EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CanaisFechados",TLC HD
+http://45.58.126.146:14270
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/InexperiencedHappygoluckyFinwhale-size_restricted.gif" group-title="CanaisFechados", PARAMOUNT
+http://45.58.126.146:14320
+#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CanaisFechados",NATGEO
+http://45.58.126.146:14287
+#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CanaisFechados",NATIONAL GEOGRAPHIC HD
+http://84.17.44.179:14635
+#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CanaisFechados",NATIONAL GEOGRAPHIC HD
+http://84.17.44.179:14635/
+#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CanaisFechados",NATIONAL GEOGRAPHIC HD
+http://45.58.126.146:14287/
+#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54b747c3e4b089bfadc49def/1523223957506-KBRJP4MRY6T0903198KO/HGTV_CouchLogoAnimation.gif" group-title="CanaisFechados",HGTV
+http://15.235.10.31:14412
+#EXTINF:1 tvg-logo="https://media.giphy.com/avatars/abrahaomendes/4L8KS5CpAx47.png" group-title="CanaisFechados",MEGAPIX
+http://45.58.126.146:14317
+#EXTINF:1 tvg-logo="http://25.media.tumblr.com/90027c20d4c15a599e61236e76a60422/tumblr_mooestZPzK1rdutw3o1_400.gif" group-title="CanaisFechados",COMEDY CENTRAL HD
+http://45.58.126.146:14308/
+ 
 
 #EXTM3U url-tvg="http://grade-de-Sportes.xml"
 ############## Sportes ################# 
+#EXTINF:1 tvg-logo="http://blogdetec.blogfolha.uol.com.br/files/2014/03/esportes-gareth-bale.gif" group-title="Sportes",
 #EXTINF:-1 tvg-id=" iddocanaldeSportes" group-title="
 
 #EXTINF:1 tvg-logo="https://memoriadatv.com.br/hf-conteudo/uploads/posts/2022/02/12579_combate-jpg.jpg" group-title="Sportes",COMBATE
 http://209.222.97.92:16493/
+#EXTINF:1 tvg-logo="https://memoriadatv.com.br/hf-conteudo/uploads/posts/2022/02/12579_combate-jpg.jpg" group-title="Sportes",COMBATE UHD
+http://209.222.97.92:16493/
+#EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2 UHD
+http://23.237.10.66:16180/
 #EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2
 http://23.237.10.66:16180/
+#EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2 FHD¹
+http://7go.xyz:8080/Rafagullosala/gaFf0EVj/42907
+#EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2 FHD¹
+http://209.222.97.92:16525
 #EXTINF:1 tvg-logo="https://cdn.myportfolio.com/423e18774d455bfa5874bcda45432723/33c9a965-8e62-4698-9c4c-d51b70237266_rw_600.gif?h=c1d642fe7814ebb55a049d4df2e89a57" group-title="Sportes",ESPN
 http://37.58.50.28:2095/Tourobox1-lives9237832962/6234456508/334
 #EXTINF:1 tvg-logo="https://imgmedia.libero.pe/1200x660/libero/original/2021/11/04/6184835fa17abe49654ce6c5.jpg" group-title="Sportes",ESPN 
@@ -115,44 +263,74 @@ http://ac.ntvlatino.com:8080/moises21/moises22/12011
 http://ac.ntvlatino.com:8080/moises21/moises22/3178
 #EXTINF:1 tvg-logo="https://www.gifs-animados.net/original/foxsports.gif" group-title="Sportes",FOX SPORTS
 http://ac.ntvlatino.com:8080/moises21/moises22/3267
+#EXTINF:1 tvg-logo="https://www.nicepng.com/png/detail/52-523356_watch-fox-sports-2-hd-channel-live-streaming.png" group-title="Sportes",FOX SPORT2
+http://15.235.10.31:14326
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMmHYUgCY87afIfag1kONnPZonpwPc-QGKlDB6vTK8kBgr2pCJeNgPK5E9FRSwR2y4vTM&usqp=CAU" group-title="Sportes",TNT SPORTS 2 HD¹
+http://7go.xyz:8080/Rafagullosala/gaFf0EVj/31469
+
 
 #EXTM3U url-tvg="http://grade-de-Infantil.xml"
 ############## Infantil ################# 
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/MiserableUnitedGypsymoth-size_restricted.gif" group-title="Infantil",
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil" group-title="
-
 
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/kibxTdFJXzAA0/giphy.gif?cid=6c09b952f012a53161a12761b5868a2ab05a60a50b13c4c2&rid=giphy.gif&ct=g" group-title="Infantil",NICK SD
 http://84.17.44.179:14310/
-
+#EXTINF:1 tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="Infantil",NICK JR
+#EXTINF:1 tvg-logo="https://media.tenor.com/vCktXaNRcK4AAAAC/cartoon-network.gif" group-title="Infantil",CARTOONITO
+http://45.58.126.146:14200
+#EXTINF:1 tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="Infantil",NICK JR
+http://45.58.126.146:14212
+#EXTINF:1 tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="Infantil",NICK JR
+http://84.17.44.179:14310/
 #EXTINF:1 tvg-logo="http://andrewhenrique.com/wp-content/uploads/2018/05/03.gif" group-title="Infantil",DISCOVERY KIDS FHD¹
 http://168.205.87.198:8555/live/1052/123456/143.m3u8
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJX3GEPpSAZgM7Omie4q2FC7u11rNCQor390eqw=s900-c-k-c0x00ffffff-no-rj" group-title="Infantil",KIDS BRASIL
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/112
+#EXTINF:1 tvg-logo="https://media.tenor.com/Q9RmtO6QoeAAAAAC/disney-television-animation-disney.gif" group-title="Infantil",DISNEY CHANNEL
+http://51.83.238.223:16274/
+#EXTINF:1 tvg-logo="https://media0.giphy.com/media/2y98KScHKeaQM/giphy.gif" group-title="Infantil",NARUTO HD
+http://speedapp.uniredes.com.br/amanda123/amanda123/9
+#EXTINF:1 tvg-logo="https://static.wixstatic.com/media/ddaa3e_573900c3690c4a9ba68a4a671f9c11a4.gif" group-title="Infantil",GLOOBINHO
+http://15.235.10.31:14361
+#EXTINF:1 tvg-logo="https://64.media.tumblr.com/d56733d9f5e38c140fb9032dde7ef151/9a530028ecd72d15-72/s1280x1920/b28c17ef0d3fc1215e5270331a6a9d2fbe847c9c.gif" group-title="Infantil",RETRÔ TV
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
 
 
 #EXTM3U url-tvg="http://grade-de-FILMES.xml"
 ############## FILMES ################# 
+#EXTINF:1 tvg-logo="https://logos.flamingtext.com/Word-Logos/filme-design-power-name.gif" group-title="FILMES",
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES" group-title="
 
 #EXTINF:1 tvg-logo="https://strapi.api-tvcine.com/uploads/7a9c2b3ead0b4f1fb1415ab488160498.jpg" group-title="FILMES",PERIGO NO OCEANO
 https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_540p.m3u8
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39b5ba3eeeffc0dd011389fbfc82e1d5b6d1c42b104c7cd19402eb86ec7482b8._RI_V_TTW_.jpg" group-title="FILMES",CÓDIGO DE CONDUTA
 https://play.prod.gcp.vix.services/law-abiding_pt/law-abiding_pt_1-1/play_v1_hls_1080p.m3u8
-
 #EXTINF:1 tvg-logo="http://25.media.tumblr.com/bea911a8b52bf22ac0c270cc3865a2d5/tumblr_mtn9s3hzne1si6vd0o1_500.gif" group-title="FILMES",A FERA
 https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_360p.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/SomXpRF5StYAAAAM/take-scene.gif" group-title="FILMES",filmes
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1841371.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-radio.xml "
- ############## radio ################ #   
-#EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
 
+#EXTM3U url-tvg="http://grade-de-GOSPEL.xml"
+############## GOSPEL ################# 
+#EXTINF:1 tvg-logo="https://cdn.bcms.app/uploads/trailblazers21_logo_1271de83d7.gif" group-title="GOSPEL",
+#EXTINF:-1 tvg-id=" iddocanaldeGOSPELS" group-title="
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="GOSPEL",TV APARECIDA HD
+http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/553
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8wh62w4pcagDf-r75-IeH5bwoCS8tqYodzvh6EQnL-aUIvLmdwZPAFhmpG4L_t-bUf4&usqp=CAU" group-title="GOSPEL",gospelcartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w191837823.m3u8
+
+
+#EXTM3U url-tvg=" http://grade-de-radio.xml "
+ ############## radio ################ # 
+#EXTINF:1 tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-radios-1.gif" group-title="radio",  
+#EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
 
 
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/u8jL4vY4ze.png" group-title="radio",Simone e Simaria
 http://stream.zeno.fm/81dhknvepxhvv
-
 #EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 #EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 2
@@ -374,7 +552,8 @@ https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
 http://radioaovivo.ufrgs.br:8000/stream.mp3
 
 #EXTM3U url-tvg=" http://grade-de-dinho santos.xml "
- ############## dinho santos ################ #   
+ ############## dinho santos ################ # 
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSie5FiXcp3rF_azcVCUJl1ViJMGYbUil_1kg6lEabS-t1k_6rcmh4PspgbE0InfZCKPQs&usqp=CAU" group-title="dinho santos",     
 #EXTINF:-1 tvg-id=" iddocanaldedinho santos " group-title="
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="dinho santos", -Sozinho na Rua
@@ -392,6 +571,7 @@ https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/m
 
 #EXTM3U url-tvg=" http://grade-de-traduçao.xml "
  ############## traduçao ################ # 
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kk3X0cLbXMsjGszOc4ynnc-bVNeGI8JIrw&usqp=CAU" group-title="traduçao",  
 #EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -BERLIN TRADUÇAO ALEX SILVA
@@ -430,9 +610,13 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 
 #EXTM3U url-tvg=" http://grade-de-tvclips.xml "
- ############## tvclips ############## ###   
+ ############## tvclips ############## ### 
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/vA2p2KaXfALxrtE-Cu5Jw-Qwa4jYsX6U0b--_5NnsIXOPFwzBddjqeCqzSBeFYioaQFmNmb0WA=s900-c-k-c0x00ffffff-no-rj" group-title="tvclips",   
 #EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="tvclips", MTV
+http://51.222.44.30:14921
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="tvclips",TV Web Camocim 
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e53513E.png" group-title="tvclips",TV WTJMINAS 
@@ -482,3 +666,87 @@ https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
 #EXTINF:1 tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862"group-title="tvclips",  -TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
+
+
+#EXTM3U url-tvg=" http://grade-de-Camera.xml "
+############## Camera #################  
+#EXTINF:-1 tvg-id=" iddocanaldeCamera " group-title=" 
+
+#EXTINF:1 tvg-logo="https://www.rio-janeiro-airport.com/images/rio-de-janeiro-santos-dumont-airport-sdu.jpg" group-title="Camera",AEROPORTO SANTOS DUMONT/ SBRJ - RIO DE JANEIRO
+https://www.youtube.com/live/SgwKawGWceM?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/86YLFOog4GM/maxresdefault.jpg" group-title="Camera",Nasa Live Stream - Earth From Space 
+https://www.youtube.com/live/86YLFOog4GM?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/-HxJYZI9AMk/maxresdefault.jpg" group-title="Camera",ol Donyo Lodge Wildlife Live Stream
+https://www.youtube.com/live/-HxJYZI9AMk?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/4qyZLflp-sI/maxresdefault.jpg" group-title="Camera",Times Square: 1560 Broadway View Live
+https://www.youtube.com/live/4qyZLflp-sI?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/1-iS7LArMPA/hqdefault.jpg" group-title="Camera",EarthCam Live: Times Square in 
+https://www.youtube.com/live/1-iS7LArMPA?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/gHIkx8zEpO0/maxresdefault.jpg" group-title="Camera",Porto ao Vivo - Entrada no Canal do Porto de Santos
+https://www.youtube.com/live/gHIkx8zEpO0?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/o14pAQ0FNt4/maxresdefault_live.jpg" group-title="Camera",Pista 5R del Aeropuerto de la CDMX | Skyline Airport View Coffee
+https://www.youtube.com/live/o14pAQ0FNt4?feature=share
+#EXTINF:1 tvg-logo="hthttps://i.ytimg.com/vi/rmf5_NiuTic/maxresdefault_live.jpg" group-title="Camera",Pista 5L del Aeropuerto de la Ciudad de México | Desde Skyline Airport View Coffee
+https://www.youtube.com/live/rmf5_NiuTic?feature=share
+#EXTINF:1 tvg-logo="https://www.beachlivecam.com/wp-content/uploads/2022/07/midway-international-airport.jpg" group-title="Camera",Midway International Airport, Chicago, IL | StreamTime LIVE
+https://www.youtube.com/live/S26YOMAD290?feature=share
+#EXTINF:1 tvg-logo="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3d/7e/6b/photo7jpg.jpg?w=1200&h=-1&s=1" group-title="Camera",Santa Claus Village
+https://www.youtube.com/live/Cp4RRAEgpeU?feature=share
+#EXTINF:1 tvg-logo="https://webcamera24.com/static/image/camera/detail/dam-square/thumbnail/968x545/maxresdefault.webp" group-title="Camera",yipgroup.com | live ultraHD Pan Tilt Zoom camera Dam Amsterdam
+https://www.youtube.com/live/R3YNscjcJOk?feature=share
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSiQAn_QqID0NqKnUOmCoLBDJ-3L5IpcvJ6bbGW4Fn65H9CsPDxnQOJlPgrJPTWUV3hDw&usqp=CAU" group-title="Camera",Live streaming Boston, Massachusetts USA - from the Museum of Science
+https://www.youtube.com/live/NmrVzhJ6HnU?feature=share
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/SmJGxM5RsNw/maxresdefault.jpg" group-title="Camera",AMSTERDAM | RAINY SUNDAY SHOW Spotting & Chill at Amsterdam Airport
+https://www.youtube.com/live/9eoDyI5kxCo?feature=share
+#EXTINF:1 tvg-logo="https://veja.abril.com.br/wp-content/uploads/2018/10/brasil-cumbica-guarulhos-20141012004.jpg?quality=70&strip=info&w=1280&h=720&crop=1" group-title="Camera",AEROPORTO INTERNACIONAL DE GUARU
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/263
+#EXTINF:1 tvg-logo="https://www.vounajanela.com/wp-content/uploads/2017/08/aeroporto-de-guarulhos-4-1050x599.jpg" group-title="Camera",AEROPORTO INTERNACIONAL DE GUARU
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/261
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="Camera",Lisboa - Belém
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:1 tvg-logo="https://st2.depositphotos.com/27201292/44434/i/450/depositphotos_444341112-stock-photo-an-aerial-shot-of-the.jpg" group-title="Camera",Ofir
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.playocean.net/i/portugal/beaches/porto/homem-do-leme/praia-do-homem-do-leme-6.jpg" group-title="Camera",Porto - Homem do Leme
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
+#EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/CKsbn1KyNR0/maxresdefault.jpg" group-title="Camera",Praia Canide Norte - Sul
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-M1Il1azjs4E/VvbUDkM_VWI/AAAAAAAArcM/ZKdZx7nzO7ksRrx37wGrmuJ5Hs8rWGgyQ/s1600/Praia%2Bde%2BEsmoriz%2B1.jpg" group-title="Camera",Esmoriz
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:1 tvg-logo="http://praias.beachcam.pt/media/6756/th_furadouro_.jpg" group-title="Camera",Furadouro
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdn.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.PRA1205D.jpg?itok=tScQQeYj" group-title="Camera",Praia da Torreira
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:1 tvg-logo="https://img.ibxk.com.br/2014/06/10/10121324612294.gif" group-title="Camera",Costa Nova
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/uXWIkzVn-XY/maxresdefault.jpg" group-title="Camera",Praia da Tocha
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:1 tvg-logo="https://t3.ftcdn.net/jpg/05/20/86/68/360_F_520866848_rNYUPhBntmRiDiN3hFGrfV0MINMWQj1t.jpg" group-title="Camera",Murtinheira
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
+#EXTINF:1 tvg-logo="hhttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/01/e5/78/praia-do-cabedelo.jpg?w=1200&h=-1&s=1" group-title="Camera",Figueira da Foz - Cabedelo
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
+#EXTINF:1 tvg-logo="https://gooutside.com.br/wp-content/uploads/sites/3/2021/05/osso-de-baleia-encontrado-em-sp-696x522.jpg" group-title="Camera",Praia Osso da Baleia
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/ytc/AMLnZu-9AN3w-LKpUgEiFLVALsFFUHvywcJIa-5tg1pgjw=s48-c-k-c0x00ffffff-no-rj" group-title="Camera",AO VIVO DE PORTUGAL
+https://youtu.be/Lb5ktLGFsKs
+#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s48-c-k-c0x00ffffff-no-rj" group-title="Camera", Balneário Camboriú
+https://youtu.be/PjXKFvxCkC4
+#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s48-c-k-c0x00ffffff-no-rj" group-title="Camera", Balneário Camboriú
+https://youtu.be/oV-J0AnViWo
+#EXTINF:1 tvg-logo="https://fotografiasaereas.com.br/wp-content/uploads/goiania-0013-fotos-aereas-estadio-Serra-dourada-parque-buritis-lago-rosas.jpg" group-title="Camera",Goiânia - Panorâmica
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8BgvfOZOA9DJmbWEoZXNmtjyw6dqn0z10Udke2r9tNYftQP3B_Kn68iTEqg1lJ39uJs&usqp=CAU" group-title="Camera",Brasília Asa Sul
+https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://climaonline.com.br/public/fotos/pr/cascavel/foto-antiga-de-cascavel-22.webp" group-title="Camera",Cascavel Panorâmica
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
