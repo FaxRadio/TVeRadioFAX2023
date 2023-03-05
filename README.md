@@ -572,7 +572,6 @@ https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls
 #EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-tommaso_pt/gli-amici-tommaso_pt_200x300.jpg" group-title="BIBLICO",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
 
-
 #EXTM3U url-tvg="http://grade-de-GOSPEL.xml"
 ############## GOSPEL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeGOSPELS" group-title="
