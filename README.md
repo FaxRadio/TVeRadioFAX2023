@@ -9,7 +9,6 @@ https://youtu.be/M1mROdK3aqE
 
 #EXTM3U url-tvg=" http://grade-de-radiofax.xml "
 ############## radiofax ################# 
-
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
 
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
@@ -19,9 +18,17 @@ http://stream.zeno.fm/hu70hmkcu68uv.m3u
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
+#EXTM3U url-tvg=" http://grade-de-Documentarios.xml "
+############## Documentarios ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeDocumentarios" group-title="
+
+#EXTINF:1 tvg-logo="https://media.tenor.com/gYPHzOq8X2sAAAAC/trapalhoes-mussum.gif" group-title="Documentarios",mussum-cacildis
+https://play.prod.gcp.vix.services/mussum-cacildis_pt/mussum-cacildis_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/uOzxJjOP_UQAAAAC/mamonas-assassinas.gif" group-title="Documentarios",mamonas-pra-sempre
+https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
+
 #EXTM3U url-tvg="http://grade-de-CanaisAbertos.xml"
 ############## CanaisAbertos ################# 
-
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisAbertos" group-title="
 
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoz0gyLnImviBNJgOgn2qwrIrBgZGV55uvT0phiBTZU-RSShgjf4JE8z_H1lxjw7sLAEk&usqp=CAU" group-title="CanaisAbertos",TV GAZETA
@@ -64,11 +71,12 @@ http://cdn.connectbr.com.br/Life/index.m3u8
 http://15.235.10.31:14351/
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/khsreF7UfrB-LwT_Oq-UDI_I_WtAXER8fDa99wlcgovDnll1IhexekBKhC87qtva4aoREVNcel0=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisAbertos"VIVA HD
 http://199.127.60.83:16884/
+#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" group-title="CanaisAbertos",Suzuky TV
+https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2077970629.m3u8
 
 #EXTM3U url-tvg="http://grade-de-CanaisFechados.xml"
 ############## CanaisFechados ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisFechados" group-title="
-
 
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd93a7-2WB8_NpP7RnlO9LTLeA9wnt6_vQeg&usqp=CAU" group-title="CanaisFechados",SPACE
 http://45.58.126.146:14323
@@ -173,9 +181,7 @@ http://15.235.10.31:14395
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/OKCHMG1PBO4/maxresdefault.jpg" group-title="CanaisFechados",HBO XTREME
 http://15.235.10.31:14406
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",FX HD
-
 http://45.58.126.146:14311/
-
 #EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-xOELKSkkr4A/Uuv3Fyz8CyI/AAAAAAAAhHs/C_BhByvHncU/s1600/50p9xc.jpg" group-title="CanaisFechados",TV TEEN NET  HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
 #EXTINF:1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEUAAAD////V1dX8/Pw9PT3z8/NGRkZfX1+9vb3h4eFmZmZtbW0cHBzo6Oje3t6Xl5fY2NgwMDB9fX24uLhRUVHOzs6Ojo5NTU1CQkI5OTnIyMjBwcGoqKiEhIT29vavr6+dnZ0mJiYPDw9aWloMDAx1dXUrKyuyL8vVAAADdUlEQVR4nO2d205iURBEuQsICiKI4gW8/f8nTvZMfOJQ2d2ZpHe1tb6gVkwAu7vO6fWEEEIIIYQQQgghhBAijONq4GF1jA5ezabvYxMdvJpnp+FzdPBqjk7D2+jg1eychrvo4NW8OA1fooNX8+U0/IoOXs210/A6Ong1c6fhPDp4NR9Ow4/o4NXcOw3vo4NX8+A0fIgOXk1+w73TcB8dvJpHp+FjdPBq1kOX4HAdHbya09hlOD5FB69m4TRcRAev5n3pMly+Rwevx2kYHdvAzGU4i45tIL/hjcvwJjq2ARnyGw5chqvo2AaeoMlyM+3iwDNM7PWm0JBntH2ZN2g4jY73H8Bj/QyGeKyfwfA2vSFeXGQwxIuLDIZ36Q3xakaGDODlUwZDvHzKYIiXTxkM8eIig+EIDr0zGOKxfgbDU3rD99fshj0Z8gOXTzKkIL8hXq8Nu6BarvnG+kxDfd9YfxAd2gQe63fzFB3axMFheIgObcJzrc+1zsCLi27eokOb8PQReLoIBU8f4Rgd2kR+Q7ya6YZpBfwbDD2tGZ7GTAGvZrq5iw5twtMp4emTFK4chlfRoU14Ghc8bYuC51qf51K/sHYY8tyxFxYOQ54r7784DKMjG5FhbsPd1bwDri98bMhTpESgBSLXj5dLoLF+DkM01s9hiMb6OQxX6Q236Q3R4iKHIVpc5DBEjYschmg1k8MQrWZkyAFaPuUwRGP9HIZorJ/DEI31cxiiPkIOQ3Stn8MQXevnMETX+jkM0eIihyF6zFAOQ7SayWF4kiE9CzASzmGIOiU5DD/B0DuHIRp6c50kXAQ8SGk562AbHdiM9Vqfq4tQQGP9Lri6CAVrH4HpAUP/QIuLLrjaFgWrId8nTX5Da2uGzxA/DOscrk5Qwdop4WrMFKydEq7GTMF6rX+MDmzGeq3P1UUoWN9xwdVFKFj7CFxdhIL1LR48b+/4wfqOC7bjS3vjguftHT9YDfmGN9b3lPCd1VpbM3zjqYnRcBId2Ax+GNYZw1F0YDNr+BCeM165OkGFb+Pf8Ds6sJ39xAJXcU0IIYQQv4bR2AbfL+/8/1vIUIbtI0MZto8MZdg+MpRh+8hQhu0jQxm2jwxl2D4ylGH7yFCG7SNDGbaPDGXYPjKUYfuMTIL9Pp/hejuwsOW7ghZCCCGEEEIIIYQQQiTjDzo3NSZXRS+QAAAAAElFTkSuQmCC" group-title="CanaisFechados", E! HD
@@ -248,7 +254,64 @@ http://45.58.126.146:14317
 http://45.58.126.146:14308/
 #EXTINF:1 tvg-logo="https://imagens-cdn.canalrural.com.br/2019/10/rn2.gif" group-title="CanaisFechados",CANAL RURAL
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e53513E.png" group-title="CanaisFechados",TV WTJMINAS 
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8 
+#EXTINF:1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="CanaisFechados",HITS
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/3UjbihgsKD16QUEd5f6jd9znJ4_b3WIvMWPjfAtCsIPAd40wlZG4ZAgWBbviRydpyu0" group-title="CanaisFechados",CANAL 10 FOZ
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media1.giphy.com/media/H11yMATDcaj5K/200w.gif?cid=6c09b952ulayv4lw8s4c6hubsdtghbr4dbo4p9tng430a7rw&rid=200w.gif&ct=g" group-title="CanaisFechados",TV ZOOM
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-DPCKdzWQqDw/XU5KkPXtNBI/AAAAAAAABa4/l0uoUyfZv8kJ-jBSAsNYKaIe0XoZZW-wgCLcBGAs/s320/Screenshot_2019-08-10-01-33-09.png" group-title="CanaisFechados",TV MAIS MARICA
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f8a3fa9e42936215fde3bd04bb0f35a6.webp" group-title="CanaisFechados",CANAL RICOS
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUAnAH47Teme-nHutwp-fmSkQZfnn0eheUWwiay8g=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",TV PADRE CICERO
+https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb1538f8a908c5aad023c2e87021d302.webp" group-title="CanaisFechados",SAO RAIMUNDO TV
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="CanaisFechados",TV GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/o_9ABjEBlf_-BHDeysRnqNA-bUc_QAH3OdWXgs_Nti4QTdWOrw6szttIodzlMhG3P4ncibigFA=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",TV HORA 1
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u8
+#EXTINF:1 tvg-logo="https://criticadeponta.files.wordpress.com/2009/11/tv2.jpg" group-title="CanaisFechados",TVC 16
+https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+#EXTINF:1 tvg-logo="https://gcmais.com.br/wp-content/uploads/2022/07/tv-cidade.png" group-title="CanaisFechados",TV CIDADE CANAL 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8 
+#EXTINF:1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7431/cabecalho-7431-20200117195006.png" group-title="CanaisFechados",LIDER DO VALE
+https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXrQOMkGdWkMLWdN1ETSBIrMHTpK4PIQoxmNhOvF-SyZ5UCr-smfRI9VlA73UP4-FH2c&usqp=CAU" group-title="CanaisFechados", MAM NEWS WEB TV
+https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/3_VzWC4YH0NOTee7Oq2F_Nyc68sKE2ipyeDkE0cnQTlvI6HI6oPxgIChbud0D5LXcp0oO89M=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados", WEB TV JP
+https://stmv3.samcast.com.br/vinicius8694/vinicius8694/playlist.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/6eyDEcAW1rVASp6A_5QNClzkSl6yYl0yo0C8sB86ms47FIK_zXA8NLYSY9gYI-s74MTS52dtkA=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",RESENDE WEB TV
+https://5d82644094cc0.streamlock.net:443/resendetv/resendetv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74eeb2765564dd79d85e4d9c11431a87.webp" group-title="CanaisFechados",CAMOCIM WEB TV
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/vyxBAObNX3_RUlVFEBx_PRuLA2HA9WubHeWOPaMgT2DUYKYKdJ001SFW8OQuOD6eGA" group-title="CanaisFechados",WEB TV MACEIO
+https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
+#EXTINF:1 tvg-logo="https://www.paranaeducativafm.pr.gov.br/sites/fm/arquivos_restritos/files/styles/escala_e_corta_360x225_/public/imagem/2021-12/banner_lateral_padrao_tv.png.jpg?itok=mZVVxFxt" group-title="CanaisFechados",TV PARANA
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="CanaisFechados",WEB TV URUARA
+https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/SEB13xbzi_e4zQLp6VFdfQ356w9I8-FlbbFr8e_G_iQq3SOqno9xi9LAp-D5vhN41g" group-title="CanaisFechados",WEB TV FRONTEIRA
+https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/4l7KgoMTTDnNqU4PcBKh3UkcIDzPhAMrwnbuP-g_aMN3mUojPTJA-Hy8oCybyjAN2bZN=w600-h300-pc0xffffff-pd" group-title="CanaisFechados",WEB TV ESCRIBA DO AMAPA
+https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a88db29f316fa10a27bcded4cd857538.webp" group-title="CanaisFechados",WEB TV CAICO
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/017fd721088105092c54513b07ac61d0.webp" group-title="CanaisFechados",SRTV PB
+https://livefocamundo.com:8081/srtvpb/index.m3u8
+#EXTINF:1 tvg-logo="https://fb.paineladm.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="CanaisFechados",TV CARAVELAS
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.portalolhardinamico.com.br/uploads/img/posts/2727/0d7b630b871df09934da9b2d7d831a73.jpg" group-title="CanaisFechados",TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJ4VEPFheQFyBOB5E2Gn4LbZCVsc13CzAAV-jrch9mtEItYmSJUYZjtjngDv_NlHOQLw&usqp=CAU" group-title="CanaisFechados",TV MASTER PB
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv-JcwSrULKe7Pfdojug1q21Og8-GkdlfhiayzZLahZ3kw00R2042VwRrNmWfcA0yB5Y&usqp=CAU" group-title="CanaisFechados",TV PRECABURA
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/48aff45b0e145a414185f8e79bd8fc49.webp" group-title="CanaisFechados",TV CN AGITOS
+http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 
 #EXTM3U url-tvg="http://grade-de-Sportes.xml"
 ############## Sportes ################# 
@@ -282,12 +345,12 @@ http://ac.ntvlatino.com:8080/moises21/moises22/3267
 http://15.235.10.31:14326
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMmHYUgCY87afIfag1kONnPZonpwPc-QGKlDB6vTK8kBgr2pCJeNgPK5E9FRSwR2y4vTM&usqp=CAU" group-title="Sportes",TNT SPORTS 2 HD¹
 http://7go.xyz:8080/Rafagullosala/gaFf0EVj/31469
-
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW83_RUuPZISJ7UjWUK23NkH1hr940nidUj-snKoA=s900-c-k-c0x00ffffff-no-rj" group-title="Sportes",Brasil: esportes
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
 
 #EXTM3U url-tvg="http://grade-de-Infantil.xml"
 ############## Infantil ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil" group-title="
-
 
 #EXTINF:1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/1758112356300653192/5436F98DAF7C191284DBF7A30E8B5A715681E4AE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" group-title="Infantil",ANIME TV SD
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1969769045.m3u8
@@ -312,49 +375,61 @@ http://speedapp.uniredes.com.br/amanda123/amanda123/9
 http://15.235.10.31:14361
 #EXTINF:1 tvg-logo="https://64.media.tumblr.com/d56733d9f5e38c140fb9032dde7ef151/9a530028ecd72d15-72/s1280x1920/b28c17ef0d3fc1215e5270331a6a9d2fbe847c9c.gif" group-title="Infantil",RETRÔ TV
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
-
+#EXTINF:1 tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862"group-title="Infantil",  -TV DESTAK
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
+#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2TQcm4mL81MgGdiCpeYZ4AUPcPqOTNvnFv6P0o2pOaIyRpfUFxvpJaiaAFwVqGRVBhEcWfh360HeKU1fhhZzEDBH2KRQcK1hyrIHBNwLqZxM9puKO7Puc_8Gd0YZctIyciU50sspx2d9VoyR0hvuGM7wbGMAjsz0o8CPTdm-IJaJVxWC2ksueI6l/w1200-h630-p-k-no-nu/GEEKDOT.webp"group-title="Infantil", Geekdot
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+#EXTINF:1 tvg-logo="https://www.murilotv.com.br/wp-content/uploads/sites/36/2022/12/logo-1.png"group-title="Infantil", Murilo TV
+https://tv02.zas.media:1936/murilotv/murilotv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif"group-title="Infantil",Turma Da Monica
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/JSe-kOJJd2IAAAAC/strawberry-shortcake.gif"group-title="Infantil",moranguinho
+https://play.prod.gcp.vix.services/moranguinho_pt/moranguinho_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5OTkxN2EtOWU0MC00NjUzLWJjYWItYmY1MTFiYTIzZjU0XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg"group-title="Infantil",car patrol
+https://play.prod.gcp.vix.services/car-patrol_pt/car-patrol_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES.xml"
 ############## FILMES ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES" group-title="
 
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/danny-the-dog_pt/danny-the-dog_pt_200x300.jpg" group-title="FILMES",Cão de briga
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/DR3B3b5Vj2k/maxresdefault.jpg" group-title="FILMES",tik-tok
+https://play.prod.gcp.vix.services/tik-tok_pt/tik-tok_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://images.indianexpress.com/2017/01/jackie-chan-gif.gif" group-title="FILMES",kung fu yoga
+https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="http://1.bp.blogspot.com/-mrlXSyBy0D4/U5dQss0hOJI/AAAAAAAABAM/mt4WbiH2p_k/s1600/c%C3%A3o+de+briga.jpg" group-title="FILMES",Cão de briga
 https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/black-water_pt/black-water_pt_200x300.jpg" group-title="FILMES",Perigo no Oceano
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/05/23/09/20/0659238.jpg" group-title="FILMES",Perigo no Oceano
 https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/ages-of-love_pt/ages-of-love_pt_200x300.jpg" group-title="FILMES",As Idades do Amor
+#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2b95e4ad49d1676926c2b4e0396ad19a3f50b6f62cd570a57798c30cbd557e59._RI_V_TTW_.jpg" group-title="FILMES",As Idades do Amor
 https://play.prod.gcp.vix.services/ages-of-love_pt/ages-of-love_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/running-wild_pt/running-wild_pt_200x300.jpg" group-title="FILMES",Corrida Selvagem
+#EXTINF:1 tvg-logo="https://media.fstatic.com/X837k1RkKv8ZGTuaWsiKsRVj18k=/322x478/smart/filters:format(webp)/media/movies/covers/2017/03/Running_Wild_2017.jpg" group-title="FILMES",Corrida Selvagem
 https://play.prod.gcp.vix.services/running-wild_pt/running-wild_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/slow-west_pt/slow-west_pt_200x300.jpg" group-title="FILMES",Oeste Sem Lei
+#EXTINF:1 tvg-logo="https://images.justwatch.com/poster/11571908/s592/slow-west" group-title="FILMES",Oeste Sem Lei
 https://play.prod.gcp.vix.services/slow-west_pt/slow-west_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/case-of-you_pt/case-of-you_pt_200x300.jpg" group-title="FILMES",Um Caso de Amor
+#EXTINF:1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/20577.jpg" group-title="FILMES",Um Caso de Amor
 https://play.prod.gcp.vix.services/case-of-you_pt/case-of-you_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/momentum_pt/momentum_pt_200x300.jpg" group-title="FILMES",Momentum
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/UqAWOwwD8c0/maxresdefault.jpg" group-title="FILMES",Momentum
 https://play.prod.gcp.vix.services/momentum_pt/momentum_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/broken-swords-line_pt/broken-swords-line_pt_200x300.jpg" group-title="FILMES",Espada da Vingança
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/9lCRjkHIO_A/maxresdefault.jpg" group-title="FILMES",Espada da Vingança
 https://play.prod.gcp.vix.services/broken-swords-line_pt/broken-swords-line_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/dna-1996_pt/dna-1996_pt_200x300.jpg" group-title="FILMES",DNA: Caçada ao Predador
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/-kBamUaCa8U/maxresdefault.jpg" group-title="FILMES",DNA: Caçada ao Predador
 https://play.prod.gcp.vix.services/dna-1996_pt/dna-1996_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/spionen_pt/spionen_pt_200x300.jpg" group-title="FILMES",A espiã
+#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/14/06/11/16/42/352585.jpg" group-title="FILMES",A espiã
 https://play.prod.gcp.vix.services/spionen_pt/spionen_pt_1-1/play_v1_hls_432p.m3u8
-#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/defenseless_pt/defenseless_pt_200x300.jpg" group-title="FILMES",Sem Defesa
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/lqHq7Xe_fko/maxresdefault.jpg" group-title="FILMES",Sem Defesa
 https://play.prod.gcp.vix.services/defenseless_pt/defenseless_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/ash-lad-castle_pt/ash-lad-castle_pt_200x300.jpg" group-title="FILMES",Em busca do castelo dourado
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/02/11/14/1090259.jpg" group-title="FILMES",Em busca do castelo dourado
 https://play.prod.gcp.vix.services/ash-lad-castle_pt/ash-lad-castle_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/once_pt/once_pt_200x300.jpg" group-title="FILMES",Apenas Uma Vez
+#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg" group-title="FILMES",Apenas Uma Vez
 https://play.prod.gcp.vix.services/once_pt/once_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/know-killed-me_pt/know-killed-me_pt_200x300.jpg" group-title="FILMES",Eu sei quem me matou
+#EXTINF:1 tvg-logo="https://fotos-g.imagemfilmes.com.br/103717/103717_001.jpg" group-title="FILMES",Eu sei quem me matou
 https://play.prod.gcp.vix.services/know-killed-me_pt/know-killed-me_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/kidnapped-romania_en/kidnapped-romania_en_200x300.jpg" group-title="FILMES",Sequestro na Romênia
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/oAk1nGeo2sc/maxresdefault.jpg" group-title="FILMES",Sequestro na Romênia
 https://play.prod.gcp.vix.services/kidnapped-romania_en/kidnapped-romania_en_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/case-for-christ_pt/case-for-christ_pt_200x300.jpg" group-title="FILMES",Em Defesa de Cristo
+#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d6d3573091f9aa5f5a4b21cc7fdeaf9f796fc666e4ef1a9a141259d9b7e73b89._RI_V_TTW_.jpg" group-title="FILMES",Em Defesa de Cristo
 https://play.prod.gcp.vix.services/case-for-christ_pt/case-for-christ_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jack-coeur_pt/jack-coeur_pt_200x300.jpg" group-title="FILMES",Jack e a Mecânica do Coração
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-QKDIaqgABZo/U_08gZ27odI/AAAAAAAAGWY/9u9aMfabVdw/s1600/1946122-concours-jack-et-la-mecanique-du-coeur-votre-enfant-dans-un-moment-d-amour.jpg" group-title="FILMES",Jack e a Mecânica do Coração
 https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_1080p.m3u8
-
-
 #EXTINF:1 tvg-logo="https://strapi.api-tvcine.com/uploads/7a9c2b3ead0b4f1fb1415ab488160498.jpg" group-title="FILMES",PERIGO NO OCEANO
 https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_540p.m3u8
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39b5ba3eeeffc0dd011389fbfc82e1d5b6d1c42b104c7cd19402eb86ec7482b8._RI_V_TTW_.jpg" group-title="FILMES",CÓDIGO DE CONDUTA
@@ -363,74 +438,93 @@ https://play.prod.gcp.vix.services/law-abiding_pt/law-abiding_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_360p.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/SomXpRF5StYAAAAM/take-scene.gif" group-title="FILMES",filmes
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1841371.m3u8
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/7XfmuKqJhYZy1oR7wvcN6yOUGi0ls-WdRIGG8fD77R9pw8SuywTahh5ZtFRicReiRegD6MY=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES",Adrenalina Freezone 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:1 tvg-logo="https://img.global.news.samsung.com/br/wp-content/uploads/2022/08/BR_TV_Mockup_03-e1661888354568.jpg" group-title="FILMES",Service TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXNPG1D/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="FILMES",braven
+https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9716b5e988f57b76f91c14f775da1340c5b39f273907ddb1af6c8527e953256c._RI_V_TTW_.jpg" group-title="FILMES",kabluey
+https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Sonhos_Roubados.jpg" group-title="FILMES",sonhos-roubado
+https://play.prod.gcp.vix.services/sonhos-roubados_pt/sonhos-roubados_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="http://pm1.narvii.com/7173/e863961630c1abcf8e18bdd0bde98aa851775801r1-719-1000v2_uhq.jpg" group-title="FILMES",Ringu-3
+https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/09/10/14/09/4328345.jpg" group-title="FILMES",Bravestorm
+https://play.prod.gcp.vix.services/bravestorm_pt/bravestorm_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/d/dying-light-platinum-edition-switch/hero-def" group-title="FILMES",Dying
+https://play.prod.gcp.vix.services/lay-dying_pt/lay-dying_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/deserto_t88217.jpg" group-title="FILMES",10 dias no deserto
+https://play.prod.gcp.vix.services/last-days-desert_pt/last-days-desert_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://assets.mubicdn.net/images/film/254948/image-w1280.jpg?1613549472" group-title="FILMES",digger
+https://play.prod.gcp.vix.services/gold-digger_pt/gold-digger_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:1 tvg-logo="https://i.makeagif.com/media/10-31-2013/XhEnsV.gif" group-title="FILMES",jaspion
+https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES",jiraiya
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-BaseadoHistoriaReal.xml"
 ############## BaseadoHistoriaReal ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeBaseadoHistoriaReal" group-title="
 
-
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/im-not-there_pt/im-not-there_pt_200x300.jpg" group-title="BaseadoHistoriaReal",Não Estou Lá
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/76/54/20112654.png" group-title="BaseadoHistoriaReal",Não Estou Lá
 https://play.prod.gcp.vix.services/im-not-there_pt/im-not-there_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/alphabet-killer_pt/alphabet-killer_pt_200x300.jpg" group-title="BaseadoHistoriaReal",O Assassino do Alfabeto
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/ojVgRGyQ4uw/maxresdefault.jpg" group-title="BaseadoHistoriaReal",O Assassino do Alfabeto
 https://play.prod.gcp.vix.services/alphabet-killer_pt/alphabet-killer_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/boys-ghraib_pt/boys-ghraib_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Vigilantes da Guerra
+#EXTINF:1 tvg-logo="https://images.justwatch.com/poster/238688217/s718/boys-of-abu-ghraib.%7Bformat%7D" group-title="BaseadoHistoriaReal",Vigilantes da Guerra
 https://play.prod.gcp.vix.services/boys-ghraib_pt/boys-ghraib_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/perfect-sister_pt/perfect-sister_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Cúmplices de Um Segredo
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/jkz1FcoShCc/maxresdefault.jpg" group-title="BaseadoHistoriaReal",Cúmplices de Um Segredo
 https://play.prod.gcp.vix.services/perfect-sister_pt/perfect-sister_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/sobibor_pt/sobibor_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Sobibor
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/idddBuMwZyY/maxresdefault.jpg" group-title="BaseadoHistoriaReal",Sobibor
 https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/kongen-bastoy_pt/kongen-bastoy_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Inferno na Ilha
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/09/04/20/59/336333.jpg" group-title="BaseadoHistoriaReal",Inferno na Ilha
 https://play.prod.gcp.vix.services/kongen-bastoy_pt/kongen-bastoy_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/estrada-47_pt/estrada-47_pt_200x300.jpg" group-title="BaseadoHistoriaReal"A Estrada 47
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9d/Estrada47.jpg/250px-Estrada47.jpg" group-title="BaseadoHistoriaReal",A Estrada 47
 https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/red-dirt-rising_pt/red-dirt-rising_pt_200x300.jpg" group-title="BaseadoHistoriaReal"Desafios de uma Vida
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/05/12/20/02/178694.jpg" group-title="BaseadoHistoriaReal",Desafios de uma Vida
 https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/masked-saint_pt/masked-saint_pt_200x300.jpg" group-title="BaseadoHistoriaReal"O Vigilante Mascarado
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/p4aQLDKVC2Q/maxresdefault.jpg" group-title="BaseadoHistoriaReal",O Vigilante Mascarado
 https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.m3u8
-
 
 #EXTM3U url-tvg="http://grade-de-FilmesDrama.xml"
 ############## FilmesDrama ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmesDrama" group-title="
 
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/urban-country_pt/urban-country_pt_200x300.jpg" group-title="FilmesDrama"Hora de Recomeçar
+#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/03/18/22/15/0090467.jpg" group-title="FilmesDrama",Hora de Recomeçar
 https://play.prod.gcp.vix.services/urban-country_pt/urban-country_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/copenhagen-2014_pt/copenhagen-2014_pt_200x300.jpg" group-title="FilmesDrama"Copenhagen
+#EXTINF:1 tvg-logo="https://cinemacao.com/wp-content/uploads/2016/05/Copenhagen-03.jpg" group-title="FilmesDrama",Copenhagen
 https://play.prod.gcp.vix.services/copenhagen-2014_pt/copenhagen-2014_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jackie-ryan_pt/jackie-ryan_pt_200x300.jpg" group-title="FilmesDrama"Jackie & Ryan: Amor Sem Medidas
+#EXTINF:1 tvg-logo="https://resizing.flixster.com/3M4u54Mns6pLlnu69FhgECk7iLM=/300x300/v2/https://flxt.tmsimg.com/assets/p11593878_p_v8_ac.jpg" group-title="FilmesDrama",Jackie & Ryan: Amor Sem Medidas
 https://play.prod.gcp.vix.services/jackie-ryan_pt/jackie-ryan_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/trafficked_pt/trafficked_pt_200x300.jpg" group-title="FilmesDrama"Tráfico de Mulheres
+#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-_KtoJLXolXg/YM6AUFjPcWI/AAAAAAAAMzI/CTFNoETEDuAMUvjacwU6Mrd67iI4B2GFQCLcBGAsYHQ/s1080/tra%25CC%2581fico%2Bde%2Bmulheres.png" group-title="FilmesDrama",Tráfico de Mulheres
 https://play.prod.gcp.vix.services/trafficked_pt/trafficked_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="hhttps://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/submergence-sofa_pt/submergence-sofa_pt_200x300.jpg" group-title="FilmesDrama"Submersão
+#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/03/02/12/53/2264073.jpg" group-title="FilmesDrama",Submersão
 https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/play_v2_hls_1080p.m3u8
-
 
 #EXTM3U url-tvg="http://grade-de-ADOLECENTE.xml"
 ############## ADOLECENTE ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeADOLECENTE" group-title="
 
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/belong-to-us_pt/belong-to-us_pt_200x300.jpg" group-title="ADOLECENTE",Um Amor de Filhote
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/d47ifcrAvkM/maxresdefault.jpg" group-title="ADOLECENTE",Um Amor de Filhote
 https://play.prod.gcp.vix.services/belong-to-us_pt/belong-to-us_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/saving-flora_pt/saving-flora_pt_200x300.jpg" group-title="ADOLECENTE",Uma grande amizade
+#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.150730/0150730_335.jpg" group-title="ADOLECENTE",Uma grande amizade
 https://play.prod.gcp.vix.services/saving-flora_pt/saving-flora_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jack-coeur_pt/jack-coeur_pt_200x300.jpg" group-title="ADOLECENTE",Jack e a Mecânica do Coração
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/07/09/17/14/308107.jpg" group-title="ADOLECENTE",Jack e a Mecânica do Coração
 https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/small-town-santa_pt/small-town-santa_pt_200x300.jpg" group-title="ADOLECENTE",O Verdadeiro Sentido do Amor
+#EXTINF:1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/download_3_SLZOhnX.png" group-title="ADOLECENTE",O Verdadeiro Sentido do Amor
 https://play.prod.gcp.vix.services/small-town-santa_pt/small-town-santa_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo=https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/flight-before-christmas_pt/flight-before-christmas_pt_200x300.jpg" group-title="ADOLECENTE",Um Voo Encantado em Noite de Natal
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/NuWs0BZvVeE/maxresdefault.jpg" group-title="ADOLECENTE",Um Voo Encantado em Noite de Natal
 https://play.prod.gcp.vix.services/flight-before-christmas_pt/flight-before-christmas_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_200x300.jpg" group-title="ADOLECENTE",Cachinhos Dourados e os Três Ursos
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/I/91Yxj74MfIL.jpg" group-title="ADOLECENTE",Cachinhos Dourados e os Três Ursos
 https://play.prod.gcp.vix.services/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/unstable-tortoise-hare_pt/unstable-tortoise-hare_pt_200x300.jpg" group-title="ADOLECENTE",A Tartaruga e a Lebre: A Revanche do Século
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/55KGC8w7Bts/maxresdefault.jpg" group-title="ADOLECENTE",A Tartaruga e a Lebre: A Revanche do Século
 https://play.prod.gcp.vix.services/unstable-tortoise-hare_pt/unstable-tortoise-hare_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/impys-wonderland_pt/impys-wonderland_pt_200x300.jpg" group-title="ADOLECENTE",Tô de Férias 2
+#EXTINF:1 tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-to-de-ferias-2-sony/campinascomercio2/7388/fb3e01a151c2706e91999a71b94976fa.jpg" group-title="ADOLECENTE",Tô de Férias 2
 https://play.prod.gcp.vix.services/impys-wonderland_pt/impys-wonderland_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_200x300.jpg" group-title="ADOLECENTE",A Lenda de Oz
+#EXTINF:1 tvg-logo="https://muralzinhodeideias.com.br/wp-content/uploads/2022/10/oz4-1.jpg" group-title="ADOLECENTE",A Lenda de Oz
 https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/superjuffie_pt/superjuffie_pt_200x300.jpg" group-title="ADOLECENTE",As Aventuras de uma Super Professora
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/4DgBbul44Mw/maxresdefault.jpg" group-title="ADOLECENTE",As Aventuras de uma Super Professora
 https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
-
-
 
 #EXTM3U url-tvg="http://grade-de-BIBLICO.xml"
 ############## BIBLICO ################# 
@@ -475,9 +569,7 @@ https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls
 http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/553
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8wh62w4pcagDf-r75-IeH5bwoCS8tqYodzvh6EQnL-aUIvLmdwZPAFhmpG4L_t-bUf4&usqp=CAU" group-title="GOSPEL",gospelcartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w191837823.m3u8
-
 #EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-OKcgsaVnKGg/XOLk7jxap5I/AAAAAAACJXE/t4_DGkshbRgusfz2of9M4A1VEEyJ7XczgCLcBGAs/s1600/tv%2Bpai%2Beterno.jpg" group-title="GOSPEL",TV PAI ETERNO SD
-
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1975457405.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-radio.xml "
@@ -499,12 +591,10 @@ https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
 https://stm1.mestrestream.xyz:7020/stream
 #EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" group-title="radio",-Radio Sertanejo fm
 https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
-
 #EXTINF:1 tvg-logo=""https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png"group-title="radio", -Radio Sertanejo
 https://servidor.geracaoradios.com/listen/sertaneja/stream
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="radio",-Sertanejo
 https://live.hunter.fm/sertanejo_normal
-
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/u8jL4vY4ze.png" group-title="radio",Simone e Simaria
 http://stream.zeno.fm/81dhknvepxhvv
 #EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 1
@@ -626,7 +716,6 @@ https://live.hunter.fm/sertanejo_normal
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" group-title="radio",-Radio TOP FM 
 http://cloud1.cdnseguro.com:16806/stream/;
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hVejQa99KB.jpg"group-title="radio", -Radio Dance
-
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" group-title="radio",-Radio Recife 
 http://zoeweb.net:8046/;stream.mp3
 #EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png"group-title="radio", -Rádio Sorriso 99.1 FM
@@ -637,15 +726,12 @@ https://8745.brasilstream.com.br/stream
 http://cast2.hoost.com.br:9158/stream
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png"group-title="radio", -Radio Pagode 90
 https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
-
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png"group-title="radio", -América Country
 https://ais-sa2.cdnstream1.com/1976_128.mp3
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png"group-title="radio", -América Country
 https://streaming.radiostreamlive.com/radiocountrylive_devices
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg"group-title="radio", -Nativa 97,5
 https://centova5.transmissaodigital.com:20060/;
-
-
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="radio",-Radio Globo
 https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg"group-title="radio", -Radio Capital
@@ -716,7 +802,6 @@ http://radioaovivo.ufrgs.br:8000/stream.mp3
 
 #EXTM3U url-tvg=" http://grade-de-dinho santos.xml "
  ############## dinho santos ################ # 
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSie5FiXcp3rF_azcVCUJl1ViJMGYbUil_1kg6lEabS-t1k_6rcmh4PspgbE0InfZCKPQs&usqp=CAU" group-title="dinho santos",     
 #EXTINF:-1 tvg-id=" iddocanaldedinho santos " group-title="
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="dinho santos", -Sozinho na Rua
@@ -734,7 +819,6 @@ https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/m
 
 #EXTM3U url-tvg=" http://grade-de-traduçao.xml "
  ############## traduçao ################ # 
-
 #EXTINF:-1 tvg-id=" iddocanaldetraduçao " group-title="
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -BERLIN TRADUÇAO ALEX SILVA
@@ -774,51 +858,44 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 
 #EXTM3U url-tvg=" http://grade-de-tvclips.xml "
  ############## tvclips ############## ### 
-
 #EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="tvclips", MTV
-http://51.222.44.30:14921
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="tvclips",TV Grande Natal HDTV
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://site.radio.br/sites/fmradiopop.com/images/pubs/user_1917401155.jpg" group-title="tvclips",radiosaovivo
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61f13fcc9627c8e4ed060631_portada%20blog%20music.jpg" group-title="tvclips",ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YkPWvCEbJ4BDlWDUlGqXRgUAchiaDRpE8TxLKJ4GxaHtk2d2cCPy8LJqgwQoEA_bzEV-" group-title="tvclips",POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="tvclips",TV Web Camocim 
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e53513E.png" group-title="tvclips",TV WTJMINAS 
-https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
 #EXTINF:1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/f4b4b11e32c71c670d8ad17e00684678/264x264.jpg" group-title="tvclips",TV HITS
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV. png" group-title="tvclips",Clube TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/1HD.png" group-title="tvclips",1HD Music
-https://live-3.otcnet.ru/onehdmulti/index.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png" group-title="tvclips",NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main /logos/4Fun-TV.png" group-title="tvclips",4Fun.TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywy99kxTnwP8FTnYrVW_duka1UVmWHTFloUsT1tzrWOXhQGTOHClm3LWt2fSwjhzFyPA&usqp=CAU" group-title="tvclips",CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-08-11-22-52-42.png" group-title="tvclips",TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png" group-title="tvclips",Country Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgezAG9yo_-Bi7qhtsF8V2iO3umkNhvvLtqTNJaw56uNNo0wVP5NAB6K055IhFAuikGKhR8ZwPF31RNqE1OrVFuCnPZLuTcWeSy3O_SiXHUb1ZVi49FYw5l_XvOx6f8UQ_QS4xxVDlC32-iEOSf9bQxaauiLBG9UYBiiGZRxi-b6KUP8jUHKCbZ2z-P/s200/NASHVILLE%20COUNTRY%20TV.webp"group-title="tvclips", -NASHVILLE COUNTRY TV
-https://edge2.tikilive.com/unrestricted_tikilive/57785/amlst:dnwgXOywj4D7/chunklist_b5630798.m3u8
 #EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" group-title="tvclips",Abba Rtv
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
-#EXTINF:0,Suzuky TV tvg-id="iddocanaldetvclips" group-title="tvclips" tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" -Suzuky TV
-#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" group-title="tvclips",Suzuky TV
-https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2077970629.m3u8
 #EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" group-title="tvclips",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:1 tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" group-title="tvclips",KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CheeryInsecureAmericanquarterhorse-max-1mb.gif" group-title="tvclips",KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" group-title="tvclips",MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b2028000_sleng.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMXs1PucIe9J-1SeMEwWUe0LwlIpMF0rD9CkHiDfRv9mRLgHwaCXoSOqj2YbdcfwRefI&usqp=CAU" group-title="tvclips",As Patroas
-https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
-#EXTINF:1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="tvclips",HITS
-https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
-#EXTINF:1 tvg-logo="https://yt3.ggpht.com/VrAsGmOdacwOci2GbGdyqoUgStMD07TEZiK3btJiGRCSja-Ki3RSpDCzC0SnoBy4-KYkCQLs=s176-c-k-c0x00ffffff-no-rj-mo" group-title="tvclips",TV sertaneja 2
-https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w756436508.m3u8
 #EXTINF:1 tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/logotipo.png" group-title="tvclips",Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.gifer.com/FPAL.gif" group-title="tvclips", -CLIPS
-https://5c483b9d1019c.streamlock.net/8006/8006/chunklist_w1984678252.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" group-title="tvclips", -CLIPS
 https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
 #EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif"group-title="tvclips",  -CLIPS
@@ -827,13 +904,10 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/c
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
 #EXTINF:1 tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png"group-title="tvclips",  -Tv Jovem Hits
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
-#EXTINF:1 tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862"group-title="tvclips",  -TV DESTAK
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
-
 
 #EXTM3U url-tvg=" http://grade-de-Camera.xml "
-############## Camera #################  
-#EXTINF:-1 tvg-id=" iddocanaldeCamera " group-title=" 
+ ############## Camera ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCamera " group-title="
 
 #EXTINF:1 tvg-logo="https://www.rio-janeiro-airport.com/images/rio-de-janeiro-santos-dumont-airport-sdu.jpg" group-title="Camera",AEROPORTO SANTOS DUMONT/ SBRJ - RIO DE JANEIRO
 https://www.youtube.com/live/SgwKawGWceM?feature=share
@@ -913,3 +987,133 @@ https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w202
 https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://climaonline.com.br/public/fotos/pr/cascavel/foto-antiga-de-cascavel-22.webp" group-title="Camera",Cascavel Panorâmica
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+
+
+
+#EXTINF:0,XXX Big Dick
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/bigdick.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Big Tits
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/bigtits.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Blowjob
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/blowjob.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Cuckold
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/cuckold.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Fetish
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/fetish.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Hardcore
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/hardcore.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Interracial
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/interracial.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Latina
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/latina.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Lesbian
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/lesbian.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX MILF
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/milf.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX POV
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/pov.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Pornstar
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/pornstar.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Russian
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/russian.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Teen
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/teen.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX Threesome
+#EXTVLCOPT:network-caching=1000
+http://live.redtraffic.xyz/threesome.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX TRANS 1
+#EXTVLCOPT:network-caching=1000
+https://www.ast.tv/stream/1/cellular.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX TRANS 1 HD
+#EXTVLCOPT:network-caching=1000
+https://www.ast.tv/stream/1/high.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX TRANS 1 FHD
+#EXTVLCOPT:network-caching=1000
+https://www.ast.tv/stream/1/ultra.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX TRANS 2
+#EXTVLCOPT:network-caching=1000
+https://www.ast.tv/stream/2/cellular.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX TRANS 2 HD
+#EXTVLCOPT:network-caching=1000
+https://www.ast.tv/stream/2/high.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,XXX TRANS 2 FHD
+#EXTVLCOPT:network-caching=1000
+https://www.ast.tv/stream/2/ultra.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0, Russian
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/russian.m3u8
+#EXTINF:0, MILF
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/milf.m3u8
+#EXTINF:0, Gay
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/gay.m3u8
+#EXTINF:62, Lesbian
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/lesbian.m3u8
+#EXTINF:0, Cuckold
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/cuckold.m3u8
+#EXTINF:0, Latina
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/latina.m3u8
+#EXTINF:0, Live Cams
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/livecams.m3u8
+#EXTINF:0, Gangbang
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/gangbang.m3u8
+#EXTINF:0, Threesome
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/threesome.m3u8
+#EXTINF:0, Rough
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/rough.m3u8
+#EXTINF:0, POV
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/pov.m3u8
+#EXTINF:0, Interracial
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/interracial.m3u8
+#EXTINF:0, Hardcore
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/hardcore.m3u8
+#EXTINF:0, Fetish
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/fetish.m3u8
+#EXTINF:0, Compilation
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/compilation.m3u8
+#EXTINF:0, Big Tits
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/bigtits.m3u8
+#EXTINF:0, Big Dick
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/bigdick.m3u8
+#EXTINF:0, Anal
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/anal.m3u8
+#EXTINF:0, Blonde
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/blonde.m3u8
+#EXTINF:0, Teen
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/teen.m3u8
+#EXTINF:0, Big Ass
+#EXTVLCOPT:network-caching=1000
+https://live.adultiptv.net/bigass.m3u8
+
