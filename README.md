@@ -484,6 +484,26 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1
  ############## radio ################ # 
 #EXTINF:-1 tvg-id=" iddocanalderadio " group-title="
 
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5u67p5ra2tsn.png" group-title="radio",Rádio Viola Sertaneja Web ao vivo
+https://s17.maxcast.com.br:8669/live
+#EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0cc474f7cf02ad2891ecb4f08429ed96.jpg" group-title="radio",Rádio Modão
+https://centova5.transmissaodigital.com:20024/stream/;stream.mp3
+https://stream-26.zeno.fm/7z9dmhaens8uv?zs=tN2R5aGRRuCqstj-peVLLA
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="radio",-Radio Sertanejo Raiz
+http://station.radionanet.com:8330/1;
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" group-title="radio",-Radio  Raiz forte
+https://stream-57.zeno.fm/4dzm2padd8zuv?zs=QQ3DU5TfT1q2EydL4_Bisw
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" group-title="radio",-Radio Sertanejo FM
+https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" group-title="radio",-Radio Sertanejo
+https://stm1.mestrestream.xyz:7020/stream
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" group-title="radio",-Radio Sertanejo fm
+https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
+
+#EXTINF:1 tvg-logo=""https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png"group-title="radio", -Radio Sertanejo
+https://servidor.geracaoradios.com/listen/sertaneja/stream
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="radio",-Sertanejo
+https://live.hunter.fm/sertanejo_normal
 
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/u8jL4vY4ze.png" group-title="radio",Simone e Simaria
 http://stream.zeno.fm/81dhknvepxhvv
@@ -606,11 +626,7 @@ https://live.hunter.fm/sertanejo_normal
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" group-title="radio",-Radio TOP FM 
 http://cloud1.cdnseguro.com:16806/stream/;
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hVejQa99KB.jpg"group-title="radio", -Radio Dance
-https://stream-26.zeno.fm/7z9dmhaens8uv?zs=tN2R5aGRRuCqstj-peVLLA
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="radio",-Radio Sertanejo Raiz
-http://station.radionanet.com:8330/1;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" group-title="radio",-Radio  Raiz forte
-https://stream-57.zeno.fm/4dzm2padd8zuv?zs=QQ3DU5TfT1q2EydL4_Bisw
+
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" group-title="radio",-Radio Recife 
 http://zoeweb.net:8046/;stream.mp3
 #EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png"group-title="radio", -Rádio Sorriso 99.1 FM
@@ -621,24 +637,15 @@ https://8745.brasilstream.com.br/stream
 http://cast2.hoost.com.br:9158/stream
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png"group-title="radio", -Radio Pagode 90
 https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" group-title="radio",-Radio Sertanejo FM
-https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
+
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png"group-title="radio", -América Country
 https://ais-sa2.cdnstream1.com/1976_128.mp3
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png"group-title="radio", -América Country
 https://streaming.radiostreamlive.com/radiocountrylive_devices
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg"group-title="radio", -Nativa 97,5
 https://centova5.transmissaodigital.com:20060/;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" group-title="radio",-Radio Sertanejo
-https://stm1.mestrestream.xyz:7020/stream
-#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" group-title="radio",-Radio Sertanejo fm
-https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
-#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png"group-title="radio", -Radio Sertanejo fm
-https://alanza.iptv2022.com/VIDA_SERTANEJA_FM/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo=""https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png"group-title="radio", -Radio Sertanejo
-https://servidor.geracaoradios.com/listen/sertaneja/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="radio",-Sertanejo
-https://live.hunter.fm/sertanejo_normal
+
+
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="radio",-Radio Globo
 https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg"group-title="radio", -Radio Capital
