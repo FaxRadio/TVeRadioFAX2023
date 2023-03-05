@@ -769,7 +769,7 @@ http://6d9a.webradio.upx.net.br:8016/stream?Arlen
 http://6d9a.webradio.upx.net.br:9896/stream?Arlen
 #EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",chitãozinho e xororó
 https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio",Rádio UFRGS
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", UFRGS
 http://radioaovivo.ufrgs.br:8000/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="radio",98 FM | BH MG
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
@@ -793,11 +793,11 @@ https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
 https://evpp.mm.uol.com.br/band/educadora/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png"group-title="radio",Energia 97 FM | Santo Andre SP
 https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
-#EXTINF:-1 tvg-language="Português" tvg-logo="https://i.imgur.com/dFOg0qj.png"group-title="radio",Rádio Clube TV | Portugal
+#EXTINF:-1 tvg-language="Português" tvg-logo="https://i.imgur.com/dFOg0qj.png"group-title="radio",Clube TV | Portugal
 https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="group-title="radio",Rádio Sociedade | Salvador BA
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_R%C3%A1dio_Sociedade.jpg"group-title="radio",Sociedade 
 https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="group-title="radio",Rádio UFRGS | RS Brasil
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio14157_1509361504.jpg"group-title="radio",UFRGS 
 http://radioaovivo.ufrgs.br:8000/stream.mp3
 
 #EXTM3U url-tvg=" http://grade-de-dinho santos.xml "
