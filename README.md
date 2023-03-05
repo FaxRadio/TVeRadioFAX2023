@@ -26,6 +26,18 @@ http://stream.zeno.fm/hu70hmkcu68uv.pls
 https://play.prod.gcp.vix.services/mussum-cacildis_pt/mussum-cacildis_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/uOzxJjOP_UQAAAAC/mamonas-assassinas.gif" group-title="Documentarios",mamonas-pra-sempre
 https://play.prod.gcp.vix.services/mamonas-pra-sempre_pt/mamonas-pra-sempre_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/cristiano-ronaldo_en/cristiano-ronaldo_en_200x300.jpg" group-title="Documentarios",Cristiano Ronaldo: O mundo a seus pés
+https://play.prod.gcp.vix.services/cristiano-ronaldo_en/cristiano-ronaldo_en_1-1/play_hls_1500.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/isto-pele_pt/isto-pele_pt_200x300.jpg" group-title="Documentarios",Isto É Pelé
+https://play.prod.gcp.vix.services/isto-pele_pt/isto-pele_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/pele-origem_pt/pele-origem_pt_200x300.jpg" group-title="Documentarios",Pelé: A Origem
+https://play.prod.gcp.vix.services/pele-origem_pt/pele-origem_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/garrincha-povo_pt/garrincha-povo_pt_200x300.jpg" group-title="Documentarios",Garrincha, A Alegria Do Povo
+https://play.prod.gcp.vix.services/garrincha-povo_pt/garrincha-povo_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/aventura-zico_pt/aventura-zico_pt_200x300.jpg" group-title="Documentarios",Uma Aventura Do Zico
+https://play.prod.gcp.vix.services/aventura-zico_pt/aventura-zico_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/computador-morro_pt/computador-morro_pt_200x300.jpg" group-title="Documentarios",Quando o Computador Sobe o Morro
+https://play.prod.gcp.vix.services/computador-morro_pt/computador-morro_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-CanaisAbertos.xml"
 ############## CanaisAbertos ################# 
@@ -352,6 +364,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba8
 ############## Infantil ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil" group-title="
 
+
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-mermaid_pt/the-mermaid_pt_200x300.jpg" group-title="Infantil",As Travessuras de Uma Sereia
+https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mermaid-tale_pt/mermaid-tale_pt_200x300.jpg" group-title="Infantil",Um conto de sereia
+https://play.prod.gcp.vix.services/mermaid-tale_pt/mermaid-tale_pt_1-1/play_v1_hls_720p.m3u8
+
+
 #EXTINF:1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/1758112356300653192/5436F98DAF7C191284DBF7A30E8B5A715681E4AE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" group-title="Infantil",ANIME TV SD
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1969769045.m3u8
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/kibxTdFJXzAA0/giphy.gif?cid=6c09b952f012a53161a12761b5868a2ab05a60a50b13c4c2&rid=giphy.gif&ct=g" group-title="Infantil",NICK SD
@@ -530,35 +549,28 @@ https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls
 ############## BIBLICO ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeBIBLICO" group-title="
 
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
-
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="BIBLICO",
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="BIBLICO",Sansão e Dalila
+https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesus-nazareth_pt/jesus-nazareth_pt_200x300.jpg" group-title="BIBLICO",Jesus de Nazaré
+https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/faith-fathers_pt/faith-fathers_pt_200x300.jpg" group-title="BIBLICO",A Fé que Nos Une
+https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/faith-joao-paulo_pt/faith-joao-paulo_pt_200x300.jpg" group-title="BIBLICO",Provas de Fé - João Paulo II
+https://play.prod.gcp.vix.services/faith-joao-paulo_pt/faith-joao-paulo_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/santa-barbara_pt/santa-barbara_pt_200x300.jpg" group-title="BIBLICO",Santa Barbara
+https://play.prod.gcp.vix.services/santa-barbara_pt/santa-barbara_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/faith-santo-agostinho_pt/faith-santo-agostinho_pt_200x300.jpg" group-title="BIBLICO",Provas de Fé - Santo Agostinho
+https://play.prod.gcp.vix.services/faith-santo-agostinho_pt/faith-santo-agostinho_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/faith-santa-rita_pt/faith-santa-rita_pt_200x300.jpg" group-title="BIBLICO",Provas de Fé - Santa Rita de Cássia
+https://play.prod.gcp.vix.services/faith-santa-rita_pt/faith-santa-rita_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/sabina-k_pt/sabina-k_pt_200x300.jpg" group-title="BIBLICO",Quando Tudo Parece Perdido
+https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/my-son_pt/my-son_pt_200x300.jpg" group-title="BIBLICO",Meu Filho Amado
+https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/saint-janet_pt/saint-janet_pt_200x300.jpg" group-title="BIBLICO",A Voz de Deus
+https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-tommaso_pt/gli-amici-tommaso_pt_200x300.jpg" group-title="BIBLICO",Tomé
+https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
 
 
 #EXTM3U url-tvg="http://grade-de-GOSPEL.xml"
