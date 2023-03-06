@@ -12,6 +12,9 @@ https://youtu.be/M1mROdK3aqE
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
 
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
+https://stream-51.zeno.fm/0puscmkcu68uv?zs=otHk2wGBQBaT2lUNmewFVQ&acu-uid=751324370731&an-uid=2757408917935696907&mm-uid=58d463ee-d2c7-4d00-bb5a-375d1bd68aa0&amb-uid=4414560767181171804&cto-uid=5d369dea-15d1-409c-8999-ff85a80403a8-63ef5f7c-4252&bsw-uid=e06ec068-27ab-46ba-8053-b7c9125a749b&dyn-uid=04030002_63eed2c810908&ttd-uid=8d93998a-d91c-499c-8415-0a8f267a7552&triton-uid=cookie%3A81d72210-5b41-40d1-9a61-95cc7dd178da&adt-uid=cuid_20a7afe0-ae5f-11ed-b418-12821240e6ec
+
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.m3u
@@ -369,8 +372,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba8
 https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/11/24/16/00/5072460.jpg" group-title="Infantil",Um conto de sereia
 https://play.prod.gcp.vix.services/mermaid-tale_pt/mermaid-tale_pt_1-1/play_v1_hls_720p.m3u8
-
-
 #EXTINF:1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/1758112356300653192/5436F98DAF7C191284DBF7A30E8B5A715681E4AE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" group-title="Infantil",ANIME TV SD
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1969769045.m3u8
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/kibxTdFJXzAA0/giphy.gif?cid=6c09b952f012a53161a12761b5868a2ab05a60a50b13c4c2&rid=giphy.gif&ct=g" group-title="Infantil",NICK SD
@@ -406,6 +407,31 @@ https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p
 https://play.prod.gcp.vix.services/moranguinho_pt/moranguinho_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5OTkxN2EtOWU0MC00NjUzLWJjYWItYmY1MTFiYTIzZjU0XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg"group-title="Infantil",car patrol
 https://play.prod.gcp.vix.services/car-patrol_pt/car-patrol_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-ADOLECENTE.xml"
+############## ADOLECENTE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeADOLECENTE" group-title="
+
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/d47ifcrAvkM/maxresdefault.jpg" group-title="ADOLECENTE",Um Amor de Filhote
+https://play.prod.gcp.vix.services/belong-to-us_pt/belong-to-us_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.150730/0150730_335.jpg" group-title="ADOLECENTE",Uma grande amizade
+https://play.prod.gcp.vix.services/saving-flora_pt/saving-flora_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/07/09/17/14/308107.jpg" group-title="ADOLECENTE",Jack e a Mecânica do Coração
+https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/download_3_SLZOhnX.png" group-title="ADOLECENTE",O Verdadeiro Sentido do Amor
+https://play.prod.gcp.vix.services/small-town-santa_pt/small-town-santa_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/NuWs0BZvVeE/maxresdefault.jpg" group-title="ADOLECENTE",Um Voo Encantado em Noite de Natal
+https://play.prod.gcp.vix.services/flight-before-christmas_pt/flight-before-christmas_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/I/91Yxj74MfIL.jpg" group-title="ADOLECENTE",Cachinhos Dourados e os Três Ursos
+https://play.prod.gcp.vix.services/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/55KGC8w7Bts/maxresdefault.jpg" group-title="ADOLECENTE",A Tartaruga e a Lebre: A Revanche do Século
+https://play.prod.gcp.vix.services/unstable-tortoise-hare_pt/unstable-tortoise-hare_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-to-de-ferias-2-sony/campinascomercio2/7388/fb3e01a151c2706e91999a71b94976fa.jpg" group-title="ADOLECENTE",Tô de Férias 2
+https://play.prod.gcp.vix.services/impys-wonderland_pt/impys-wonderland_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://muralzinhodeideias.com.br/wp-content/uploads/2022/10/oz4-1.jpg" group-title="ADOLECENTE",A Lenda de Oz
+https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/4DgBbul44Mw/maxresdefault.jpg" group-title="ADOLECENTE",As Aventuras de uma Super Professora
+https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES.xml"
 ############## FILMES ################# 
@@ -520,30 +546,113 @@ https://play.prod.gcp.vix.services/trafficked_pt/trafficked_pt_1-1/hls_2500.m3u8
 #EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/03/02/12/53/2264073.jpg" group-title="FilmesDrama",Submersão
 https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/play_v2_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-ADOLECENTE.xml"
-############## ADOLECENTE ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeADOLECENTE" group-title="
+#EXTM3U url-tvg=" http://grade-de-tvclips.xml "
+ ############## tvclips ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/d47ifcrAvkM/maxresdefault.jpg" group-title="ADOLECENTE",Um Amor de Filhote
-https://play.prod.gcp.vix.services/belong-to-us_pt/belong-to-us_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.150730/0150730_335.jpg" group-title="ADOLECENTE",Uma grande amizade
-https://play.prod.gcp.vix.services/saving-flora_pt/saving-flora_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/07/09/17/14/308107.jpg" group-title="ADOLECENTE",Jack e a Mecânica do Coração
-https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:1 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/download_3_SLZOhnX.png" group-title="ADOLECENTE",O Verdadeiro Sentido do Amor
-https://play.prod.gcp.vix.services/small-town-santa_pt/small-town-santa_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/NuWs0BZvVeE/maxresdefault.jpg" group-title="ADOLECENTE",Um Voo Encantado em Noite de Natal
-https://play.prod.gcp.vix.services/flight-before-christmas_pt/flight-before-christmas_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/I/91Yxj74MfIL.jpg" group-title="ADOLECENTE",Cachinhos Dourados e os Três Ursos
-https://play.prod.gcp.vix.services/unstable-goldilocks-3-bears_pt/unstable-goldilocks-3-bears_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/55KGC8w7Bts/maxresdefault.jpg" group-title="ADOLECENTE",A Tartaruga e a Lebre: A Revanche do Século
-https://play.prod.gcp.vix.services/unstable-tortoise-hare_pt/unstable-tortoise-hare_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://a-static.mlcdn.com.br/1500x1500/dvd-to-de-ferias-2-sony/campinascomercio2/7388/fb3e01a151c2706e91999a71b94976fa.jpg" group-title="ADOLECENTE",Tô de Férias 2
-https://play.prod.gcp.vix.services/impys-wonderland_pt/impys-wonderland_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://muralzinhodeideias.com.br/wp-content/uploads/2022/10/oz4-1.jpg" group-title="ADOLECENTE",A Lenda de Oz
-https://play.prod.gcp.vix.services/legends-oz-dorothy-return_pt/legends-oz-dorothy-return_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/4DgBbul44Mw/maxresdefault.jpg" group-title="ADOLECENTE",As Aventuras de uma Super Professora
-https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11839_1658250334.png" group-title="tvclips",Rádio Clube 105.5 FM
+https://8157.brasilstream.com.br/stream?1678118110353
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/2/63872.v7.png" group-title="tvclips",Rádio Amparo FM RECIFE
+https://10.stmip.net:10544/stream
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/64445.v9.png" group-title="tvclips",Rádio Música Brega
+https://stream-22.zeno.fm/ked21357trquv?zs=OqqKREW7Rh2vEp-XaNBpZw
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/76838.v8.png" group-title="tvclips",Rádio Recife FM
+https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="tvclips",Rádio Blog do Léo Lima
+https://player.painelvox.com/player-ssl/8340/;
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/24/b4/121838/4/c300.png" group-title="tvclips",Rádio Buteco Sertanejo
+https://stream-35.zeno.fm/6kumndewqbruv?zs=3OtcSzddSNiMq5JmistyJQ
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000013642016-wnt383-t500x500.jpg" group-title="tvclips",Radio Studio Souto - Sertanejo Universitário
+https://centova5.transmissaodigital.com:20042/stream
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/14/b5/139863/1/c300.png" group-title="tvclips",Romantismo Sertanejo
+https://stm4.voxhd.com.br:7228/stream/1/
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/9a/57/105638/7/c300.png" group-title="tvclips",Sertaneja Pop
+https://srv2.andradedeveloper.net/listen/sertanejapop/radio.mp3
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/af/b3/110474/3/c300.png" group-title="tvclips",Hunter.FM - Sertanejo
+https://live.hunter.fm/sertanejo_high?origin=/country
+#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="tvclips",Radio 51 TV
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vnjj8cnpentp.png" group-title="tvclips",Radio Bellla&Monella TV 
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/ae/8e/15034/c300.png" group-title="tvclips",Radio Birikina TV 
+http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/ae/8e/15034/c300.png" group-title="tvclips",Radio Birikina TV 
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.retedeldono.it/sites/default/files/radio-company-logo.png" group-title="tvclips",Radio Company TV 
+https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw26HNM7jmQYczY58faYX3DZ_at4cOJhkJQdTBxEK5rIfitlm-fgaT4Xbz55qquhCGCo&usqp=CAU" group-title="tvclips",Radio Ibiza TV (360p) 
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12274_1587394437.jpg" group-title="tvclips",Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Lghk0oORI6EiAnyyBmSjtZaMmkh1bLKfZ_KrmjUF4gdMEfKilz9NchTC5Qrz5mLlyOU&usqp=CAU" group-title="tvclips",Radio Kiss Kiss Italia TV (380p)
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J4ttHyfSxHclLmcp82fOSHrVpr6sbA6u1MI5R7Ry1ZRSFzcLS7ufsD5c2cHX_hsp5GQ" group-title="tvclips",Radio Number One (720p)
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_LX_hHlEhGIcTRrs-jFmx00T_exULedh5uSC91_-9kL3DDEgRIVXvfsEu8QMOyryeLo&usqp=CAU" group-title="tvclips",Radio Piter Pan TV (720p)
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfVrg03A3eUhhrxBkqy2YzPaHDgRV7zqzQY665Em1YT2r6cHqt5B4VpjBLTh1GbNf_34&usqp=CAU" group-title="tvclips",Radio Studio Delta TV (1080p)
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7c/63/11692/1/c300.png" group-title="tvclips",Radio Taormina Sicilia (720p)
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ns5.assowebct.com/radiouniversaltv-it/radio-universal-tv-logo-assowebct.png" group-title="tvclips",Radio Universal TV Catania (576p)
+http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQts3ZP2AvmZvjhxC54Ik8UeuZQ_LeyRGYTJLsC7AtZxnA8uYw0lAkMx_OM-5l4kB4tOpM&usqp=CAU" group-title="tvclips",Stereo 5 TV
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqbhc3wqAoWPzxWVS18gbJ5WiWTRhuTPgCj_lSudBrdMTf0cf9aZtYfIuqHNoCAnxHX0&usqp=CAU" group-title="tvclips",TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUNBoD3LURrrGW8wX8NNCpFgWpw7c-wWsNxq29k0Q=s900-c-k-c0x00ffffff-no-rj" group-title="tvclips",Vera TV (480p)
+http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHWs5gYyRBOP8Dsx3acToYoXoT8AGxgMw1y4yPtBKGfkqFQsJan9eOTt7E2CPjoLRmg&usqp=CAU" group-title="tvclips",Vuemme
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-fSLYe8SAbA0/XMUbyajknCI/AAAAAAAAAzU/5SK7bfaElasFKPBDttGl7uTk1PeJdMINwCLcBGAs/s320/Screenshot_2019-04-28-00-09-39.png" group-title="tvclips",51 Radio TV (480p)
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="tvclips",TV Grande Natal HDTV
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://site.radio.br/sites/fmradiopop.com/images/pubs/user_1917401155.jpg" group-title="tvclips",radiosaovivo
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61f13fcc9627c8e4ed060631_portada%20blog%20music.jpg" group-title="tvclips",ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YkPWvCEbJ4BDlWDUlGqXRgUAchiaDRpE8TxLKJ4GxaHtk2d2cCPy8LJqgwQoEA_bzEV-" group-title="tvclips",POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="tvclips",TV Web Camocim 
+https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
+#EXTINF:1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/f4b4b11e32c71c670d8ad17e00684678/264x264.jpg" group-title="tvclips",TV HITS
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV. png" group-title="tvclips",Clube TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png" group-title="tvclips",NRG 91 TV
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main /logos/4Fun-TV.png" group-title="tvclips",4Fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywy99kxTnwP8FTnYrVW_duka1UVmWHTFloUsT1tzrWOXhQGTOHClm3LWt2fSwjhzFyPA&usqp=CAU" group-title="tvclips",CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-08-11-22-52-42.png" group-title="tvclips",TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png" group-title="tvclips",Country Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" group-title="tvclips",Abba Rtv
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
+#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" group-title="tvclips",KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:1 tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" group-title="tvclips",KPOP TV PLAY
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CheeryInsecureAmericanquarterhorse-max-1mb.gif" group-title="tvclips",KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" group-title="tvclips",MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b2028000_sleng.m3u8
+#EXTINF:1 tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/logotipo.png" group-title="tvclips",Alvorada Sertaneja
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" group-title="tvclips", -CLIPS
+https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
+#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif"group-title="tvclips",  -CLIPS
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
+#EXTINF:1 tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png"group-title="tvclips",-MASTER SHOW TV
+https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
+#EXTINF:1 tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png"group-title="tvclips",  -Tv Jovem Hits
+https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
+
+
+
 
 #EXTM3U url-tvg="http://grade-de-BIBLICO.xml"
 ############## BIBLICO ################# 
@@ -868,54 +977,6 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 
-#EXTM3U url-tvg=" http://grade-de-tvclips.xml "
- ############## tvclips ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="tvclips",TV Grande Natal HDTV
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://site.radio.br/sites/fmradiopop.com/images/pubs/user_1917401155.jpg" group-title="tvclips",radiosaovivo
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61f13fcc9627c8e4ed060631_portada%20blog%20music.jpg" group-title="tvclips",ZAPPING MUSIC
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YkPWvCEbJ4BDlWDUlGqXRgUAchiaDRpE8TxLKJ4GxaHtk2d2cCPy8LJqgwQoEA_bzEV-" group-title="tvclips",POWER TV
-http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="tvclips",TV Web Camocim 
-https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/f4b4b11e32c71c670d8ad17e00684678/264x264.jpg" group-title="tvclips",TV HITS
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV. png" group-title="tvclips",Clube TV
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png" group-title="tvclips",NRG 91 TV
-http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main /logos/4Fun-TV.png" group-title="tvclips",4Fun.TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywy99kxTnwP8FTnYrVW_duka1UVmWHTFloUsT1tzrWOXhQGTOHClm3LWt2fSwjhzFyPA&usqp=CAU" group-title="tvclips",CATEDRAL DO ROCK TV
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
-#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-08-11-22-52-42.png" group-title="tvclips",TIERRA MIA TV
-https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png" group-title="tvclips",Country Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" group-title="tvclips",Abba Rtv
-https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
-#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" group-title="tvclips",KRONEHIT TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:1 tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" group-title="tvclips",KPOP TV PLAY
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CheeryInsecureAmericanquarterhorse-max-1mb.gif" group-title="tvclips",KpopTV Play
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" group-title="tvclips",MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b2028000_sleng.m3u8
-#EXTINF:1 tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/logotipo.png" group-title="tvclips",Alvorada Sertaneja
-http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" group-title="tvclips", -CLIPS
-https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif"group-title="tvclips",  -CLIPS
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-#EXTINF:1 tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png"group-title="tvclips",-MASTER SHOW TV
-https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
-#EXTINF:1 tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png"group-title="tvclips",  -Tv Jovem Hits
-https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-ReceitasCulinaria.xml "
  ############## ReceitasCulinaria ############## ### 
