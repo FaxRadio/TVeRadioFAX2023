@@ -365,9 +365,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba8
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil" group-title="
 
 
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/the-mermaid_pt/the-mermaid_pt_200x300.jpg" group-title="Infantil",As Travessuras de Uma Sereia
+#EXTINF:1 tvg-logo="https://acheicinema.com/wp-content/uploads/2021/01/vaGGurhNCRtlgJQ5hREAiO8fskX-185x278.jpg" group-title="Infantil",As Travessuras de Uma Sereia
 https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/mermaid-tale_pt/mermaid-tale_pt_200x300.jpg" group-title="Infantil",Um conto de sereia
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/11/24/16/00/5072460.jpg" group-title="Infantil",Um conto de sereia
 https://play.prod.gcp.vix.services/mermaid-tale_pt/mermaid-tale_pt_1-1/play_v1_hls_720p.m3u8
 
 
@@ -471,7 +471,7 @@ https://play.prod.gcp.vix.services/sonhos-roubados_pt/sonhos-roubados_pt_1-1/hls
 https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
 #EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/09/10/14/09/4328345.jpg" group-title="FILMES",Bravestorm
 https://play.prod.gcp.vix.services/bravestorm_pt/bravestorm_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/d/dying-light-platinum-edition-switch/hero-def" group-title="FILMES",Dying
+#EXTINF:1 tvg-logo="https://www.gamersegames.com.br/wp-content/uploads/2022/03/Dying-Light.jpg" group-title="FILMES",Dying
 https://play.prod.gcp.vix.services/lay-dying_pt/lay-dying_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/deserto_t88217.jpg" group-title="FILMES",10 dias no deserto
 https://play.prod.gcp.vix.services/last-days-desert_pt/last-days-desert_pt_1-1/play_v1_hls_1080p.m3u8
@@ -549,28 +549,29 @@ https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls
 ############## BIBLICO ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeBIBLICO" group-title="
 
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="BIBLICO",Sansão e Dalila
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/AI2AShScOx8/maxresdefault.jpg" group-title="BIBLICO",Sansão e Dalila
 https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/jesus-nazareth_pt/jesus-nazareth_pt_200x300.jpg" group-title="BIBLICO",Jesus de Nazaré
+#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/04/16/19/05/426206.jpg" group-title="BIBLICO",Jesus de Nazaré
 https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/faith-fathers_pt/faith-fathers_pt_200x300.jpg" group-title="BIBLICO",A Fé que Nos Une
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="BIBLICO",A Fé que Nos Une
 https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/faith-joao-paulo_pt/faith-joao-paulo_pt_200x300.jpg" group-title="BIBLICO",Provas de Fé - João Paulo II
+#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/fre.200520/0200520_335.jpg" group-title="BIBLICO",Provas de Fé - João Paulo II
 https://play.prod.gcp.vix.services/faith-joao-paulo_pt/faith-joao-paulo_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/santa-barbara_pt/santa-barbara_pt_200x300.jpg" group-title="BIBLICO",Santa Barbara
+#EXTINF:1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_609008-MLB44718417483_012021-O.jpg" group-title="BIBLICO",Santa Barbara
 https://play.prod.gcp.vix.services/santa-barbara_pt/santa-barbara_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/faith-santo-agostinho_pt/faith-santo-agostinho_pt_200x300.jpg" group-title="BIBLICO",Provas de Fé - Santo Agostinho
+#EXTINF:1 tvg-logo="https://www.verdadeluz.com.br/wp-content/uploads/2014/11/SANTO-AGOSTINHO-Filme-Completo.jpg" group-title="BIBLICO",Provas de Fé - Santo Agostinho
 https://play.prod.gcp.vix.services/faith-santo-agostinho_pt/faith-santo-agostinho_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/faith-santa-rita_pt/faith-santa-rita_pt_200x300.jpg" group-title="BIBLICO",Provas de Fé - Santa Rita de Cássia
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/q6MjClyWf9Y/maxresdefault.jpg" group-title="BIBLICO",Provas de Fé - Santa Rita de Cássia
 https://play.prod.gcp.vix.services/faith-santa-rita_pt/faith-santa-rita_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/sabina-k_pt/sabina-k_pt_200x300.jpg" group-title="BIBLICO",Quando Tudo Parece Perdido
+#EXTINF:1 tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="BIBLICO",Quando Tudo Parece Perdido
 https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/my-son_pt/my-son_pt_200x300.jpg" group-title="BIBLICO",Meu Filho Amado
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/VOBWKSPbXRM/maxresdefault.jpg" group-title="BIBLICO",Meu Filho Amado
 https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/saint-janet_pt/saint-janet_pt_200x300.jpg" group-title="BIBLICO",A Voz de Deus
+#EXTINF:1 tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/a-voz-de-deus_t52230.jpg" group-title="BIBLICO",A Voz de Deus
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/gli-amici-tommaso_pt/gli-amici-tommaso_pt_200x300.jpg" group-title="BIBLICO",Tomé
+#EXTINF:1 tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="BIBLICO",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
+
 
 #EXTM3U url-tvg="http://grade-de-GOSPEL.xml"
 ############## GOSPEL ################# 
