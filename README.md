@@ -912,10 +912,43 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
 #EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif"group-title="tvclips",  -CLIPS
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-#EXTINF:1 tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png"group-title="tvclips",  -MASTER SHOW TV
+#EXTINF:1 tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png"group-title="tvclips",-MASTER SHOW TV
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
 #EXTINF:1 tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png"group-title="tvclips",  -Tv Jovem Hits
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-ReceitasCulinaria.xml "
+ ############## ReceitasCulinaria ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeReceitasCulinaria " group-title="
+
+#EXTINF:1 tvg-logo="https://i.pinimg.com/736x/0f/3b/61/0f3b6129ae9176003f38f46d2162fc87--chocolate-branco-creme.jpg"group-title="ReceitasCulinaria",Coxinhas de leite ninho de dar água na boca
+https://play.prod.gcp.vix.services/coxinha-ninho_pt/coxinha-ninho_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://www.receitasagora.com.br/wp-content/uploads/2020/08/receita-de-bolo-gelado-de-leite-ninho-com-morango-e1596605193743.jpg"group-title="ReceitasCulinaria",Receita de bolo gelado de morango
+https://play.prod.gcp.vix.services/strawberry-cake_pt/strawberry-cake_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://blog.savegnago.com.br/wp-content/uploads/2023/01/GettyImages-484863388-scaled.jpg"group-title="ReceitasCulinaria",Receitas incríveis com maçã e pera
+https://play.prod.gcp.vix.services/apples-pears_pt/apples-pears_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://img.imageboss.me/experience/cdn/animation:true/wp-content/uploads/2020/04/Receita-Tastamade-Brownie-Header.jpg"group-title="ReceitasCulinaria",3 receitas de brownie imperdíveis
+https://play.prod.gcp.vix.services/brownie-recipes_pt/brownie-recipes_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-taca-creme-iogurte-com-frutas1.jpg"group-title="ReceitasCulinaria",Sobremesas com iogurte e frutas
+https://play.prod.gcp.vix.services/yogurt-ideas_pt/yogurt-ideas_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:1 tvg-logo="https://www.comidaereceitas.com.br/wp-content/uploads/2020/11/bolinho_feijoada-780x451.jpg"group-title="ReceitasCulinaria",Receita de bolinho de feijoada igual de boteco
+https://play.prod.gcp.vix.services/bolinho-feijoada_pt/bolinho-feijoada_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://www.receiteria.com.br/wp-content/uploads/pappardelle-ao-molho-branco-com-camarao-640x480.jpg"group-title="ReceitasCulinaria",Receitas com camarão: fáceis e irresistíveis
+https://play.prod.gcp.vix.services/shrimp-recipes_pt/shrimp-recipes_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://st1.uvnimg.com/c1/9e/43bb46bc4975bd1399492f324650/receita-lasanha-pao-1222-1400x800.jpg"group-title="ReceitasCulinaria",Lasanha caprese com pão italiano
+https://play.prod.gcp.vix.services/italian-lasagna_pt/italian-lasagna_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://img.itdg.com.br/tdg/images/blog/uploads/2018/01/chips-de-legumes.jpg"group-title="ReceitasCulinaria",Petiscos deliciosos e saudáveis
+https://play.prod.gcp.vix.services/healthy-snacks_pt/healthy-snacks_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://marolacomcarambola.com.br/wp-content/uploads/2015/12/batata-laminada-9.jpg"group-title="ReceitasCulinaria",Receitas com batatas que você não conhecia
+https://play.prod.gcp.vix.services/potato-chips_pt/potato-chips_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://xtudoreceitas.com/wp-content/uploads/Tapioca-Simples.jpg"group-title="ReceitasCulinaria",Receitas com tapioca para fugir do básico
+https://play.prod.gcp.vix.services/tapioca-recipes_pt/tapioca-recipes_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://receitatodahora.com.br/wp-content/uploads/2022/06/bolo-nha-benta.jpg"group-title="ReceitasCulinaria",Receita caseira de Nhá Benta
+https://play.prod.gcp.vix.services/nha-benta_pt/nha-benta_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.pinimg.com/236x/81/a5/4e/81a54efa6f05aa8e6d8130a658161e98--mocha-coffee.jpg"group-title="ReceitasCulinaria",3 receitas deliciosas feitas com café
+https://play.prod.gcp.vix.services/coffee-drinks_pt/coffee-drinks_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/GPvIj1ySfvU/maxresdefault.jpg"group-title="ReceitasCulinaria",Como fazer café decorado como um profissional
+https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Camera.xml "
  ############## Camera ############## ### 
