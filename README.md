@@ -219,7 +219,9 @@ http://15.235.10.31:14395
 http://15.235.10.31:14406
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",FX HD
 http://45.58.126.146:14311/
-#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-xOELKSkkr4A/Uuv3Fyz8CyI/AAAAAAAAhHs/C_BhByvHncU/s1600/50p9xc.jpg" group-title="CanaisFechados",TV TEEN NET  HD
+
+
+#EXTINF:1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/02/tv-teen-net.jpg" group-title="CanaisFechados",TV TEEN NET  HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
 #EXTINF:1 tvg-logo="hhttps://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9c8a862-29ad-45da-8858-cab400ae94a3.gif?ClientID=vimeo-core-prod&Date=1630623797&Signature=ea02577a6740cc87bc97597c39b38f8e0e0af335" group-title="CanaisFechados",MEGAPIX
 http://51.83.238.223:16823/
