@@ -4,9 +4,6 @@
 ############## HRCERTA #################  
 #EXTINF:-1 tvg-id=" iddocanaldeHRCERTA" group-title="
 
-#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-FnmzY_BDIBY/WhQhIS1tubI/AAAAAAAAOYY/TNDRTQvlTYQKA69W6IwnVxRHii0HIzT6QCLcBGAs/s1600/LOGOHORACERTA2.png" group-title="HRCERTA",HRCERTA
-https://youtu.be/M1mROdK3aqE
-
 #EXTM3U url-tvg=" http://grade-de-radiofax.xml "
 ############## radiofax ################# 
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
@@ -54,8 +51,6 @@ http://168.205.87.198:8555/live/1052/123456/101.m3u8
 http://168.205.87.198:8555/live/1052/123456/134.m3u8
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" group-title="CanaisAbertos",TV TROPICAL
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:1 tvg-logo="https://uvn-brightspot.s3.amazonaws.com/assets/vixes/imj/frases_de_chespirito.gif" group-title="CanaisAbertos",CHISPIRITO
-http://168.205.87.198:8555/live/1052/123456/159.ts
 #EXTINF:1 tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CanaisAbertos",BAND HD
 http://168.205.87.198:8555/live/1052/123456/19.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" group-title="CanaisAbertos",BAND CE FHD
@@ -84,10 +79,6 @@ http://boxtv.uniredes.com.br:80/1234/1234/53
 http://cdn.connectbr.com.br/Life/index.m3u8
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",RECORD NEWS
 http://15.235.10.31:14351/
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/khsreF7UfrB-LwT_Oq-UDI_I_WtAXER8fDa99wlcgovDnll1IhexekBKhC87qtva4aoREVNcel0=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisAbertos"VIVA HD
-http://199.127.60.83:16884/
-#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Suzuky-TV-300x300.jpg" group-title="CanaisAbertos",Suzuky TV
-https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2077970629.m3u8
 
 #EXTM3U url-tvg="http://grade-de-CanaisFechados.xml"
 ############## CanaisFechados ################# 
@@ -119,8 +110,7 @@ http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 http://45.58.126.146:14293/A&E
 #EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
 http://45.58.126.146:14293
-#EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
-http://199.127.60.83:16002/
+
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CanaisFechados",CINEMAX HD
 http://45.58.126.146:14305/
 #EXTINF:1 tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CanaisFechados",DISCOVERY id
@@ -131,8 +121,6 @@ http://45.58.126.146:14249/
 http://45.58.126.146:14249/
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BogusUnlawfulGopher-size_restricted.gif" group-title="CanaisFechados",AMC
 http://45.58.126.146:14296/
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AggressiveLightChihuahua-size_restricted.gif" group-title="CanaisFechados",AMC
-http://199.127.60.83:16004
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="CanaisFechados",AXN HD *
 http://45.58.126.146:14299/axn
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CanaisFechados",DISCOVERY TURBO
@@ -199,8 +187,6 @@ http://15.235.10.31:14406
 http://45.58.126.146:14311/
 #EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-xOELKSkkr4A/Uuv3Fyz8CyI/AAAAAAAAhHs/C_BhByvHncU/s1600/50p9xc.jpg" group-title="CanaisFechados",TV TEEN NET  HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
-#EXTINF:1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEUAAAD////V1dX8/Pw9PT3z8/NGRkZfX1+9vb3h4eFmZmZtbW0cHBzo6Oje3t6Xl5fY2NgwMDB9fX24uLhRUVHOzs6Ojo5NTU1CQkI5OTnIyMjBwcGoqKiEhIT29vavr6+dnZ0mJiYPDw9aWloMDAx1dXUrKyuyL8vVAAADdUlEQVR4nO2d205iURBEuQsICiKI4gW8/f8nTvZMfOJQ2d2ZpHe1tb6gVkwAu7vO6fWEEEIIIYQQQgghhBAijONq4GF1jA5ezabvYxMdvJpnp+FzdPBqjk7D2+jg1eychrvo4NW8OA1fooNX8+U0/IoOXs210/A6Ong1c6fhPDp4NR9Ow4/o4NXcOw3vo4NX8+A0fIgOXk1+w73TcB8dvJpHp+FjdPBq1kOX4HAdHbya09hlOD5FB69m4TRcRAev5n3pMly+Rwevx2kYHdvAzGU4i45tIL/hjcvwJjq2ARnyGw5chqvo2AaeoMlyM+3iwDNM7PWm0JBntH2ZN2g4jY73H8Bj/QyGeKyfwfA2vSFeXGQwxIuLDIZ36Q3xakaGDODlUwZDvHzKYIiXTxkM8eIig+EIDr0zGOKxfgbDU3rD99fshj0Z8gOXTzKkIL8hXq8Nu6BarvnG+kxDfd9YfxAd2gQe63fzFB3axMFheIgObcJzrc+1zsCLi27eokOb8PQReLoIBU8f4Rgd2kR+Q7ya6YZpBfwbDD2tGZ7GTAGvZrq5iw5twtMp4emTFK4chlfRoU14Ghc8bYuC51qf51K/sHYY8tyxFxYOQ54r7784DKMjG5FhbsPd1bwDri98bMhTpESgBSLXj5dLoLF+DkM01s9hiMb6OQxX6Q236Q3R4iKHIVpc5DBEjYschmg1k8MQrWZkyAFaPuUwRGP9HIZorJ/DEI31cxiiPkIOQ3Stn8MQXevnMETX+jkM0eIihyF6zFAOQ7SayWF4kiE9CzASzmGIOiU5DD/B0DuHIRp6c50kXAQ8SGk562AbHdiM9Vqfq4tQQGP9Lri6CAVrH4HpAUP/QIuLLrjaFgWrId8nTX5Da2uGzxA/DOscrk5Qwdop4WrMFKydEq7GTMF6rX+MDmzGeq3P1UUoWN9xwdVFKFj7CFxdhIL1LR48b+/4wfqOC7bjS3vjguftHT9YDfmGN9b3lPCd1VpbM3zjqYnRcBId2Ax+GNYZw1F0YDNr+BCeM165OkGFb+Pf8Ds6sJ39xAJXcU0IIYQQv4bR2AbfL+/8/1vIUIbtI0MZto8MZdg+MpRh+8hQhu0jQxm2jwxl2D4ylGH7yFCG7SNDGbaPDGXYPjKUYfuMTIL9Pp/hejuwsOW7ghZCCCGEEEIIIYQQQiTjDzo3NSZXRS+QAAAAAElFTkSuQmCC" group-title="CanaisFechados", E! HD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/515
 #EXTINF:1 tvg-logo="hhttps://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9c8a862-29ad-45da-8858-cab400ae94a3.gif?ClientID=vimeo-core-prod&Date=1630623797&Signature=ea02577a6740cc87bc97597c39b38f8e0e0af335" group-title="CanaisFechados",MEGAPIX
 http://51.83.238.223:16823/
 #EXTINF:1 tvg-logo="https://videoplatform.sky.it/still/2020/10/01/1601566998351_-arrivata-la-nuova-app-my-sky_videostill_1.jpg" group-title="CanaisFechados", SKY CINEMA 1 HD
@@ -269,8 +255,6 @@ http://45.58.126.146:14317
 http://45.58.126.146:14308/
 #EXTINF:1 tvg-logo="https://imagens-cdn.canalrural.com.br/2019/10/rn2.gif" group-title="CanaisFechados",CANAL RURAL
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e53513E.png" group-title="CanaisFechados",TV WTJMINAS 
-https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8 
 #EXTINF:1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="CanaisFechados",HITS
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/3UjbihgsKD16QUEd5f6jd9znJ4_b3WIvMWPjfAtCsIPAd40wlZG4ZAgWBbviRydpyu0" group-title="CanaisFechados",CANAL 10 FOZ
@@ -281,40 +265,20 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f8a3fa9e42936215fde3bd04bb0f35a6.webp" group-title="CanaisFechados",CANAL RICOS
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUAnAH47Teme-nHutwp-fmSkQZfnn0eheUWwiay8g=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",TV PADRE CICERO
-https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
 #EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb1538f8a908c5aad023c2e87021d302.webp" group-title="CanaisFechados",SAO RAIMUNDO TV
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="CanaisFechados",TV GRANDE NATAL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/o_9ABjEBlf_-BHDeysRnqNA-bUc_QAH3OdWXgs_Nti4QTdWOrw6szttIodzlMhG3P4ncibigFA=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",TV HORA 1
-https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/playlist.m3u8
-#EXTINF:1 tvg-logo="https://criticadeponta.files.wordpress.com/2009/11/tv2.jpg" group-title="CanaisFechados",TVC 16
-https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
 #EXTINF:1 tvg-logo="https://gcmais.com.br/wp-content/uploads/2022/07/tv-cidade.png" group-title="CanaisFechados",TV CIDADE CANAL 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8 
 #EXTINF:1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7431/cabecalho-7431-20200117195006.png" group-title="CanaisFechados",LIDER DO VALE
 https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXrQOMkGdWkMLWdN1ETSBIrMHTpK4PIQoxmNhOvF-SyZ5UCr-smfRI9VlA73UP4-FH2c&usqp=CAU" group-title="CanaisFechados", MAM NEWS WEB TV
 https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/3_VzWC4YH0NOTee7Oq2F_Nyc68sKE2ipyeDkE0cnQTlvI6HI6oPxgIChbud0D5LXcp0oO89M=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados", WEB TV JP
-https://stmv3.samcast.com.br/vinicius8694/vinicius8694/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/6eyDEcAW1rVASp6A_5QNClzkSl6yYl0yo0C8sB86ms47FIK_zXA8NLYSY9gYI-s74MTS52dtkA=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",RESENDE WEB TV
-https://5d82644094cc0.streamlock.net:443/resendetv/resendetv/playlist.m3u8
 #EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74eeb2765564dd79d85e4d9c11431a87.webp" group-title="CanaisFechados",CAMOCIM WEB TV
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/vyxBAObNX3_RUlVFEBx_PRuLA2HA9WubHeWOPaMgT2DUYKYKdJ001SFW8OQuOD6eGA" group-title="CanaisFechados",WEB TV MACEIO
-https://5cf4a2c2512a2.streamlock.net/webtvmaceio/webtvmaceio/playlist-480p.m3u8
 #EXTINF:1 tvg-logo="https://www.paranaeducativafm.pr.gov.br/sites/fm/arquivos_restritos/files/styles/escala_e_corta_360x225_/public/imagem/2021-12/banner_lateral_padrao_tv.png.jpg?itok=mZVVxFxt" group-title="CanaisFechados",TV PARANA
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="CanaisFechados",WEB TV URUARA
-https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/SEB13xbzi_e4zQLp6VFdfQ356w9I8-FlbbFr8e_G_iQq3SOqno9xi9LAp-D5vhN41g" group-title="CanaisFechados",WEB TV FRONTEIRA
-https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/4l7KgoMTTDnNqU4PcBKh3UkcIDzPhAMrwnbuP-g_aMN3mUojPTJA-Hy8oCybyjAN2bZN=w600-h300-pc0xffffff-pd" group-title="CanaisFechados",WEB TV ESCRIBA DO AMAPA
-https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a88db29f316fa10a27bcded4cd857538.webp" group-title="CanaisFechados",WEB TV CAICO
-https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 #EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/017fd721088105092c54513b07ac61d0.webp" group-title="CanaisFechados",SRTV PB
 https://livefocamundo.com:8081/srtvpb/index.m3u8
 #EXTINF:1 tvg-logo="https://fb.paineladm.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="CanaisFechados",TV CARAVELAS
@@ -334,16 +298,13 @@ http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://memoriadatv.com.br/hf-conteudo/uploads/posts/2022/02/12579_combate-jpg.jpg" group-title="Sportes",COMBATE
 http://209.222.97.92:16493/
-#EXTINF:1 tvg-logo="https://memoriadatv.com.br/hf-conteudo/uploads/posts/2022/02/12579_combate-jpg.jpg" group-title="Sportes",COMBATE UHD
-http://209.222.97.92:16493/
+
 #EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2 UHD
 http://23.237.10.66:16180/
 #EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2
 http://23.237.10.66:16180/
 #EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2 FHD¹
 http://7go.xyz:8080/Rafagullosala/gaFf0EVj/42907
-#EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2 FHD¹
-http://209.222.97.92:16525
 #EXTINF:1 tvg-logo="https://cdn.myportfolio.com/423e18774d455bfa5874bcda45432723/33c9a965-8e62-4698-9c4c-d51b70237266_rw_600.gif?h=c1d642fe7814ebb55a049d4df2e89a57" group-title="Sportes",ESPN
 http://37.58.50.28:2095/Tourobox1-lives9237832962/6234456508/334
 #EXTINF:1 tvg-logo="https://imgmedia.libero.pe/1200x660/libero/original/2021/11/04/6184835fa17abe49654ce6c5.jpg" group-title="Sportes",ESPN 
@@ -376,7 +337,6 @@ https://play.prod.gcp.vix.services/mermaid-tale_pt/mermaid-tale_pt_1-1/play_v1_h
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1969769045.m3u8
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/kibxTdFJXzAA0/giphy.gif?cid=6c09b952f012a53161a12761b5868a2ab05a60a50b13c4c2&rid=giphy.gif&ct=g" group-title="Infantil",NICK SD
 http://84.17.44.179:14310/
-#EXTINF:1 tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="Infantil",NICK JR
 #EXTINF:1 tvg-logo="https://media.tenor.com/vCktXaNRcK4AAAAC/cartoon-network.gif" group-title="Infantil",CARTOONITO
 http://45.58.126.146:14200
 #EXTINF:1 tvg-logo="https://media.giphy.com/headers/nickjr/BoVyfvyX6fHb.gif" group-title="Infantil",NICK JR
@@ -399,8 +359,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
 #EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2TQcm4mL81MgGdiCpeYZ4AUPcPqOTNvnFv6P0o2pOaIyRpfUFxvpJaiaAFwVqGRVBhEcWfh360HeKU1fhhZzEDBH2KRQcK1hyrIHBNwLqZxM9puKO7Puc_8Gd0YZctIyciU50sspx2d9VoyR0hvuGM7wbGMAjsz0o8CPTdm-IJaJVxWC2ksueI6l/w1200-h630-p-k-no-nu/GEEKDOT.webp"group-title="Infantil", Geekdot
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
-#EXTINF:1 tvg-logo="https://www.murilotv.com.br/wp-content/uploads/sites/36/2022/12/logo-1.png"group-title="Infantil", Murilo TV
-https://tv02.zas.media:1936/murilotv/murilotv/playlist.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif"group-title="Infantil",Turma Da Monica
 https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/JSe-kOJJd2IAAAAC/strawberry-shortcake.gif"group-title="Infantil",moranguinho
@@ -481,8 +439,6 @@ https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/law-abiding_pt/law-abiding_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="http://25.media.tumblr.com/bea911a8b52bf22ac0c270cc3865a2d5/tumblr_mtn9s3hzne1si6vd0o1_500.gif" group-title="FILMES",A FERA
 https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_360p.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/SomXpRF5StYAAAAM/take-scene.gif" group-title="FILMES",filmes
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1841371.m3u8
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/7XfmuKqJhYZy1oR7wvcN6yOUGi0ls-WdRIGG8fD77R9pw8SuywTahh5ZtFRicReiRegD6MY=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES",Adrenalina Freezone 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:1 tvg-logo="https://img.global.news.samsung.com/br/wp-content/uploads/2022/08/BR_TV_Mockup_03-e1661888354568.jpg" group-title="FILMES",Service TV
@@ -574,10 +530,6 @@ https://live.hunter.fm/sertanejo_high?origin=/country
 http://178.32.140.155/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vnjj8cnpentp.png" group-title="tvclips",Radio Bellla&Monella TV 
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/ae/8e/15034/c300.png" group-title="tvclips",Radio Birikina TV 
-http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/ae/8e/15034/c300.png" group-title="tvclips",Radio Birikina TV 
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.retedeldono.it/sites/default/files/radio-company-logo.png" group-title="tvclips",Radio Company TV 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw26HNM7jmQYczY58faYX3DZ_at4cOJhkJQdTBxEK5rIfitlm-fgaT4Xbz55qquhCGCo&usqp=CAU" group-title="tvclips",Radio Ibiza TV (360p) 
@@ -652,8 +604,6 @@ https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
 
 
-
-
 #EXTM3U url-tvg="http://grade-de-BIBLICO.xml"
 ############## BIBLICO ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeBIBLICO" group-title="
@@ -701,7 +651,6 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1
 https://s17.maxcast.com.br:8669/live
 #EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0cc474f7cf02ad2891ecb4f08429ed96.jpg" group-title="radio",Rádio Modão
 https://centova5.transmissaodigital.com:20024/stream/;stream.mp3
-https://stream-26.zeno.fm/7z9dmhaens8uv?zs=tN2R5aGRRuCqstj-peVLLA
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="radio",-Radio Sertanejo Raiz
 http://station.radionanet.com:8330/1;
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" group-title="radio",-Radio  Raiz forte
@@ -716,8 +665,6 @@ https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
 https://servidor.geracaoradios.com/listen/sertaneja/stream
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="radio",-Sertanejo
 https://live.hunter.fm/sertanejo_normal
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/u8jL4vY4ze.png" group-title="radio",Simone e Simaria
-http://stream.zeno.fm/81dhknvepxhvv
 #EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 #EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 2
@@ -732,8 +679,6 @@ https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
 https://media2.mcr.iol.pt/wrcomercial/rcbrasil.stream/playlist.m3u8
 #EXTINF:0,Saudade FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" -Saudade FM
 https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg"group-title="radio", -Nativa FM
-https://24073.live.streamtheworld.com/NATIVA_SPAAC/HLS/a648b04f-8a77-4fff-bab0-aa929fe71b41/0/3.aac
 #EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/hunterfm.jpg"group-title="radio", -Hunter FM Pop
 https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
 #EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/alpha-fm-ao-vivo.jpeg"group-title="radio", -Alpha FM
@@ -752,8 +697,6 @@ https://8923.brasilstream.com.br/stream?1649567398017
 https://stream-57.zeno.fm/bykfgnbuk2zuv?zs=JxT2WT1CR7Wf9YTu7xFnsw
 #EXTINF:1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerhero_2_v2_d8636a83.gif"group-title="radio",-RÁDIO DISNEY
 https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/playlist.m3u8?dist=web-radiodisney
-#EXTINF:1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/s_video_channelsquares_radiodisney_cfbe1301.gif"group-title="radio", -RÁDIO DISNEY sp
-https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/506f65ef-093f-466e-b883-c89ea7bdb21b/0/playlist.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMSUbw7i5ZeQhh9Q4OonrhW-QtF9PFzuPHf-FmURsbfaU-bQ_zHmpjpAxKZIolqup95g&usqp=CAU" -Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 #EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png"group-title="radio", -Stingray Hit List
@@ -824,8 +767,6 @@ https://stm01.virtualcast.com.br:8000/live
 https://22203.live.streamtheworld.com/NATIVA_SP_SC
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsB9TVKAXE.png"group-title="radio", -Radio nativa 89,3
 https://cast4.hoost.com.br:20143/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xBFjTdAKBH.jpg" group-title="radio",-Radio Band 96.1
-https://24403.live.streamtheworld.com/BANDFM_SPAAC/HLS/09a5e691-3cb8-446e-8a4b-3ac7d3469591/0/7.aac
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DyS4RwKRdU.png"group-title="radio", -Radio comeia fm
 https://stm01.virtualcast.com.br:8138/live
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uqkpsltjbkap.png" group-title="radio",-Radio coluna
@@ -836,7 +777,6 @@ https://26483.live.streamtheworld.com/MIXFM_CAMPINASAAC_SC?dist=mix-web-player-r
 https://live.hunter.fm/sertanejo_normal
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" group-title="radio",-Radio TOP FM 
 http://cloud1.cdnseguro.com:16806/stream/;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hVejQa99KB.jpg"group-title="radio", -Radio Dance
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" group-title="radio",-Radio Recife 
 http://zoeweb.net:8046/;stream.mp3
 #EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png"group-title="radio", -Rádio Sorriso 99.1 FM
@@ -855,7 +795,6 @@ https://streaming.radiostreamlive.com/radiocountrylive_devices
 https://centova5.transmissaodigital.com:20060/;
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="radio",-Radio Globo
 https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZZFyCnn326.jpeg"group-title="radio", -Radio Capital
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" group-title="radio",-radio Hits
 https://ice1.streeemer.com:8020/radio.mp3
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz79rkDMGfDunAWKq3vG3vz1kDcVHYaT4y0g&usqp=CAU"group-title="radio", -METROPOLITANA FM AO VIVO
@@ -892,32 +831,10 @@ http://6d9a.webradio.upx.net.br:9896/stream?Arlen
 https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
 #EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="radio", UFRGS
 http://radioaovivo.ufrgs.br:8000/stream.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="radio",98 FM | BH MG
-https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png"group-title="radio",- Alpha FM | Osasco SP
-https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png"group-title="radio",Band FM | Campinas SP
-https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png"group-title="radio",BandNews FM | YT São Paulo SP
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png"group-title="radio",BandNews FM | Goiânia GO
 https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png"group-title="radio",CBN RJ | Brasil
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png"group-title="radio",CBN SP | Brasil
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png"group-title="radio",Cultura do Pará - Brasil
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png"group-title="radio",- Dumont FM | Jundiaí SP
-https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png"group-title="radio",- Educadora FM | Campinas SP
-https://evpp.mm.uol.com.br/band/educadora/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png"group-title="radio",Energia 97 FM | Santo Andre SP
-https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
-#EXTINF:-1 tvg-language="Português" tvg-logo="https://i.imgur.com/dFOg0qj.png"group-title="radio",Clube TV | Portugal
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_R%C3%A1dio_Sociedade.jpg"group-title="radio",Sociedade 
-https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
 #EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio14157_1509361504.jpg"group-title="radio",UFRGS 
 http://radioaovivo.ufrgs.br:8000/stream.mp3
 
@@ -1015,16 +932,12 @@ https://play.prod.gcp.vix.services/coffee-decoration_pt/coffee-decoration_pt_1-1
  ############## Camera ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCamera " group-title="
 
-#EXTINF:1 tvg-logo="https://www.rio-janeiro-airport.com/images/rio-de-janeiro-santos-dumont-airport-sdu.jpg" group-title="Camera",AEROPORTO SANTOS DUMONT/ SBRJ - RIO DE JANEIRO
-https://www.youtube.com/live/SgwKawGWceM?feature=share
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/86YLFOog4GM/maxresdefault.jpg" group-title="Camera",Nasa Live Stream - Earth From Space 
 https://www.youtube.com/live/86YLFOog4GM?feature=share
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/-HxJYZI9AMk/maxresdefault.jpg" group-title="Camera",ol Donyo Lodge Wildlife Live Stream
 https://www.youtube.com/live/-HxJYZI9AMk?feature=share
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/4qyZLflp-sI/maxresdefault.jpg" group-title="Camera",Times Square: 1560 Broadway View Live
 https://www.youtube.com/live/4qyZLflp-sI?feature=share
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/1-iS7LArMPA/hqdefault.jpg" group-title="Camera",EarthCam Live: Times Square in 
-https://www.youtube.com/live/1-iS7LArMPA?feature=share
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/gHIkx8zEpO0/maxresdefault.jpg" group-title="Camera",Porto ao Vivo - Entrada no Canal do Porto de Santos
 https://www.youtube.com/live/gHIkx8zEpO0?feature=share
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/o14pAQ0FNt4/maxresdefault_live.jpg" group-title="Camera",Pista 5R del Aeropuerto de la CDMX | Skyline Airport View Coffee
@@ -1037,56 +950,32 @@ https://www.youtube.com/live/S26YOMAD290?feature=share
 https://www.youtube.com/live/Cp4RRAEgpeU?feature=share
 #EXTINF:1 tvg-logo="https://webcamera24.com/static/image/camera/detail/dam-square/thumbnail/968x545/maxresdefault.webp" group-title="Camera",yipgroup.com | live ultraHD Pan Tilt Zoom camera Dam Amsterdam
 https://www.youtube.com/live/R3YNscjcJOk?feature=share
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSiQAn_QqID0NqKnUOmCoLBDJ-3L5IpcvJ6bbGW4Fn65H9CsPDxnQOJlPgrJPTWUV3hDw&usqp=CAU" group-title="Camera",Live streaming Boston, Massachusetts USA - from the Museum of Science
-https://www.youtube.com/live/NmrVzhJ6HnU?feature=share
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/SmJGxM5RsNw/maxresdefault.jpg" group-title="Camera",AMSTERDAM | RAINY SUNDAY SHOW Spotting & Chill at Amsterdam Airport
-https://www.youtube.com/live/9eoDyI5kxCo?feature=share
 #EXTINF:1 tvg-logo="https://veja.abril.com.br/wp-content/uploads/2018/10/brasil-cumbica-guarulhos-20141012004.jpg?quality=70&strip=info&w=1280&h=720&crop=1" group-title="Camera",AEROPORTO INTERNACIONAL DE GUARU
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/263
 #EXTINF:1 tvg-logo="https://www.vounajanela.com/wp-content/uploads/2017/08/aeroporto-de-guarulhos-4-1050x599.jpg" group-title="Camera",AEROPORTO INTERNACIONAL DE GUARU
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/261
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="Camera",Lisboa - Belém
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
 #EXTINF:1 tvg-logo="https://st2.depositphotos.com/27201292/44434/i/450/depositphotos_444341112-stock-photo-an-aerial-shot-of-the.jpg" group-title="Camera",Ofir
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
 #EXTINF:1 tvg-logo="https://www.playocean.net/i/portugal/beaches/porto/homem-do-leme/praia-do-homem-do-leme-6.jpg" group-title="Camera",Porto - Homem do Leme
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
 #EXTINF:1 tvg-logo="hhttps://i.ytimg.com/vi/CKsbn1KyNR0/maxresdefault.jpg" group-title="Camera",Praia Canide Norte - Sul
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
 #EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-M1Il1azjs4E/VvbUDkM_VWI/AAAAAAAArcM/ZKdZx7nzO7ksRrx37wGrmuJ5Hs8rWGgyQ/s1600/Praia%2Bde%2BEsmoriz%2B1.jpg" group-title="Camera",Esmoriz
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
 #EXTINF:1 tvg-logo="http://praias.beachcam.pt/media/6756/th_furadouro_.jpg" group-title="Camera",Furadouro
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
 #EXTINF:1 tvg-logo="https://cdn.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/N4.PRA1205D.jpg?itok=tScQQeYj" group-title="Camera",Praia da Torreira
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
 #EXTINF:1 tvg-logo="https://img.ibxk.com.br/2014/06/10/10121324612294.gif" group-title="Camera",Costa Nova
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/uXWIkzVn-XY/maxresdefault.jpg" group-title="Camera",Praia da Tocha
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
 #EXTINF:1 tvg-logo="https://t3.ftcdn.net/jpg/05/20/86/68/360_F_520866848_rNYUPhBntmRiDiN3hFGrfV0MINMWQj1t.jpg" group-title="Camera",Murtinheira
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
-#EXTINF:1 tvg-logo="hhttps://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/01/e5/78/praia-do-cabedelo.jpg?w=1200&h=-1&s=1" group-title="Camera",Figueira da Foz - Cabedelo
-#EXTVLCOPT:network-caching=1000
-https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
 #EXTINF:1 tvg-logo="https://gooutside.com.br/wp-content/uploads/sites/3/2021/05/osso-de-baleia-encontrado-em-sp-696x522.jpg" group-title="Camera",Praia Osso da Baleia
-#EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
-#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/ytc/AMLnZu-9AN3w-LKpUgEiFLVALsFFUHvywcJIa-5tg1pgjw=s48-c-k-c0x00ffffff-no-rj" group-title="Camera",AO VIVO DE PORTUGAL
-https://youtu.be/Lb5ktLGFsKs
-#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s48-c-k-c0x00ffffff-no-rj" group-title="Camera", Balneário Camboriú
-https://youtu.be/PjXKFvxCkC4
-#EXTINF:1 tvg-logo="hhttps://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s48-c-k-c0x00ffffff-no-rj" group-title="Camera", Balneário Camboriú
-https://youtu.be/oV-J0AnViWo
 #EXTINF:1 tvg-logo="https://fotografiasaereas.com.br/wp-content/uploads/goiania-0013-fotos-aereas-estadio-Serra-dourada-parque-buritis-lago-rosas.jpg" group-title="Camera",Goiânia - Panorâmica
 https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w2025553815.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8BgvfOZOA9DJmbWEoZXNmtjyw6dqn0z10Udke2r9tNYftQP3B_Kn68iTEqg1lJ39uJs&usqp=CAU" group-title="Camera",Brasília Asa Sul
