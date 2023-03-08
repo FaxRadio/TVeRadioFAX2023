@@ -461,6 +461,8 @@ https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls
 
 
 #EXTINF:1 tvg-logo="https://usagif.com/wp-content/uploads/2022/hqgif/avatar-the-way-of-water-acegif-8.gif" group-title="FILMES",A vatar caminho das aguas
+http://127.0.0.1:32400/library/parts/3/1678233895/file.mp4?X-Plex-Session-Identifier=irp2nvi884be39yn3d6z0ptm&X-Plex-Product=Plex%20Web&X-Plex-Version=4.84.1&X-Plex-Client-Identifier=tjv9whiacni5fhxwby48xhyi&X-Plex-Platform=Chrome&X-Plex-Platform-Version=110.0&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=bundled&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x937%2C1920x1080&X-Plex-Token=CAvE25CuczsBSQ5Q7zNK&X-Plex-Language=pt-BR&Accept-Language=pt-BR
+#EXTINF:1 tvg-logo="https://usagif.com/wp-content/uploads/2022/hqgif/avatar-the-way-of-water-acegif-8.gif" group-title="FILMES",A vatar caminho das aguas
 file:///C:/Users/AlexSilva/Videos/Assistir%20Avatar%20O%20Caminho%20da%20%C3%81gua%20Online%20Gratis%20-%202022.mp4
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/DR3B3b5Vj2k/maxresdefault.jpg" group-title="FILMES",tik-tok
 https://play.prod.gcp.vix.services/tik-tok_pt/tik-tok_pt_1-1/play_v1_hls_1080p.m3u8
