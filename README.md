@@ -219,8 +219,6 @@ http://15.235.10.31:14395
 http://15.235.10.31:14406
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisFechados",FX HD
 http://45.58.126.146:14311/
-
-
 #EXTINF:1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/02/tv-teen-net.jpg" group-title="CanaisFechados",TV TEEN NET  HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
 #EXTINF:1 tvg-logo="hhttps://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9c8a862-29ad-45da-8858-cab400ae94a3.gif?ClientID=vimeo-core-prod&Date=1630623797&Signature=ea02577a6740cc87bc97597c39b38f8e0e0af335" group-title="CanaisFechados",MEGAPIX
@@ -387,6 +385,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba8
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil" group-title="
 
 
+#EXTINF:1 tvg-logo="https://pa1.narvii.com/6773/ca51df0db245c3f7711ea8cb663d984013b0c088_hq.gif" group-title="Infantil",Gato Felix e a Pata dos Ovos de Ouro
+https://play.prod.gcp.vix.services/felix-golden-egg_pt/felix-golden-egg_pt_1-1/play_v1_hls_540p.m3u8
 #EXTINF:1 tvg-logo="https://acheicinema.com/wp-content/uploads/2021/01/vaGGurhNCRtlgJQ5hREAiO8fskX-185x278.jpg" group-title="Infantil",As Travessuras de Uma Sereia
 https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/17/11/24/16/00/5072460.jpg" group-title="Infantil",Um conto de sereia
@@ -459,14 +459,15 @@ https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls
 ############## FILMES ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES" group-title="
 
-#EXTINF:1 tvg-logo="https://recreio.uol.com.br/amp-stories/o-que-esperar-de-homem-aranha-sem-volta-para-casa/assets/25.gif" group-title="FILMES",HOMEM-ARANHA 3
-http://videos.nxplay.com.br/hls/c41bf258076311eb8e1ecad7bf5d214a/video_1.m3u8
+
+#EXTINF:1 tvg-logo="https://usagif.com/wp-content/uploads/2022/hqgif/avatar-the-way-of-water-acegif-8.gif" group-title="FILMES",A vatar caminho das aguas
+file:///C:/Users/AlexSilva/Videos/Assistir%20Avatar%20O%20Caminho%20da%20%C3%81gua%20Online%20Gratis%20-%202022.mp4
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/DR3B3b5Vj2k/maxresdefault.jpg" group-title="FILMES",tik-tok
 https://play.prod.gcp.vix.services/tik-tok_pt/tik-tok_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://images.indianexpress.com/2017/01/jackie-chan-gif.gif" group-title="FILMES",kung fu yoga
 https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="http://1.bp.blogspot.com/-mrlXSyBy0D4/U5dQss0hOJI/AAAAAAAABAM/mt4WbiH2p_k/s1600/c%C3%A3o+de+briga.jpg" group-title="FILMES",Cão de briga
-https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_540p.m3u8
+https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/05/23/09/20/0659238.jpg" group-title="FILMES",Perigo no Oceano
 https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2b95e4ad49d1676926c2b4e0396ad19a3f50b6f62cd570a57798c30cbd557e59._RI_V_TTW_.jpg" group-title="FILMES",As Idades do Amor
@@ -529,6 +530,16 @@ https://play.prod.gcp.vix.services/gold-digger_pt/gold-digger_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES",jiraiya
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:1 tvg-logo="http://24.media.tumblr.com/tumblr_m2bztqtyxh1rog4ypo1_500.gif" group-title="FILMES",jeannie e um genio
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6079c058aa05ac0007d10054/3063648/playlist.m3u8?terminate=false&sid=857b4879-bd3f-11ed-90d3-e232a501003f&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=110.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=262852d4-27c5-4c9d-9332-b9095bf498aa&appVersion=6.10.1-60e2ed8f33981a7b47e30eca5e56d8fb33dce90e&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhNmVlNjg0LTk1YjAtNGEyMS1hMDk5LTBlNGIxM2IwMzUzOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4NTdiNDg3OS1iZDNmLTExZWQtOTBkMy1lMjMyYTUwMTAwM2YiLCJjbGllbnRJUCI6IjQ1LjIzMS4xNTIuMjU1IiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTAuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEwLjEtNjBlMmVkOGYzMzk4MWE3YjQ3ZTMwZWNhNWU1NmQ4ZmIzM2RjZTkwZSIsImNsaWVudElEIjoiMjYyODUyZDQtMjdjNS00YzlkLTkzMzItYjkwOTViZjQ5OGFhIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk1qWXlPRFV5WkRRdE1qZGpOUzAwWXpsa0xUa3pNekl0WWprd09UVmlaalE1T0dGaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NzgzMTgwMDMsImlhdCI6MTY3ODIzMTYwMywianRpIjoiYzU5MDRhYzYtOWFhMi00NmM0LTkzMTItNjE1YzY0NDNmY2I4In0.N6Ur8NHj4dMR5T2cUlIlY2vboaSt-BEjliJdq7B0owc
+#EXTINF:1 tvg-logo="http://24.media.tumblr.com/4f76447f5e68df4118a1eed93636b8c4/tumblr_n3s1peI1ow1s9ab4to1_500.gif" group-title="FILMES",a Feitiseira
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/631fa8dd7f25240007099a40/3063648/playlist.m3u8?terminate=false&sid=857b4879-bd3f-11ed-90d3-e232a501003f&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=110.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=262852d4-27c5-4c9d-9332-b9095bf498aa&appVersion=6.10.1-60e2ed8f33981a7b47e30eca5e56d8fb33dce90e&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhNmVlNjg0LTk1YjAtNGEyMS1hMDk5LTBlNGIxM2IwMzUzOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4NTdiNDg3OS1iZDNmLTExZWQtOTBkMy1lMjMyYTUwMTAwM2YiLCJjbGllbnRJUCI6IjQ1LjIzMS4xNTIuMjU1IiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTAuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEwLjEtNjBlMmVkOGYzMzk4MWE3YjQ3ZTMwZWNhNWU1NmQ4ZmIzM2RjZTkwZSIsImNsaWVudElEIjoiMjYyODUyZDQtMjdjNS00YzlkLTkzMzItYjkwOTViZjQ5OGFhIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk1qWXlPRFV5WkRRdE1qZGpOUzAwWXpsa0xUa3pNekl0WWprd09UVmlaalE1T0dGaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NzgzMTgwMDMsImlhdCI6MTY3ODIzMTYwMywianRpIjoiYzU5MDRhYzYtOWFhMi00NmM0LTkzMTItNjE1YzY0NDNmY2I4In0.N6Ur8NHj4dMR5T2cUlIlY2vboaSt-BEjliJdq7B0owc
+#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/f5/35/99/f53599f8feffed830a54986bde150985.gif" group-title="FILMES",Os tres patetas
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f1eed3c29b39600073e2ec0/3063648/playlist.m3u8?terminate=false&sid=857b4879-bd3f-11ed-90d3-e232a501003f&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=110.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=262852d4-27c5-4c9d-9332-b9095bf498aa&appVersion=6.10.1-60e2ed8f33981a7b47e30eca5e56d8fb33dce90e&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhNmVlNjg0LTk1YjAtNGEyMS1hMDk5LTBlNGIxM2IwMzUzOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4NTdiNDg3OS1iZDNmLTExZWQtOTBkMy1lMjMyYTUwMTAwM2YiLCJjbGllbnRJUCI6IjQ1LjIzMS4xNTIuMjU1IiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTAuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEwLjEtNjBlMmVkOGYzMzk4MWE3YjQ3ZTMwZWNhNWU1NmQ4ZmIzM2RjZTkwZSIsImNsaWVudElEIjoiMjYyODUyZDQtMjdjNS00YzlkLTkzMzItYjkwOTViZjQ5OGFhIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk1qWXlPRFV5WkRRdE1qZGpOUzAwWXpsa0xUa3pNekl0WWprd09UVmlaalE1T0dGaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NzgzMTgwMDMsImlhdCI6MTY3ODIzMTYwMywianRpIjoiYzU5MDRhYzYtOWFhMi00NmM0LTkzMTItNjE1YzY0NDNmY2I4In0.N6Ur8NHj4dMR5T2cUlIlY2vboaSt-BEjliJdq7B0owc
+#EXTINF:1 tvg-logo="https://cinemagia.files.wordpress.com/2010/05/gary-coleman-arnold.jpg" group-title="FILMES",Arnold minha familia
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61f1d27a189ed10007b7393e/3063648/playlist.m3u8?terminate=false&sid=857b4879-bd3f-11ed-90d3-e232a501003f&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=110.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=262852d4-27c5-4c9d-9332-b9095bf498aa&appVersion=6.10.1-60e2ed8f33981a7b47e30eca5e56d8fb33dce90e&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhNmVlNjg0LTk1YjAtNGEyMS1hMDk5LTBlNGIxM2IwMzUzOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4NTdiNDg3OS1iZDNmLTExZWQtOTBkMy1lMjMyYTUwMTAwM2YiLCJjbGllbnRJUCI6IjQ1LjIzMS4xNTIuMjU1IiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTAuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEwLjEtNjBlMmVkOGYzMzk4MWE3YjQ3ZTMwZWNhNWU1NmQ4ZmIzM2RjZTkwZSIsImNsaWVudElEIjoiMjYyODUyZDQtMjdjNS00YzlkLTkzMzItYjkwOTViZjQ5OGFhIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk1qWXlPRFV5WkRRdE1qZGpOUzAwWXpsa0xUa3pNekl0WWprd09UVmlaalE1T0dGaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NzgzMTgwMDMsImlhdCI6MTY3ODIzMTYwMywianRpIjoiYzU5MDRhYzYtOWFhMi00NmM0LTkzMTItNjE1YzY0NDNmY2I4In0.N6Ur8NHj4dMR5T2cUlIlY2vboaSt-BEjliJdq7B0owc
+
+
 
 #EXTM3U url-tvg="http://grade-de-BaseadoHistoriaReal.xml"
 ############## BaseadoHistoriaReal ################# 
@@ -707,8 +718,7 @@ https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1
 http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/553
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8wh62w4pcagDf-r75-IeH5bwoCS8tqYodzvh6EQnL-aUIvLmdwZPAFhmpG4L_t-bUf4&usqp=CAU" group-title="GOSPEL",gospelcartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w191837823.m3u8
-#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-OKcgsaVnKGg/XOLk7jxap5I/AAAAAAACJXE/t4_DGkshbRgusfz2of9M4A1VEEyJ7XczgCLcBGAs/s1600/tv%2Bpai%2Beterno.jpg" group-title="GOSPEL",TV PAI ETERNO SD
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1975457405.m3u8
+
 
 #EXTM3U url-tvg=" http://grade-de-radio.xml "
  ############## radio ################ # 
