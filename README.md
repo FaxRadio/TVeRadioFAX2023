@@ -63,18 +63,24 @@ http://168.205.87.198:8555/live/1052/123456/134.m3u8
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CanaisAbertos",BAND HD
 http://168.205.87.198:8555/live/1052/123456/19.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/ogR-o9Nze0IAAAAC/band-tv.gif" group-title="CanaisAbertos",BAND CE FHD
-http://45.58.126.146:14148/
+
+
+#EXTINF:1 tvg-logo=https://www.sjsp.org.br/images/sbt-interior-nega-fechamento-de-sucursal-1000x1000x-954f0.jpg" group-title="CanaisAbertos",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/800px-Rede_Massa_logo.svg.png" group-title="CanaisAbertos",SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:1 tvg-logo=https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="CanaisAbertos",SBT TV Paraense (PA)
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 #EXTINF:1 tvg-logo=https://media.tenor.com/37b5HIvleLkAAAAC/eptv-globo.gif" group-title="CanaisAbertos",EPTV CAMPINAS
 http://15.235.55.115:14104/
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
-http://boxtv.uniredes.com.br:80/rafael/rafael/12.m3u8
+
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
 http://45.58.126.146:14066
-#EXTINF:1 tvg-logo="https://i.makeagif.com/media/6-22-2016/sHf3O7.gif" group-title="CanaisAbertos",SBT
-http://boxtv.uniredes.com.br:80/rafael/rafael/23.m3u8
+
 #EXTINF:1 tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="CanaisAbertos",RECORD
 http://45.58.126.146:14153
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2370403edc09d33cee93e9d0c0a05175/366139-multi-media-channels-tv-world-india-star-utsav-movies.gif" group-title="CanaisAbertos",MOVIE STAR
@@ -83,12 +89,26 @@ http://62.176.77.22:9781/play/a00f
 http://62.176.77.22:9781/play/a00f
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CanaisAbertos",NATIONAL GEOGRAPHIC
 http://84.17.44.179:14635
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Band_News_TV_2021.png" group-title="CanaisAbertos",BAND NEWS
-http://boxtv.uniredes.com.br:80/1234/1234/53
+
+#EXTINF:1 tvg-logo="http://jopioneiro.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-25-at-14.42.04.jpeg" group-title="CanaisAbertos",RecordTV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="CanaisAbertos",RecordTV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="CanaisAbertos",RecordTV RN
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/rheP_IKI3B34qKYNK1Idcu9fz8UDXnxOCOOqiwAu3cEZkdMK2nzoc6HIhU234AUqWxY" group-title="CanaisAbertos",YES LIFE
 http://cdn.connectbr.com.br/Life/index.m3u8
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",RECORD NEWS
 http://15.235.10.31:14351/
+#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/fhGEgva11zUa-cb3GoFPMo1TFLHn5eK0Ek8u3xUrFCTACW3iq1mAxC1tpTw7VoBPhLFYk_rk=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisAbertos",MAIS UM
+https://stream.ichibantv.ga:3230/hybrid/play.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png" group-title="CanaisAbertos",Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTM3U url-tvg="http://grade-de-CanaisFechados.xml"
 ############## CanaisFechados ################# 
@@ -350,8 +370,7 @@ http://51.159.54.153:14411/
 http://23.237.10.66:16180/
 #EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2
 http://23.237.10.66:16180/
-#EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2 FHD¹
-http://7go.xyz:8080/Rafagullosala/gaFf0EVj/42907
+
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Sportes",SPORTV 3
 http://51.159.54.153:14417/
 #EXTINF:1 tvg-logo="https://cdn.myportfolio.com/423e18774d455bfa5874bcda45432723/33c9a965-8e62-4698-9c4c-d51b70237266_rw_600.gif?h=c1d642fe7814ebb55a049d4df2e89a57" group-title="Sportes",ESPN
@@ -372,8 +391,7 @@ http://ac.ntvlatino.com:8080/moises21/moises22/3267
 http://15.235.10.31:14326
 #EXTINF:1 tvg-logo="https://www.nicepng.com/png/detail/52-523356_watch-fox-sports-2-hd-channel-live-streaming.png" group-title="Sportes",FOX SPORT2
 http://15.235.10.31:14326
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMmHYUgCY87afIfag1kONnPZonpwPc-QGKlDB6vTK8kBgr2pCJeNgPK5E9FRSwR2y4vTM&usqp=CAU" group-title="Sportes",TNT SPORTS 2 HD¹
-http://7go.xyz:8080/Rafagullosala/gaFf0EVj/31469
+
 #EXTINF:1 tvg-logo="https://cdn.myportfolio.com/cb17273c-5ece-4c12-a1e8-2787f609fee8/60a17540-985c-4065-907e-2cc0ba5b91cc_rw_1920.gif?h=346145b3a712096d353ad863d8d67afe" group-title="Sportes",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW83_RUuPZISJ7UjWUK23NkH1hr940nidUj-snKoA=s900-c-k-c0x00ffffff-no-rj" group-title="Sportes",Brasil: esportes
@@ -385,6 +403,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba8
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil" group-title="
 
 
+#EXTINF:1 tvg-logo="https://preview.redd.it/o4awtvbefl761.gif?width=250&auto=webp&s=510a03720e6d7641cf73937308f060252b5160e8" group-title="Infantil",AWTV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:1 tvg-logo="https://pa1.narvii.com/6773/ca51df0db245c3f7711ea8cb663d984013b0c088_hq.gif" group-title="Infantil",Gato Felix e a Pata dos Ovos de Ouro
 https://play.prod.gcp.vix.services/felix-golden-egg_pt/felix-golden-egg_pt_1-1/play_v1_hls_540p.m3u8
 #EXTINF:1 tvg-logo="https://acheicinema.com/wp-content/uploads/2021/01/vaGGurhNCRtlgJQ5hREAiO8fskX-185x278.jpg" group-title="Infantil",As Travessuras de Uma Sereia
@@ -611,8 +631,11 @@ https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw26HNM7jmQYczY58faYX3DZ_at4cOJhkJQdTBxEK5rIfitlm-fgaT4Xbz55qquhCGCo&usqp=CAU" group-title="tvclips",Radio Ibiza TV (360p) 
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio12274_1587394437.jpg" group-title="tvclips",Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6AYByGSc4fkJeMt8FF9VWJsGHQfrpqb1u1_Y6UWRUkxlRKNNwsnHY8u1_EirECaa3bc&usqp=CAU" group-title="tvclips",M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="hMusic Top" group-title="tvclips",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Lghk0oORI6EiAnyyBmSjtZaMmkh1bLKfZ_KrmjUF4gdMEfKilz9NchTC5Qrz5mLlyOU&usqp=CAU" group-title="tvclips",Radio Kiss Kiss Italia TV (380p)
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J4ttHyfSxHclLmcp82fOSHrVpr6sbA6u1MI5R7Ry1ZRSFzcLS7ufsD5c2cHX_hsp5GQ" group-title="tvclips",Radio Number One (720p)
@@ -635,8 +658,7 @@ http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-fSLYe8SAbA0/XMUbyajknCI/AAAAAAAAAzU/5SK7bfaElasFKPBDttGl7uTk1PeJdMINwCLcBGAs/s320/Screenshot_2019-04-28-00-09-39.png" group-title="tvclips",51 Radio TV (480p)
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="tvclips",TV Grande Natal HDTV
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://site.radio.br/sites/fmradiopop.com/images/pubs/user_1917401155.jpg" group-title="tvclips",radiosaovivo
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61f13fcc9627c8e4ed060631_portada%20blog%20music.jpg" group-title="tvclips",ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
@@ -714,11 +736,19 @@ https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1
 ############## GOSPEL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeGOSPELS" group-title="
 
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="GOSPEL",TV APARECIDA HD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/553
+#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif" group-title="GOSPEL",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8wh62w4pcagDf-r75-IeH5bwoCS8tqYodzvh6EQnL-aUIvLmdwZPAFhmpG4L_t-bUf4&usqp=CAU" group-title="GOSPEL",gospelcartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w191837823.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d5/Paieterno.png/revision/latest?cb=20190527225949&path-prefix=pt-br" group-title="GOSPEL",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AbleSmoothFrenchbulldog-size_restricted.gif" group-title="GOSPEL",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
+#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFnTD4TQTqM2AymLbeY47aBk7PilJkuYhr1ZMPXURGQq44y4gefeeawaSbkAJ2yUKvi0dr487zOKq0NVx-nVyOKXo9mJPVW9ooaxEHEQi4kvtCruNt6a1CuQeuYmmn8FFCKkztlLQQA3Rn-vgPlRbJ323jLnsSy9dUNBhncrm6e1rTRWk3veYlZOv2/w1200-h630-p-k-no-nu/GOSPEL%20MOVIES%20TELEVISION.webp" group-title="GOSPEL",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:1 tvg-logo=https://yt3.googleusercontent.com/ytc/AL5GRJUwacyp-bccklMQ18t0jUQcgiL2AUXx95A7jxtR=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-radio.xml "
  ############## radio ################ # 
