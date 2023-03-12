@@ -103,6 +103,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 ############## CanaisFechados ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisFechados" group-title="
 
+#EXTINF:1 tvg-logo="https://240183188b.cbaul-cdnwnd.com/d0469b43bfdcac8221dbff68e43222b8/200000075-249c9249ca/fundo%20para%20you%20tube%20tela%20viva.png?ph=240183188b" group-title="CanaisFechados",tela viva tv
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1588227650.m3u8
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BelovedWideFlamingo-size_restricted.gif" group-title="CanaisFechados",TODO MUNDO ODEIA O CHRIS
 http://45.58.126.146:14510
 #EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="CanaisFechados",SPACE
@@ -143,6 +145,8 @@ http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 http://45.58.126.146:14293/A&E
 #EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
 http://45.58.126.146:14293
+#EXTINF:1 tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CanaisFechados",A&E
+https://cdn2.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://media1.giphy.com/media/avH4lly4PnfdeyTIQ1/giphy.gif" group-title="CanaisFechados",TOP MIX
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w72425460.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CanaisFechados",CINEMAX HD
@@ -267,18 +271,26 @@ http://45.58.126.146:14345
 http://45.58.126.146:14341
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="CanaisFechados", TELECINE PIPOCA
 http://51.83.238.223:16763/
+#EXTINF:1 tvg-logo="https://minhaseriefavorita.com/wp-content/uploads/2021/11/programacao-telecine-pipoca-da-semana.jpg" group-title="CanaisFechados", TELECINE PIPOCA 2
+https://live.embedflix.net/p2p/tlcpipoca/chunks.m3u8
 #EXTINF:1 tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CanaisFechados", TELECINE ACTION
 http://51.83.238.223:16703/
 #EXTINF:1 tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="CanaisFechados", TELECINE ACTION
 http://45.58.126.146:14354
-#EXTINF:1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3f06f279623251.5cc8ee09266a3.gif" group-title="CanaisFechados", GNT
-http://15.235.10.31:14365
-#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/27722/screenshots/2331277/tbs-example.gif" group-title="CanaisFechados", TBS
-http://45.58.126.146:14338
+#EXTINF:1 tvg-logo="https://exorbeo.com/wp-content/uploads/2013/06/novos-horarios-telecine-action.jpg" group-title="CanaisFechados", TELECINE ACTION 2
+https://live.embedflix.net/p2p/tlcaction/chunks.m3u8
+#EXTINF:1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/tctouch.png" group-title="CanaisFechados",TELECINE  touch
+https://live.embedflix.net/p2p/telecinetouch/chunks.m3u8
 #EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CanaisFechados",TLC
 http://45.58.126.146:14270/
 #EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CanaisFechados",TLC HD
 http://45.58.126.146:14270
+#EXTINF:1 tvg-logo="https://conteudofilmes.com.br/wp-content/uploads/2021/12/Telecine-Premium.png" group-title="CanaisFechados",TELECINE premium
+https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8
+#EXTINF:1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3f06f279623251.5cc8ee09266a3.gif" group-title="CanaisFechados", GNT
+http://15.235.10.31:14365
+#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/27722/screenshots/2331277/tbs-example.gif" group-title="CanaisFechados", TBS
+http://45.58.126.146:14338
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/InexperiencedHappygoluckyFinwhale-size_restricted.gif" group-title="CanaisFechados", PARAMOUNT
 http://45.58.126.146:14320
 #EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CanaisFechados",NATGEO
@@ -590,6 +602,12 @@ https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/p
  ############## tvclips ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 
+#EXTINF:-1 tvg-logo="https://media.tenor.com/YwDDxVgrX9AAAAAM/fire-mtv.gif" group-title="tvclips",MTV
+https://cdn2.connectbr.com.br/mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png" group-title="tvclips",music box
+https://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/d697fc07d0074842311879287c3a530b.png" group-title="tvclips",master tv
+http://168.205.87.198:8555/live/antony/1234/74.m3u8
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11839_1658250334.png" group-title="tvclips",Rádio Clube 105.5 FM
 https://8157.brasilstream.com.br/stream?1678118110353
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/2/63872.v7.png" group-title="tvclips",Rádio Amparo FM RECIFE
