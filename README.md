@@ -9,21 +9,15 @@
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
 
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=qeXXv7ntT4K1qU2BlXqAXg
+#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 https://stream-51.zeno.fm/0puscmkcu68uv?zs=otHk2wGBQBaT2lUNmewFVQ&acu-uid=751324370731&an-uid=2757408917935696907&mm-uid=58d463ee-d2c7-4d00-bb5a-375d1bd68aa0&amb-uid=4414560767181171804&cto-uid=5d369dea-15d1-409c-8999-ff85a80403a8-63ef5f7c-4252&bsw-uid=e06ec068-27ab-46ba-8053-b7c9125a749b&dyn-uid=04030002_63eed2c810908&ttd-uid=8d93998a-d91c-499c-8415-0a8f267a7552&triton-uid=cookie%3A81d72210-5b41-40d1-9a61-95cc7dd178da&adt-uid=cuid_20a7afe0-ae5f-11ed-b418-12821240e6ec
-
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.m3u
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.pls
-
-#EXTM3U url-tvg="http://grade-de-BBB.xml"
-############## BBB ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeBBB" group-title="
-
-#EXTINF:1 tvg-logo="https://5efce21e120dc77e32455754.static-01.com/l/images/aa36cea10ed8ff37f49534dc3edf60723a6d2a6f.gif" group-title="BBB",23 PISCINA
-http://dmnet.distv.net/dianna/123456/71
 
 #EXTM3U url-tvg=" http://grade-de-Documentarios.xml "
 ############## Documentarios ################# 
@@ -105,11 +99,9 @@ https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w92
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/00ba47999710ae339ed240f0309f0552/369302-multi-media-channels-tv-world-portugal-sic-internacional.gif" group-title="CanaisAbertos",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-
 #EXTM3U url-tvg="http://grade-de-CanaisFechados.xml"
 ############## CanaisFechados ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisFechados" group-title="
-
 
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BelovedWideFlamingo-size_restricted.gif" group-title="CanaisFechados",TODO MUNDO ODEIA O CHRIS
 http://45.58.126.146:14510
@@ -344,11 +336,9 @@ http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i1.wp.com/blog.jovempan.com.br/paulacarvalho/wp-content/uploads/sites/14/2018/08/A-Feiticeira-73985.gif?fit=400%2C220&ssl=1" group-title="CanaisFechados",A Feiticeira
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
 
-
 #EXTM3U url-tvg="http://grade-de-Sportes.xml"
 ############## Sportes ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSportes" group-title="
-
 
 #EXTINF:1 tvg-logo="https://www.combateglobal.com/wp-content/uploads/2021/06/cg-how-to-watch-banner.jpg" group-title="Sportes",Combate Global ao vivo
 https://stream.ads.ottera.tv/cl/230311cg6gn0uisvfo4aoi3jtg/1280x720_2300000_0_f.m3u8?i=475_960
@@ -368,7 +358,6 @@ http://51.159.54.153:14411/
 http://23.237.10.66:16180/
 #EXTINF:1 tvg-logo="https://tudoaovivo.com.br/wp-content/uploads/2022/02/SporTV2.jpg" group-title="Sportes",SPORTV 2
 http://23.237.10.66:16180/
-
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Sportes",SPORTV 3
 http://51.159.54.153:14417/
 #EXTINF:1 tvg-logo="https://cdn.myportfolio.com/423e18774d455bfa5874bcda45432723/33c9a965-8e62-4698-9c4c-d51b70237266_rw_600.gif?h=c1d642fe7814ebb55a049d4df2e89a57" group-title="Sportes",ESPN
@@ -389,17 +378,14 @@ http://ac.ntvlatino.com:8080/moises21/moises22/3267
 http://15.235.10.31:14326
 #EXTINF:1 tvg-logo="https://www.nicepng.com/png/detail/52-523356_watch-fox-sports-2-hd-channel-live-streaming.png" group-title="Sportes",FOX SPORT2
 http://15.235.10.31:14326
-
 #EXTINF:1 tvg-logo="https://cdn.myportfolio.com/cb17273c-5ece-4c12-a1e8-2787f609fee8/60a17540-985c-4065-907e-2cc0ba5b91cc_rw_1920.gif?h=346145b3a712096d353ad863d8d67afe" group-title="Sportes",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW83_RUuPZISJ7UjWUK23NkH1hr940nidUj-snKoA=s900-c-k-c0x00ffffff-no-rj" group-title="Sportes",Brasil: esportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
 
-
 #EXTM3U url-tvg="http://grade-de-Infantil.xml"
 ############## Infantil ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil" group-title="
-
 
 #EXTINF:1 tvg-logo="https://preview.redd.it/o4awtvbefl761.gif?width=250&auto=webp&s=510a03720e6d7641cf73937308f060252b5160e8" group-title="Infantil",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
@@ -479,14 +465,10 @@ https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls
 ############## FILMES ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES" group-title="
 
-
 #EXTINF:1 tvg-logo="https://assetsgn.nowonline.com.br/assets/p12263305_v_v12_ad.jpg" group-title="FILMES",O Vigilante Mascarado
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9j8p4ms8/v/1/pv/1/ev/12/flavorId/1_il0564po/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85ajhwNG1zOC92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Nzg2NjQyMzV9fX1dfQ__&Signature=UUNhpZl8hVQkhTkK2TvRzg8oX5uYNgiz7CxfuKnvRnnIqf0~qRvdE-F8Scfx5yQ7Lj6xcDlGn0hC93zm9FfLC70aOdVuqPERpazjRWzRACGVEAxZpW6HdbFhvbyCWTgemSG9f2XjqNawfyPND-y--hAisAhezIuEze9yC6hqdtokDHxuHuMERrgBsZLxFBrXSBlkDDr2L1-TV6dVrgFCEJRukF5VLV7olfFxCYr2LPO9ZW9ISkfztkKTGo5BEeKKQPPIBFbFW2u07Dd5lo9Sof5a5m0j4uSg1V01iNvvLKSz1~6TCa17Im79qiijWWiG-bAlqehfu85XsOUVEKv-Sw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-
 #EXTINF:1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/1988724918.jpg" group-title="FILMES",Indestrutível
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_p2sw27e5/v/1/pv/1/ev/10/flavorId/1_ghtu0jxr/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9wMnN3MjdlNS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Nzg2NjQ4OTZ9fX1dfQ__&Signature=SLvJHWmm9qbftYB6G5WzIfSh45txmZm6N5zEpI0TUaOAr5CFrGSM-uI6jwbLHWXcMaaYzMv2OG8awzT10lstP8XI9jO2E9pWzNfZJRFwTEynvV3i9jPyYmyHl60xlA5G0kJlseWbFTAnZf2OKOKRDZ5-M7ZLGtmV8cnTyA-8izDiE0amThDnnaacQ8abatpRfNUh9mSGPMWX4wABm-~xHzA6PtffFwxlaxiIvBoKRn6mXf-0wUyT00~W0EWMGs4W6dsaPCSq~-x4GiwTp5nkBmptXCDvkFv7jffwpo4IbvmES7L7JhlgZUR2V93ASQ7ond1fcAqrip5Ur3M445xW6g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-
-
 #EXTINF:1 tvg-logo="https://i1.wp.com/temalguemassistindo.com.br/wp-content/uploads/2023/02/em-aguas-agitadas-350x170.png"group-title="FILMES",Em águas agitadas
 https://play.prod.gcp.vix.services/troubled-waters_pt/troubled-waters_pt_1-1/play_v1_hls_432p.m3u8
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/DR3B3b5Vj2k/maxresdefault.jpg" group-title="FILMES",tik-tok
@@ -566,8 +548,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f1eed3c29
 #EXTINF:1 tvg-logo="https://cinemagia.files.wordpress.com/2010/05/gary-coleman-arnold.jpg" group-title="FILMES",Arnold minha familia
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61f1d27a189ed10007b7393e/3063648/playlist.m3u8?terminate=false&sid=857b4879-bd3f-11ed-90d3-e232a501003f&deviceDNT=0&deviceLat=-23.4196&deviceLon=-47.0778&deviceModel=web&deviceVersion=110.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=262852d4-27c5-4c9d-9332-b9095bf498aa&appVersion=6.10.1-60e2ed8f33981a7b47e30eca5e56d8fb33dce90e&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhNmVlNjg0LTk1YjAtNGEyMS1hMDk5LTBlNGIxM2IwMzUzOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4NTdiNDg3OS1iZDNmLTExZWQtOTBkMy1lMjMyYTUwMTAwM2YiLCJjbGllbnRJUCI6IjQ1LjIzMS4xNTIuMjU1IiwiY2l0eSI6IkFyYWNhcmlndWFtYSIsInBvc3RhbENvZGUiOiIxODE0NyIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yMy40MTk2LCJkZXZpY2VMb24iOi00Ny4wNzc4LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTAuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEwLjEtNjBlMmVkOGYzMzk4MWE3YjQ3ZTMwZWNhNWU1NmQ4ZmIzM2RjZTkwZSIsImNsaWVudElEIjoiMjYyODUyZDQtMjdjNS00YzlkLTkzMzItYjkwOTViZjQ5OGFhIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk1qWXlPRFV5WkRRdE1qZGpOUzAwWXpsa0xUa3pNekl0WWprd09UVmlaalE1T0dGaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NzgzMTgwMDMsImlhdCI6MTY3ODIzMTYwMywianRpIjoiYzU5MDRhYzYtOWFhMi00NmM0LTkzMTItNjE1YzY0NDNmY2I4In0.N6Ur8NHj4dMR5T2cUlIlY2vboaSt-BEjliJdq7B0owc
 
-
-
 #EXTM3U url-tvg="http://grade-de-BaseadoHistoriaReal.xml"
 ############## BaseadoHistoriaReal ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeBaseadoHistoriaReal" group-title="
@@ -640,7 +620,6 @@ https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6AYByGSc4fkJeMt8FF9VWJsGHQfrpqb1u1_Y6UWRUkxlRKNNwsnHY8u1_EirECaa3bc&usqp=CAU" group-title="tvclips",M2O
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="hMusic Top" group-title="tvclips",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Lghk0oORI6EiAnyyBmSjtZaMmkh1bLKfZ_KrmjUF4gdMEfKilz9NchTC5Qrz5mLlyOU&usqp=CAU" group-title="tvclips",Radio Kiss Kiss Italia TV (380p)
@@ -665,8 +644,6 @@ http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-fSLYe8SAbA0/XMUbyajknCI/AAAAAAAAAzU/5SK7bfaElasFKPBDttGl7uTk1PeJdMINwCLcBGAs/s320/Screenshot_2019-04-28-00-09-39.png" group-title="tvclips",51 Radio TV (480p)
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://site.radio.br/sites/fmradiopop.com/images/pubs/user_1917401155.jpg" group-title="tvclips",radiosaovivo
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61f13fcc9627c8e4ed060631_portada%20blog%20music.jpg" group-title="tvclips",ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YkPWvCEbJ4BDlWDUlGqXRgUAchiaDRpE8TxLKJ4GxaHtk2d2cCPy8LJqgwQoEA_bzEV-" group-title="tvclips",POWER TV
@@ -711,7 +688,6 @@ https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/2ll51f5v1aAAAAAM/music-head-shake.gif"group-title="tvclips", HITS MUSIC
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-
 #EXTM3U url-tvg="http://grade-de-BIBLICO.xml"
 ############## BIBLICO ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeBIBLICO" group-title="
@@ -743,6 +719,12 @@ https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1
 ############## GOSPEL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeGOSPELS" group-title="
 
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/radioaparecidaaovivo.png" group-title="GOSPEL",Aparecida 104.3 FM
+https://aparecida.jmvstream.com/stream?1673834484086
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/Radio-Evangelizar-ao-vivo.jpeg" group-title="GOSPEL",Evangelizar 1060 AM
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=BCNf7eQIQmKhA1cYDoHmQw
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/igreja-Deus-e-amor-ao-vivo.jpeg" group-title="GOSPEL",Deus é Amor 91.9 FM
+https://24943.live.streamtheworld.com/SP_STUDIOC.mp3?DeuseamorFM
 #EXTINF:1 tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif" group-title="GOSPEL",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8wh62w4pcagDf-r75-IeH5bwoCS8tqYodzvh6EQnL-aUIvLmdwZPAFhmpG4L_t-bUf4&usqp=CAU" group-title="GOSPEL",gospelcartoon
@@ -751,7 +733,6 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w191837823.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AbleSmoothFrenchbulldog-size_restricted.gif" group-title="GOSPEL",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
 #EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFnTD4TQTqM2AymLbeY47aBk7PilJkuYhr1ZMPXURGQq44y4gefeeawaSbkAJ2yUKvi0dr487zOKq0NVx-nVyOKXo9mJPVW9ooaxEHEQi4kvtCruNt6a1CuQeuYmmn8FFCKkztlLQQA3Rn-vgPlRbJ323jLnsSy9dUNBhncrm6e1rTRWk3veYlZOv2/w1200-h630-p-k-no-nu/GOSPEL%20MOVIES%20TELEVISION.webp" group-title="GOSPEL",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:1 tvg-logo=https://yt3.googleusercontent.com/ytc/AL5GRJUwacyp-bccklMQ18t0jUQcgiL2AUXx95A7jxtR=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",Gospel Music
@@ -779,6 +760,44 @@ https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
 https://servidor.geracaoradios.com/listen/sertaneja/stream
 #EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="radio",-Sertanejo
 https://live.hunter.fm/sertanejo_normal
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/conquista-fm-ao-vivo.jpeg" group-title="radio",Conquista 97.7 FM
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=2RfZKGMRQDijxwgcNNI6jQ
+#EXTINF:1 tvg-logo="hhttps://radiosaovivo.fm/wp-content/uploads/2022/12/fmodia.jpeg" group-title="radio",FM O Dia
+https://streaming.livespanel.com:20000/live?1672427380155?odiafmrj
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/liberdadefmaovivo.jpeg" group-title="radio",Liberdade 92.9 FM
+https://8335.brasilstream.com.br/stream?liberdadefmbh
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/itatiaia-ao-vivo.jpeg" group-title="radio",Rádio Itatiaia
+https://8903.brasilstream.com.br/stream?itatiaiabh
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/verdinha-am-ao-vivo.jpeg" group-title="radio",Verdes Mares 810 AM Verdinha
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/media_w2028614762_17120.mp3?verdesmaresce
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg" group-title="radio",Nativa FM
+https://24073.live.streamtheworld.com/NATIVA_SPAAC/HLS/5476c6a0-974e-42a7-98da-c47aeb86b716/0/2.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/mix-fm.jpeg" group-title="radio",Mix FM
+https://26733.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/89aradiorock.jpg" group-title="radio",89 FM A Rádio Rock
+https://22823.live.streamtheworld.com/RADIO_89FMAAC.aac?dist=89fmsp
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/clube-do-para-ao-vivo.jpg" group-title="radio",Clube do Pará 104.7 FM 670 AM
+https://ice01.kshost.com.br:8000/live?clubdopara
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" group-title="radio",Saudade FM
+https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/metropolitana-fm-ao-vivo.jpeg" group-title="radio",Metropolitana 98.5 FM
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=PrElj_OUQMqzfQdxdObDDg
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/rede-hits-ao-vivo.jpeg" group-title="radio",Hits 99.7 FM
+https://paineldj.com.br:20028/stream?1676339165625
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/energiafmaovivo.jpeg" group-title="radio",Energia 97.7 FM
+https://streaming.inweb.com.br/energia?1673314020119
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/transamerica-ao-vivo.png" group-title="radio",Transamérica FM
+https://26603.live.streamtheworld.com/RT_SPAAC.aac?transamericasp
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/03/radiodisney.jpeg" group-title="radio",Disney FM 91,3
+https://26493.live.streamtheworld.com/DISNEY_BRA_SP.mp3?1678384501225
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/03/gayfm_hg_schwarz.jpg" group-title="radio",Gay FM
+https://icepool.silvacast.com/GAYFM.mp3
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/violafm.jpeg" group-title="radio",Viola 98.1 FM
+https://f12.fabricahost.com.br/violafm?f=1678634174N01GVB69HJ4SS7HN1Y689M714NE&tid=01GVB69HJ4KZ4DRZSPZDXTR50B
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/violafm.jpeg" group-title="radio",Viola 98.1 FM
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=5AewwtnSS6ujwZFKAOpaVA
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/assuncaoamaovivo.jpg" group-title="radio"Assunção Cearense 620 AM
+https://str.7br.com.br/radio/8170/stream?assuncaocearenseam
 #EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 #EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="radio",Rádio Antena 2
@@ -801,8 +820,20 @@ https://26653.live.streamtheworld.com/RADIO_ALPHAFMAAC.aac?dist=alphasp
 https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
 #EXTINF:1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg"group-title="radio", -Super Rádio Tupi
 https://8903.brasilstream.com.br/stream?1649568567935/live
+#EXTINF:1 tvg-logo="hthttps://radiosaovivo.fm/wp-content/uploads/2023/03/Jovem_Pan_FM_Belo_Horizonte_logo_2018_new.png"group-title="radio",Jovem Pan 99.1 FM
+https://sc4s.cdn.upx.com:8036/stream.mp3?jovempanbh
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/jovempannewsaovivo.jpeg"group-title="radio",Jovem Pan News
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=TrMH3bYxR-y6uc0u-XCk4g
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/cbn-sp-ao-vivo.png"group-title="radio",CBN São Paulo
+https://24383.live.streamtheworld.com/CBN_SPAAC.aac?cbnsp
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="radio", -Rádio Bandeirantes
 https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-bandeirantes.jpeg"group-title="radio", -Rádio Bandeirantes
+https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/61a7322d-ad5e-467c-9ae9-284f47dea870/0/1.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-bandeirantes.jpeg" group-title="radio",Rádio Bandeirantes
+https://19293.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/83ea1594-63db-4686-bef3-baf4848b671c/0/2.aac
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/bandnewsfmaovivo.jpeg" group-title="radio",BandNews FM
+https://15113.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/476a75fd-c0b0-4e75-a663-eff9f9ef01ab/0/3.aac
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jovem_Pan_FM_Marca_2022.jpg/800px-Jovem_Pan_FM_Marca_2022.jpg"group-title="radio", -Jovem Pan FM
 https://26143.live.streamtheworld.com/JP_SP_FMAAC.aac?1655836765030
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg"group-title="radio", -radio mix
@@ -951,6 +982,8 @@ https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 #EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio14157_1509361504.jpg"group-title="radio",UFRGS 
 http://radioaovivo.ufrgs.br:8000/stream.mp3
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-jornal-recife-ao-vivo.png"group-title="radio",Jornal Recife
+https://stream-51.zeno.fm/hu70hmkcu68uv?zs=1luUNZMbQimyuEiLp9UE5g
 
 #EXTM3U url-tvg="http://grade-de-KARAOKE.xml"
 ############## KARAOKE ################# 
@@ -1014,7 +1047,6 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
-
 
 #EXTM3U url-tvg=" http://grade-de-ReceitasCulinaria.xml "
  ############## ReceitasCulinaria ############## ### 
