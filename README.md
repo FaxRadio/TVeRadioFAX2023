@@ -480,13 +480,8 @@ https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES" group-title="
 
 
-#EXTINF:1 tvg-logo=":46:49 / Brasil / A18 / Português
-Um pastor e lutador profissional aceita uma carga em uma igreja em dificuldades, onde ele ajuda a comunidade tanto em sua capacidade oficial quanto como seu alter ego.
-Gêneros: Ação Drama thriller
-Diretores: Warren P. Sonoda
-Estrelado em: Brett Granstaff Diahann Carroll James Preston Rogers Lara Jean Chorostecki Mykel Shannon Jenkins Patrick McKenna Roddy Piper TJ McGibbon="https://assetsgn.nowonline.com.br/assets/p12263305_v_v12_ad.jpg" group-title="FILMES",O Vigilante Mascarado
+#EXTINF:1 tvg-logo="https://assetsgn.nowonline.com.br/assets/p12263305_v_v12_ad.jpg" group-title="FILMES",O Vigilante Mascarado
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9j8p4ms8/v/1/pv/1/ev/12/flavorId/1_il0564po/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85ajhwNG1zOC92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Nzg2NjQyMzV9fX1dfQ__&Signature=UUNhpZl8hVQkhTkK2TvRzg8oX5uYNgiz7CxfuKnvRnnIqf0~qRvdE-F8Scfx5yQ7Lj6xcDlGn0hC93zm9FfLC70aOdVuqPERpazjRWzRACGVEAxZpW6HdbFhvbyCWTgemSG9f2XjqNawfyPND-y--hAisAhezIuEze9yC6hqdtokDHxuHuMERrgBsZLxFBrXSBlkDDr2L1-TV6dVrgFCEJRukF5VLV7olfFxCYr2LPO9ZW9ISkfztkKTGo5BEeKKQPPIBFbFW2u07Dd5lo9Sof5a5m0j4uSg1V01iNvvLKSz1~6TCa17Im79qiijWWiG-bAlqehfu85XsOUVEKv-Sw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-
 
 #EXTINF:1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/1988724918.jpg" group-title="FILMES",Indestrutível
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_p2sw27e5/v/1/pv/1/ev/10/flavorId/1_ghtu0jxr/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9wMnN3MjdlNS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Nzg2NjQ4OTZ9fX1dfQ__&Signature=SLvJHWmm9qbftYB6G5WzIfSh45txmZm6N5zEpI0TUaOAr5CFrGSM-uI6jwbLHWXcMaaYzMv2OG8awzT10lstP8XI9jO2E9pWzNfZJRFwTEynvV3i9jPyYmyHl60xlA5G0kJlseWbFTAnZf2OKOKRDZ5-M7ZLGtmV8cnTyA-8izDiE0amThDnnaacQ8abatpRfNUh9mSGPMWX4wABm-~xHzA6PtffFwxlaxiIvBoKRn6mXf-0wUyT00~W0EWMGs4W6dsaPCSq~-x4GiwTp5nkBmptXCDvkFv7jffwpo4IbvmES7L7JhlgZUR2V93ASQ7ond1fcAqrip5Ur3M445xW6g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
