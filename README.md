@@ -1108,14 +1108,3 @@ https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w202
 https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://climaonline.com.br/public/fotos/pr/cascavel/foto-antiga-de-cascavel-22.webp" group-title="Camera",Cascavel Panorâmica
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-
-
-#EXTM3U url-tvg=" http://grade-de-SGM.xml "
-############## SGM ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSGM" group-title="
-
-#EXTINF:1 tvg-logo="https://gifsdesexo.blog.br/wp-content/uploads/2016/10/arrancou-a-calcinha-da-vadia.gif" group-title="SGM",EVIL ANGEL
-http://62.176.77.22:9781/play/a00l
-#EXTINF:1 tvg-logo="https://gifsdesexo.blog.br/wp-content/uploads/2016/10/arrancou-a-calcinha-da-vadia.gif" group-title="SGM",bra1
-https://video1.tizam.cc/films/AnalDPBlondeAConniePetersCollection.mp4
-#EXTINF:1 tvg-logo="https://gifsdesexo.blog.br/wp-content/uploads/2016/10/arrancou-a-calcinha-da-vadia.gif" group-title="SGM",bra2
