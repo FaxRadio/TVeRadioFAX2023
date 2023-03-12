@@ -719,6 +719,20 @@ https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1
 ############## GOSPEL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeGOSPELS" group-title="
 
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/67157.v16.png" group-title="GOSPEL",Nova Gospel FM
+https://svrstream1.svreua.com/stream.php?porta=8062/;
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/63963.v31.png" group-title="GOSPEL",Sertanejo Gospel SC
+https://stm24.xcast.com.br:8644/stream
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/14/Logotipo_da_Feliz_FM.png" group-title="GOSPEL",Feliz FM
+https://cloud1.cdnseguro.com:5520/;
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/fScZxd6p2Ig/maxresdefault.jpg" group-title="GOSPEL",Paz FM
+http://digital.umhost.com.br:9978/;
+#EXTINF:1 tvg-logo="https://d2fjxj8k7gaqdr.cloudfront.net/images/materias/radio-maanaim-logo-facebook.jpg" group-title="GOSPEL",Rádio Maanaim
+http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/media_w1919834617_32711.aac
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zjp3jtxserpq.png" group-title="GOSPEL",Rádio Gospel Adoração
+https://ssl.xcast.com.br:12570/;
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/F7-9nBkTx3RLsjTyo0BHlXGKqu8til2gvvIaGz4lAGG2tJuWJ5sDuNbGVGeYfSlJ_g" group-title="GOSPEL",Sertão Gospel
+https://stream-33.zeno.fm/fpg8s2gha9quv?zs=ndJRla2jTiCR7WdGog6PuQ
 #EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/radioaparecidaaovivo.png" group-title="GOSPEL",Aparecida 104.3 FM
 https://aparecida.jmvstream.com/stream?1673834484086
 #EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/Radio-Evangelizar-ao-vivo.jpeg" group-title="GOSPEL",Evangelizar 1060 AM
