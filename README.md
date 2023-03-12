@@ -50,7 +50,6 @@ https://play.prod.gcp.vix.services/computador-morro_pt/computador-morro_pt_1-1/p
 ############## CanaisAbertos ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisAbertos" group-title="
 
-
 #EXTINF:1 tvg-logo="https://d1vs1x3ni0c692.cloudfront.net/wp-content/uploads/2020/10/futura-whatsapp-image.jpg" group-title="CanaisAbertos",FURURA
 http://15.235.10.31:14336
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoz0gyLnImviBNJgOgn2qwrIrBgZGV55uvT0phiBTZU-RSShgjf4JE8z_H1lxjw7sLAEk&usqp=CAU" group-title="CanaisAbertos",TV GAZETA
@@ -63,24 +62,18 @@ http://168.205.87.198:8555/live/1052/123456/134.m3u8
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
 #EXTINF:1 tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CanaisAbertos",BAND HD
 http://168.205.87.198:8555/live/1052/123456/19.m3u8
-
-
 #EXTINF:1 tvg-logo=https://www.sjsp.org.br/images/sbt-interior-nega-fechamento-de-sucursal-1000x1000x-954f0.jpg" group-title="CanaisAbertos",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/800px-Rede_Massa_logo.svg.png" group-title="CanaisAbertos",SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-
 #EXTINF:1 tvg-logo=https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="CanaisAbertos",SBT TV Paraense (PA)
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 #EXTINF:1 tvg-logo=https://media.tenor.com/37b5HIvleLkAAAAC/eptv-globo.gif" group-title="CanaisAbertos",EPTV CAMPINAS
 http://15.235.55.115:14104/
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
-
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
 http://45.58.126.146:14066
-
 #EXTINF:1 tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="CanaisAbertos",RECORD
 http://45.58.126.146:14153
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2370403edc09d33cee93e9d0c0a05175/366139-multi-media-channels-tv-world-india-star-utsav-movies.gif" group-title="CanaisAbertos",MOVIE STAR
@@ -89,26 +82,29 @@ http://62.176.77.22:9781/play/a00f
 http://62.176.77.22:9781/play/a00f
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CanaisAbertos",NATIONAL GEOGRAPHIC
 http://84.17.44.179:14635
-
 #EXTINF:1 tvg-logo="http://jopioneiro.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-25-at-14.42.04.jpeg" group-title="CanaisAbertos",RecordTV MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="CanaisAbertos",RecordTV MT 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="CanaisAbertos",RecordTV RN
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/rheP_IKI3B34qKYNK1Idcu9fz8UDXnxOCOOqiwAu3cEZkdMK2nzoc6HIhU234AUqWxY" group-title="CanaisAbertos",YES LIFE
 http://cdn.connectbr.com.br/Life/index.m3u8
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",RECORD NEWS
 http://15.235.10.31:14351/
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/fhGEgva11zUa-cb3GoFPMo1TFLHn5eK0Ek8u3xUrFCTACW3iq1mAxC1tpTw7VoBPhLFYk_rk=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisAbertos",MAIS UM
 https://stream.ichibantv.ga:3230/hybrid/play.m3u8
-
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png" group-title="CanaisAbertos",Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:1 tvg-logo="Retrô Cartoon BR" group-title="CanaisAbertos",Retrô Cartoon BR
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w822564984.m3u8
+#EXTINF:1 tvg-logo="http://s2.glbimg.com/f3dfQBlG94v3GkFL39tKz-SeQ0c=/0x0:690x500/690x0/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/apis/0ef35a5266ba4b63ac6ee4bfb1f5e562/tiradentes-joaquina.gif" group-title="CanaisAbertos",TV Liberdade
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w92613198.m3u8
+#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/00ba47999710ae339ed240f0309f0552/369302-multi-media-channels-tv-world-portugal-sic-internacional.gif" group-title="CanaisAbertos",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
 
 #EXTM3U url-tvg="http://grade-de-CanaisFechados.xml"
 ############## CanaisFechados ################# 
@@ -354,6 +350,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7
 #EXTINF:-1 tvg-id=" iddocanaldeSportes" group-title="
 
 
+#EXTINF:1 tvg-logo="https://www.combateglobal.com/wp-content/uploads/2021/06/cg-how-to-watch-banner.jpg" group-title="Sportes",Combate Global ao vivo
+https://stream.ads.ottera.tv/cl/230311cg6gn0uisvfo4aoi3jtg/1280x720_2300000_0_f.m3u8?i=475_960
 #EXTINF:1 tvg-logo="hhttps://static.wixstatic.com/media/a0fdd5_be27bf58658c47feab11d85c957679c1~mv2.gif" group-title="Sportes",STAR+ 2 HD¹
 http://tv.nousiptv.com:8080/movie/Yonkers400/Marcela100/1145716.mkv
 #EXTINF:1 tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg" group-title="Sportes",ESPORTE EXTVLCOPT
@@ -449,6 +447,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d7600079
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
 #EXTINF:1 tvg-logo="https://media4.giphy.com/media/4UhjS5NaaLkwx25ocK/giphy.giff"group-title="Infantil",POCOYO HD
 http://boxtv.uniredes.com.br:80/rafael/rafael/5
+#EXTINF:1 tvg-logo="https://static.wixstatic.com/media/968b35_830e01a42e1d4030927c18a019a19f31~mv2.jpg/v1/fill/w_2500,h_2174,al_c/968b35_830e01a42e1d4030927c18a019a19f31~mv2.jpg"group-title="Infantil",Vintage  tv
+https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1862197283.m3u8
 
 #EXTM3U url-tvg="http://grade-de-ADOLECENTE.xml"
 ############## ADOLECENTE ################# 
@@ -478,6 +478,18 @@ https://play.prod.gcp.vix.services/superjuffie_pt/superjuffie_pt_1-1/play_v1_hls
 #EXTM3U url-tvg="http://grade-de-FILMES.xml"
 ############## FILMES ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES" group-title="
+
+
+#EXTINF:1 tvg-logo=":46:49 / Brasil / A18 / Português
+Um pastor e lutador profissional aceita uma carga em uma igreja em dificuldades, onde ele ajuda a comunidade tanto em sua capacidade oficial quanto como seu alter ego.
+Gêneros: Ação Drama thriller
+Diretores: Warren P. Sonoda
+Estrelado em: Brett Granstaff Diahann Carroll James Preston Rogers Lara Jean Chorostecki Mykel Shannon Jenkins Patrick McKenna Roddy Piper TJ McGibbon="https://assetsgn.nowonline.com.br/assets/p12263305_v_v12_ad.jpg" group-title="FILMES",O Vigilante Mascarado
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_9j8p4ms8/v/1/pv/1/ev/12/flavorId/1_il0564po/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85ajhwNG1zOC92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Nzg2NjQyMzV9fX1dfQ__&Signature=UUNhpZl8hVQkhTkK2TvRzg8oX5uYNgiz7CxfuKnvRnnIqf0~qRvdE-F8Scfx5yQ7Lj6xcDlGn0hC93zm9FfLC70aOdVuqPERpazjRWzRACGVEAxZpW6HdbFhvbyCWTgemSG9f2XjqNawfyPND-y--hAisAhezIuEze9yC6hqdtokDHxuHuMERrgBsZLxFBrXSBlkDDr2L1-TV6dVrgFCEJRukF5VLV7olfFxCYr2LPO9ZW9ISkfztkKTGo5BEeKKQPPIBFbFW2u07Dd5lo9Sof5a5m0j4uSg1V01iNvvLKSz1~6TCa17Im79qiijWWiG-bAlqehfu85XsOUVEKv-Sw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+
+
+#EXTINF:1 tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/1988724918.jpg" group-title="FILMES",Indestrutível
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_p2sw27e5/v/1/pv/1/ev/10/flavorId/1_ghtu0jxr/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9wMnN3MjdlNS92LzEvcHYvMS9ldi8xMCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Nzg2NjQ4OTZ9fX1dfQ__&Signature=SLvJHWmm9qbftYB6G5WzIfSh45txmZm6N5zEpI0TUaOAr5CFrGSM-uI6jwbLHWXcMaaYzMv2OG8awzT10lstP8XI9jO2E9pWzNfZJRFwTEynvV3i9jPyYmyHl60xlA5G0kJlseWbFTAnZf2OKOKRDZ5-M7ZLGtmV8cnTyA-8izDiE0amThDnnaacQ8abatpRfNUh9mSGPMWX4wABm-~xHzA6PtffFwxlaxiIvBoKRn6mXf-0wUyT00~W0EWMGs4W6dsaPCSq~-x4GiwTp5nkBmptXCDvkFv7jffwpo4IbvmES7L7JhlgZUR2V93ASQ7ond1fcAqrip5Ur3M445xW6g__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 
 
 #EXTINF:1 tvg-logo="https://i1.wp.com/temalguemassistindo.com.br/wp-content/uploads/2023/02/em-aguas-agitadas-350x170.png"group-title="FILMES",Em águas agitadas
