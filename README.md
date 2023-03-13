@@ -24,18 +24,26 @@ http://stream.zeno.fm/hu70hmkcu68uv.pls
 ############## 2023 ################# 
 #EXTINF:-1 tvg-id=" iddocanalde2023" group-title="
 
+#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJV5koTcK1Zq-F-3BCjM5OKQa8PKF4dQ9wy8g3uVtg=s900-c-k-c0x00ffffff-no-rj" group-title="2023",NETGEO
+http://ruwbe3.kkile1web.com/v3/youshi//m3_EL3INMRQYpPjqHTGoiB5OhcX_480p.m3u8?rst_status=0&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&session_id=wI6jB18jG159&user_id=136700288&auth_id=136700288_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&dev_id=e9e59b7f&dev_limit=1&client_ip=45.231.152.255&expired=1678753000&token=D33988654B5B576B139B7382783BCDCD&media_code=m3_EL3INMRQYpPjqHTGoiB5OhcX_480p
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/800px-Nick_Jr._Channel_logo.svg.png" group-title="2023",NickJr
+http://ruwbe3.kkile1web.com/v3/youshi//m3_7zSYM4rQFipALUXNVdB1sCv0_480p.m3u8?rst_status=0&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&session_id=wI6jB18jG159&user_id=136700288&auth_id=136700288_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&dev_id=e9e59b7f&dev_limit=1&client_ip=45.231.152.255&expired=1678753000&token=D33988654B5B576B139B7382783BCDCD&media_code=m3_7zSYM4rQFipALUXNVdB1sCv0_480p
 #EXTINF:1 tvg-logo="https://faleconosco.net.br/wp-content/uploads/2018/05/animalplanet-contato.png" group-title="2023",Animal Planet
 http://ruwbe3.kkile1web.com/v3/youshi//m1_ZJTh6oMdeOURwWyiA9cHgYQk_480p.m3u8?dev_id=e9e59b7f&session_id=3rR3i7UB2lB9&dev_limit=1&auth_id=136700288_com.global.brasiltvweb&rst_status=0&client_ip=45.231.152.255&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&app_id=com.global.brasiltvweb&user_id=136700288&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&app_ver=10101&expired=1678749614&token=2380CF792B64546F1DF573AC0F49E847&media_code=m1_ZJTh6oMdeOURwWyiA9cHgYQk_480p
 #EXTINF:1 tvg-logo="https://seriemaniacos.tv/wp-content/uploads/2017/11/AMC-1068x628.jpg" group-title="2023",AMC
 http://ruwbe3.kkile1web.com/v3/youshi//m3_xRBGDPf12puWsC8kV6FAETNH_480p.m3u8?dev_id=e9e59b7f&session_id=3rR3i7UB2lB9&dev_limit=1&auth_id=136700288_com.global.brasiltvweb&rst_status=0&client_ip=45.231.152.255&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&app_id=com.global.brasiltvweb&user_id=136700288&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&app_ver=10101&expired=1678749614&token=2380CF792B64546F1DF573AC0F49E847&media_code=m3_xRBGDPf12puWsC8kV6FAETNH_480p
-#EXTINF:1 tvg-logo="https://d11o8pt3cttu38.cloudfront.net/wp-content/uploads/sites/39/2022/02/copia-de-br-featured-image-template-14.jpg" group-title="2023",
-http://ruwbe3.kkile1web.com/v3/youshi//m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?dev_id=e9e59b7f&session_id=3rR3i7UB2lB9&dev_limit=1&auth_id=136700288_com.global.brasiltvweb&rst_status=0&client_ip=45.231.152.255&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&app_id=com.global.brasiltvweb&user_id=136700288&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&app_ver=10101&expired=1678749614&token=2380CF792B64546F1DF573AC0F49E847&media_code=m1_PwsKRjIegyASUaYBiH3ou5LT_480p
+
+
 #EXTINF:1 tvg-logo="https://www.manners.nl/wp-content/uploads/2018/10/James-Bond-1.jpg" group-title="2023",007
 http://ruwbe3.kkile1web.com/v3/youshi//m2_d1ZEUPHEbzWxa_480p.m3u8?dev_id=e9e59b7f&session_id=3rR3i7UB2lB9&dev_limit=1&auth_id=136700288_com.global.brasiltvweb&rst_status=0&client_ip=45.231.152.255&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&app_id=com.global.brasiltvweb&user_id=136700288&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&app_ver=10101&expired=1678749614&token=2380CF792B64546F1DF573AC0F49E847&media_code=m2_d1ZEUPHEbzWxa_480p
 #EXTINF:1 tvg-logo="http://3.bp.blogspot.com/-0KzNXXfAlIU/VdTOd5_oMAI/AAAAAAAAlCw/Qedf2_WTvuM/s640/axn-emocao-na-claro-tv.jpg" group-title="2023",ANX
 http://ruwbe3.kkile1web.com/v3/youshi//m3_OHAJwrM6poGAZu6Uj_480p.m3u8?dev_id=e9e59b7f&session_id=3rR3i7UB2lB9&dev_limit=1&auth_id=136700288_com.global.brasiltvweb&rst_status=0&client_ip=45.231.152.255&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&app_id=com.global.brasiltvweb&user_id=136700288&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&app_ver=10101&expired=1678749614&token=2380CF792B64546F1DF573AC0F49E847&media_code=m3_OHAJwrM6poGAZu6Uj_480p
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/800px-Arte_1_logo.svg.png" group-title="2023",ART 1
 http://ruwbe3.kkile1web.com/v3/youshi//m1_ozc7SQ9BcRT2MOBhxmpk_480p.m3u8?dev_id=e9e59b7f&session_id=3rR3i7UB2lB9&dev_limit=1&auth_id=136700288_com.global.brasiltvweb&rst_status=0&client_ip=45.231.152.255&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&app_id=com.global.brasiltvweb&user_id=136700288&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&app_ver=10101&expired=1678749614&token=2380CF792B64546F1DF573AC0F49E847&media_code=m1_ozc7SQ9BcRT2MOBhxmpk_480p
+
+#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-25-IA9pt_Vw/WWObZqKvbyI/AAAAAAAA8UE/uP0C1AoP2noJsNmWEznIlIo9-92J91HHgCLcBGAs/s640/Nickelodeon-NickJr.jpg" group-title="2023",NIKJUNIOR
+http://ruwbe3.kkile1web.com/v3/youshi//m4_aO9CGnRFViA7xDvBNf1KhzHk_480p.m3u8?rst_status=0&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&session_id=wI6jB18jG159&user_id=136700288&auth_id=136700288_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&dev_id=e9e59b7f&dev_limit=1&client_ip=45.231.152.255&expired=1678753000&token=D33988654B5B576B139B7382783BCDCD&media_code=m4_aO9CGnRFViA7xDvBNf1KhzHk_480p
+
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvkKbBBGc1qcWvFSgcHe5wZzHYmvU8YuZVlxiPLLBakxOX7y3z21JTVm7OeOQTeAK17Q0&usqp=CAU" group-title="2023",ANIME TV
 http://ruwbe3.kkile1web.com/v3/youshi//m2_CJjAsNvIhMaEqTvV_480p.m3u8?dev_id=e9e59b7f&session_id=3rR3i7UB2lB9&dev_limit=1&auth_id=136700288_com.global.brasiltvweb&rst_status=0&client_ip=45.231.152.255&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&app_id=com.global.brasiltvweb&user_id=136700288&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&app_ver=10101&expired=1678749614&token=2380CF792B64546F1DF573AC0F49E847&media_code=m2_CJjAsNvIhMaEqTvV_480p
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="2023",Baby TV
@@ -286,6 +294,11 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTM3U url-tvg="http://grade-de-CanaisFechados.xml"
 ############## CanaisFechados ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisFechados" group-title="
+
+
+
+
+
 
 #EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/comedia-romantica.webp" group-title="CanaisFechados",Cine Comédia Romântica
 https://server100.online/filme-comedia-romance/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=26c9549e249f4ac7fd9ab80cf344f89045cb066d-da74f4072bc2646042f92b8d8943dd06-1678680341-1678673141
