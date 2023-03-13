@@ -19,6 +19,32 @@ http://stream.zeno.fm/hu70hmkcu68uv.m3u
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
+#EXTM3U url-tvg=" http://grade-de-BBB.xml "
+############## BBB ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeBBB" group-title="
+
+
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",BB1
+https://server100.online/bbb/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=978d7d396427a921aedb9587415415e84f990c56-bf52cfecc188aba7e08d74e9f4772a4e-1678678659-1678671459
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",BB2
+https://server100.online/bbb2/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=e13b34197906594e78de3caaf938e091c7006d9d-50706a88f6a1c3363fd1dbeb57de16ea-1678678773-1678671573
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",BB23
+https://server100.online/bbb-quarto-deserto/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=6eaf29a6e5040af1150b6b7b3311c52401f1e1a8-350ea99c4a90a0ca9784e997f05d4f26-1678678865-1678671665
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",Quarto Fundo  do mar
+https://server100.online/bbb-quarto-fundo-do-mar/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=30350865c414eccb558f9aad35a6f00f0c0e0e2a-3e73d7bc41d1e59ea9755e7e7556a064-1678678917-1678671717
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",Sala
+https://server100.online/bbb-sala/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=a46d1c35d6f80731803dd9b1b689e026a6dab79a-fce9fa771a4a6cec22ac63f7000efdc6-1678678979-1678671779
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",Cozinha
+https://server100.online/bbb-cozinha/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=87a69b734b23854c90bccfec59fa5bb9e5551557-b3cf8d666197e338edfac06a8ed91cd0-1678679059-1678671859
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",Piscina
+https://server100.online/bbb-piscina/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=04f01377d41dd03d3bd09c6c7c4666a1ec710f94-b105956d31f3bbcdafc4558b06276ee2-1678679136-1678671936
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",Jardim
+https://server100.online/bbb-jardim/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=bbf1cc5a29441c96aadb85d30990cf4a1b0899db-e39fab73add64190a45499f39bc1eec9-1678679184-1678671984
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",Academia
+https://server100.online/bbb-academia/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=512b859f28170d3e7e59e359414a825e130fc553-a74392d24e9d864b0e6b6c68194269a5-1678679251-1678672051
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/BBB.webp" group-title="BBB",Varanda
+https://server100.online/bbb-varanda/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=b115ea7105103527863746811e0f8775e4c2280e-477f5093c5a6b90bbf9780911221d57e-1678679302-1678672102
+
 #EXTM3U url-tvg=" http://grade-de-Documentarios.xml "
 ############## Documentarios ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeDocumentarios" group-title="
@@ -43,6 +69,13 @@ https://play.prod.gcp.vix.services/computador-morro_pt/computador-morro_pt_1-1/p
 #EXTM3U url-tvg="http://grade-de-CanaisAbertos.xml"
 ############## CanaisAbertos ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisAbertos" group-title="
+
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/tv-nova-play.webp" group-title="CanaisAbertos",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
+
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/info-bahia.webp" group-title="CanaisAbertos",TV Infor Bahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w1253467682.m3u8
+
 
 #EXTINF:1 tvg-logo="https://d1vs1x3ni0c692.cloudfront.net/wp-content/uploads/2020/10/futura-whatsapp-image.jpg" group-title="CanaisAbertos",FURURA
 http://15.235.10.31:14336
@@ -103,6 +136,15 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 ############## CanaisFechados ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisFechados" group-title="
 
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/comedia-romantica.webp" group-title="CanaisFechados",Cine Comédia Romântica
+https://server100.online/filme-comedia-romance/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=26c9549e249f4ac7fd9ab80cf344f89045cb066d-da74f4072bc2646042f92b8d8943dd06-1678680341-1678673141
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/tv-destak.webp" group-title="CanaisFechados",TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1291864603.m3u8
+
+
+
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/05/filme-sucessos.webp" group-title="CanaisFechados",Cine Sucessos 24 Horas
+https://server100.online/filme-sucessos/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=3417afd7690449f1b4d678809e96082d29365b46-a8d2b8960377a5e31c5e8cf8f71c9966-1678680747-1678673547
 #EXTINF:1 tvg-logo="https://240183188b.cbaul-cdnwnd.com/d0469b43bfdcac8221dbff68e43222b8/200000075-249c9249ca/fundo%20para%20you%20tube%20tela%20viva.png?ph=240183188b" group-title="CanaisFechados",tela viva tv
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1588227650.m3u8
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BelovedWideFlamingo-size_restricted.gif" group-title="CanaisFechados",TODO MUNDO ODEIA O CHRIS
@@ -121,6 +163,10 @@ http://51.159.54.153:14408/space
 http://51.159.54.153:14408/space
 #EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CanaisFechados", SPACE UHD
 http://195.181.163.144:14730/
+#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CanaisFechados", SPACE UHD 2
+https://server100.online/space/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=6b3364d31fcc7bc5a1f03b8e6027e9405d9fbca1-becb1d630ca83ecb9a9d8b541fec1422-1678679881-1678672681
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="CanaisFechados",WEW TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Cinecanal_2016-0.png" group-title="CanaisFechados", CINE CANAL
 http://45.58.126.146:14326
 #EXTINF:1 tvg-logo="https://media2.giphy.com/media/cn39JOm5hjoL3FTIX3/giphy.gif?cid=6c09b952jeyc3pdyxjfnlah9xs5rzqq07wuip53mbqn1hw9k&rid=giphy.gif&ct=s" group-title="CanaisFechados",LIFETIME
@@ -151,6 +197,11 @@ https://cdn2.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w72425460.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CanaisFechados",CINEMAX HD
 http://45.58.126.146:14305/
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/tv-adrenalina.webp" group-title="CanaisFechados",Cine Adrenalina
+https://server100.online/tv-adrenalina/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=81ac15ea227a69d7e7fa0e2307efbc70aac8daa2-bccaadfd0c9be9e7b67631b90943f79f-1678680337-1678673137
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CanaisFechados",CINEMAX 2
+https://server100.online/cinemax/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=0c1b1ba59cbd229b8aa447eb1e90c06759b888b1-61df96ebd56673b6c91d386f97f0ddf3-1678674808-1678667608
 #EXTINF:1 tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CanaisFechados",DISCOVERY id
 http://45.58.126.146:14258/
 #EXTINF:1 tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="CanaisFechados",ANIMAL PLANET
@@ -161,6 +212,8 @@ http://45.58.126.146:14249/
 http://45.58.126.146:14296/
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="CanaisFechados",AXN HD *
 http://45.58.126.146:14299/axn
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="CanaisFechados",AXN HD 2
+https://server100.online/axn/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=2b64bc4b2d380aa2a08f48168837d1d86d580054-86420d709f0e47ea618de08e031724be-1678680439-1678673239
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CanaisFechados",DISCOVERY TURBO
 http://45.58.126.146:14267/
 #EXTINF:1 tvg-logo="https://media4.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952gxwjazyi0rgeau459j5rnuyciflrjo6lawi6apz6&rid=200w.gif&ct=g" group-title="CanaisFechados",DISCOVERY
@@ -195,6 +248,8 @@ http://45.58.126.146:14302/
 http://45.58.126.146:14351/
 #EXTINF:1 tvg-logo="https://i.gifer.com/2YxD.gif" group-title="CanaisFechados",WARNER
 http://45.58.126.146:14351/
+#EXTINF:1 tvg-logo="https://media.tenor.com/m4PK9QWUpcQAAAAC/star-plus-star-premium.gif" group-title="CanaisFechados",STAR CHANEL 2
+https://server100.online/star/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=6ed64a6e3f9efd4da2e8dd6cf9f92d8467b56945-edee58d1e8bd895400477547d0529df1-1678679442-1678672242
 #EXTINF:1 tvg-logo="https://media.tenor.com/m4PK9QWUpcQAAAAC/star-plus-star-premium.gif" group-title="CanaisFechados",STAR CHANEL
 http://45.58.126.146:14329/
 #EXTINF:1 tvg-logo="https://media.tenor.com/0gWvpeAuDUYAAAAC/star-plus-star-premium.gif" group-title="CanaisFechados", STAR+ 3 HD¹
@@ -305,6 +360,8 @@ http://45.58.126.146:14287/
 http://15.235.10.31:14412
 #EXTINF:1 tvg-logo="https://media.giphy.com/avatars/abrahaomendes/4L8KS5CpAx47.png" group-title="CanaisFechados",MEGAPIX
 http://45.58.126.146:14317
+#EXTINF:1 tvg-logo="https://media.giphy.com/avatars/abrahaomendes/4L8KS5CpAx47.png" group-title="CanaisFechados",MEGAPIX 2
+https://server100.online/megapix/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=9454e2e7dda6b961941597faf05958b91eb2a439-92f69eefbf8193c00f21d910c1c3e273-1678680798-1678673598
 #EXTINF:1 tvg-logo="http://25.media.tumblr.com/90027c20d4c15a599e61236e76a60422/tumblr_mooestZPzK1rdutw3o1_400.gif" group-title="CanaisFechados",COMEDY CENTRAL HD
 http://45.58.126.146:14308/
 #EXTINF:1 tvg-logo="https://imagens-cdn.canalrural.com.br/2019/10/rn2.gif" group-title="CanaisFechados",CANAL RURAL
@@ -392,12 +449,46 @@ http://15.235.10.31:14326
 http://15.235.10.31:14326
 #EXTINF:1 tvg-logo="https://cdn.myportfolio.com/cb17273c-5ece-4c12-a1e8-2787f609fee8/60a17540-985c-4065-907e-2cc0ba5b91cc_rw_1920.gif?h=346145b3a712096d353ad863d8d67afe" group-title="Sportes",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="Sportes",Estádio TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="Sportes",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="Sportes",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="Sportes",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="Sportes",WEW TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW83_RUuPZISJ7UjWUK23NkH1hr940nidUj-snKoA=s900-c-k-c0x00ffffff-no-rj" group-title="Sportes",Brasil: esportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
 
 #EXTM3U url-tvg="http://grade-de-Infantil.xml"
 ############## Infantil ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeInfantil" group-title="
+
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/kids.webp" group-title="Infantil",Kids
+https://server100.online/kids/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=4051bbf401e7480c509da2687ac511b942bc9e0c-79e0f120f871d973f3244d4fe825d2f9-1678679430-1678672230
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/reino-infantil.webp" group-title="Infantil",O Reino Infantil
+https://server100.online/reino-infantil/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=298656dd25a7347900b0c25e09e591113b1557ae-5e3bc52204cf782eee14a5436af8bfb4-1678679670-1678672470
+#EXTINF:1 tvg-logo="https://media.tenor.com/TQIJ27YF7bIAAAAC/turma-da-monica-monica.gif" group-title="Infantil",Turma da Mônica
+https://server100.online/turma-da-monica/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=aea2e0850be5c4005f147115ba3a2a7b03452386-46aa84d5249a45685f9f083b99dc444d-1678679667-1678672467
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/bob-esponja.webp" group-title="Infantil",Bob Esponja
+https://server100.online/bob/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=c20ff3b2a47fc2e95bbfdb3906159e4b4050eea4-114003ee899cb94fa96b05e64bfe552c-1678680029-1678672829
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/11/cocorico.webp" group-title="Infantil",Cocoricó
+https://server100.online/cocorico/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=7db0b8ea5a1f66d48e9f756aa3374d89b8360c43-76d74131f069a449c65278de79c99ec3-1678680096-1678672896
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/as-pistas-de-blue.webp" group-title="Infantil",As Pistas De Blue
+https://server100.online/as-pistas-de-blue/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=6c64c50621a00a4f1bda62f8ed8362514b9cd0eb-0b1dca20cb7a030fb711b2f5be87ff68-1678680150-1678672950
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/Tooncast.webp" group-title="Infantil",Tooncast
+https://server100.online/tooncast/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=bcbfc59c150c831903f723feb3667d4adb000aab-806876cc77c25e63b4fe9b5042f2da54-1678680088-1678672888
+
+
+
+
+
 
 #EXTINF:1 tvg-logo="https://preview.redd.it/o4awtvbefl761.gif?width=250&auto=webp&s=510a03720e6d7641cf73937308f060252b5160e8" group-title="Infantil",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
