@@ -19,6 +19,17 @@ http://stream.zeno.fm/hu70hmkcu68uv.m3u
 #EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="radiofax",radiofax
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
+
+#EXTM3U url-tvg=" http://grade-de-2023.xml "
+############## 2023 ################# 
+#EXTINF:-1 tvg-id=" iddocanalde2023" group-title="
+
+#EXTINF:1 tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/67758735-6528-4e48-a28c-290cf7cfc6e9" group-title="2023",M3gan
+http://192.99.159.54:23818/vod/509DEC52AB6945329CBF1AB1879C67AD_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D192.99.159.54:23818%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DY2aOevAAvVuB_Vk80DM66WE2P%26app_version%3D10101%26client_ip%3D45.231.152.255%26dev_id%3D1edff0bea9feb8ff1d474309e9e59b7f%26auth_id%3D136700288_com.global.brasiltvweb%26user_id%3D136700288%26expired%3D1678736133%26token%3D84b54140ee5b7cd8432540e046926fdd&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D509DEC52AB6945329CBF1AB1879C67AD%26expired%3D1678736133%26token%3D4da517375c40550eddcc0050e92018c1&cache_path=/data1/vod
+#EXTINF:1 tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/092451a0-0bff-4465-b1b9-3f420fbaa054" group-title="2023",O Trapalhão nas Minas do Rei Salomão
+http://192.99.159.54:23818/vod/2F8A401DD65046619E59F5AA6AFFE7F4_media.mp4?content_auth2=/vod/%3Ftag%3Dslb%26host%3D192.99.159.54:23818%26app_id%3Dcom.global.brasiltvweb%26trans_id%3DYyDHKbVknV5a_iAqPww9WVH6o%26app_version%3D10101%26client_ip%3D45.231.152.255%26dev_id%3D1edff0bea9feb8ff1d474309e9e59b7f%26auth_id%3D136700288_com.global.brasiltvweb%26user_id%3D136700288%26expired%3D1678736278%26token%3D6ea930ee0256f4497bdf1b425b4d2f77&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.global.brasiltvweb%26media_code%3D2F8A401DD65046619E59F5AA6AFFE7F4%26expired%3D1678736278%26token%3D5763a22b65d4870374eeb25ea8395aac&cache_path=
+
+
 #EXTM3U url-tvg=" http://grade-de-BBB.xml "
 ############## BBB ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeBBB" group-title="
