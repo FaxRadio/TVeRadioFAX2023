@@ -112,8 +112,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CanalBrasil_logos_700px_0-03.png/640px-CanalBrasil_logos_700px_0-03.png" group-title="CanaisFechados",Canal Brasil
 http://ruwbe3.kkile1web.com/v3/youshi//m1_UVrzPuTGO0BN95S7pDmtyIx8_480p.m3u8?rst_status=0&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&session_id=wI6jB18jG159&user_id=136700288&auth_id=136700288_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&dev_id=e9e59b7f&dev_limit=1&client_ip=45.231.152.255&expired=1678753000&token=D33988654B5B576B139B7382783BCDCD&media_code=m1_UVrzPuTGO0BN95S7pDmtyIx8_480p
-#EXTINF:1 tvg-logo="https://imagens-cdn.canalrural.com.br/2019/07/LOGO_CR_APLICADO.png" group-title="CanaisFechados",Canal RURAL
-http://ruwbe3.kkile1web.com/v3/youshi//m4_uYPtR7SLydB9qIlgYkjc_480p.m3u8?rst_status=0&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&session_id=wI6jB18jG159&user_id=136700288&auth_id=136700288_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&dev_id=e9e59b7f&dev_limit=1&client_ip=45.231.152.255&expired=1678753000&token=D33988654B5B576B139B7382783BCDCD&media_code=m4_uYPtR7SLydB9qIlgYkjc_480p
+
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1415386317450530816/vA5-Z1-__400x400.jpg" group-title="CanaisFechados",Cançao nova
 http://ruwbe3.kkile1web.com/v3/youshi//m2_Rn60mQpoOKyFd4vzs2CDEYT5_480p.m3u8?rst_status=0&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&session_id=wI6jB18jG159&user_id=136700288&auth_id=136700288_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&dev_id=e9e59b7f&dev_limit=1&client_ip=45.231.152.255&expired=1678753000&token=D33988654B5B576B139B7382783BCDCD&media_code=m2_Rn60mQpoOKyFd4vzs2CDEYT5_480p
 #EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/25ad4e60efe362bbbb94cce0bc5ffe65.webp" group-title="CanaisFechados",Televisao do chef
@@ -306,30 +305,7 @@ http://45.58.126.146:14311/
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
 #EXTINF:1 tvg-logo="hhttps://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9c8a862-29ad-45da-8858-cab400ae94a3.gif?ClientID=vimeo-core-prod&Date=1630623797&Signature=ea02577a6740cc87bc97597c39b38f8e0e0af335" group-title="CanaisFechados",MEGAPIX
 http://51.83.238.223:16823/
-#EXTINF:1 tvg-logo="https://videoplatform.sky.it/still/2020/10/01/1601566998351_-arrivata-la-nuova-app-my-sky_videostill_1.jpg" group-title="CanaisFechados", SKY CINEMA 1 HD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/556
-#EXTINF:1 tvg-logo="https://mysuiteshome.com/wp-content/uploads/2017/08/Sky-camera.gif" group-title="CanaisFechados", SKY CINEMA 2 HD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/557
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ImprobableUntriedBluet-size_restricted.gif" group-title="CanaisFechados", SKY CINEMA 4 FHD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/559
-#EXTINF:1 tvg-logo="https://media.tenor.com/hgp9CJ-H9yoAAAAd/sky-logo.gif" group-title="CanaisFechados", SKY CINEMA 5 FHD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/560
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/Y2t2KMeVwlAMKXlm2a/giphy.gif?cid=6c09b952a6gwygwqhc9roenv07rhjxeus3cl2ie3eh1q0upw&rid=giphy.gif&ct=s" group-title="CanaisFechados", SKY CINEMA 6 FHD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/561
-#EXTINF:1 tvg-logo="https://logosave.com/images/large/15/Sky-Cinema-2-logo.gif" group-title="CanaisFechados", SKY CINEMA 7 FHD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/562
-#EXTINF:1 tvg-logo="https://www.eventoswe.com/uploads/propagandas/sky.gif" group-title="CanaisFechados", SKY CINEMA 8 FHD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/563
-#EXTINF:1 tvg-logo="https://blackmadre.com/img/projects/36/sky-61f58881d0f8d7639456.gif" group-title="CanaisFechados", SKY CINEMA  9 HD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/564
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ImprobableUntriedBluet-size_restricted.gif" group-title="CanaisFechados", SKY CINEMA 11 FHD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/566
-#EXTINF:1 tvg-logo="https://static.wixstatic.com/media/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif/v1/fill/w_280,h_280,q_90/5bc074_4959c5ba1013478c8e6a570d99276532~mv2.gif" group-title="CanaisFechados", SKY CINEMA 12 FHD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/567
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/EwuUQpFKyQHHSdsTiY/giphy.gif" group-title="CanaisFechados", SKY CINEMA  13 FHD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/568
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/Y2t2KMeVwlAMKXlm2a/giphy.gif?cid=6c09b952a6gwygwqhc9roenv07rhjxeus3cl2ie3eh1q0upw&rid=giphy.gif&ct=s" group-title="CanaisFechados",SKY CINEMA 14 HD
-http://37.58.50.28:2095/Tourobox1-lives9556077276/7784489147/569
+
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="CanaisFechados",TNT 2 SÉRIES HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
 #EXTINF:1 tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CanaisFechados",TNT
