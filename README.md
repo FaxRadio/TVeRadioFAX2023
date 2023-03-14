@@ -4,6 +4,18 @@
 ############## HRCERTA #################  
 #EXTINF:-1 tvg-id=" iddocanaldeHRCERTA" group-title="
 
+#EXTM3U url-tvg=" http://grade-de-RadioDEUSéTudo.xml "
+############## RadioDEUSéTudo ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRadioDEUSéTudo" group-title="
+
+#EXTINF:1 tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="RadioDEUSéTudo",Radio DEUS éTudo
+http://stream.zeno.fm/pss6v1h6mfhvv
+#EXTINF:1 tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="RadioDEUSéTudo",Radio DEUS éTudo
+http://stream.zeno.fm/pss6v1h6mfhvv.m3u
+#EXTINF:1 tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="RadioDEUSéTudo",Radio DEUS éTudo
+http://stream.zeno.fm/pss6v1h6mfhvv.pls
+
+
 #EXTM3U url-tvg=" http://grade-de-radiofax.xml "
 ############## radiofax ################# 
 #EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
