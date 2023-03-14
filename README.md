@@ -45,12 +45,40 @@ https://play.prod.gcp.vix.services/computador-morro_pt/computador-morro_pt_1-1/p
 ############## CanaisAbertos ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCanaisAbertos" group-title="
 
-#EXTINF:1 tvg-logo="https://t2.tudocdn.net/131513?w=1200&h=1200" group-title="CanaisAbertos",SBT
-http://ruwbe3.kkile1web.com/v3/youshi//m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?rst_status=0&spared_addr=http://testm3u8.fetewg1d.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&session_id=wI6jB18jG159&user_id=136700288&auth_id=136700288_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&dev_id=e9e59b7f&dev_limit=1&client_ip=45.231.152.255&expired=1678753000&token=D33988654B5B576B139B7382783BCDCD&media_code=m3_Ezf6VNvIW51wZLG8xT274n3X_480p
+#EXTINF:1 tvg-logo=https://i.imgur.com/7nyOxV0.gif" group-title="CanaisAbertos",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:1 tvg-logo=https://media.tenor.com/WHcT0rmydM8AAAAd/sbt-fora-do-ar.gif" group-title="CanaisAbertos",SBT
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/800px-Rede_Massa_logo.svg.png" group-title="CanaisAbertos",SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:1 tvg-logo=https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="CanaisAbertos",SBT TV Paraense (PA)
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/_5Ec36RiXbMQ/S_rAnaOhzjI/AAAAAAAAEiA/LQmHnVzwwVM/s400/silvio1.gif" group-title="CanaisAbertos",SBT
+https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NRyffBBj_eYYPcHq5W33a1rVgbPfYN-aVw&usqp=CAU" group-title="CanaisAbertos",TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASGLAU
+#EXTINF:1 tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CanaisAbertos",BAND HD
+http://168.205.87.198:8555/live/1052/123456/19.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
+http://168.205.87.198:8555/live/1052/123456/70.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
+http://45.58.126.146:14066
+#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="CanaisAbertos",RECORD
+http://45.58.126.146:14153
+#EXTINF:1 tvg-logo="http://jopioneiro.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-25-at-14.42.04.jpeg" group-title="CanaisAbertos",RecordTV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media3.giphy.com/media/kHU0wCioHegwElohFZ/200w.gif" group-title="CanaisAbertos",Record RS HD
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="CanaisAbertos",RecordTV RN
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",RECORD NEWS
+http://15.235.10.31:14351/
+#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/tv-nova-play.webp" group-title="CanaisAbertos",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/info-bahia.webp" group-title="CanaisAbertos",TV Infor Bahia
-https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w1253467682.m3u
+#EXTINF:1 tvg-logo="https://t.ctcdn.com.br/myufdbwGKutqXMOjqWp2T-jQnF4=/512x288/smart/filters:format(webp)/i576710.png" group-title="CanaisAbertos",TV Pantanal
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:1 tvg-logo="https://d1vs1x3ni0c692.cloudfront.net/wp-content/uploads/2020/10/futura-whatsapp-image.jpg" group-title="CanaisAbertos",FURURA
 http://15.235.10.31:14336
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoz0gyLnImviBNJgOgn2qwrIrBgZGV55uvT0phiBTZU-RSShgjf4JE8z_H1lxjw7sLAEk&usqp=CAU" group-title="CanaisAbertos",TV GAZETA
@@ -61,40 +89,8 @@ http://168.205.87.198:8555/live/1052/123456/101.m3u8
 http://168.205.87.198:8555/live/1052/123456/134.m3u8
 #EXTINF:1 tvg-logo="https://media0.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" group-title="CanaisAbertos",TV TROPICAL
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CanaisAbertos",BAND HD
-http://168.205.87.198:8555/live/1052/123456/19.m3u8
-#EXTINF:1 tvg-logo=https://www.sjsp.org.br/images/sbt-interior-nega-fechamento-de-sucursal-1000x1000x-954f0.jpg" group-title="CanaisAbertos",SBT Interior SP
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/800px-Rede_Massa_logo.svg.png" group-title="CanaisAbertos",SBT Rede Massa (PR)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:1 tvg-logo=https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="CanaisAbertos",SBT TV Paraense (PA)
-https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
-#EXTINF:1 tvg-logo=https://media.tenor.com/37b5HIvleLkAAAAC/eptv-globo.gif" group-title="CanaisAbertos",EPTV CAMPINAS
-http://15.235.55.115:14104/
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
-http://168.205.87.198:8555/live/1052/123456/70.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="CanaisAbertos",GLOBO SÃO PAULO
-http://45.58.126.146:14066
-#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="CanaisAbertos",RECORD
-http://45.58.126.146:14153
-#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2370403edc09d33cee93e9d0c0a05175/366139-multi-media-channels-tv-world-india-star-utsav-movies.gif" group-title="CanaisAbertos",MOVIE STAR
-http://62.176.77.22:9781/play/a00f
-#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2370403edc09d33cee93e9d0c0a05175/366139-multi-media-channels-tv-world-india-star-utsav-movies.gif" group-title="CanaisAbertos",MOVIE STAR
-http://62.176.77.22:9781/play/a00f
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CanaisAbertos",NATIONAL GEOGRAPHIC
-http://84.17.44.179:14635
-#EXTINF:1 tvg-logo="http://jopioneiro.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-25-at-14.42.04.jpeg" group-title="CanaisAbertos",RecordTV MT
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="CanaisAbertos",RecordTV MT 2
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="CanaisAbertos",RecordTV RN
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/rheP_IKI3B34qKYNK1Idcu9fz8UDXnxOCOOqiwAu3cEZkdMK2nzoc6HIhU234AUqWxY" group-title="CanaisAbertos",YES LIFE
 http://cdn.connectbr.com.br/Life/index.m3u8
-#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",RECORD NEWS
-http://15.235.10.31:14351/
-#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="CanaisAbertos",Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/fhGEgva11zUa-cb3GoFPMo1TFLHn5eK0Ek8u3xUrFCTACW3iq1mAxC1tpTw7VoBPhLFYk_rk=s900-c-k-c0x00ffffff-no-rj" group-title="CanaisAbertos",MAIS UM
 https://stream.ichibantv.ga:3230/hybrid/play.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png" group-title="CanaisAbertos",Rede Família
@@ -105,6 +101,11 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w822564984.m3u8
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w92613198.m3u8
 #EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/00ba47999710ae339ed240f0309f0552/369302-multi-media-channels-tv-world-portugal-sic-internacional.gif" group-title="CanaisAbertos",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/xoOnvd_mmMYAAAAd/oasis-hey-now.gif" group-title="CanaisAbertos", oasistv
+https://stmv5.samcast.com.br/oasistv/oasistv/chunklist_w1183640692.m3u8
+#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJtJ3LCU_pyjMw63dH6az0y6NFmcbAR0p5fF0xmVJBhNzYoGNkkBPgn6GgkfgWmtzpnbbOK-n4YBguCT14veq2lnctzOlEi5A1Pha6PGZw0mvHNbBbZkc5PK3E9Z0BGK2zgW6_j7Ka1Wy0zuBFn7JYo16ux6QwdZmWYVaAY6AnwSq_olOYzYJhjR8m/w1200-h630-p-k-no-nu/TV%20BRASIL%20HITS.webp" group-title="CanaisAbertos",HITS TV
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
+
 
 #EXTM3U url-tvg="http://grade-de-CanaisFechados.xml"
 ############## CanaisFechados ################# 
@@ -131,27 +132,6 @@ http://51.159.54.153:14408/space
 #EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CanaisFechados", SPACE UHD
 http://195.181.163.144:14730/
 #EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="CanaisFechados", SPACE UHD 2
-https://server100.online/space/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=6b3364d31fcc7bc5a1f03b8e6027e9405d9fbca1-becb1d630ca83ecb9a9d8b541fec1422-1678679881-1678672681
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="CanaisFechados",WEW TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Cinecanal_2016-0.png" group-title="CanaisFechados", CINE CANAL
-http://45.58.126.146:14326
-#EXTINF:1 tvg-logo="https://media2.giphy.com/media/cn39JOm5hjoL3FTIX3/giphy.gif?cid=6c09b952jeyc3pdyxjfnlah9xs5rzqq07wuip53mbqn1hw9k&rid=giphy.gif&ct=s" group-title="CanaisFechados",LIFETIME
-http://45.58.126.146:14314
-#EXTINF:1 tvg-logo="https://media.tenor.com/qPJP0H2E1TIAAAAC/cnn-philippines.gif" group-title="CanaisFechados",CNN
-http://45.58.126.146:14234
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5b44e50b2714e5703a28d781/1531840469870-3T3JXEV8YFI9ZJCG3C4Q/SYFY_Open_OriginalSeries_Sponsor_Horizontal.mp4.gif?format=500w" group-title="CanaisFechados",SYFY
-http://45.58.126.146:14335
-#EXTINF:1 tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="CanaisFechados", UNIVERSAL TV FHD
-http://45.58.126.146:14348/universal
-#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",STUDIO UNIVERSAL
-http://45.58.126.146:14332
-#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",universal-studios
-http://45.58.126.146:14234/cnn
-#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",TELECINE
-http://51.83.238.223:16763
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVBVplk1ArSF1JL_YHNNx7dVZqzAw6MhMHKEE7vJiL-4s67B90aaMu-2zQCPB2DoXTyfs&usqp=CAU" group-title="CanaisFechados",CINE LIVRE HD
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w424430010.m3u8
 #EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CanaisFechados",A&E
@@ -160,28 +140,29 @@ http://45.58.126.146:14293/A&E
 http://45.58.126.146:14293
 #EXTINF:1 tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="CanaisFechados",A&E
 https://cdn2.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="CanaisFechados",AXN HD *
+http://45.58.126.146:14299/axn
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="CanaisFechados",AXN HD 2
+https://server100.online/axn/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=2b64bc4b2d380aa2a08f48168837d1d86d580054-86420d709f0e47ea618de08e031724be-1678680439-1678673239
 #EXTINF:1 tvg-logo="https://media1.giphy.com/media/avH4lly4PnfdeyTIQ1/giphy.gif" group-title="CanaisFechados",TOP MIX
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w72425460.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CanaisFechados",CINEMAX HD
 http://45.58.126.146:14305/
-#EXTINF:1 tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CanaisFechados",DISCOVERY id
-http://45.58.126.146:14258/
 #EXTINF:1 tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="CanaisFechados",ANIMAL PLANET
 http://45.58.126.146:14249/
 #EXTINF:1 tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="CanaisFechados",ANIMAL PLANET HD
 http://45.58.126.146:14249/
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BogusUnlawfulGopher-size_restricted.gif" group-title="CanaisFechados",AMC
 http://45.58.126.146:14296/
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="CanaisFechados",AXN HD *
-http://45.58.126.146:14299/axn
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="CanaisFechados",AXN HD 2
-https://server100.online/axn/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=2b64bc4b2d380aa2a08f48168837d1d86d580054-86420d709f0e47ea618de08e031724be-1678680439-1678673239
+
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CanaisFechados",DISCOVERY TURBO
 http://45.58.126.146:14267/
 #EXTINF:1 tvg-logo="https://media4.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952gxwjazyi0rgeau459j5rnuyciflrjo6lawi6apz6&rid=200w.gif&ct=g" group-title="CanaisFechados",DISCOVERY
 http://45.58.126.146:14261
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJ0mNQYkMU_s-SFoBUuftIotVsr25icwTdXd-xse2UPWY7aGotK981FufeWJOR0T9-A&usqp=CAU" group-title="CanaisFechados",DISCOVERY WORD
 http://45.58.126.146:14273
+#EXTINF:1 tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="CanaisFechados",DISCOVERY id
+http://45.58.126.146:14258/
 #EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY
 http://45.58.126.146:14252/   
 #EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="CanaisFechados",DISCOVERY
@@ -250,6 +231,8 @@ http://45.58.126.146:14311/
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
 #EXTINF:1 tvg-logo="hhttps://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9c8a862-29ad-45da-8858-cab400ae94a3.gif?ClientID=vimeo-core-prod&Date=1630623797&Signature=ea02577a6740cc87bc97597c39b38f8e0e0af335" group-title="CanaisFechados",MEGAPIX
 http://51.83.238.223:16823/
+#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="CanaisFechados",WEW TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="CanaisFechados",TNT 2 SÉRIES HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
 #EXTINF:1 tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CanaisFechados",TNT
@@ -279,6 +262,27 @@ http://45.58.126.146:14270
 #EXTINF:1 tvg-logo="https://conteudofilmes.com.br/wp-content/uploads/2021/12/Telecine-Premium.png" group-title="CanaisFechados",TELECINE premium
 https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8
 http://15.235.10.31:14365
+#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",TELECINE
+http://51.83.238.223:16763
+#EXTINF:1 tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="CanaisFechados", UNIVERSAL TV FHD
+http://45.58.126.146:14348/universal
+#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",STUDIO UNIVERSAL
+http://45.58.126.146:14332
+#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="CanaisFechados",universal-studios
+http://45.58.126.146:14234/cnn
+https://server100.online/space/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=6b3364d31fcc7bc5a1f03b8e6027e9405d9fbca1-becb1d630ca83ecb9a9d8b541fec1422-1678679881-1678672681
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVBVplk1ArSF1JL_YHNNx7dVZqzAw6MhMHKEE7vJiL-4s67B90aaMu-2zQCPB2DoXTyfs&usqp=CAU" group-title="CanaisFechados",CINE LIVRE HD
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w424430010.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Cinecanal_2016-0.png" group-title="CanaisFechados", CINE CANAL
+http://45.58.126.146:14326
+#EXTINF:1 tvg-logo="https://media2.giphy.com/media/cn39JOm5hjoL3FTIX3/giphy.gif?cid=6c09b952jeyc3pdyxjfnlah9xs5rzqq07wuip53mbqn1hw9k&rid=giphy.gif&ct=s" group-title="CanaisFechados",LIFETIME
+http://45.58.126.146:14314
+#EXTINF:1 tvg-logo="https://media.tenor.com/qPJP0H2E1TIAAAAC/cnn-philippines.gif" group-title="CanaisFechados",CNN
+http://45.58.126.146:14234
+#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5b44e50b2714e5703a28d781/1531840469870-3T3JXEV8YFI9ZJCG3C4Q/SYFY_Open_OriginalSeries_Sponsor_Horizontal.mp4.gif?format=500w" group-title="CanaisFechados",SYFY
+http://45.58.126.146:14335
+#EXTINF:1 tvg-logo="https://archive.org/download/diseno-sin-titulo-18/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(18).gif" group-title="CanaisFechados",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/27722/screenshots/2331277/tbs-example.gif" group-title="CanaisFechados", TBS
 http://45.58.126.146:14338
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/InexperiencedHappygoluckyFinwhale-size_restricted.gif" group-title="CanaisFechados", PARAMOUNT
@@ -337,6 +341,8 @@ http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i1.wp.com/blog.jovempan.com.br/paulacarvalho/wp-content/uploads/sites/14/2018/08/A-Feiticeira-73985.gif?fit=400%2C220&ssl=1" group-title="CanaisFechados",A Feiticeira
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="CanaisAbertos",NATIONAL GEOGRAPHIC
+http://84.17.44.179:14635
 
 #EXTM3U url-tvg="http://grade-de-Sportes.xml"
 ############## Sportes ################# 
@@ -603,6 +609,25 @@ https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/p
  ############## tvclips ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldetvclips " group-title="
 
+#EXTINF:1 tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-musica-eletr-nica-1.gif" group-title="tvclips",Clipis 1
+https://5c483b9d1019c.streamlock.net/8006/8006/chunklist_w1984678252.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/DefiniteCarefreeDesertpupfish-max-1mb.gif" group-title="tvclips",Radio Capital
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
+#EXTINF:1 tvg-logo="https://www.arte.tv/sites/corporate/files/arte30-rvb-noir-470x270.jpg" group-title="tvclips",ARTE TV
+https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SEmdaoPrXxRCp0NUx8cZOkpSYJVXs1nj_0qjFX39TY82x3mIZN-jjjRf83lC97M2pCo&usqp=CAU" group-title="tvclips",MEGA FATOS
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1313069576.m3u8
+#EXTINF:1 tvg-logo="https://i.gifer.com/74DL.gif" group-title="tvclips",Clipis 1
+https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/chunklist_w609011177.m3u8
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/LikelyQuaintHarvestmen-size_restricted.gif" group-title="tvclips",Clipis 2
+https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/chunklist_w931164571.m3u8
+#EXTINF:1 tvg-logo="https://i.gifer.com/UXdV.gif" group-title="tvclips",Clipis 3
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w177496967.m3u8
+#EXTINF:1 tvg-logo="https://media1.giphy.com/media/bHR7qB1m2yDFPdKFtm/giphy.gif" group-title="tvclips",TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
+
+#EXTINF:1 tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/og.jpg" group-title="tvclips",Alvorada Sertaneja
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.tenor.com/YwDDxVgrX9AAAAAM/fire-mtv.gif" group-title="tvclips",MTV
 https://cdn2.connectbr.com.br/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png" group-title="tvclips",music box
@@ -613,6 +638,8 @@ http://168.205.87.198:8555/live/antony/1234/74.m3u8
 https://8157.brasilstream.com.br/stream?1678118110353
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/2/63872.v7.png" group-title="tvclips",Rádio Amparo FM RECIFE
 https://10.stmip.net:10544/stream
+#EXTINF:-1 tvg-logo="https://media.tenor.com/rPwXNUfETbsAAAAM/arrocha-sertanejo.gif" group-title="tvclips",Alvorada sertaneja
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/64445.v9.png" group-title="tvclips",Rádio Música Brega
 https://stream-22.zeno.fm/ked21357trquv?zs=OqqKREW7Rh2vEp-XaNBpZw
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/76838.v8.png" group-title="tvclips",Rádio Recife FM
@@ -738,6 +765,10 @@ https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1
 ############## GOSPEL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeGOSPELS" group-title="
 
+#EXTINF:1 tvg-logo="http://25.media.tumblr.com/ae69ba191eb6abf0fc0da1a28c97737b/tumblr_mi7nyteJA91s35jdto1_500.gif" group-title="GOSPEL",gospel 1
+https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
+#EXTINF:1 tvg-logo="https://pa1.narvii.com/6712/f44129791177a9fcb78478f62e43869510c4b171_hq.gif" group-title="GOSPEL",gospel 2
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
 #EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/67157.v16.png" group-title="GOSPEL",Nova Gospel FM
 https://svrstream1.svreua.com/stream.php?porta=8062/;
 #EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/63963.v31.png" group-title="GOSPEL",Sertanejo Gospel SC
