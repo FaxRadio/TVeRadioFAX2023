@@ -578,6 +578,10 @@ https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m
 #EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES",jiraiya
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
 
+#EXTINF:1 tvg-logo="https://media.filmelier.com/noticias/br/2021/11/LOGO-TEXTO-POSITIVO-ADRENALINA-FREEZONE-HORIZONTAL-1-1920x1107.png" group-title="FILMES",Adrenalina Freezone | Pluto TV Brasil
+
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 
 #EXTM3U url-tvg="http://grade-de-BaseadoHistoriaReal.xml"
 ############## BaseadoHistoriaReal ################# 
